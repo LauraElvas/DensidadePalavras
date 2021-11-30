@@ -1,0 +1,1632 @@
+World Economic and Financial Surveys
+Regional Economic OutlookINTERNATIONAL MONETARY FUND
+Europe
+ Facing Spillovers from 
+ Trade and Manufacturing
+19NOV
+Cataloging-in-Publication Data
+Names: International Monetary Fund, publisher.
+Title: Regional economic outlook. Europe : facing spillovers from trade and manufacturing.
+Other titles: Europe : facing spillovers from trade and manufacturing. | Facing spillovers
+
+Description: Washington, DC : International Monetary Fund, 2019. | World economic and
+
+
+
+Please send orders to:International Monetary Fund
+
+
+
+
+
+publications@imf.org
+www.bookstore.imf.org
+www.elibrary.imf.org
+©2019 International Monetary Fund
+iiiContents
+Executive Summary
+ vi1. Facing Spillovers from Trade and Manufacturing
+ 1
+
+
+
+
+ References
+ 10
+
+
+
+
+
+
+
+
+Boxes
+
+
+ Figures
+ 1.1 Global Trade and Manufacturing
+ 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+ivREGIONAL ECONOMIC OUTLOOK: EUROPE
+
+
+
+Tables
+
+
+
+
+vNordic economiesEuro areaEastern EuropeCentral EuropeSoutheastern European EU member statesSoutheastern European non-EU member statesOther European advanced economiesTurkeyEurope: Country GroupsNote: The boundaries, colors, denominations, and any other information shown on the maps do not imply, on the part of the International Monetary Fund, any judgment on the legal status of any territory or any endorsement or acceptance of such boundaries. In this report, statistical data on Crimea and the city of Sevastopol are included as part of the data for Russia. EU = European Union.RUSFINSWENORISLGRCMLTSMRALBMKDUVKUKRBLRFRACYPITABGRBIHHRVSVNMNECHEESPPRTHUNLVAUKBELAUTLTUSVKISRMDADNKNLDLUXPOLTURDEUIRLESTCZEROUSRBFall 2019 Regional Economic Outlook: Europe
+viEconomic activity in Europe has slowed on the back of weakness in trade and manufacturing. For 
+
+
+buoyant so far, but their resilience is tightly linked to labor market conditions, which, despite some 
+
+also supported domestic demand. 
+
+
+
+World Economic Outlook
+
+
+
+
+
+tensions and related uncertainty could also dampen investment. More broadly, the weakness in trade 
+
+
+
+
+monetary policy to remain accommodative. Wage growth has risen above productivity gains, especially 
+in the European Union™s newer member states, but, as discussed in Chapter 2, the pickup in wage 
+
+
+
+
+
+
+
+
+
+
+
+
+
+for implementation in case these risks materialize, not least because the scope for effective monetary 
+
+countries, could become suitable. Reinvigorating structural reforms, including by raising labor force 
+participation, enhancing human capital and infrastructure, and strengthening governance, remains vital 
+
+Executive Summary
+International Monetary Fund
+ | November 2019
+Global
+ trade and manufacturing have weakened 
+and so have these sectors in Europe. ˜e evolution of 
+European growth depends on two forces. On the one 
+hand, European exports are softening and prospects 
+for a recovery in global trade are not as strong as 
+they were six months ago. On the other hand, easier 
+˚nancial conditions, expansionary ˚scal policy in 
+many countries, and still-strong labor markets are 
+supporting domestic demand. ˜is support is stronger 
+in the newer European Union (EU) Member States 
+(NMS). On balance, near-term growth in Europe is 
+projected to moderate from 2.3˛percent in 2018 to 
+1.4˛percent in 2019Šthe lowest growth rate since 
+2013Šand rebound to 1.8˛percent in 2020. ˜is 
+forecast, broadly unchanged from the April 2019 
+World Economic Outlook, re˝ects di˙erences between 
+advanced Europe, where growth has been revised 
+down by 0.1˛percentage point to 1.3˛percent and 
+1.5˛percent in 2019 and 2020, respectively, and 
+emerging Europe, where growth has been revised 
+up by 0.5 and 0.2˛percentage point to 1.8˛percent 
+and 2.5˛percent in 2019 and 2020, respectively. 
+Amid high uncertainty, risks to the outlook remain 
+to the downside, with a no-deal Brexit the key risk 
+in the near term. Monetary policy should remain 
+accommodative where in˝ationary pressures are 
+still subdued, which is the case in most European 
+economies. ˜e potential side e˙ects from such policy 
+on ˚nancial stability should be carefully monitored. 
+Fiscal policy should continue to be guided by 
+medium-term objectives. But plans for stimulus in 
+case of a sharper downturn should be at the ready, not 
+least because the scope for e˙ective monetary action 
+has diminished. Countries with ample ˚scal space should implement ˚scal measures that boost potential 
+growth. Reinvigorating structural reforms remains 
+vital to raise subdued potential output growth and 
+address long-term challenges, such as demographics.
+˜is chapter was prepared by Raju Huidrom and Svitlana Maslova 
+with input from Vizhdan Boranova and Nemanja Jovanovic, under
+ the supervision of Jörg Decressin and the guidance of Emil Stavrev
+ and Laura Papi. Petia Topalova provided useful advice and comments. 
+ Nomelie Veluz provided administrative support. ˜is chapter re˚ects 
+data and developments as of October 25, 2019. 
+A Trade- and Industry-Driven 
+ Slowdown˜e slowdown in global trade and industrial 
+activity that began in early 2018 has continued (Figure˛1.1). It came on the back of
+ slower capital 
+expenditure in Asia and sluggish production in 
+the vehicle and technology sectors. Trade tensions 
+have intensi˝ed, and Brexit-related uncertainty 
+has continued, also weighing on trade.
+ Growth 
+in global export volumes has slowed signi˝cantly 
+from about 4½˛percent in 2017 to close to zero 
+in the ˝rst half of 2019 (Figure˛1.1, panel 1). 
+WorldEU exports outside of the EUEU exports within the EUEuropean UnionWorldŒ4Œ20426Figure 1.1. Global Trade and Manufacturing1. Export Volume(Year-over-year percent change, 6-month moving average)2. Industrial Production(Year-over-year percent change, 6-month moving average)Sources: CPB World Trade Monitor; Eurostat; and IMF staff calculations.Note: EU = European Union.Sources: IMF, Global Data Source; and IMF staff calculations.Jan. 2016Dec. 16Nov. 17Oct. 18Aug. 19Œ1501234Jan. 2016July 19Dec. 16Nov. 17Oct. 181. Facing Spillovers from Trade and Manufacturing
+2REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+Industrial production is now expanding at a 
+rate that is less than half of its early 2018 peak (Figure˛1.1, panel 2). 
+European trade and industry have closely 
+followed these global trends. Given Europe™s deep 
+integration into global trade,1 European exports, 
+both within and outside the region, stalled in the 
+˝rst half of 2019 after decelerating in 2018. ˜e slowdown in European exports within the region 
+is pronounced in intermediate goods, suggesting 
+that the weakness in global trade has seeped into 
+European supply chains. Overall, the slowdown 
+in Europe™s exports has mainly stemmed from 
+softening exports of machinery and transport 
+equipment, and other manufactured goods 
+(Figure˛1.2).
+˜e sluggish demand for and production of cars 
+have had an important e˙ect on European activity, 
+re˚ecting both structural factors (for example, 
+tighter emissions standards) and sluggish world 
+demand. Car production remains particularly 
+weak in 
+Germany
+, while it has held up among car producers in 
+Central Europe,
+ such as the 1See Huidrom and others (2019) for an in depth discussion of 
+Europe™s integration into global trade and expected spillovers.
+Czech Republic
+, Hungary
+, and the Slovak Republic
+ (see Box˛1.1).
+˜e weakness in European exports has meant 
+that external surpluses in some advanced 
+European economies have declined slightly but 
+remain high, for example in 
+Germany
+ and the Netherlands
+. In the NMS and several Southeastern 
+European non-EU countries, still-strong domestic 
+demand generally led to a small deterioration in current account balances, though market shares 
+generally held up well, suggesting no signi˝cant 
+loss in competitiveness. 
+Turkey
+ saw a sharp current account improvement mainly on import 
+compression. 
+Russia™s
+ current account weakened on 
+lower oil prices.
+Amid weakening global demand, growth in 
+advanced Europe
+ slowed in the ˝rst half of 2019, 
+despite an uptick in the ˝rst quarter due to 
+Brexit-related stockpiling and one-o˙ factors 
+such as good weather in 
+Germany
+. Net exports 
+continued to be a drag on growth (Figure˛1.3, 
+panel 1). Slowing ˝xed investment has also started 
+to weigh on growth in some of the 
+advanced 
+European
+ countries.Growth in 
+emerging Europe,
+ excluding 
+Russia
+ and Turkey,
+ continued to hold up in the ˝rst half of 2019 thanks to robust private consumption, 
+which is being driven by strong labor markets 
+(Figure˛1.3, panel 2). Further, a higher absorption 
+of EU funds and resilient services exports 
+(Hungary
+, Poland
+) also helped cushion the adverse 
+e˙ects of weakening manufacturing trade and 
+elevated uncertainty. In 
+Russia
+, growth continued 
+to remain modest re˚ecting weaker domestic 
+demand, in particular sluggish investment. In 
+Turkey
+, growth resumed, buoyed by expansionary 
+˝scal policy and rapid credit expansion by 
+state-owned banks.
+Consistent with weak activity, in˚ation has 
+fallen in advanced Europe
+. In 
+emerging Europe
+, in˚ation pressures remain relatively contained in 
+most countries. With the e˙ects of earlier shocks 
+dissipating, in˚ation in Russia
+ has moderated to close to the target. In˚ation has also slowed in 
+Turkey
+, in part due to negative base e˙ects, but 
+Machinery and transport equipmentOther manufactured goodsChemicalsRaw materialsFood, beverages, and animalsOtherTotalSources: Eurostat; and IMF staff calculations.20171819:H1Œ25Œ101234Figure 1.2. Contribution to Growth in European Union Export Volume: Product Composition(Total in percent; contributions in percentage points)31. FACING SPILLOVERS FROM T
+RADE AND MANUFACTURING
+International Monetary Fund
+ | November 2019
+it is still well above the target. However, in some 
+NMS (Hungary
+, Romania
+) core in˚ation has risen, 
+partly due to domestic demand pressures.
+Will the Weakness in Trade 
+and Manufacturing Spread?˜e same forces that have slowed activity over 
+the past year are likely to continue to do so 
+going forward. Asia™s capital expenditure and 
+consumer durables slowdown will likely continue 
+to weigh on Europe™s exports and growth as the 
+region is a large exporter of capital goods and 
+transport equipment. Solid demand growth in 
+the United States
+Ša large trading partner for 
+many European countriesŠhas been a mitigating 
+factor, but US growth is expected to ease from 
+its strong pace. ˜e vehicle sector may continue 
+to be a drag on growth, given signs of saturation 
+in ChinaŠthe world™s largest auto marketŠ
+continued tightening of emission standards, and 
+shifting preferences toward electric vehicles. ˜e 
+impact could be particularly sizable for countries 
+where the vehicle sector accounts for a signi˝cant 
+share of trade (for example, 
+Germany
+, the Slovak 
+Republic
+). While trade diversion e˙ects from 
+USŒChina trade tensions could help mitigate the slowdown in European exports, these e˙ects 
+have been estimated to be relatively small so far 
+(World Bank 2019).
+At the same time, the industry and trade 
+slowdown, combined with trade- and 
+Brexit-related uncertainty, has started to take 
+a toll on ˝xed investment in several countries. 
+Conversely, solid private consumption and a 
+resilient services sector helped by strong labor 
+markets may mitigate the weakness stemming 
+from the deteriorating external environment. With 
+labor markets still strong, consumer con˝dence 
+has held up better than business con˝dence. ˜e services Purchasing Managers™ Index (PMI) still 
+suggests expansionŠalbeit at a slower paceŠ
+contrary to the manufacturing PMI, which has 
+plunged deeper into contractionary territory 
+(Figure˛1.4). ˜e divergence, however, may be 
+temporary. Services™ value added in European 
+manufacturing value added is estimated at about 
+30˛percent, which is not trivial (Organisation for 
+Economic Co-operation and Development Trade 
+in Value Added database). Furthermore, there 
+are already signs that ˝rms are becoming more 
+careful about hiring decisions (Figure˛1.5), which 
+could weaken consumer con˝dence and dampen 
+consumption. Macroeconomic policies could bu˙er activity. 
+˜e stances of the European Central Bank and 
+the US Federal Reserve have become more 
+accommodative. In addition, some emerging 
+European countries have loosened monetary policy 
+(Russia, Serbia, Turkey, Ukraine
+). On the back 
+OtherNet exportsInvestmentPublic consumptionPrivate consumptionGDP growthOtherNet exportsInvestmentPublic consumptionPrivate consumptionGDP growthFigure 1.3. Real GDP Growth and Contributions1. Advanced Europe(Growth in percent; contributions in percentage points)2. Emerging Europe(Growth in percent; contributions in percentage points)Sources: Haver Analytics; IMF, World Economic Outlook; and IMF staff calculations.Note: Advanced Europe excludes Ireland due to volatility in investment data and San Marino due to lack of data. Emerging Europe excludes Moldova due to lack of data. EE = Emerging Europe; RUS = Russia; TUR = Turkey.Œ130122017:Q418:Q118:Q218:Q318:Q419:Q119:Q2Œ1212Œ8Œ40482017:Q418:Q118:Q218:Q318:Q419:Q119:Q22017:Q418:Q118:Q218:Q318:Q419:Q119:Q22017:Q418:Q118:Q218:Q318:Q419:Q119:Q2EE ex. RUS & TURRussiaTurkey4REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+of the accommodative monetary stance, overall 
+˝nancial conditions have loosened. However, 
+the impact might be limited as credit growth 
+has been modest and most ˝rms do not report 
+availability of credit as a key constraint to their 
+expansion. Many countries in the region are also 
+conducting expansionary ˝scal policy in 2019, 
+albeit less so in 2020.Overall, Europe™s manufacturing and trade have 
+weakened considerably, as in the rest of the world. 
+Some signs of softness in domestic demand, 
+particularly in investment, have appeared.
+  Services 
+and consumption have been resilient so far, but 
+the extent of their continued resilience will depend 
+on developments in labor markets.
+Outlook: A Modest Recovery
+Europe™s real GDP growth is projected to 
+moderate to 1.4˛percent in 2019Šthe lowest 
+rate since 2013Šfrom 2.3˛percent in 2018, 
+before rebounding to 1.8˛percent in 2020 (Annex 
+Table˛1.1). 
+Advanced Europe
+ is expected to recover 
+only modestly from 1.3˛percent in 2019 to 
+1.5˛percent in 2020 on the back of an expected 
+pickup in external demand, though prospects 
+for a recovery in global trade are not as good as 
+six months ago. 
+Turkey
+™s growth is anticipated to 
+recover from 0.2˛percent in 2019 to 3.0˛percent 
+in 2020 as the economy continues to rebound 
+from previous economic stresses. In 
+Russia
+, growth 
+is projected to pick up from 1.1˛percent in 2019 
+to 1.9˛percent in 2020, assuming the planned 
+national projects are implemented e˙ectively. 
+Growth in other 
+emerging European economies 
+is forecast to moderate to 3.7˛and 3.1˛percent in 
+2019 and 2020, respectively, re˚ecting lagged 
+spillovers from the ongoing slowdown in advanced 
+Europe and growth converging to a more 
+sustainable pace after some years of operating 
+above capacity.
+˜e growth projections for the entire region are 
+broadly unchanged from the April 2019 
+World 
+Economic Outlook
+. However, they mask di˙erences 
+across country groups and some large revisions. In 
+advanced Europe
+, projections were downgraded by 
+0.1˛percentage point both in 2019 and 2020, with 
+generally larger revisions for those economies with 
+greater exposure to manufacturing. In 
+emerging Europe
+, growth projections were revised up by 
+0.5˛and 0.2˛percentage point in 2019 and 2020, 
+respectively. In 
+Turkey
+, the large upward growth 
+ManufacturingServicesFigure 1.4. EU PMI: Services versus Manufacturing (Index, seasonally adjusted, 50+ = Expansion)Source: IHS Markit Purchasing Managers Survey.Note: EU = European Union; PMI = Purchasing Managers™ Index.446046485052545658Jan. 2015Apr. 16July 17Oct. 18Sep.19Figure 1.5. European Union Job Vacancies(Quarter-over-quarter percent change)Sources: Eurostat; and IMF staff calculations.Œ21202468102017:Q117:Q418:Q319:Q2Total economyManufacturing51. FACING SPILLOVERS FROM T
+RADE AND MANUFACTURING
+International Monetary Fund
+ | November 2019
+revisions re˚ect the better-than-expected outturn 
+in the ˝rst half of the year. Growth in 
+Central 
+European countries
+ and Southeastern European EU 
+member states has also been upgraded for 2019Œ20, re˚ecting robust domestic demand. 
+Russia
+ saw one of the largest downward revisions for 2019 on 
+the back of a weak outcome in the ˝rst half of the 
+year and signs of softening domestic demand and 
+export growth.
+Relatively low energy prices, slowing output 
+growth, and weaker passthrough from wage 
+growth (Chapter˛2) are expected to keep headline 
+in˚ation contained. In 
+advanced Europe
+, in˚ation is expected to fall from 1.8˛percent in 2018 to 
+1.4˛percent in 2019 and 1.5˛percent in 2020 
+(0.1˛percentage point lower in both 2019 and 
+2020, Annex Table˛1.2). In 
+emerging Europe
+, in˚ation is projected to temporarily pick up to 
+6.9˛percent in 2019 from 6.3˛percent in 2018 
+and to moderate to 5.7˛percent in 2020. ˜e 
+downward revisions of 0.3 and 0.5˛percentage 
+point for 2019 and 2020 are largely driven by 
+Turkey
+ in 2019 and Russia 
+in 2020. In 
+Turkey
+, the 2019 in˚ation forecast has been revised down by 
+1.8˛percentage points due to the more favorable 
+market sentiment, which supported lira stability. 
+However, the in˚ation outlook is highly uncertain 
+over the medium term, as the central bank needs 
+to strengthen monetary policy credibility and 
+lower in˚ation expectations. In 
+Russia
+, in˚ation, which picked up earlier in 2019, is expected to be below the target at the end of 2019 and in 
+2020, as e˙ects of the January 2019 value-added 
+tax rate hike and other one-o˙ factors dissipate. In 
+emerging European
+ countries excluding 
+Russia
+ and Turkey
+, despite some upward revisions on the 
+back of stronger-than-expected activity, in˚ation is 
+generally expected to remain restrained as growth 
+is expected to ease.Amid High Uncertainty, Risks 
+Tilted to the Downside
+Amid high uncertainty, risks to the forecasts are 
+to the downside. In the near term, the modalities 
+of Brexit are key for the European outlook. A 
+no-deal Brexit could have a sizable impact on 
+activity in the United Kingdom
+ and the European 
+Union
+Šwith output lower by about 3½ and 
+½ percent in two years, respectively, relative to 
+the April 2019 forecast (see Box˛1.1 of the April 
+2019 World Economic Outlook
+). Value added trade 
+exposure of European countries to the 
+United 
+Kingdom, though smaller than to Germany
+Šthe main European hubŠis sizable (Figure˛1.6). 
+Further escalation of trade tensions and related 
+uncertainty when combined with tighter ˝nancing 
+conditions can weigh signi˝cantly on European 
+investment and growth (Ebeke and Siminitz 
+2018; IMF 2018). More broadly, the weakness in 
+manufacturing and trade could spread to other 
+sectorsŠnotably servicesŠand could occur faster 
+and to a greater extent than expected. Other risks 
+include abrupt declines in risk appetite, a build-up 
+of ˝nancial vulnerabilities, and the re-emergence 
+of de˚ationary pressures in advanced economies. 
+Country-speci˝c factors (such as domestic 
+weakness in some large euro area countries) and 
+geopolitical tensions could exacerbate the e˙ects from weak global trade and manufacturing. Delays 
+in the implementation of structural reforms, 
+demographic challenges, climate change, rising inequality, and declining trust in mainstream 
+policies could also dampen growth in the medium 
+to long term. Policy PrioritiesMonetary policy in many European countries 
+should remain accommodative given muted 
+in˚ationary pressures. As discussed in Chapter˛2, 
+strong wage growth is less likely to boost in˚ation 
+than in the past due to rising competitive pressures 
+faced by ˝rms, still robust corporate pro˝tability, 
+and the generally low in˚ation environment. In 
+advanced Europe
+, where in˚ation remains largely 
+below target, monetary policy should continue 
+to focus on supporting the gradual upward 
+adjustment of in˚ation toward policy objectives. 
+In 
+Russia
+, monetary policy loosening could be 
+considered given contained in˚ation and as 
+in˚ationary pressures ease. However, in 
+Romania
+ and Turkey
+, monetary policy should be kept tight 
+6REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+to contain in˚ationary pressures and strengthen 
+policy credibility. Most other e
+merging European 
+countries can a˙ord to keep monetary policy 
+accommodative for now.
+Nevertheless, loose monetary policy for longer 
+calls for heightened monitoring of ˝nancial sector vulnerabilities and other possible adverse 
+developments. Pockets of vulnerabilities in some 
+countries should be closely watched and addressed 
+with targeted macroprudential measures as 
+needed. In the 
+euro area 
+and other countries with negative interest rates, the impact on the ˝nancial 
+sector, in particular, on traditional business 
+operations and pro˝tability and on asset prices 
+should be closely monitored. For example, house 
+prices have strengthened in several countries and 
+the vulnerability of other ˝nancial institutions has increased.
+2 In 
+Turkey
+, a comprehensive third-party 
+assessment of bank balance sheets, and stress tests 
+with follow-up measures, as needed, would help 
+strengthen con˝dence in the sector. Countries 
+have continued to implement new ˝nancial 
+2See IMF, 
+Global Financial Stability Report
+, October 2019.
+sector regulations and to reduce nonperforming 
+loans. ˜ey should persevere in these e˙orts to 
+strengthen the sector™s resilience.
+Regarding ˝scal policy, given output above or 
+close to full employment in most countries, and 
+generally high debt levels in many European 
+countries, the ˝scal stance should remain 
+anchored by countries™ medium-term objectives, 
+while allowing automatic stabilizers to work 
+freely. In countries with ample ˝scal space and 
+human capital or infrastructure needs (
+Germany, 
+Netherlands
+), a measured ˝scal expansion should 
+be considered to boost potential outputŠsome 
+measures have already been announcedŠand 
+would also help reduce their external surpluses. 
+Considering the precarious outlook, positive 
+spillovers to less cyclically strong economies would 
+be welcome. ˜ose countries with still-elevated 
+levels of public debt and de˝cit should proceed 
+with ˝scal consolidation to reduce economic 
+vulnerabilities, except where private demand is 
+already so weak that consolidation would push 
+output growth far below potential. All countries 
+should consider debt management operations that Average exposure to UKAverage exposure to GermanyFigure 1.6. Trade Exposure to the United Kingdom(Percent of GDP)Sources: EORA Multi-Regional Input-Output database; and IMF staff calculations.Note: Lines refer to simple averages across countries in each region. The latest year available in EORA is 2013. Country list uses International Organization for Standardization (ISO) country codes.012246810IRLBELNLDISLDEUCZEDNKNORLVAFINPRTCHESWEFRAITASVNMLTAUTESPESTLTUISRCYPLUXSVKGRCSMRHUNBGRROUPOLMKDTURRUSHRVUKRSRBBIHALBMNEBLRMDAAdvanced EuropeEmerging Europe71. FACING SPILLOVERS FROM T
+RADE AND MANUFACTURING
+International Monetary Fund
+ | November 2019
+take advantage of currently low interest rates. If 
+signi˝cant negative risks materialize, given limited 
+monetary policy space, the ˝scal stance will need 
+to be more expansionary, while keeping in mind 
+medium-term debt sustainability objectives. In 
+this case, countries with a high de˝cit and public debt could consider a temporarily slower pace of 
+˝scal consolidation or a temporary expansion, as 
+long as debt sustainability is secured and market 
+con˝dence is not undermined. Policymakers 
+should prepare contingency plans for such an 
+eventuality, focusing on growth-friendly and 
+inclusive policies that deliver support in a timely 
+manner. A synchronized ˝scal response, albeit 
+appropriately di˙erentiated across countries, could 
+become suitable.Structural reforms remain essential to raise 
+potential output, boost resilience, and strengthen 
+inclusive growth. Product market reforms in 
+many countries could improve competitiveness 
+and increase productivity. Policies to increase 
+labor force participation rates and enhance 
+human capital (including shifting taxes away from 
+labor, enhancing apprenticeship programs, and 
+improving tailoring education to labor market 
+needs) should be urgently implemented, given 
+rising demographic challenges and technological developments in the region. Completing the 
+euro 
+area™s
+ architecture is critical to increase its resilience 
+to shocks. ˜e 
+European Union
+ would bene˝t from 
+deepening the single market for services to increase 
+eˆciency. In many 
+emerging European
+ countries, structural reforms have achieved a dramatic 
+transformation in the 30˛years of transition. Still, 
+strengthening governance and improving public 
+sector eˆciency remain imperative to sustain 
+continued and equitable convergence of living 
+standards to 
+advanced European
+ levels.
+33See IMF (2017); Richmond and others (2019).
+8REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+˜e vehicle sector is important in many European countries. In line with global trends, vehicle production has slowed 
+in the region, but there is considerable heterogeneity across economies. ˜e near-term outlook remains conservative, 
+and potential supply chain reorganizations pose uncertainty in the medium term.
+˜e vehicle sector is important in many European countries, for both the domestic economy and exports. 
+For instance, in 
+Germany
+Šthe largest vehicle producer in EuropeŠvehicles constitute about 20˛percent of 
+manufacturing and about 17˛percent of exports. ˜e sector is also signi˝cant for 
+Central and Eastern Europe
+ (CEE): for example, in the Slovak Republic,
+ it comprises about one-third of manufacturing and more than a 
+quarter of exports. Also, the auto industry constitutes one of the main supply chains in the region.
+In line with global trends (Box˛1.1 of the October 2019 
+World Economic Outlook
+), Europe™s vehicle production 
+has fallen and has been one of the main contributors to the industrial production slump in the European 
+Union (EU) (Figure˛1.1.1). Several structural and cyclical factors are behind the slowdown, such as the 
+tighter EU emission standards, a shift in preferences from diesel toward gasoline and other alternative fuel 
+vehicles, and weakening global demand, especially from 
+China. After the emissions-related dip in 2018, car 
+registrationsŠa demand indicatorŠhave normalized. 
+Nevertheless, there is a signi˝cant heterogeneity across European countries. ˜e 2018 vehicle production 
+contraction was led by 
+Germany
+ and to a lesser extent, the United Kingdom
+ and Spain
+ (Figure˛1.1.2). 
+Germany™s production remained weak in the ˝rst half of 2019, dropping by about 12˛percent versus the ˝rst 
+half of 2018. Conversely, vehicle production held up in 
+CEE. VehiclesTech productsMetal and productsMachineryIndustrial materialConsumption goodsTotalSources: Eurostat; and IMF staff calculations.Note: EU = European Union.20171819:H1Œ24Œ10123Figure 1.1.1. Contributions to EU Manufacturing Growth(Growth in percent; contributions in percentage points)GermanySpainFranceUKSelect CEERest of EuropeTotalFigure 1.1.2. Contributions to Europe Vehicle Production(Growth in percent; contributions in percentage points)Sources: International Organization of Motor Vehicle Manufacturers (OICA); and IMF staff calculations.Note: Select CEE = Czech Republic, Hungary, Slovak Republic; UK = United Kingdom.Œ44Œ202201415161718Box 1.1 The Slowdown in VehiclesŠA European Perspective
+91. FACING SPILLOVERS FROM T
+RADE AND MANUFACTURING
+International Monetary Fund
+ | November 2019
+Anecdotal evidence suggests that CEE™s 
+relatively robust car production could be attributed to the types of 
+cars produced in the region, such as SUVs and utilitarian cars, whose demand remained more buoyant. 
+Furthermore, industry reports suggest the vehicle slowdown in Germany has had a muted impact on 
+CEE supply chains, in part because 
+CEE suppliers have been able to adapt and re-orient to other models and plants 
+outside of Germany
+.Overall, the near-term outlook for Europe remains conservative on the back of falling demand for diesel cars, 
+trade tensions, Brexit-related uncertainty, and additional tighter emission standards. Potential reorganizations 
+of supply chainsŠrelated to the shift to alternative fuel vehiclesŠpose considerable uncertainty to the 
+medium-term outlook. A sustained weakness in the vehicle sector could spill over to the broader economy and 
+across borders via supply chains.
+Box 1.1 (continued)10REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+ReferencesConstantinescu, Cristina, Aaditya Mattoo, and Michele Ruta. 
+2019. Global Trade Watch 2018: Trade Amid Tensions
+. World 
+Bank Group, Washington, DC.
+Ebeke, Christian and Jesse Siminitz. 2018. ﬁTrade Uncertainty 
+and Investment in the Euro Area.ﬂ IMF Working Paper 
+18/281, International Monetary Fund, Washington, DC.
+Huidrom, Raju, Nemanja Jovanovic, Carlos Mulas-Granados, 
+Laura Papi, Faezeh Raei, and Philippe Wingender. 2019. 
+ﬁTrade Tensions, Global Value Chains, and Spillovers: Insights 
+for Europe.ﬂ IMF Departmental Paper 19/10, International 
+Monetary Fund, Washington, DC.
+International Monetary Fund (IMF). 2017. Regional Economic 
+Outlook: Europe. Washington, DC, November.
+ŠŠŠ. 2018. World Economic Outlook
+. Washington, 
+DC, October.
+ŠŠŠ. 2018. Regional Economic Outlook: Europe. 
+Washington, DC, November.
+ŠŠŠ. 2019. Global Financial Stability Report
+. Washington, 
+DC, October.
+ŠŠŠ. 2019. World Economic Outlook
+. Washington, DC, April.
+Richmond Christine J., Dora Benedek, Ezequiel Cabezon, 
+Bobana Cegar, Peter Dohlman, Michelle Hassine, Beata Jajko, 
+Piotr Kopyrski, Maksym Markevych, Jacques A Miniane, 
+Francisco J Parodi, Gabor Pula, James Roaf, Min Kyu Song, 
+Mariya Sviderskaya, Rima Turk, and Sebastian Weber. 2019. 
+ﬁReassessing the Role of State-Owned Enterprises in Central, 
+Eastern and Southeastern Europe.ﬂ IMF Departmental Paper 
+19/11, International Monetary Fund, Washington, DC.
+111. FACING SPILLOVERS FROM T
+RADE AND MANUFACTURING
+International Monetary Fund
+ | November 2019
+Annex Table 1.1. GDP Growth
+(Year-over-year percent change)
+October 2019 WEOApril 2019 WEODifference2018201920202021201920202021201920202021Europe2.31.41.81.91.31.81.80.10.00.0 Advanced European Economies
+2.01.31.51.61.41.61.6˜0.1˜0.10.0  Euro Area
+1.91.21.41.41.31.51.5˜0.1˜0.20.0   Austria2.71.61.71.52.01.71.5˜0.40.00.0   Belgium1.41.21.31.31.31.41.5˜0.1˜0.1˜0.2   Cyprus3.93.12.92.73.53.32.9˜0.4˜0.5˜0.2   Estonia4.83.22.92.83.02.92.80.20.00.0   Finland
+1.71.21.51.51.91.71.4˜0.7˜0.30.1   France
+1.71.21.31.31.31.41.50.0˜0.1˜0.1   Germany
+1.50.51.21.40.81.71.5˜0.2˜0.5˜0.1   Greece1.92.02.21.72.42.21.6˜0.40.10.1   Ireland8.34.33.53.14.13.43.10.10.10.0   Italy0.90.00.50.80.10.90.7˜0.1˜0.40.1   Latvia
+4.82.82.82.93.23.13.1˜0.3˜0.4˜0.2   Lithuania3.53.42.72.52.92.62.60.50.1˜0.2   Luxembourg2.62.62.82.72.72.82.7˜0.10.00.0   Malta6.85.14.33.75.24.43.8˜0.1˜0.10.0   Netherlands2.61.81.61.51.81.71.50.00.00.0   Portugal
+2.41.91.61.51.71.51.40.20.10.1   Slovak Republic4.12.62.72.73.73.53.3˜1.1˜0.8˜0.5   Slovenia4.12.92.92.73.42.82.7˜0.50.10.1   Spain2.62.21.81.72.11.91.70.00.00.0  Nordic Economies1.81.41.91.81.61.81.8˜0.10.10.0   Denmark1.51.71.91.71.71.81.60.00.10.1   Iceland4.80.81.62.01.72.92.7˜0.9˜1.3˜0.6   Norway1.31.92.41.62.01.91.8˜0.10.6˜0.2   Sweden2.30.91.52.11.21.81.9˜0.2˜0.30.2  Other European Advanced Economies
+1.91.41.71.81.51.71.8˜0.10.00.0   Czech Republic3.02.52.62.62.92.72.5˜0.4˜0.10.1   Israel3.43.13.13.23.33.33.1˜0.2˜0.20.0   San Marino1.10.80.70.60.80.70.60.00.00.0   Switzerland2.80.81.31.61.11.51.6˜0.3˜0.30.0   United Kingdom1.41.21.41.51.21.41.50.10.00.0 Emerging European Economies3.11.82.52.51.22.32.40.50.20.1  Central Europe5.14.13.12.73.73.02.70.40.10.0   Hungary
+4.94.63.32.93.62.72.41.00.60.5   Poland
+5.14.03.12.73.83.12.80.3˜0.1˜0.1  Eastern Europe2.41.31.92.11.71.81.8˜0.50.10.3   Belarus3.01.50.30.11.82.22.1˜0.2˜1.9˜2.0   Moldova4.03.53.83.83.53.83.80.00.00.0   Russia2.31.11.92.01.61.71.7˜0.50.20.4   Ukraine3.33.03.03.12.73.03.10.30.00.1  Southeastern European EU Member States3.73.83.32.93.12.92.90.70.40.1   Bulgaria3.13.73.23.03.33.02.80.40.20.2   Croatia
+2.63.02.72.52.62.52.40.40.20.1   Romania4.14.03.53.03.13.03.00.90.50.0  Southeastern European Non-EU Member States3.93.33.63.63.43.73.7˜0.1˜0.1˜0.1   Albania4.13.04.04.03.73.93.9˜0.70.20.1   Bosnia and Herzegovina3.62.82.62.63.13.23.3˜0.3˜0.6˜0.7   Kosovo
+3.84.24.04.04.24.04.00.00.00.0   North Macedonia2.73.23.43.23.03.13.20.20.30.0   Montenegro4.93.02.52.92.82.52.90.20.00.0   Serbia4.33.54.04.03.54.04.00.00.00.0  Turkey
+2.80.23.03.0˜2.52.53.02.80.40.0Memorandum   World
+3.63.03.43.63.33.63.6˜0.3˜0.2˜0.1   Advanced economies2.31.71.71.61.81.71.7˜0.1˜0.1˜0.1   Emerging market and developing economies4.53.94.64.84.44.84.9˜0.4˜0.3˜0.1   Emerging Europe ex. Russia and Turkey
+4.33.73.12.83.33.02.90.40.0˜0.1   European Union2.21.51.61.71.61.71.70.0˜0.10.0   United States
+2.92.42.11.72.31.91.80.00.20.0   China6.66.15.85.96.36.16.0˜0.1˜0.3˜0.1   Japan
+0.80.90.50.51.00.50.5˜0.10.0˜0.1Sources: IMF, 
+World Economic Outlook (WEO);
+ and IMF staff calculations.
+Note: After the April 2019 WEO, the GDP de˜nition for Germany has been switched to a working-day unadjusted basis from a seasonally and 
+working-day adjusted basis. Table reports Germany data on a working-day unadjusted basis, including those for the April 2019 WEO, while 
+retaining aggregates as in the April 2019 WEO.
+12REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+Annex Table 1.2. Headline In˜ation
+(Year-over-year percent change)
+October 2019 WEOApril 2019 WEODifference2018201920202021201920202021201920202021Europe3.33.12.82.93.33.13.1˜0.1˜0.3˜0.1 Advanced European Economies
+1.81.41.51.61.41.61.7˜0.1˜0.1˜0.1  Euro Area1.81.21.41.51.31.61.7˜0.1˜0.2˜0.2   Austria2.11.51.91.91.82.02.1˜0.2˜0.1˜0.2   Belgium2.31.51.31.51.91.61.9˜0.4˜0.4˜0.4   Cyprus0.80.71.61.80.51.61.70.20.00.1   Estonia3.42.52.42.33.02.82.6˜0.5˜0.4˜0.3   Finland
+1.21.21.31.51.31.51.8˜0.1˜0.2˜0.3   France
+2.11.21.31.41.31.51.6˜0.2˜0.2˜0.2   Germany
+1.91.51.71.71.31.71.90.10.0˜0.2   Greece0.80.60.91.31.11.41.7˜0.4˜0.5˜0.4   Ireland0.71.21.51.71.21.51.70.00.00.0   Italy1.20.71.01.10.81.21.20.0˜0.2˜0.1   Latvia
+2.63.02.62.32.42.42.10.60.20.2   Lithuania2.52.32.22.22.32.32.40.1˜0.1˜0.1   Luxembourg2.01.71.71.91.61.91.90.2˜0.10.0   Malta1.71.71.81.91.81.92.0˜0.2˜0.10.0   Netherlands1.62.51.61.72.31.61.70.20.00.0   Portugal
+1.20.91.21.31.01.71.7˜0.1˜0.5˜0.4   Slovak Republic2.52.62.12.12.42.22.10.2˜0.10.0   Slovenia1.71.81.91.91.41.62.00.40.3˜0.1   Spain1.70.71.01.41.21.61.7˜0.5˜0.6˜0.2  Nordic Economies2.01.81.61.81.71.61.80.10.00.0   Denmark0.71.31.51.81.11.31.50.20.20.3   Iceland2.72.82.52.52.82.52.50.00.00.0   Norway2.82.31.92.01.91.71.90.40.20.2   Sweden2.01.71.51.61.91.71.9˜0.1˜0.2˜0.3  Other European Advanced Economies
+2.11.71.81.81.71.81.90.0˜0.10.0   Czech Republic2.22.62.32.02.32.02.00.20.30.0   Israel0.81.01.31.80.91.72.00.2˜0.4˜0.2   San Marino1.51.31.51.61.61.71.7˜0.4˜0.2˜0.2   Switzerland0.90.60.60.90.80.91.0˜0.3˜0.3˜0.2   United Kingdom2.51.81.92.01.82.02.00.0˜0.10.0 Emerging European Economies6.36.95.75.77.26.25.8˜0.3˜0.5˜0.1  Central Europe1.92.63.53.42.22.12.20.41.31.2   Hungary
+2.83.43.43.33.23.13.00.10.30.3   Poland
+1.62.43.53.42.01.92.00.41.61.4  Eastern Europe3.65.03.84.05.24.74.3˜0.2˜0.9˜0.3   Belarus4.95.44.84.65.05.04.00.4˜0.20.6   Moldova3.14.95.75.03.35.15.01.60.50.0   Russia2.94.73.53.95.04.54.2˜0.3˜1.0˜0.3   Ukraine10.98.75.95.38.05.95.50.70.0˜0.2  Southeastern European EU Member States3.83.42.82.52.92.62.50.50.20.0   Bulgaria2.62.52.32.22.42.32.30.10.0˜0.1   Croatia
+1.51.01.21.31.51.61.7˜0.5˜0.4˜0.4   Romania4.64.23.32.93.33.02.80.90.30.1  Southeastern European Non-EU Member States1.81.81.82.11.92.22.50.0˜0.4˜0.3   Albania2.01.82.02.42.02.42.8˜0.2˜0.4˜0.4   Bosnia and Herzegovina1.41.11.41.51.51.61.6˜0.4˜0.2˜0.2   Kosovo
+1.12.81.51.72.21.31.80.60.1˜0.1   North Macedonia1.51.31.72.01.82.02.2˜0.5˜0.3˜0.2   Montenegro2.61.11.91.60.91.71.80.20.2˜0.2   Serbia2.02.21.92.52.02.53.00.2˜0.6˜0.5  Turkey
+16.315.712.612.417.514.113.4˜1.8˜1.5˜1.0Memorandum   World
+3.63.43.63.53.63.63.5˜0.2˜0.10.0   Advanced economies2.01.51.81.81.62.11.9˜0.1˜0.3˜0.1   Emerging market and developing economies4.84.74.84.54.94.74.5˜0.20.10.0   Emerging Europe ex. Russia and Turkey
+3.63.73.53.43.22.92.80.40.60.6   European Union1.91.51.71.81.61.71.80.00.00.0   United States
+2.41.82.32.42.02.72.3˜0.2˜0.50.2   China2.12.32.42.82.32.52.80.0˜0.10.0   Japan
+1.01.01.30.71.11.51.1˜0.1˜0.2˜0.5Sources: IMF, 
+World Economic Outlook (WEO);
+ and IMF staff calculations.
+International Monetary Fund
+ | November 2019
+Wages
+ have been rising faster than productivity in 
+many European countries, yet signs of underlying 
+consumer price pressures remain limited. To shed light 
+on this puzzle, this chapter examines the link between 
+wage growth and in˝ation in Europe and the 
+factors that in˝uence the strength of the passthrough 
+from labor costs to consumer prices. ˜e chapter 
+˚nds that, historically, wage growth leads to higher 
+in˝ation, but the impact has weakened since 2009. 
+˜e passthrough is signi˚cantly lower in periods of 
+subdued in˝ation expectations, greater competitive 
+pressures, and robust corporate pro˚tability. ˜ese 
+˚ndings suggest that the recent pickup in wage growth 
+is likely to have a more muted impact on in˝ation 
+than in the past.Labor market conditions have been improving in 
+Europe since 2013, with strong job growth and 
+unemployment falling to lower-than-precrisis 
+levels in most economies. Yet, as discussed in 
+Chapter˛2 of the May 2018 
+Regional Economic 
+OutlookŠEurope,
+ nominal wage growth remained 
+subdued for many years (Figure˛2.1, panels 1 
+and 2). ˜is trend has recently started to reverse, 
+especially in the European Union™s
+ newer member 
+states (NMS).1 Spurred by strong labor markets 
+and accompanied by public sector and minimum 
+wage increases in some countries, nominal wage 
+˜is chapter was prepared by Vizhdan Boranova, Kamil Dyb
+-czak, Raju Huidrom, Sylwia Nowak (lead), Volodymyr Tulin, and 
+Richard Varghese, under the supervision of Jörg Decressin and the 
+guidance of Petia Topalova. Laura Papi and Emil Stavrev provided 
+useful advice and comments. Nomelie Veluz provided administra
+-tive support.
+1˜is chapter makes a distinction between long-standing and 
+newer EU member states, rather than between ﬁadvancedﬂ and 
+ﬁemergingﬂ European economies, to better capture the disparate 
+wage developments in these two sets of countries. Newer EU mem
+-bers (NMS) include Bulgaria, Croatia, the Czech Republic, Estonia, 
+Hungary, Lithuania, Latvia, Poland, Romania, the Slovak Republic, 
+and Slovenia. ˜e long-standing EU members are the countries that 
+joined the European Union before May 1, 2004: Austria, Bel
+-gium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, 
+Luxembourg, the Netherlands, Portugal, Spain, Sweden, and the 
+United Kingdom (EU15). Cyprus, Ireland, Luxembourg, and Malta 
+are not included in the analysis because their GDP data distort labor 
+productivity numbers. Israel, Norway, and Switzerland are added to 
+this group, hence the acronym EU15+3.
+Nominal wageCore in˜ationReal productivityNominal wageCore in˜ationReal productivityEU15+3NMS (right scale)Figure 2.1. Wage Growth, Productivity, and In˜ationSources: Eurostat; Haver Analytics; IMF, World Economic Outlook Database; and IMF staff calculations.Note: NMS are newer EU members. EU15+3 are the long-standing EU members plus Israel, Norway, and Switzerland. Quarterly seasonally adjusted data are used and weighted by purchasing-power-parity GDP to aggregate across the two country groups. Real wage growth is measured as nominal wage growth minus the GDP de˜ator growth.2000:Q104:Q409:Q314:Q219:Q12000:Q104:Q409:Q314:Q219:Q1Œ44Œ2021. EU15+3: Nominal Wage, Prices and Productivity(Year-over-year percent change, 4-quarter moving average)2. NMS: Nominal Wage, Prices and Productivity(Year-over-year percent change, 4-quarter moving average)Œ5205010152000:Q1Œ07:Q408:Q1Œ16:Q417:Q1Œ19:Q100:Q1Œ07:Q408:Q1Œ16:Q417:Q1Œ19:Q13. Evolution of Growth in Labor Costs(Average annual productivity-adjusted real wage growth; percent)Œ0.10.40.10.00.20.3Œ1410232. Wage Growth and Inflation in Europe: A
+ Puzzle?
+14REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+growth averaged nearly 8˛percent in NMS since 
+the ˝rst quarter of 2017, and 2˛percent in other 
+European countries (EU15+3). As discussed in 
+Chapter˛1 of this Regional Economic Outlook,
+ the strengthening of wage growth has supported 
+domestic demand, namely consumption, and has cushioned the drag from slowing global trade on 
+aggregate activity in the region.
+2 In contrast, core 
+in˚ation remained, on average, below 2˛percent 
+in both groups of countries. In addition to 
+rising faster than prices of goods and services, 
+compensation costs have outpaced improvements 
+in labor productivity, especially in NMS 
+(Figure˛2.1, panel 3). Productivity-adjusted wage 
+growth in NMS has exceeded in˚ation by about 
+3˛percentage points on average since early 2017, 
+with even stronger growth in the 
+Czech Republic
+ and Hungary
+. In EU15+3, the gap between 
+productivity-adjusted wage growth and in˚ation 
+is smaller, at about 0.4˛percentage point, but still 
+sizeable compared to 2000Œ16. In several of these 
+countries (for example, Germany
+, Israel
+, Portugal
+), annual real wage growth exceeded productivity 
+gains by more than 1˛percentage point since the 
+beginning of 2017. ˜e apparent disconnect between wage and price 
+developments in Europe in the last few years is 
+puzzling. Economic theory suggests that if real 
+wage growth exceeds productivity gains, the higher 
+labor costs faced by businesses should eventually 
+raise the prices of the products and services they 
+provide. Labor costs constitute a large share of 
+business expenses in Europe: almost 50˛percent in 
+NMS and 53˛percent in EU15+3 countries. And 
+yet, in˚ation has remained stubbornly below target 
+in many countries, despite closing output gaps and rapid gains in productivity-adjusted wages in the 
+past three years. A variety of factors may explain 
+this puzzle. ˜e lack of in˚ationary pressures may 
+simply re˚ect delays in the transmission of wage 
+2In NMS, in particular, labor shortages have signi˝cantly 
+increased. In 2019, more than 40˛percent of ˝rms in NMS cited 
+labor shortages as a major factor limiting production, up from only 
+10˛percent in 2013. Estimated unemployment gaps also suggest that 
+labor markets are notably tight in NMS. For previous analyses of 
+drivers of wage growth, see Bonam and others (2019), Chapter˛2 of 
+the May 2018 
+Regional Economic OutlookŠEurope,
+ and Chapter˛2 of 
+the October 2017 
+World Economic Outlook
+, among others.
+developments to prices, suggesting a pickup in 
+in˚ation may be imminent. However, there might 
+have been structural changes to the way ˝rms 
+incorporate costs into their pricing decisions that has a˙ected the relationship between wage growth 
+and in˚ation. If ˝rms and workers expect low 
+in˚ation going forward, for example due to the 
+improved credibility of the central bank, ˝rms may 
+be reluctant to raise their prices even when faced 
+with higher wage costs as they expect increases in 
+costs to be only temporary. In such a situation, 
+the passthrough of higher wages to prices would 
+be muted due to lower expected persistence of 
+cost and price changes. Alternatively, the rise in 
+competition, either domestically or from abroad, 
+may have limited the ability of ˝rms to pass 
+cost increases to consumers for fear of losing 
+market share. Another important consideration 
+of a more cyclical nature is ˝rms™ pro˝tability, 
+which determines how much and how fast wage 
+growth feeds into prices. To the extent that ˝rms 
+have bu˙ersŠcomfortable pro˝t marginsŠthey 
+may be able to absorb higher wage costs without increasing prices.
+Understanding the extent to which these potential 
+explanations are behind the recent disconnect 
+between in˚ation and wage growth has important 
+implications for the in˚ation outlook in Europe 
+and the appropriate policy response.
+With this backdrop in mind, this chapter 
+examines the following key questions:
+Ł How large is the passthrough of labor costs to 
+in˚ation in Europe, and how long does it take 
+for wage growth to feed into prices?
+Ł Have there been notable changes in the extent 
+of passthrough over time?
+Ł What factors in˚uence the extent of passthrough? How is the passthrough shaped 
+by various country and sectoral characteristics?
+Analytical Approach˜is chapter examines the dynamic wage-price linkages while controlling for endogenous 
+152. W
+AGE GROWTH AND INFLATION
+ IN EUROPE: A˜
+PUZZLE?International Monetary Fund
+ | November 2019
+feedback e˙ects of import prices and labor market 
+slack to quantify the extent of passthrough 
+from wages to prices. ˜e historical empirical 
+relationship between year-over-year nominal wage 
+growth adjusted for trend productivity growth 
+and core consumer price in˚ation is examined 
+for a sample of 27 European countries since 1995 
+within a panel vector auto regression (PVAR) 
+framework. ˜e analysis estimates a four variable 
+PVAR, comprising import price in˚ation, nominal 
+wage growth adjusted for trend productivity 
+growth, core consumer price in˚ation, and 
+unemployment gap.
+3 Overall, this empirical 
+approach sheds light on the dynamic nature of 
+the passthrough from wages to in˚ation, while 
+embedding the traditional Philips curve dynamics 
+between wage growth, in˚ation, and labor market 
+slack; and capturing ˝rms™ labor and imported 
+input costs (see also Peneva and Rudd 2017; 
+Chapter˛2 of the May 2018 
+Regional Economic 
+OutlookŠEurope
+; and Bobeica and others 2019). ˜e baseline measure of wages is compensation per 
+employee. Conceptually, compensation per hour 
+worked may be more relevant for ˝rms™ pricing 
+decisions if companies rely on temporary workers 
+or are able to reduce hours and then pay only for 
+hours worked. However, hours worked tend to 
+be measured with more noise, and compensation 
+per hours worked data are not available for all 
+countries in the sample (OECD 2009).To examine the role of various factors in shaping 
+the extent of passthrough, the chapter uses an 
+extension of the PVAR model known as the 
+interacted-PVAR (IPVAR) model. ˜e IPVAR 
+speci˝cation allows the response of the variables of 
+interest to shocksŠthat is, response of in˚ation to 
+3˜e regressions use quarterly data, include four lags of each 
+variable, and utilize Cholesky ordering, meaning that the variables 
+are included in the model in the decreasing order of exogeneity. 
+Import prices are assumed to be the most exogenous and the 
+unemployment gap the most endogenous. Wage growth is assumed 
+to have an immediate impact on in˚ation, but wages are assumed 
+to take at least a quarter to respond to consumer price movements. 
+˜e main results presented in this chapter are robust to alternative 
+ordering of the variables within the PVAR and to measuring labor 
+cost as compensation per hour worked instead of compensation per 
+employee. Following Peneva and Rudd (2017), nominal wage growth 
+is adjusted for trend productivity growth to minimize measurement 
+errors associated with the estimation of actual productivity growth. 
+See Online Annex˛2.1 for technical details.
+a wage shockŠto vary depending on observable 
+state variables (Towbin and Weber 2013). By 
+using the full sample of countries and periods, the IPVAR approach has greater statistical power 
+to detect di˙erences in the degree of passthrough 
+when country characteristics change over time. 
+It is worth noting that the analysis examines the 
+role of each factor separately. Quantifying the 
+relative importance of di˙erent factors is diˆcult 
+within the IPVAR framework, given the limited 
+country sample and time-period covered, as it 
+requires suˆcient heterogeneity across factors. 
+To the extent possible, the chapter attempts to 
+examine whether these state-dependent di˙erences 
+also hold within the NMS subsample, where the 
+disconnect between wage growth and in˚ation 
+has been most pronounced. ˜e link between 
+wage growth and in˚ation in selected NMS at the 
+sectoral level is also examined in Box˛2.1.
+When discussing the ˝ndings of the IPVAR 
+analysis, the chapter reports the cumulative 
+response of in˚ation to a wage growth shock after 
+12 quarters in the high versus low passthrough 
+regime of the interacting variable, when the latter 
+is a dummy (for example, pre- versus post-global 
+˝nancial crisis, or high versus low in˚ation 
+environment), or at the 25th and 75th percentile 
+of the interacting variable, when the latter is 
+continuous (for example, in˚ation expectations anchoring, corporate pro˝tability, labor share, and 
+product market regulation).
+4Wage Growth Leads to 
+˜e analysis suggests that, historically, in the 
+sample of European countries, wage growth leads 
+to higher core in˚ation after several quarters. 
+˜e initial impact of a wage shock on in˚ation is rather small, but it builds up over time, peaking 
+after about six quarters before slowly dissipating 
+(Figure˛2.2, panels 1˛and˛2). After three years, the 
+cumulative impact of a 1˛percentage point increase 
+4Unless otherwise speci˝ed, the 25th and 75th percentiles of the 
+interacting variables are taken from an unconditional distribution 
+(that is, from all countries and all time periods).
+16REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+in wages is 1.1˛percentage point higher in˚ation 
+in NMS and 1˛percentage point higher in˚ation 
+in other European countries. Taking into account 
+the dynamic response of wages to their own shock 
+over this time period, the impact on in˚ation is 
+a˛fraction of the impact on wages (Figure˛2.2, 
+panel˛3). Overall, the passthrough ratioŠde˝ned 
+as the ratio between the cumulative change in 
+prices and the cumulative change in wagesŠis 
+about a third.
+The Passthrough Has Weakened in Recent Years
+˜e passthrough of labor costs into core 
+in˚ation seems to have weakened after the global 
+˝nancial crisis. ˜e results obtained using the 
+IPVAR framework indicate that after 2009, the 
+cumulative impact of wage growth on European 
+core in˚ation has decreased, with the passthrough 
+ratio declining to less than 20˛percent (Figure˛2.3, 
+panels 1 and 2, section˛A). ˜ese results 
+corroborate recent empirical literature ˝ndings 
+for the United States
+ (Peneva and Rudd 2017) and 
+several 
+Central, Eastern, and Southeastern European 
+countries (De˛Luigi and others 2019), but are in 
+contrast to the results reported for the four largest 
+euro area
+ economies by Bobeica and others (2019; 
+see the next section for discussion). Why would the relationship between labor costs 
+and in˚ation change over time? ˜e next section 
+examines the role of in˚ation and in˚ation 
+expectations; domestic and foreign competition; 
+corporate pro˝tability; and workers™ share of the 
+value ˝rms create in determining the size of the 
+wageŒin˚ation passthrough.
+5The Role of Various Factors
+6˜e post-global ˝nancial crisis decline in the strength of the passthrough could potentially be 
+due to the subdued in˚ationary environment that 
+has characterized the last decade. If persistently 
+low in˚ation since the 2008 global ˝nancial crisis 
+5For an alternative explanation of the weaker post-crisis 
+passthrough from wage growth to in˚ation, which focuses on the 
+role of the cumulative real wage gap, see Voinea (2019).
+6˜is section draws on Huidrom and others (forthcoming).
+0510152005101520Wages to in˜ationWages to wagesPassthrough ratio (right scale)Sources: Eurostat; Haver Analytics; Organisation for Economic Co-operation and Development; IMF, World Economic Outlook; and IMF staff calculations.Note: NMS are newer EU members. EU15+3 are the long-standing EU members plus Israel, Norway, and Switzerland. In panels 1 and 2, t = 1 is the quarter of the shock. Shaded areas denote the two standard deviation con˚dence bands. Shocks represent an exogenous 1 percentage point increase in wages.Œ0.050.250.050.000.150.100.20Œ0.050.250.050.000.150.100.201. EU15+3: Impulse Response of Core In˜ation to a Wage Shock(Percentage points)2. NMS: Impulse Response of Core In˜ation to a Wage Shock(Percentage points)EU15+3NMS3. Cumulative Impulse Response to a Wage Shock(Three years cumulative; percent)05213405020103040Figure 2.2. Response of Core In˜ation to a Wage Shock(Quarters on the horizontal axis)172. W
+AGE GROWTH AND INFLATION
+ IN EUROPE: A˜
+PUZZLE?International Monetary Fund
+ | November 2019
+re˚ects persistently lower in˚ation expectations in 
+the euro area
+ and other advanced economies
+, ˝rms may have changed their price-setting behavior.
+Intuitively, if ˝rms expect low in˚ation, they are 
+likely to perceive cost increases as transitory and 
+may be reluctant to pass higher labor costs onto 
+consumers since they expect their competitors to hike their prices only moderately (Taylor 
+2000). ˜us, price stability, for example due to 
+improved in˚ation expectations anchoring, is 
+likely to reduce the sensitivity of in˚ation to wage 
+growth.
+7 Downward nominal wage rigidities 
+also tend to be more binding in a low-in˚ation 
+environment (Daly and Hobijn 2014). Conversely, 
+cost increases are likely to be perceived as more 
+persistent in countries with high in˚ation and higher in˚ation expectations, in which case 7Similarly, empirical literature has established that lower overall 
+in˚ation and better-anchored in˚ation expectations limit the 
+passthrough of currency depreciations to domestic prices. See 
+Chapter˛3 of the October 2018 
+World Economic Outlook
+, and refer
+-ences therein.
+wage growth and in˚ation would be more 
+closely linked.To shed light on this mechanism, the chapter 
+performs two complementary exercises. First, it 
+examines whether the link between wage growth 
+and in˚ation depends on the prevailing in˚ation 
+rate in the economy.
+8 It then directly examines 
+the role of in˚ation expectations anchoring in 
+shaping the responsiveness of core in˚ation to 
+wage growth.
+˜e ˝rst analysis, which relies on the IPVAR 
+empirical framework, uncovers a tight relationship 
+between the prevailing in˚ation rate and the 
+extent of passthrough from wages to core in˚ation: 
+the impact of labor cost increases on prices 
+8Although the prevailing core in˚ation rate is a crude proxy of 
+in˚ation expectations anchoring, the analysis allows for the largest 
+possible estimation sample given its limited data requirements. See 
+Chapter˛3 of the October 2018 
+World Economic Outlook
+ for a discus
+-sion of the role of improvements in in˚ation expectations anchoring 
+in lowering in˚ation across emerging markets. ˜e chapter also 
+discusses policies that contributed to improved anchoring.
+Low passthrough regimeHigh passthrough regimeLow passthrough regimeHigh passthrough regimeHigh relative price of investment*Corporate pro˜tabilityF. High pro˜t shares*Low pro˜t shares*High labor share*G. Low labor share*H. Low relative price of investment*In˚ation expectationsC. Well-anchored expectationsPoorly-anchored expectationsCompetitionD. Industrial goods in˜ationServices in˜ationE. Low product market regulationHigh product market regulationB. Low core in˚ation*High core in˚ation*Over timeA. After 2009*Before 2009*Figure 2.3. Cumulative Response of Core In˚ation to a Wage Shock after Three Years1. Cumulative Impulse Responses(Percentage points)2. Passthrough Ratio(Percent)Sources: Bems and others (2018); Eurostat; Haver Analytics; IMF, World Economic Outlook; Organisation for Economic Co-operation and Development, Product Market Regulation Indicators database; Penn World Table 9.1; and IMF staff calculations and estimates.Note: Panel 1 reports the cumulative impulse responses of in˜ation to a 1 percent wage shock at the end of three years. Panel 2 reports the passthrough ratios of that shock at the end of three years. Estimates in section D are obtained from panel vector autoregressions (PVAR) that use industrial goods in˜ation and services in˜ation instead of core in˜ation. Other estimates are obtained from interacted PVAR (IPVAR). Statistically signi˚cant differences at the 95 percent level are denoted by starred and bolder labels.0123High relative price of investmentCorporate pro˜tabilityF. High pro˚t sharesLow pro˚t sharesHigh labor shareG. Low labor shareH. Low relative price of investmentIn˚ation expectationsC. Well-anchored expectationsPoorly-anchored expectationsCompetitionD. Industrial goods in˜ationServices in˜ationE. Low product market regulationHigh product market regulationB. Low core in˚ation*High core in˚ation*Over timeA. After 2009Before 20090102030504018REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+is systematically lower and slower in periods 
+of below-average in˚ation. In a low-in˚ation 
+environment, de˝ned as periods during which 
+core in˚ation is below the country average, 
+a˛1˛percentage point wage increase raises in˚ation 
+by a cumulative 0.3˛percentage point over three 
+years, with an estimated passthrough ratio of 
+only 11˛percent (Figure˛2.3, panels 1 and 2, 
+section B). In a high-in˚ation environment, 
+de˝ned as periods during which in˚ation is above 
+the country average, the cumulative impact is 
+three times higher, with a passthrough ratio of 
+about 30˛percent.
+A similar pattern is revealed using a direct measure 
+of the degree of in˚ation expectations anchoring. 
+˜e analysis employs a newly constructed index 
+of in˚ation expectations anchoring developed 
+by Bems and others (2018; see also Chapter˛3 
+of the October 2018 
+World Economic Outlook
+). ˜e metric employed in this chapter measures 
+the deviation of long-term in˚ation forecasts 
+produced by professional analysts from the central 
+bank™s target.
+Intuitively, if in˚ation expectations are well 
+anchored, predictions of future in˚ation should 
+be, on average, close to the target pursued by 
+the central bank. According to this metric, 
+long-term in˚ation expectations are generally 
+well-anchored in Europe. While two-year in˚ation 
+expectations are somehow higher in NMS than in 
+other European countries (Figure˛2.4, panel˛1), 
+anchoring has improved signi˝cantly during the 
+past two decades, in line with trends observed in 
+other emerging economies. In contrast, in˚ation 
+expectations have been broadly stable in EU15+3 
+countries and, in fact, have remained stubbornly 
+low in the 
+euro area
+Šbelow the European Central 
+Bank™s targetŠfor several years after the global 
+˝nancial crisis, indicating some de-anchoring of expectations.9˜e empirical results point to the wage-to-in˚ation 
+passthrough being dependent on the anchoring of 
+9˜e in˚ation anchoring metric treats the positive and negative 
+deviations of in˚ation expectations from the target in the same way. 
+Lack of suˆcient data precludes analyzing the extent of passthrough 
+when in˚ation expectations remain below the target.
+in˚ation expectations. Across all sample countries, 
+labor cost increases have a more muted impact on 
+in˚ation when in˚ation expectations are better 
+anchored, as captured in the metric constructed by 
+Bems and others (2018; see Figure˛2.4, panel 2). 
+A 1˛percentage point wage increase raises in˚ation 
+by a cumulative 0.9˛percentage point during the 
+three-year period when the impulse response is 
+evaluated at the 75
+th percentile of the distribution 
+of the measure of in˚ation expectations anchoring. 
+˜is impact increases by about a halfŠto 
+1.4˛percentage pointŠwhen in˚ation expectations 
+are weakly anchored (that is, when the cumulative 
+impulse response is evaluated at the 25
+th percentile 
+of the distribution of in˚ation expectations anchoring). ˜e passthrough ratio is also smaller 
+NMSIn˜ation targetEU15+3NMSEU15+3Sources: Bems and others (2018); Consensus Forecast; IMF, World Economic Outlook; and IMF staff calculations.Note: NMS are newer EU members. EU15+3 are the long-standing EU members plus Israel, Norway, and Switzerland. Data are weighted by purchasing-power- parity GDP to aggregate across the two country groups.1Normalized indicator such that higher numbers indicate that in˜ation expectations are better anchored.2000:Q104:Q409:Q314:Q219:Q10954321768200005101519Œ0.40.40.0Œ0.20.21. Two-year In˜ation Expectations(Year-over-year percent change)2. In˜ation Expectations Anchor1(Root mean squared deviation between 3-year forecast and target)Figure 2.4. In˜ation Expectations and Anchoring192. W
+AGE GROWTH AND INFLATION
+ IN EUROPE: A˜
+PUZZLE?International Monetary Fund
+ | November 2019
+when expectations are anchored within a low 
+range (Figure˛2.3, panels 1 and 2, section C).
+˜is ˝nding is even stronger in the NMS 
+subsample, where in˚ation expectations became 
+signi˝cantly better anchored in the 2000s. In fact, 
+the improved anchoring of in˚ation expectations 
+may be an important reason why the passthrough 
+has declined over time in the sample countries 
+analyzed in this chapter, as well as in several 
+Central, Eastern, and Southeastern European 
+countries studied by De˛Luigi and others (2019). 
+In contrast, in the four largest 
+euro area
+ countries studied by Bobeica and others (2019), the degree 
+of anchoring of in˚ation expectations remained 
+relatively unchanged (Figure˛2.4, panel 2), with 
+in˚ation expectations even drifting below target in 
+recent years (Figure˛2.4, panel˛1).
+10The Role of CompetitionFirms™ pricing strategies depend to a signi˝cant 
+extent on their exposure to competition, either 
+domestic or from abroad (Lamo and Smets 2009). 
+In a more competitive environment, ˝rms may 
+be reluctant to pass cost increases onto consumers 
+due to fear of losing market share to competitors 
+or being driven out of the market (see, for 
+example, Carney 2015, and Obstfeld 2019).
+11 ˜ree pieces of analysis in this chapter suggest the 
+important role of competition in shaping the link 
+between wage growth and in˚ation.
+Europe is one of the world™s regions most open 
+to international trade and most deeply integrated in global supply chains (see Huidrom and others 
+2019). Yet, the numbers hide dramatic di˙erences 
+in exposure to foreign competition across sectors 
+10˜e di˙erence could also be due to a long-term restriction 
+imposed by Bobeica and others (2019) that the gap between 
+productivity-adjusted nominal wage growth and price in˚ation must 
+disappear in the long-term. ˜e analyses in this chapter do not 
+impose such a restriction.
+11So far, there are limited signs of loss of competitiveness in the 
+tradeable sector despite the faster growth in wages relative to pro
+-ductivity. In the NMS, still-strong domestic demand generally led to 
+a small deterioration in current account balances, but market shares 
+have generally held up well.
+of the economy. Import penetrationŠmeasured 
+as the ratio of ˝nal imports to sectoral gross value 
+addedŠis about 60˛percent in the manufacturing 
+sector (Figure˛2.5, panel 1). In˛contrast, in the 
+services sector, the import penetration ratio is 
+less than 5˛percent. ˜ese patterns are consistent 
+with higher barriers to trade in services, relative 
+to the manufacturing sector, as discussed in Boz 
+and others (2019). As a result of higher exposure 
+to foreign competition, non-energy industrial 
+goods prices tend to be closely correlated with 
+producer prices in other countries (Carney 2017, 
+Forbes 2019).
+12 One would also expect a lower 
+wage-to-in˚ation passthrough in this sector 
+relative to services. 
+Indeed, the analysis con˝rms that higher 
+economy-wide wage growth is more likely to lead 
+to higher growth in services prices, relative to 
+non-energy industrial goods™ prices, which re˚ect 
+mostly prices of manufactured goods (Figure˛2.3, 
+panels 1 and 2, section D; Figure˛2.5, panel 
+2). PVAR regressions suggest that in EU15+3 
+countries, the extent to which economy-wide wage growth feeds into services in˚ation is nearly 
+two times stronger than the impact of wage 
+growth on non-energy industrial goods in˚ation. 
+In NMS, prices of services are about four times 
+more responsive to wage increases compared to 
+manufacturing prices.A more granular sectoral analysis con˝rms the 
+potentially important in˚uence of exposure 
+to competitive pressures for the wageŒprice 
+link. Using annual data on producer prices, 
+productivity-adjusted wage growth, imports, and 
+output across 55˛sectors in 32 European countries 
+during 2000Œ14 from the World Input Output 
+Database (WIOD) and Johnson and Noguera 
+(2017), panel regressions reveal that the correlation 
+between sectoral wage growth and growth in 
+sectoral value-added de˚ators is signi˝cantly 
+higher in sectors that have lower import 
+12˜e analysis examines the two key components of core in˚ation: 
+services and non-energy industrial goods price in˚ation. ˜e latter 
+captures predominantly products of the manufacturing sector.
+20REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+penetration.13 ˜is pattern holds even when 
+restricting the analysis to the 19˛manufacturing 
+sectors included in the WIOD. ˜is ˝nding is 
+in line with Bobeica and others (2019), who examine di˙erences in the passthrough of wage 
+growth to in˚ation in three broad sectors (namely, 
+construction, manufacturing, and services) in 
+Germany
+, France
+, Italy
+, and Spain
+. ˜ree out 
+of those four economies have somewhat larger 
+passthrough of wage growth to in˚ation in the 
+less-traded services sectors. Box˛2.1 documents 
+a similar pattern for a subsample of NMS, and demonstrates that even within the subsamples 
+of manufacturing and services sectors, higher 
+foreign competition is associated with a lower 
+responsiveness of producer prices to wages.
+Finally, the chapter also ˝nds some empirical 
+evidence that more ˝erce domestic product 
+market competition is associated with a somewhat 
+lower passthrough of wage growth to in˚ation. 
+Anecdotally, EU ˝rms that participated in 
+the European Central Bank™s Wage Dynamics 
+Network Surveys were more likely to indicate 
+their preference to reduce other costs rather than 
+increase prices in response to wage shocks when 
+operating in a more competitive environment 
+(Bertola and others 2012). IPVAR regressions 
+based on OECD™s product market regulation 
+(PMR) indices (shown in Figure˛2.5, panel˛3) 
+also suggest that more vibrant product market 
+competition and fewer barriers to entry mute the 
+sensitivity of consumer prices to wage increases. 
+˜e passthrough of wage growth to in˚ation is 
+marginally higher when evaluated at the 75th 
+percentile of a country™s PMR score (that is, 
+in countries with higher regulatory barriers in 
+product markets) than at the 25th percentile of the 
+PMR index (Figure˛2.3, panels 1 and 2, section E). 
+At a sectoral level, Box˛2.1 also ˝nds that stronger 
+domestic competition, as captured by the Lerner 
+13Due to the lower frequency and limited time coverage of the 
+data, the analysis relies on panel regressions, which model growth in 
+sectoral value-added de˚ators as a function of its lag and growth in 
+productivity adjusted sectoral wage growth, controlling for countryŒ
+sector and countryŒyear ˝xed e˙ects. ˜e latter capture the e˙ect of 
+all country-speci˝c time-varying shocks, such as changes in in˚ation 
+expectations, economic slack, commodity price shocks, and the like. 
+See Online Annex˛2.2 for further details.
+Services in˜ationCore in˜ationNon-energy industrial goodsServicesManufacturingEU15+3NMSSources: Eurostat; Haver Analytics; Johnson and Noguera (2017) based on World Input-Output Database; IMF, World Economic Outlook; Organisation for Economic Co-operation and Development; and IMF staff calculations.Note: NMS are newer EU members. EU15+3 are the long-standing EU members plus Israel, Norway, and Switzerland. Data are weighted by purchasing-power- parity GDP to aggregate across the two country groups. Higher product market regulation index indicates higher regulatory barriers.EU15+3NMSEU15+3NMS0703020105040601. Final Sectoral Imports, 2014(Percent of sectoral gross value added)2. Passthrough Ratio of Wages to In˜ation(Three years cumulative; percent)3. Product Market Regulation(Index)1998132003080.02.5Higher degree of regulation1.00.51.52.0Figure 2.5. Foreign and Domestic Competition01020304050212. W
+AGE GROWTH AND INFLATION
+ IN EUROPE: A˜
+PUZZLE?International Monetary Fund
+ | November 2019
+Index, weakens the link between wage growth and 
+producer prices in the services sector.
+˜is ˝nal section examines the relationship 
+between corporate pro˝tability and the labor 
+costŒin˚ation passthrough. Firms with higher 
+pro˝t margins have room to absorb a higher wage 
+bill without passing the cost onto consumers, for example, to retain market share. Overall, 
+economy-wide pro˝t shares remain high in 
+Europe, and in NMS in particular (Figure˛2.6, 
+panel 1). At the end of 2018, corporate 
+pro˝ts amounted to 47˛percent of gross value 
+added in NMS and 40˛percent in EU15+3 
+countries.14 However, the recent increase in 
+productivity-adjusted wages went hand-in-hand 
+with a decline in corporate pro˝t shares. Since 
+the beginning of 2017, corporate pro˝ts declined 
+each year by about 1˛percent of gross value added 
+in NMS economies and 0.3˛percent in˛other 
+European countries. ˜is pattern suggests that 
+˝rms are indeed using their pro˝t bu˙ers to absorb 
+the faster wage growth, rather than passing the 
+higher labor costs to their clients.15 ˜e IPVAR analysis con˝rms the inverse 
+association between the corporate pro˝t share and 
+the wage-to-in˚ation passthrough. In countries 
+and periods when the economy-wide corporate sector pro˝t share is relatively high, a signi˝cantly 
+smaller share of wage growth ˝nds its way into 
+consumer price in˚ation (Figure˛2.3, panels 1 
+and 2, section˛F). A 1˛percentage point increase 
+in labor costs leads to a cumulative increase in 
+in˚ation of only 0.7˛percentage point during 
+the three-year period, when evaluated at the 
+75th percentile of the distribution of corporate 
+pro˝tability. When corporate pro˝ts are relatively 
+thin (when pro˝ts are at the 25th percentile of the 
+distribution of corporate pro˝tability), the impact 
+14In contrast, corporate pro˝ts account for only a third of gross 
+value added in the United States.
+15Admittedly, this pattern is to be expected: higher wages, unless 
+accompanied by employment cuts, will have to translate into lower 
+pro˝ts as a matter of accounting, absent any changes to the ˝rm™s 
+production technology or other inputs™ costs.
+of wage growth on in˚ation is 2.5 times higher, 
+with a somewhat stronger passthrough.
+Rising corporate pro˝t shares mirror the 
+declining share of income that goes to workers. As 
+highlighted in Chapter˛3 of the April 2017 
+World 
+Economic Outlook
+, the labor share of income has 
+been on a downward trend in many countries 
+since the 1990s. A low labor share means that 
+wage developments matter less for in˚ation. ˜e 
+IPVAR regressions con˝rm this observation, 
+with the cumulative impact of wage increases on 
+in˚ation in a low labor share regime very similar 
+to the high corporate pro˝t regime (Figure˛2.3, 
+panels 1 and 2, section G).Finally, enhanced access to relatively cheaper and 
+potentially higher-quality inputs, for example investment goods, allows ˝rms to pay higher 
+NMSEU15+3NMSEU15+3Figure 2.6. Corporate Pro˜tability and Other Costs2. Relative Price of Investment, 1995Œ2017
+(Year-over-year percent change)
+1. Corporate Pro˜tability
+(Corporate pro˜t as percent of GVA)
+3640444852Œ2204681012199597992001030507091113151719:Q12000:Q104:Q409:Q314:Q2Sources: Eurostat; Haver Analytics; IMF, 
+World Economic Outlook
+; Penn World Table 
+9.1; and IMF staff calculations.
+Note: NMS are newer EU members. EU15+3 are the long-standing EU members 
+plus Israel, Norway, and Switzerland. Data are weighted by purchasing-power-
+parity GDP to aggregate across the two country groups. GVA = gross value added.
+22REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+wages without raising prices (Andrews and others 
+2018). ˜e relative prices of machinery and 
+equipment have declined markedly since the 
+1990s (Figure˛2.6, panel˛2; and Chapter˛3 of the 
+April 2019 
+World Economic Outlook
+). ˜is is also linked to a more muted wage growthŒin˚ation 
+passthrough (Figure˛2.3, panels 1 and 2, section 
+H). More broadly, as the exercise discussed 
+above demonstrates, healthy aggregate corporate 
+pro˝tability and an increase in competition are 
+not necessarily incompatible. Many factors may 
+support corporate pro˝ts, even as wages rise, such 
+as access to cheaper intermediate inputs, lower 
+taxation or ˝nancing costs, the adoption of new 
+technologies that may reduce the demand for 
+labor, and the like.
+Conclusions and Policy Labor markets remain strong in Europe, despite 
+some recent softening discussed in Chapter˛1. 
+Wage growth has risen above productivity gains, 
+especially in NMS, yet signs of underlying 
+consumer price pressures remain limited. ˜is 
+chapter explored several factors that in˚uence 
+the strength of the passthrough of wage growth 
+to in˚ation.˜e evidence presented in this chapter suggests 
+that, historically, wage growth has been an 
+important determinant of price developments in 
+Europe. ˜e cumulative impact of a 1˛percentage 
+point increase in wages is 1.1˛percentage point 
+higher in˚ation in European countries at the end 
+of three years. ˜e overall passthrough ratio, which 
+takes into account the response of wages to their 
+own increases, is about a third.
+However, there are several reasons to expect the 
+recent pickup in wage growth to have a more 
+muted impact on in˚ation than in the past. ˜e chapter ˝nds that the passthrough of wage growth 
+to in˚ation is weaker when in˚ation and in˚ation 
+expectations are subdued, corporate pro˝tability 
+is higher, and ˝rms are exposed to ˝ercer 
+competition.What do these ˝ndings mean for the in˚ation outlook and the appropriate policy response? 
+As discussed above, a number of cyclical (for 
+example, in˚ation, corporate pro˝tability) and 
+structural (such as the degree of competition) 
+factors shape the responsiveness of in˚ation 
+to wage developments. Currently, in˚ation 
+and in˚ation expectations are near historical 
+lows for three quarters of European economies 
+(Figure˛2.7). Corporate pro˝tability is still healthy. 
+In NMS, corporate pro˝t shares have started to 
+decline, consistent with ˝rms letting their pro˝t 
+margins absorb the rise in labor costs, rather than passing these costs onto consumers. However, 
+corporate pro˝tability remains high from a 
+historical perspective and signi˝cantly above that 
+of EU15+3. Finally, ˝rms continue to report very 
+high levels of competition for their products. 
+Despite the comfortable pro˝t margins at the 
+2019 or latest2000 or earliestFigure 2.7. Factors Pointing to Low WageŒIn˜ation Passthrough Ratio (Percent of total countries)Sources: Bems and others (2018); Eurostat; Haver Analytics; IMF, World Economic Outlook; Organisation for Economic Co-operation and Development; Penn World Table 9.1; and IMF staff calculations.Note: The bars represent the share of European countries in the sample that havecore in˜ation above the long-term country average; the metric of in˜ationexpectations anchoring and corporate pro˚tability in the top 75th percentile; andother variables in the bottom 25th percentile.050100Low in˜ationWell-anchored in˜ationexpectationsLow labor share ofincomeLow product marketregulationHigh corporatepro˚tabilityLow relative price ofinvestment232. W
+AGE GROWTH AND INFLATION
+ IN EUROPE: A˜
+PUZZLE?International Monetary Fund
+ | November 2019
+aggregate level, more than two-thirds of ˝rms 
+report increased competitive pressures compared 
+to the precrisis era according to the latest Wage 
+Dynamics Network Survey. All of these factors 
+suggest that it is unlikely that the recent increase 
+in wage growth will meaningfully spur in˚ation 
+in the near term. ˜ese ˝ndings support the 
+need for monetary policy in many European 
+countries to remain accommodative for longer 
+in order to guard against a downshift in in˚ation 
+expectations, as discussed in Chapter˛1. However, 
+as the prolonged period of accommodative 
+˝nancial conditions may have created an 
+environment conducive to greater risk taking, 
+policy makers need to remain vigilant and guard 
+against further buildup of ˝nancial vulnerabilities 
+and other undesirable side e˙ects, as discussed in Chapter˛1 of the October 2019 
+Global Financial 
+Stability Report
+. 24REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+Industry-based
+ analysis reveals a strong link between sectoral wage growth and producer prices across 
+70˛industries in eight of the European Union™s newer member states (NMS) during 1995Œ2016.
+1,2 ˜is box 
+presents estimates based on the Organisation for Economic Co-operation and Development™s Structural 
+Analysis (STAN) Database, which includes 22 industries in the manufacturing sector and 40˛industries in 
+the services sector. ˜e impact of wage growth on producer prices at the sectoral level is estimated using 
+error-correction mean-group autoregressive distributed lag regressions since the annual frequency of the 
+available data does not provide suˆcient time variation needed for the estimation of a panel vector auto 
+regression (PVAR) model. Overall, a˛1˛percentage point increase in unit labor costs is found to increase 
+producer prices by 0.9˛percentage point after three years. ˜is cumulative increase is the smallest in 
+Poland
+ and Hungary
+ at about 0.5˛percentage point, and the largest in 
+Latvia at 1.3˛percentage points.
+3˜e transmission of wage increases to sectoral prices is stronger in the services sector compared to 
+manufacturing industries, and in times of economy-wide excess demand. On average, the cumulative 
+response of sectoral in˚ation to wage increases reaches 0.7˛percentage point in manufacturing and is close 
+to 1˛percentage point in services. ˜e impact of labor compensation on producer prices is much stronger 
+when the economy-wide output gap is positive, and more so in services. When the economy operates above 
+potential, the response of price in˚ation in the services sector to a 1˛percentage point increase in wage 
+growth exceeds˛1. In times of excess supply, labor compensation™s impact on prices is much more muted 
+(Figure˛2.1.1). ˜is result mirrors the economy-wide ˝nding of a signi˝cantly higher passthrough of wage 
+growth to in˚ation in a high-in˚ation environment (Figure˛2.3, panels 1 and 2, section B). 
+Greater exposure to competition is associated with a weaker link between wage hikes and sectoral in˚ation. 
+˜e role of competition is examined in subsamples of countryŒindustry groups exposed to either higher- or 
+lower-than-average intensity of competition within each sector. Firms in the services sector with greater 
+domestic market power, as captured by the Lerner Index, tend to fully pass the cost of higher wages onto their 
+consumers. In contrast, ˝rms with lower market power limit price increases to only two-thirds of wage hikes. 
+In the manufacturing sector, the evidence on the role of domestic market power is less clear-cut. Exposure 
+to foreign competition also a˙ects the responsiveness of producer prices to wage growth. ˜e passthrough 
+appears smaller in sectors that are more exposed to foreign competition, as captured in the ratio of imports of 
+goods or services for ˝nal consumption to sectoral gross output.
+˜is box was prepared by Volodymyr Tulin.
+1˜e analysis is based on the following countries: the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, the Slovak 
+Republic, and Slovenia. Bulgaria, Croatia, and Romania are excluded due to data limitations.
+2For the Baltics, output volume is proxied by real value-added.
+3˜is result is not fully comparable to the average economy-wide cumulative impact in NMS (Figure˛2.2), since the regressions in 
+this box do not account for the dynamic response of wages to either their own shock during the time period or their relationship with 
+prices due to insuˆcient time variation in the annual data used in this analysis.
+
+252. W
+AGE GROWTH AND INFLATION
+ IN EUROPE: A˜
+PUZZLE?International Monetary Fund
+ | November 2019
+Positive output gapNegative output gapHigh market powerLow market powerLow exposureHigh exposureSources: IMF, World Economic Outlook; Organisation for Economic Co-operation and Development, Structural Analysis Database; and IMF staff calculations.Note: Firms™ market power is measured using the Lerner Index, which is constructed as the priceŒcost margin (Roeger 1995). High market power is an indicator that takes the value of 1 when the Lerner Index exceeds the sectoral average. Firms™ exposure to foreign trade is measured as the share of imports of goods and services used for ˜nal consumption relative to total gross output of the industry. Subsamples are partitioned into high or low regimes by median values within the two sectors in 2000, except for import of services, where a doubled threshold is chosen since median exposure is low.Figure 2.1.1. Cumulative Response of Producer Prices to Changes in Labor Costs(Three-year cumulative; percent)0180150120906030ManufacturingServicesManufacturingServicesServicesManufacturingCyclical positionMarket powerForeign trade exposureBox 2.1 (continued)26REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2019
+ReferencesAndrews, Dan, Peter Gal, and William Witheridge. 2018. 
+ﬁA Genie in a Bottle? Globalisation, Competition and 
+In˚ation.ﬂ OECD Economics Department Working Papers 
+No. 1462, Organisation for Economic Co-operation and 
+Development, Paris.
+Bems, Rudolfs, Francesca Caselli, Francesco Grigoli, Bertrand 
+Gruss, and Weicheng Lian. 2018. ﬁExpectations™ Anchoring 
+and In˚ation Persistenceﬂ. IMF Working Paper 18/280, 
+International Monetary Fund, Washington, DC.
+Bertola, Guiseppe, Aurelijus Dabusinskas, Marco Hoeberichts, 
+Mario Izquierdo, Claudia Kwapil, Jeremi Montornès, and 
+Daniel Radowski. 2012. ﬁPrice, Wage and Employment 
+Response to Shocks: Evidence from the WDN Survey.ﬂ 
+Labour Economics
+ 19: 783Œ791.Bobeica, Elena, Matteo Ciccarelli, and Isabel Vansteenkiste. 
+2019. ﬁ˜e Link between Labor Cost and Price In˚ation in 
+the Euro Area.ﬂ ECB Working Paper No. 2235, European 
+Central Bank, Frankfurt am Main.
+Bonam, Dennis, Gabriele Galati, Irma Hindrayanto, Marco 
+Hoeberichts, Anna Samarina, and Irina Stanga. 2019. 
+ﬁIn˚ation in the Euro Area since the Global Financial 
+Crisis.ﬂ DNB Occasional Studies 17Œ3, De Nederlandsche 
+Bank, Amsterdam.
+Boz, Emine, Nan Li, and Hongrui Zhang. 2019. ﬁE˙ective Trade 
+Costs and the Current Account: An Empirical Analysis.ﬂ 
+IMF Working Paper 19/8, International Monetary Fund, 
+Washington, DC.
+Carney, Mark. 2015. ﬁIn˚ation in a Globalised World.ﬂ 
+Speech at Economic Policy Symposium in Jackson Hole, 
+WY, August 29.
+Carney, Mark. 2017. ﬁ[De] Globalisation and In˚ation.ﬂ 
+2017 IMF Michel Camdessus Central Banking Lecture. 
+Washington, DC.
+Daly, Mary C., and Bart Hobijn. 2014. ﬁDownward Nominal 
+Wage Rigidities Bend the Phillips Curve.ﬂ 
+Journal of Money, 
+Credit and Banking,
+ Supplement to Vol. 46(2).
+De Luigi, Clara, Florian Huber, and Josef Schreiner. 2019. ﬁ˜e 
+Impact of Labor Cost Growth on In˚ation in Selected CESEE 
+Countries.ﬂ 
+Focus on European Economic Integration
+ Q4/19, Austrian National Bank, Vienna.
+Draghi, Mario. 2019. ﬁMonetary Policy in the Euro Area.ﬂ 
+Speech at the conference 
+˜e ECB and Its Watchers
+, Frankfurt 
+am Main, March 27.
+Forbes, Kristin. 2019. ﬁIn˚ation Dynamics: Dead Dormant, or 
+Determined Abroad?ﬂ Brookings Papers on Economic Activity, 
+Conference Drafts, September 2019.
+Huidrom, Raju, Nemanja Jovanovic, Carlos Mulas-Granados, 
+Laura Papi, Faezeh Raei, Emil Stavrev, and Philippe 
+Wingender. 2019. ﬁTrade Tensions, Global Value Chains, and 
+Spillovers: Insights for Europe.ﬂ IMF Departmental Paper 
+19/10, International Monetary Fund, Washington, DC.
+Huidrom, Raju, Nemanja Jovanovic, and Emil Stavrev. 
+Forthcoming. ﬁWage Passthrough to In˚ation: ˜e Role of 
+Anchoring of In˚ation Expectations.ﬂ IMF Working Paper, 
+International Monetary Fund, Washington DC.
+International Monetary Fund (IMF). 2017a. ﬁUnderstanding the 
+Downward Trend in Labor Income Shares.ﬂ Chapter˛3 of the 
+World Economic Outlook
+, Washington, DC, April.
+_____. 2017b. ﬁRecent Wage Dynamics in Advanced Economies: 
+Drivers and Implications.ﬂ Chapter˛2 of the 
+World Economic 
+Outlook
+, Washington, DC, October.
+_____. 2018a. ﬁChallenges for Monetary Policy in Emerging 
+Markets as Global Financial Conditions Normalize.ﬂ 
+Chapter˛3 of the World Economic Outlook
+, Washington, 
+DC, October.
+_____. 2018b. ﬁEstonia: Selected Issues.ﬂ IMF Country Report 
+18/126. Washington, DC.
+_____. 2018c. ﬁEuropean Wage Dynamics and Labor Market 
+Integration.ﬂ Chapter˛2 of 
+Regional Economic Outlook: Europe
+, Washington, DC, May.
+_____. 2019a. ﬁCzech Republic: 2019 Article IV Consultation 
+Sta˙ Reportﬂ IMF Country Report No. 19/160, 
+Washington, DC.
+_____. 2019b. ﬁ˜e Price of Capital Goods: A Driver of 
+Investment Under ˜reat.ﬂ Chapter˛3 of the 
+World Economic 
+Outlook
+, Washington, DC, April.
+Johnson, Robert C. and Guillermo Noguera. 2017. ﬁA Portrait 
+of Trade in Value Added Over Four Decades.ﬂ 
+˜e Review of 
+Economics and Statistics
+ 99(5): 896Œ911.Lamo, Ana, and Frank Smets. 2009. ﬁWage Dynamics in Europe: 
+Final Report of the Wage Dynamics Network.ﬂ European 
+Central bank, Frankfurt am Main.
+Obstfeld, Maurice. 2019. ﬁGlobal Dimensions of U.S. Monetary 
+Policy.ﬂ NBER Working Paper 26039, National Bureau of 
+Economic Research, Cambridge, MA.
+Organisation for Economic Co-operation and Development 
+(OECD). 2009. ﬁProductivity Measurement and Analysis.ﬂ 
+OECD Publishing, Paris.
+272. W
+AGE GROWTH AND INFLATION
+ IN EUROPE: A˜
+PUZZLE?International Monetary Fund
+ | November 2019
+Peneva, Ekaterina V., and Jeremy B. Rudd. 2017. ﬁ˜e 
+Passthrough of Labour Cost to Price In˚ation.ﬂ 
+Journal of 
+Money, Credit and Banking
+, 49(8), 1777Œ1802.Roeger, Werner. 1995. ﬁCan Imperfect Competition Explain the 
+Di˙erence between Primal and Dual Productivity Measures? 
+Estimates for U.S. Manufacturing.ﬂ 
+Journal of Political 
+Economy
+ 103(2): 316Œ30.Taylor, John B. 2000. ﬁLow In˚ation, Pass-˜rough, and 
+the Pricing Power of Firms.ﬂ 
+European Economic Review
+, 44(7), 1389Œ1408.Towbin, Pascal, and Sebastian Weber. 2013. ﬁLimits of Floating 
+Exchange Rates: ˜e Role of Foreign Currency Debt and 
+Import Structure.ﬂ 
+Journal of Development Economics
+ 101 (1): 179Œ94.Voinea, Liviu. 2019. ﬁ˜e Post-Crisis Phillips Curve and Its 
+Policy Implications: Cumulative Wage Gap Matters for 
+In˚ation.ﬂ SUERF Policy Note 69, May, Vienna.

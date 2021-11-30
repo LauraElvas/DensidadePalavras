@@ -1,0 +1,9951 @@
+Regional Economic Issues
+Central, Eastern, and Southeastern Europe
+Mind the Credit Gap
+
+M AY
+
+15
+
+Regional Economic Issues
+November 2015
+
+I
+
+N
+
+T
+
+E
+
+R
+
+N
+
+A
+
+T
+
+I
+
+O
+
+N
+
+A
+
+L
+
+M
+
+O
+
+N
+
+E
+
+T
+
+A
+
+R
+
+Y
+
+F
+
+U
+
+N
+
+D
+
+I n t e r n a t io n a l M o n e t a r y Fu n d
+
+Central, Eastern, and Southeastern Europe
+
+Regional Economic Issues
+••••••••••••••••••••••••••••
+
+MAY
+
+15
+
+MIND THE CREDIT GAP
+May 11, 2015
+
+EXECUTIVE SUMMARY
+As central, eastern, and southeastern Europe (CESEE) continues to recover, lower oil prices,
+stronger euro area growth, and geopolitical tensions are affecting countries differently,
+resulting in three-speed growth in the region:
+
+
+In the Baltics, central and eastern Europe (CEE), and Turkey, growth is expected to remain solid—
+ranging from 2.6 to 3.6 percent in 2015–16—supported largely by private consumption boosted
+by cheaper oil and stronger euro area recovery.
+
+
+
+In southeastern Europe (SEE), recovery is projected to be muted (real GDP growth at 1.9 percent
+in 2015 and 2.4 percent in 2016), with debt overhang and other structural weaknesses, as well as
+a less supportive fiscal stance outweighing a modest boost from lower oil prices and stronger
+euro area growth.
+
+
+
+Commonwealth of Independent States (CIS) countries are expected to contract in 2015, with the
+largest output declines in Russia (–3.8 percent) and Ukraine (–5.5 percent)—reflecting lower oil
+prices and sanctions (Russia) and the fallout from geopolitical tensions and ongoing
+macroeconomic adjustment (Ukraine).
+
+Most CESEE countries outside the CIS continue to grapple with downward price pressure.
+Lower oil prices and downward inflation revisions in the euro area have significantly dampened the
+inflation outlook in CEE and SEE. Persistently lower prices and economic slack increase the risk of
+second-round effects through lower wages, which could entrench deflation pressure.
+Despite many differences, in most CESEE countries private investment and growth remain
+below precrisis levels. This reflects uncertainties about the strength of global and euro area
+recovery, but also private sector balance sheet weaknesses in a number of CESEE countries. Before
+the 2008–09 global financial crisis, private debt stocks across CESEE increased much faster than GDP,
+opening up credit gaps, whereby the debt-to-GDP ratios are lifted well above their long-term
+trends. In the aftermath of the crisis, many countries came under pressure to realign their debt levels
+with economic fundamentals, resulting in simultaneous deleveraging, which exacerbated the overall
+decline in economic activity.
+How large are the remaining credit gaps and are private balance sheet weaknesses holding
+back recovery? To answer this question, this report studies the post-2008 adjustment
+
+CESEE REI SPRING 2015
+
+in private non-financial sector debt and its impact on economic activity:
+
+
+How much deleveraging took place? Despite significant deleveraging efforts—as measured by
+the adjustment in private sector net saving-investment balances—relatively few countries
+managed to reduce their private-debt-to-GDP ratios below precrisis levels. This largely reflected
+weak debt repayment capacity and lack of debt restructuring. In some cases, debt burdens
+increased because of foreign exchange valuation effects.
+
+
+
+What is the economic cost of deleveraging? While deleveraging is necessary, it tends to be more
+protracted and entails larger output losses if the debt problem is pervasive, macroeconomic
+policies are not sufficiently supportive, and institutional frameworks are less flexible. Financial
+sector resilience and the external environment matter as well. Compared with the SEE countries,
+the Baltic countries adjusted faster not only because they had more flexible institutions, but also
+because of their stronger trade and financial links to countries less affected by the crisis.
+
+
+
+Where are the remaining credit gaps across CESEE countries? Postcrisis deleveraging has not been
+sufficient to align private debt with economic fundamentals in a number of countries. Bulgaria,
+Croatia, and Ukraine stand out as requiring further adjustment, and debt-related risks in their
+corporate sectors are still elevated, which is also the case in Latvia and Slovenia.
+
+
+
+How can CESEE countries grow out of debt? Highly indebted CIS and SEE countries may not be
+able to grow out of debt without significant institutional reforms. A comparison with
+Organisation for Economic Co-operation and Development (OECD) countries shows that CIS and
+SEE countries are lagging in key areas of structural reform.
+
+In order to revive investment and ensure robust recovery, policies should aim at supporting
+domestic demand and completing the repair of private sector balance sheets.
+
+
+Macroeconomic policies should be mindful of the credit gaps: In countries where excessive debt
+continues to weigh on the economy, supportive macroeconomic policies are essential. Fiscal
+consolidation, although needed in many CESEE countries, should not derail the recovery.
+Monetary policy should remain accommodative in countries facing deflation risk.
+
+
+
+Structural and institutional reforms are critical to lifting potential growth, especially for countries
+that still face private sector debt overhang:
+
+2
+
+o
+
+A lack of efficient debt-resolution frameworks and of capacity or incentives for banks to deal
+with nonperforming loans (NPLs) delays the necessary adjustment in non–financial sector
+balance sheets.
+
+o
+
+Less flexible labor markets may prevent overleveraged firms from carrying out the necessary
+labor shedding, thereby forcing them to disproportionately cut back on investment.
+
+o
+
+Many CIS and SEE countries also face the long-standing task of improving the investment
+environment, raising productivity, and reducing structural unemployment.
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Approved By
+Poul Thomsen
+
+Prepared by a staff team consisting of Ernesto Crivelli, Plamen Iossifov, Jiri
+Podpiera, Ara Stepanyan, Faezeh Raei, and Jiae Yoo, with inputs from
+country teams and research assistance from Min Song and Xuan Tu, led by
+Anna Ilyina and Jesmin Rahman, under the guidance of Jörg Decressin.
+
+CONTENTS
+EXECUTIVE SUMMARY __________________________________________________________________________ 1
+I.
+
+RECENT DEVELOPMENTS AND OUTLOOK _________________________________________________ 5
+
+II. CENTRAL, EASTERN, AND SOUTHEASTERN EUROPE: WEIGHED DOWN BY DEBT OR
+TURNING THE CREDIT CYCLE? _________________________________________________________________ 17
+A. How Much Deleveraging? ____________________________________________________________________ 19
+B. What Determines the Economic Cost of Deleveraging? _______________________________________ 24
+C. What Are the Remaining Debt-Related Risks Facing CESEE? __________________________________ 29
+D. What Are the Remaining Credit Gaps across CESEE? __________________________________________ 36
+E. How Can CESEE Countries Grow out of Debt? _________________________________________________ 40
+III. POLICY PRIORITIES_________________________________________________________________________ 42
+ABBREVIATIONS ________________________________________________________________________________ 59
+REFERENCES ____________________________________________________________________________________ 60
+BOXES
+1. Low Commodity Prices: Risks of Second-Round Effects in CESEE EU Countries ________________ 8
+2. Swiss-Franc Borrowing in Central and Eastern Europe_________________________________________ 11
+3: SEE links with Greece __________________________________________________________________________ 15
+4. Firm-Level Analysis of Adjustment in Response to Aggregate Shock __________________________ 26
+5. Firm-Level Analysis of Debt-at-Risk of CESEE firms by Industry and Firm Size _________________ 35
+FIGURES
+1. CESEE: Real and Financial Sector Developments ______________________________________________ 18
+2. CESEE: Change in Private Debt-to-GDP Ratios Before and After 2008/09 Crisis _______________ 19
+3. CESEE: Post-Crisis Change in Private Net Saving-Investment Balance _________________________ 20
+4. CESEE: Post-Crisis Change in Public Net Saving-Investment Balance __________________________ 20
+5. CESEE: Contributions to the Post-Crisis Growth of Private Debt-to-GDP Ratio ________________ 20
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+CESEE REI SPRING 2015
+
+6a. CESEE: Sectoral Contributions to Post-Crisis Change in Saving-Investment Balance _________ 21
+6b. CESEE: Sectoral Contributions to the Post-Crisis Change in Investment Rate ________________ 21
+7a. CESEE: Private Sector Debt, 2008_____________________________________________________________ 22
+7b. CESEE: Change in Private Debt-to-GDP Ratios, 2008–13 _____________________________________ 22
+8. Firm-Level Deleveraging Patterns, 2008–12 ___________________________________________________ 23
+9. Firm-Level Analysis of Employment and Investment Sensitivity to a Demand Shock __________ 25
+10. CESEE: Change in Private and Public Debt-to-GDP Ratios , 2008–13 ________________________ 27
+11. CESEE: Aggregate Deleveraging and Labor Market Regulations _____________________________ 27
+12a. CESEE: Bank Asset Quality and Profitability _________________________________________________ 28
+12b. Common Equity Tier 1 Capital Ratios of Euro Area Banks After the Asset Quality Review __ 28
+13a. CESEE: Average post-2008 Real GDP Growth Rate of Trade Partners _______________________ 29
+13b. Tier 1 Capital Ratios of Foreign Parent Banks _______________________________________________ 29
+14. CESEE: IMF staff External Debt Sustainability Assessments, 2008–13 _________________________ 30
+15. CESEE EU: Debt-Related Risks in Corporate and Household Sectors, 2013 ___________________ 32
+16. CESEE: Corporate Exposures to Liquidity and Solvency Risks, 2013 __________________________ 33
+17. CESEE: Remaining Credit Gaps, 2013 _________________________________________________________ 36
+18. CESEE EU Countries: Leverage and Growth __________________________________________________ 38
+19. CESEE EU Countries: Leverage Cycle (Percent) _______________________________________________ 38
+20. CESEE: Credit to Non-Financial Companies __________________________________________________ 39
+21. CESEE: 2013 Gap Between Actual and Long-Run Fundamentals-Consistent Values of Private
+Sector Debt as a Ratio of Forecasted GDP in 2020 _______________________________________________ 40
+22. CESEE: Structural Reforms: CESEE Relative to the OECD______________________________________ 41
+23a. CESEE: IMF Staff Public Debt Sustainability Assessments, 200813___________________________ 43
+23b. CESEE: Fiscal Balance and Medium-Term Projections _______________________________________ 43
+24. CESEE: Labor Market Regulations and Insolvency Frameworks, 2012 ________________________ 44
+ANNEXES
+I. CESEE: Growth of Real GDP, Domestic Demand, Exports, and Private Consumption, 2013–16 _ 45
+II. CESEE: Consumer Price Index Inflation, Current Account Balance, and External Debt, 2013–16 46
+III. CESEE: Evolution of Public Debt and General Government Balance, 2013–16 _________________ 47
+IV. Estimation of the Private Sector Debt Level Consistent with Fundamentals __________________ 48
+V. Firm-Level Debt-at-Risk Analysis ______________________________________________________________ 53
+VI. CEE EU: Contributions to Difference between Sectoral Saving Rates in 2009–12 and 2006–08 55
+VII. Firm-level Analysis of Employment and Investment _________________________________________ 56
+VIII. Firm-Level Analysis of Debt and Investment ________________________________________________ 58
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+I.
+
+RECENT DEVELOPMENTS AND OUTLOOK
+
+Activity has begun to recover at a relatively solid pace across much of the region. However, with few
+signs of a rebound in private investment, growth remains far below precrisis levels in most countries,
+especially in SEE countries. CIS economies are facing particular difficulties from tighter financing
+conditions amid weak confidence and spillovers from Russia’s slowdown.1 Going forward, lower oil
+prices and better prospects in the euro area will be the main tailwinds.
+Much of the region continues to recover. While growth is taking firmer root in the Baltic and CEE
+economies, activity in SEE remains subdued (text figure). Still-high indebtedness, slow labor market
+adjustment, strong trade links with weaker euro area economies, a tighter macroeconomic stance,
+and a lack of structural reforms compared with Baltic and CEE countries underlie the subdued
+activity in SEE. In addition, SEE countries experienced several country-specific negative shocks in
+2014—that is, floods in Bosnia and Herzegovina and Serbia. In Turkey, growth softened in response
+to monetary tightening in early 2014.
+Quarterly GDP Growth (Percent, year over year)
+5
+
+Baltics
+
+CEE
+
+SEE
+
+4
+
+8
+6
+
+Russia
+
+Turkey
+
+Other CIS
+
+4
+2
+
+3
+
+0
+
+2
+
+-2
+-4
+
+1
+
+-6
+
+0
+
+-8
+-10
+
+-1
+2013Q1 2013Q2 2013Q3 2013Q4 2014Q1 2014Q2 2014Q3 2014Q4
+
+2013Q1 2013Q2 2013Q3 2013Q4 2014Q1 2014Q2 2014Q3 2014Q4
+
+Sources: Haver Analytics; and IMF staff calculations.
+Note: CEE = central and eastern Europe; SEE = southeastern Europe.
+
+The CIS economies are slipping into recession. Falling oil prices on top of Western sanctions
+compounded Russia’s underlying structural weaknesses, halting growth. Recession also deepened in
+Ukraine, partly reflecting declining activity in the eastern conflict zone. These developments had
+major adverse spillovers on activity in other CIS economies.
+
+1
+
+CIS includes Belarus, Moldova, Russia, and Ukraine.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+CESEE REI SPRING 2015
+
+Private consumption remains the key growth driver in most of the region, as investment is
+held back by crisis legacies:
+
+
+Falling unemployment, higher real wages, and improved consumer credit growth have
+contributed to further strengthening of private consumption in most Baltic, CEE, and SEE
+countries (text figure). Lower oil prices are beginning to support real incomes. In contrast,
+consumption in the CIS declined further as a result of the worsening economic environment,
+including weaker confidence and
+Real Wages and Change in Unemployment, 2014Q3
+credit.
+(Percent and percentage points, year over year)
+
+
+
+Investment has yet to recover
+MDA
+8
+everywhere, except in CEE countries,
+LVA
+EST
+SVK
+which experienced less of a precrisis
+6
+surge and thus less of an investment
+LTU
+4
+ROM
+POL
+bust since the 2008–09 crisis. Since the
+BGR
+HUN
+SVN
+2
+crisis, the decline in private investment
+MKD
+RUS
+in the region has been on average
+CZE
+0
+about 1½ times as large as during
+ALB
+-2
+BLR
+previous episodes. The revival in
+investment has been sluggish,
+-4
+-3
+-2
+-1
+0
+1
+2
+reflecting uncertainty about the
+Change in unemployment rate
+strength of global and euro area
+recovery and geopolitical tensions, but Sources: Eurostat; Haver Analytics; IMF, World Economic Outlook
+database; and IMF staff calculations.
+also private sector balance sheet
+Note: Data labels are defined in the abbreviations list.
+weaknesses (see Chapter II).
+Investment contributed negatively to growth in the second half of 2014, except in CEE, where it
+was supported by the automotive and energy sectors and increased use of European Union (EU)
+funds, and in some SEE countries (text figure).
+Growth rate of real wages
+
+10
+
+CESEE: Contributions to Real GDP Growth
+(Percent)
+6
+
+Private consumption
+
+Public consumption
+
+Investment
+
+Net exports
+
+GDP growth (yoy)
+
+4
+2
+0
+-2
+
+Baltics
+
+CEE
+
+SEE
+
+Russia
+
+Sources: Haver Analytics; and IMF staff calculations.
+Note: CESEE = central, eastern, and southeastern Europe; SEE = southeastern Europe; yoy = year over year.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+2014H2
+
+2014H1
+
+2014H2
+
+2014H1
+
+2014H2
+
+2014H1
+
+2014H2
+
+2014H1
+
+2014H2
+
+2014H1
+
+-4
+
+Turkey
+
+CESEE REI SPRING 2015
+
+Inflation continued to drift downward, reflecting mostly economic weakness, including
+abroad, except in the CIS, where large exchange rate depreciations boosted inflation. Headline
+and core inflation declined further in most of the CEE and SEE (text figure), in line with lower food
+and energy prices, euro area price developments, and economic slack (Box 1). Hungary, Kosovo, and
+Poland fell into deflation in the second half of 2014, joining Bosnia and Herzegovina, Bulgaria,
+Croatia, the former Yugoslav Republic of Macedonia, and Montenegro, which were already in
+deflation. Since November, lower oil prices have eased headline inflation in Turkey. In contrast,
+exchange rate depreciation and higher domestic food prices caused inflation to increase further in
+Russia and Ukraine.
+Headline Inflation, Jan. 2014–Feb. 2015
+(Percent, year over year)
+6
+
+40
+
+Min and Max
+EM Europe peggers
+EM Europe floaters
+
+5
+
+Russia
+
+35
+
+4
+
+Turkey
+
+Ukraine
+
+30
+
+3
+
+25
+
+2
+
+20
+
+1
+
+15
+
+0
+10
+
+-1
+
+5
+
+-2
+
+0
+
+-3
+
+Jan-14
+
+Apr-14
+
+Jul-14
+
+Oct-14
+
+Feb-15
+Jan-15
+
+Jan-14
+
+Apr-14
+
+Jul-14
+
+Oct-14
+
+Feb-15
+Jan-15
+
+Sources: Haver Analytics; IMF, World Economic Outlook database; national authorities; and IMF staff calculations.
+Note: Emerging market (EM) Europe peggers are Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, Lithuania, FYR Macedonia, and
+Montenegro. EM Europe floaters are Albania, Czech Republic, Hungary, Poland, Romania, and Serbia.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+CESEE REI SPRING 2015
+
+Box 1. Low Commodity Prices: Risks of Second-Round Effects in Central, Eastern, and
+Southeastern European Countries1/
+The pass-through of a commodity price shock to consumer prices can be broken down into first- and
+second-round effects. First-round effects capture (1) changes in energy and unprocessed food prices; and (2)
+the impact on other prices via input costs. Second-round effects
+Figure 1. CESEE EU: Disinflationary Drivers, 2012-14
+(Contributions in percent1)
+reflect the impact channeled through inflation expectations via:
+100
+(1) softening of contemporaneous demand as economic agents
+attempt to take advantage of the expected future price cuts; and
+80
+(2) wage- and price-setting behavior, effectively embedding the
+60
+expectation of disinflation in the evolution of future wages and
+prices. It is the latter channel that at the extreme can trigger a
+40
+deflation trap—a self-feeding vicious feedback loop between
+20
+inflation expectations and prices.
+The importance of first- and second-round disinflationary
+effects from lower commodity prices is estimated using the
+open economy New Keynesian Phillips curve, in which the
+effect of inflation expectations is separated from that of the
+autonomous dynamics of actual inflation. Regression-based
+variance decomposition based on a sample extended until the
+end of 2014 confirms the findings shown in Figure 1 of the
+October 2014 Regional Economic Issues report.
+
+0
+
+Euro peggers
+
+Inflation targeters
+
+Inflation expectations
+Unemployment gap
+Nominal effective exchange rate
+Taxes
+Administered prices
+World food and energy prices
+Euro Area core inflation
+Source: Staff estimates based on Iossifov and Podpiera (2014).
+Note: 1 Inflation variances are normaliazed to the variance of
+CEE euro peggers.
+
+ Disinflation across CEE has been primarily driven by first-round effects of lower commodity prices, as
+captured by the combined impact of world food and energy prices and administered energy prices.
+
+ Disinflationary spillovers from the euro area have been an important additional factor for euro peggers,
+whereas for inflation targeters, nominal effective exchange rates predominated.
+The updated results point to the presence of second-round effects, as measured by the impact of inflation
+expectations, which may account for about 10 to 15 percent of observed inflation variance. Their overall
+impact encompasses both the normal
+Figure 2. CESEE EU: Gap Between Actual and Fitted 1-Year Ahead Inflation
+reaction of inflation expectations to oil
+Expectations (Percent)
+prices and potential overshooting, which
+Exchange-rate targeting countries
+Inflation-targeting countries
+4.0
+4.0
+can signal the buildup of further deflation
+pressure that could be more difficult to
+3.5
+3.5
+reverse. The two effects can be disentangled
+3.0
+3.0
+by the gap between inflation expectations
+2.5
+2.5
+and their fitted values (Figure 2). The results
+2.0
+2.0
+show that the econometric model of
+1.5
+1.5
+inflation expectations cannot fully explain
+1.0
+1.0
+the fall in inflation expectations since early
+Dec-12
+Dec-13
+Dec-14
+Dec-11
+Dec-12
+Dec-13
+Dec-14 Dec-11
+Actual
+Fitted values
+Actual
+Fitted values
+2013 in euro peggers and since mid-2014 in
+Source: Consensus Economics Forecasts, WEO, and Fund staff estimates.
+inflation targeters. Further work is needed
+Note: Fitted values from a fixed-effects regression over the period prior to the latest episode
+to pinpoint the exact size of these more
+of falling world oil prices (2004-2011) of 1-year ahead inflation expectations on its first-lag
+(interacted by a dummy variable for exchange rate regime) and the log of the world price of
+persistent and potentially self-reinforcing
+oil in USD multiplied by the fraction of consumer basket spent on energy.
+second-round effects, though our analysis
+suggests that, at present, they play a minor role in the observed disinflation.
+1/
+
+This box was prepared by Plamen Iossifov, based on Iossifov and Podpiera (2014). CESEE EU countries are those countries in the
+region that are members of the EU.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Financial conditions remained favorable outside the CIS. Net capital flows stayed positive but
+slowed in the second half of 2014, in line with broader emerging market trends. Market indicators of
+implied volatility suggest that investor risk aversion has risen from historically low levels amid
+increasingly divergent monetary policy stances in advanced economies and volatile oil prices. Risk
+premiums remained within the range of their May 2013 pre-taper-talk levels for countries outside
+the CIS (text figure).
+EMBIG Spread Indices
+(May 21, 2013 = 100)
+Yanukovych
+departure
+
+800
+
+IMF-UKR
+program
+
+Sectoral sanctions against Russia
+
+OPEC's
+decision
+
+Central Bank of
+Russia's decision
+
+Russia
+
+700
+
+Ukraine
+
+600
+
+Belarus
+
+500
+
+Other CESEE (simple avg.)
+
+400
+
+OVX Index
+
+300
+200
+
+Mar-15
+
+Feb-15
+
+Jan-15
+
+Dec-14
+
+Oct-14
+
+Sep-14
+
+Aug-14
+
+Jul-14
+
+Jun-14
+
+May-14
+
+Apr-14
+
+Mar-14
+
+100 = Taper Talk (May 21, 2013)
+
+Jan-14
+
+0
+
+Feb-14
+
+100
+
+Source: Bloomberg.
+Note: CESEE = central, eastern, and southeastern Europe; EMBIG = J.P. Morgan Emerging Markets Bond Index Global; OPEC =
+Organization of the Petroleum Exporting Countries; OVX = Chicago Board Options Exchange Crude Oil Volatility Index; UKR = Ukraine.
+Central Bank of Russia’s decision = see footnote 2.
+
+The Swiss National Bank’s recent decision to remove the cap on the value of the Swiss
+franc (CHF) and the European Central Bank’s (ECB’s) Quantitative Easing (QE) announcement
+had roughly offsetting effects on financing conditions outside the CIS:
+
+
+The Swiss National Bank’s decision placed downward pressure on currencies in countries with
+significant Swiss franc–denominated mortgages, broadly commensurate with their level of
+exposure to such mortgages (Box 2). Currencies have regained some of the lost value since the
+initial depreciation, and the overall economic impact is expected to be limited, since banks are
+capable of absorbing associated losses and the pass-through is somewhat offset by lower
+interest rates on Swiss franc mortgages.
+
+
+
+The ECB’s QE announcement on January 22, 2015, has had a positive impact on risk premiums
+and currencies in the region as investors have started to rebalance their portfolios in search of
+higher yields. The impact has been, on average, comparable to that experienced after other
+unconventional policy announcements by the ECB and the U.S. Federal Reserve (text figure).
+Reflecting the size and sophistication of financial markets, the impact varied across CESEE
+countries.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+CESEE REI SPRING 2015
+
+Change in Nominal Exchange Rates
+(Cumulative, percent)
+ECB CBPP (10/6/2011)
+Fed QE3 (9/13/2012)
+
+Change in Risk Premiums
+(Cumulative, percent)
+
+ECB Euro irreversible (8/2/2012)
+Fed Taper Talk (5/21/2013)
+
+4
+
+ECB QE (1/22/2015)
+
+10
+
+2
+
+0
+
+0
+
+-10
+-2
+
+-20
+
+-4
+
+-30
+
+-6
+POL
+
+HUN
+
+ROU
+
+TUR
+
+RUS
+
+EURO
+
+POL
+
+HUN
+
+ROU
+
+TUR
+
+RUS
+
+Sources: Bloomberg; and IMF staff calculations.
+Note: The figure shows the seven-day cumulative impact from the day of the policy announcement. Exchange rates are local
+currencies against the euro (euro–U.S. dollar exchange rate for EURO): a negative value implies appreciation of the currency. CBPP =
+Covered Bond Purchase Program; ECB = European Central Bank; EURO = euro area; Fed = U.S. Federal Reserve; QE = quantitative
+easing. Risk premium is measured by J.P. Morgan Emerging Markets Bond Index Global spreads.
+
+CIS economies, notably Russia and Ukraine, saw large increases in risk premiums and capital
+outflows. The ruble depreciated by almost 45 percent against the U.S. dollar between June and
+December 2014, when companies were effectively cut off from external financing. In response,
+Russian authorities took strong policy measures,2 which helped dampen downward pressure on the
+exchange rate and stem deposit withdrawals (text figure). Meanwhile, faced with large debt
+redemptions and cut off from external financing, Russian companies were forced to rely on domestic
+borrowing from banks and bond markets to meet maturing debt obligations. The spillovers from
+Russia and Ukraine meant that the currencies of most CIS countries also depreciated sharply.3
+
+2
+
+Following an emergency 650 basis point rate hike, the Central Bank of Russia announced temporary bank
+regulatory forbearance to provide additional foreign exchange to banks and doubled the limit of insured retail
+deposits. In addition, the authorities announced a recapitalization program of about 2 percent of GDP and issued a
+directive to large government-owned companies to repatriate foreign exchange receipts.
+3
+
+See the April 2014 Central, Eastern, and Southeastern Europe Regional Economic Issues report and http://blogimfdirect.imf.org/2014/08/01/europes-russian-connections for a discussion of CESEE countries’ trade and financial
+links to Russia.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Box 2. Swiss Franc Borrowing in Central and Eastern Europe1/
+Swiss franc loans were popular in the mid-2000s, but exposure has since decreased. At the time, these
+loans were considered a cheaper alternative to loans denominated in domestic currency or in euros. They came
+under scrutiny following appreciation of the Swiss franc in 2010–11, which revaluated these loans by up to 30
+percent and triggered a relative increase in nonperforming loans. In response, some countries limited household
+debt payments by capping interest rates and/or lengthening loan maturities. In late 2014, Hungary mandated
+the conversion of foreign exchange mortgages—mostly in Swiss francs—to domestic currency loans.
+The economic and financial stability impact of the recent removal of the cap on the Swiss franc–euro
+exchange rate is expected to be small. Initially, currencies in affected countries depreciated by about 20
+percent against the Swiss franc, but they have regained some ground since then. The impact on the broader
+economy is expected to be limited. Although for a 25-year mortgage contracted in 2006, principal revaluation
+can now amount to almost 50 percent, about half of the impact on the monthly payment burden is offset by
+lower Swiss franc interest rates. In all countries, supervisors view banks as well able to absorb associated losses.
+Thus, the impact on growth is likely to be small.
+
+Swiss Franc Exposures in Selected Central and Eastern European Countries
+Bosnia and
+Herzegovina
+2008 2014
+
+Croatia
+2010
+
+Hungary
+
+2014
+
+2008
+
+2/
+
+Romania 2/
+
+Poland
+
+2014
+
+2008
+
+2014
+
+2008
+
+2014
+
+Serbia
+2008
+
+2014
+
+In percent of GDP
+Total CHF exposure
+
+3.4
+
+1.3
+
+11.0
+
+7.3
+
+23.3
+
+2.9
+
+…
+
+…
+
+2.5
+
+1.5
+
+4.8
+
+2.9
+
+Household loans in CHF
+
+1.9
+
+0.91/
+
+9.5
+
+6.7
+
+18.1
+
+1.2
+
+…
+
+…
+
+2.3
+
+1.4
+
+3.6
+
+2.6
+
+Housing loans in CHF
+
+…
+
+…
+
+7.9
+
+6.3
+
+…
+
+0.0
+
+10.3
+
+7.6
+
+0.7
+
+0.5
+
+…
+
+…
+
+Sources: National central banks and supervisory agencies; and IMF staff calculations.
+1/ Estimate based on partial data.
+2/ Loans in currencies other than domestic currency or euros.
+Note: CHF = Swiss franc.
+
+Political responses, mostly to address possible
+social and political repercussions, have differed.
+
+
+
+
+
+Poland’s financial stability committee asked banks
+to pass on lower Swiss franc interest rates, abstain
+from additional collateral requirements, and
+consider loan restructuring requests flexibly.
+Croatia’s parliament froze the exchange rate for
+Swiss franc loan payments at preappreciation
+parity for one year. Banks and representatives of
+debtors are working on a long-term solution.
+
+Swiss Franc Exchange Rate
+105
+100
+
+(Price of currency in one Swiss franc; index, 12/31/2014=100)
+1 Croatian kuna
+1 Romanian leu
+
+100 Hungarian forint
+1 Serbian dinar
+
+1 Polish zloty
+
+95
+90
+85
+80
+
+Responses must be mindful of country-specific
+75
+circumstances, but measures that overwrite contracts
+12/31/2014 1/15/2015
+1/30/2015
+2/14/2015
+3/1/2015
+3/16/2015
+and/or restructure loans independently of borrowers’
+Source: Bloomberg.
+capacity to pay are best avoided. In some cases,
+however, a proactive role by supervisors is called for to achieve a fairer distribution of burden between creditors
+and poor debtors. Governments should avoid taking on extra burdens, especially in the absence of fiscal space.
+____________________
+1/
+
+This box was prepared by Tonny Lybek and Johannes Wiegand.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+CESEE REI SPRING 2015
+Russia: Exchange Rate, Oil Price, and Retail Deposits
+(January 2014 = 100)
+140
+
+130
+120
+
+Russian ruble
+Brent crude oil (USD per barrel)
+Retail deposits (SA; m-o-m; percent change; RHS)
+
+4
+
+2
+
+110
+
+Russia: Corporate Financing, 2012–15
+(Billions of U.S. dollars)
+50
+Foreign bonds
+
+Foreign loans
+
+Domestic bonds
+
+Domestic loans
+
+40
+
+30
+
+100
+
+0
+
+90
+
+20
+
+80
+
+-2
+10
+
+70
+
+60
+
+-4
+
+50
+40
+Jan-14 Mar-14 May-14
+
+-6
+Jul-14
+
+Sep-14 Nov-14 Jan-15 Mar-15
+
+Sources: Bloomberg; Central Bank of Russia; and IMF staff
+calculations.
+Note: m-o-m = month over month; RHS = right scale; SA =
+seasonally adjusted; USD = U.S. dollars
+
+0
+
+-10
+Jan-12
+
+Jul-12
+
+Jan-13
+
+Jul-13
+
+Jan-14
+
+Jul-14
+
+Jan-15
+
+Sources: Central Bank of Russia; Dealogic; and IMF staff estimates
+and calculations.
+
+The near-term economic outlook in the CESEE region is shaped by three external shocks.
+
+
+A steep decline in oil prices: Oil prices fell by about 50 percent during the second half of 2014.
+With the share of fuel in total consumption ranging from 2.5 to 8.2 percent, lower oil prices are
+expected to continue to provide a modest boost to growth, except in Russia.
+
+
+
+The European Central Bank’s decision to embark on an expanded, open-ended asset purchase
+program (QE): The QE that started in March 2015 is expected to help lower borrowing costs
+across the euro area and boost inflation. Among the Baltic and CEE economies, the impact on
+inflation may be up to 0.5 percentage point. Activity in euro peggers will benefit from the more
+depreciated exchange rate, while floaters will have more room to ease monetary policy without
+risking capital flow reversals.
+
+
+
+A dramatic slowdown in Russia: Western sanctions, weak confidence, and a negative terms-oftrade shock are expected to cause Russia’s GDP to contract by 3.8 percent in 2015—a more than
+4 percentage point downward revision relative to the October 2014 Regional Economic Issues
+report (REI). Given strong links to Russia, the recession will have significant spillovers on other
+CIS and Baltic countries (text figure). For the rest of the region, spillovers from Russia are
+deemed to be limited.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+GDP and Inflation Forecast Revisions April 2015 vs. October 2014: Key Drivers
+GDP Revisions
+
+Inflation Revisions
+
+Ukraine
+
+Ukraine
+
+Russia
+
+Russia
+
+Turkey
+
+Turkey
+
+Belarus, Moldova
+
+Belarus, Moldova
+
+Baltics
+
+Baltics
+
+Country-specific factors
+
+Russia's slowdown
+
+EU growth outlook
+
+CEE
+
+CEE
+
+Russia's slowdown
+Lower oil prices
+
+SEE 2/
+-8
+
+-6
+
+EU inflation outlook
+Country-specific factors
+Lower oil prices
+
+SEE
+-4
+
+-2
+
+0
+
+2
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Source: IMF country teams’ estimates.
+Note: The shaded area corresponds to the estimated impact of Western sanctions. CEE = central and eastern Europe; EU =
+European Union; SEE = southeastern Europe.
+
+Overall, the external shocks and domestic developments are projected to result in more of the
+same in 2015; that is, activity at three different speeds (text table).
+
+
+Solid growth in the Baltics, CEE, and Turkey: Growth projections were revised upward marginally
+for CEE and Turkey and downward slightly for the Baltic countries relative to the October 2014
+REI. Continued labor market improvements will support private-consumption-led growth in
+Baltic countries dented by spillovers from Russia. More favorable external developments will
+contribute to a slight upward growth revision in CEE. Turkey will benefit from lower oil prices,
+although somewhat countered by reduced export demand from Iraq, tighter fiscal policy, and
+weaker consumer confidence.
+
+
+
+Sluggish growth in SEE: Growth projections have been revised downward by 0.4 percentage
+point for the SEE subregion relative to the October 2014 REI. Slower-than-expected
+reconstruction after floods and a less supportive fiscal stance are expected to outweigh a
+modest boost from lower oil prices and slightly better euro area growth. These economies
+continue to struggle with high debt and are lagging the Baltics (which saw similarly strong
+investment in the precrisis boom) with respect to deleveraging (Chapter II).
+
+
+
+Recession in CIS countries: All CIS economies are expected to contract in 2015: Russia and
+Ukraine are expected to face the largest drop in output. Large downward revisions in Russia and
+Ukraine reflect the fallout from geopolitical tensions, ongoing macroeconomic adjustment, and
+in Russia’s case, lower oil prices and a loss of confidence. Growth projections for Belarus and
+Moldova have also been revised downward by about 4½ percentage points for 2015 relative to
+the October 2014 REI.
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+CESEE REI SPRING 2015
+
+Outlook for Growth
+
+Baltics
+CEE
+SEE
+Other CIS
+Russia
+Turkey
+
+2014
+2.6
+3.0
+1.7
+-3.9
+0.6
+2.9
+
+REI April 2015
+2015
+2.6
+3.1
+1.9
+-4.6
+-3.8
+3.1
+
+2016
+3.3
+3.1
+2.4
+1.4
+-1.1
+3.6
+
+2014
+2.5
+2.9
+1.5
+-3.9
+0.2
+3.0
+
+REI October 2014
+2015
+3.1
+2.9
+2.2
+1.7
+0.5
+3.0
+
+2016
+3.5
+2.9
+2.6
+2.2
+1.5
+3.7
+
+CESEE
+1.4
+-0.4
+1.3
+1.2
+1.8
+2.5
+Source: IMF World Economic Outlook database.
+Note: CEE = central and eastern Europe; CESEE = central, eastern, and southeastern Europe; CIS = Commonwealth of
+Independent States.
+
+Most CESEE countries outside the CIS will continue to grapple with downward price pressure
+in 2015. Lower oil prices and downward inflation revisions in the euro area have significantly
+dampened the inflation outlook not only in CEE and SEE, but also in Turkey, although it is somewhat
+countered by the lira depreciation and monetary easing. Persistently lower prices and economic
+slack have also increased the risk of second-round effects in EU members through lower wages,
+which could entrench deflation pressure (Box 1). In contrast, inflation in Russia is projected to stay
+above the central bank’s target during 2015–16; projections have also been revised upward for other
+CIS countries as a result of the exchange rate depreciation pass-through and inflation inertia.
+Risks to the near-term outlook are now
+more balanced:
+
+
+14
+
+GDP Losses from an Additional 4 Percent Fall in
+Russia’s GDP, 2015 (Relative to baseline, percent)
+
+Belarus, Moldova
+On the downside, a surge in financial
+Ukraine
+volatility, an intensification of geopolitical
+Emerging euro area
+tensions, and protracted slow growth in
+Bulgaria
+the euro area are still the main risks.
+Serbia
+Asynchronous monetary policy
+Croatia
+normalization in advanced economies,
+Hungary
+which could be accentuated by persistent
+Czech Republic
+strength in the U.S. dollar–euro exchange
+Turkey
+rate and a related reassessment of
+Poland
+emerging market fundamentals, could
+Romania
+result in capital outflows and liquidity
+-3.5
+-3.0
+-2.5
+-2.0
+-1.5
+-1.0
+-0.5
+0.0
+strains on CESEE sovereigns and
+Source: IMF staff estimates using the IMF’s Flexible System of Global
+Models.
+leveraged firms, given the region’s high
+Note: Emerging euro area countries are Estonia, Latvia, Lithuania, the
+dependence on foreign funding.
+Slovak Republic, and Slovenia. An additional 4 percent fall in Russian GDP
+Persistent U.S. dollar strength may lead to reflects further deterioration of confidence, a further increase in the cost
+of capital, and a decline in Russia’s tradables sector productivity as a
+balance sheet strains in countries with
+result of increased deintegration from the global economy.
+significant dollar-denominated debt, such
+as Russia, Turkey, and Ukraine. Geopolitical tensions surrounding Russia and Ukraine and a
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+protracted period of slower growth in the euro area still cloud the outlook for CESEE countries.
+Staff simulations show that a deeper contraction of activities in Russia could result in a fall in
+GDP level between 0.1-3 percent relative to the baseline, with the CIS countries feeling the
+largest impact (text chart above). If the situation in Greece were to deteriorate, it could cause
+negative spillovers on Balkan countries where Greek subsidiaries account for a sizable part of the
+banking system (see Box 3).
+Box 3. SEE Links with Greece
+Some SEE countries may be affected by a worsening situation in Greece through banking links.
+Financial links between Greece and SEE economies are more significant than trade channels:
+
+
+
+Trade linkages: The share of exports to Greece relative to GDP is fairly small in SEE countries, with the
+highest exposure in Bulgaria, at 3.5 percent of GDP. This share has declined since 2008, reflecting
+weaknesses in the Greek economy (see figure below).
+
+
+
+Financial linkages: The banking sector exposure—though weaker than at the beginning of the financial
+crisis—is still significant in a number of countries. SEE subsidiaries of Greek banks account for 14 to 22
+percent of banking sector assets (see figure below). The loan-to-deposit ratios in Greek subsidiaries have
+also declined over time, reflecting weak domestic demand for loans and less reliance on parent bank
+funding. Higher nonperforming loans in some subsidiaries, however, pose additional risks.
+
+If the situation in Greece gets worse, it could cause spillovers to the financial sectors of some SEE countries
+through a loss of confidence, deposit outflows, and possibly pressure on the currencies—particularly in
+countries with pegged exchange rate regimes and high euroization.
+Exports
+(Percent of GDP)
+
+2008/10
+0
+
+2
+
+4
+
+Loan-to-Deposit Ratios of Greek
+Subsidiaries in SEE (Percent, average)
+
+Market Share of Greek Subsidiaries
+(Percent of total bank assets)
+
+6
+
+0
+
+10
+
+2013/14
+20
+
+30
+
+0
+
+50
+
+100
+
+150
+
+200
+
+Bulgaria
+Macedonia, FYR
+Albania
+
+Romania
+Serbia
+
+Sources: Bankscope; and IMF staff estimates.
+Note: Export data are for 2008 and 2014; market shares of Greek banks are as of 2010 and 2014; loan-to-deposit ratios of Greek
+subsidiaries are as of 2008 and 2013. SEE = southeastern Europe.
+
+
+
+Since the October 2014 REI, some upside risks have emerged. The ECB’s QE could produce
+stronger and more sustained gains in growth in the euro area, with positive spillovers to the
+region. In addition, it could trigger larger-than-expected capital inflows, particularly for CESEE
+countries with stronger fundamentals and more developed domestic debt and equity markets.
+Similarly, recent declines in oil prices could support domestic demand more than envisaged,
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+CESEE REI SPRING 2015
+
+lifting CESEE growth above current projections. However, given large uncertainty regarding the
+future path of oil prices and its drivers, this upside risk is somewhat balanced by downside risk
+of an earlier-than-expected rebound in oil prices.
+The following table highlights the key downside risks and the IMF staff’s assessment of the relative
+likelihood and impact of these risks on the region.
+CESEE Regional Risk Assessment Matrix
+
+Source of Risks
+
+1/
+
+Relative Likelihood
+
+Relative Impact
+
+Protracted slow growth in the euro area
+
+High
+
+Medium
+
+A surge in financial volatility
+
+High
+
+Medium
+
+Persistent strength in the USD
+
+High
+
+Medium
+
+Medium
+
+Medium-High
+
+Escalation of geopolitical tensions
+surrounding Russia/Ukraine
+Note: USD = U.S. dollar.
+1/
+
+The relative likelihood of risks reflects the IMF staff's subjective assessment of the risks surrounding the baseline. The
+relative impact is based on country-specific assessments weighted by purchasing-power-parity GDP.
+"Low" indicates a probability below 10 percent, "Medium" indicates a probability of 10 to 30 percent, and "High" indicates
+a probability of 30 to 50 percent.
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+II.
+
+CENTRAL, EASTERN, AND SOUTHEASTERN
+EUROPE: WEIGHED DOWN BY DEBT OR TURNING
+THE CREDIT CYCLE?
+
+CESEE countries have undergone a process of financial deepening since the early 1990s. This
+process was facilitated by sizable capital inflows, which helped fund the rapid growth in credit,
+consumption, and investment and led to widening current account deficits and a buildup of external
+debt (Figure 1). Much of this debt was in the form of loans from western European banks and
+intercompany loans.4 From 2003 onward, the credit deepening in some CESEE countries morphed
+into increasingly unsustainable credit booms.
+The 2008–09 global financial crisis triggered a sudden stop in capital inflows, causing sizable
+current account adjustments across the region. As a result, credit growth came to a halt, and
+domestic demand collapsed. Investment rates, in particular, plummeted across the region in the
+wake of the crisis, except in Russia (Figure 1).
+Investment rates have, since, remained weak despite supportive macroconomic policies. On
+the one hand, the precrisis boom in many instances resulted in overinvestment, particularly in real
+estate. On the other hand, private sector balance sheets became overextened in the run-up to the
+crisis, and the sharp drop in incomes and asset prices, together with the rise in risk premiums in the
+immediate aftermath of the crisis, made private debt unsustainable. This forced companies to curtail
+borrowing and thus to shelve investment. Households needed to do the same with respect to
+durables consumption and housing investment. At the same time, external demand slumped, and
+negative feedback loops pushed the region into a deep recession.
+The question now is to what extent weak corporate and household balance sheets still hold
+back the recovery in CESEE. To answer this question, this chapter studies the post-2008 adjustment
+in private non–financial sector debt and its impact on economic activity. The analysis is structured as
+follows: Section A asks how much private sector deleveraging has already taken place across the
+region; Section B aims to gauge the real cost of private sector deleveraging; Section C reviews the
+remaining debt-related risks facing CESEE countries; Section D examines the dynamics of the
+fundamental determinants of private credit to estimate remaining credit gaps between the level of
+private debt and its secular trend and between the growth rate of private credit and its typical path
+over the credit cycle; Section E concludes by considering how the countries that are still suffering
+from debt overhang (that is, with positive credit gaps) can grow out of the debt problem over the
+medium term.
+
+4
+
+See the April 2014 REI for a detailed analysis of external funding patterns in the CESEE region.
+
+INTERNATIONAL MONETARY FUND
+
+17
+
+CESEE REI SPRING 2015
+
+Figure 1. CESEE: Real and Financial Sector Developments
+(First bar - 2005; second bar - 2008, third bar- 2009, fourth bar - 2013)
+Bank Credit to Private Sector (Percent change, year over year, nominal)
+Starting from a low level, bank credit grew rapidly before 2008, but has since slumped and stayed depressed, except in the CIS and
+Turkey
+60
+
+40
+20
+
+0
+-20
+
+Baltics
+
+SEE euro peggers
+
+SEE inflation targeters
+
+CEE
+
+Russia
+
+Other CIS
+
+Turkey
+
+Current Account Balance (Ratio to GDP, percent)
+A precrisis credit boom financed excessive growth of domestic demand, which has since adjusted, except in the CIS and Turkey
+10
+0
+
+-10
+-20
+
+Baltics
+
+SEE euro peggers
+
+SEE inflation targeters
+
+CEE
+
+Russia
+
+Other CIS
+
+Turkey
+
+Other CIS
+
+Turkey
+
+Investment-to-Nominal GDP Ratio (Percent)
+Investment rates have fallen across much of the region and remain below their precrisis levels
+35
+30
+25
+20
+
+15
+Baltics
+
+SEE euro peggers
+
+SEE inflation targeters
+
+CEE
+
+Russia
+
+External Debt (Ratio to GDP, percent)
+The external debt burden has increased in the wake of crisis amid currency devaluations and widening government deficits
+100
+
+50
+
+0
+Baltics
+
+SEE euro peggers
+
+SEE inflation targeters
+
+CEE
+
+Russia
+
+Other CIS
+
+Turkey
+
+Private Sector Debt (Ratio to GDP, percent)
+Despite deleveraging efforts, the private debt burden has stayed high or even increased, except in the Baltics
+100
+50
+0
+Baltics
+
+SEE euro peggers
+
+SEE inflation targeters
+
+CEE
+
+Russia
+
+Other CIS
+
+Turkey
+
+Ratio of Nonperforming to Total Bank Loans (Percent)
+The share of nonperforming loans has crept up and stayed elevated, except in the Baltics, Russia, and Turkey
+20
+10
+
+0
+Baltics
+
+SEE euro peggers
+
+SEE inflation targeters
+
+CEE
+
+Russia
+
+Sources: IMF, World Economic Outlook database; and IMF staff calculations.
+
+18
+
+INTERNATIONAL MONETARY FUND
+
+Other CIS
+
+Turkey
+
+CESEE REI SPRING 2015
+
+A. How Much Deleveraging?
+Despite significant deleveraging efforts—as measured by the adjustment in the private sector net
+saving-investment balances—relatively few of the countries with a sizable buildup of debt before the
+crisis managed to noticeably reduce their private-debt-to-GDP ratios after the crisis.
+Figure 2. CESEE: Change in Private-Debt-to-GDP Ratios
+before and after 2008–09 Crisis
+Change in private debt-to-GDP between 2008 and 2013 (ppt)
+
+A larger stock of private sector debt has
+generally entailed larger deleveraging in
+the aftermath of the crisis. A comparison of
+the changes in private-debt-to-GDP ratios
+during 2003–08 and 2008–13 shows that
+countries that reduced their debt-to-GDP
+ratios between 2008 and 2013 were among
+those that experienced a significant buildup
+of debt in the precrisis period—at least a
+30 percentage point of GDP increase between
+2003 and 2008 (Figure 2). However, not all
+high-debt countries managed to bring down
+their debt-to-GDP ratios. Bosnia and
+Herzegovina, Bulgaria, Croatia, the former
+Yugoslav Republic of Macedonia, Romania,
+and Ukraine, whose private-debt-to-GDP
+ratios in 2008 were well above 2003 levels,
+subsequently stabilized at their peak values or
+increased further.
+
+40
+30
+
+TUR
+
+20
+
+BLR
+MDA
+
+10
+
+CZE
+SVK
+
+0
+
+RUS
+
+MKD
+
+HRV
+
+BIH
+
+POL
+
+UKR
+
+ROM
+
+BGR
+
+SVN
+
+-10
+
+HUN
+
+-20
+
+LVA
+EST
+
+LTU
+
+-30
+
+MNE
+
+-40
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Change in private debt-to-GDP ratio between 2003 and 2008 (ppt)
+
+Sources: Eurostat; IMF, International Financial Statistics and World
+Economic Outlook databases; and IMF staff calculations.
+Note: 2003 data for Albania, Kosovo, and Serbia are not available.
+Data labels are defined in the abbreviations list.
+
+Since 2008–09, most CESEE countries have undergone significant correction of private sector
+net saving-investment balances. When an economy is hit by a sudden stop, the correction of the
+debt metrics typically occurs through reductions in consumption, implying higher saving and/or
+cutbacks in investment. Indeed, the economy-wide net saving-investment balances improved
+notably in much of the region (Figure 3).5 In some cases, large adjustments transformed the private
+sector from a net borrower to a net creditor. The corrections were largest in exchange-rate-targeting
+CESEE countries, where the precrisis external imbalances were among the biggest, and in Hungary.6
+
+5
+
+For the economy as a whole, domestic sectors’ net lending/borrowing is equal to the sum of current and capital
+account balances, except for statistical discrepancies. The net lending (+)/net borrowing (-) broadly equals gross
+saving and net capital transfers minus gross capital formation (that is, saving-investment balance). When positive, it
+captures the excess savings that go toward principal debt repayment and asset accumulation. By construction, this
+measure does not capture “automatic” savings generated by revaluation effects on assets, which are recorded
+directly in the financial accounts.
+6
+
+In Hungary, the postcrisis depreciation of the forint exacerbated the burden of the foreign-exchange-denominated
+debt.
+
+INTERNATIONAL MONETARY FUND
+
+19
+
+CESEE REI SPRING 2015
+
+In addition, in all CESEE countries except Belarus, the former Yugoslav Republic of Macedonia, and
+Russia, the adjustment was achieved in part by large declines in the private sector investment rate.
+Figure 3. CESEE: Change in Private Net SavingInvestment Balance between 2009–13 and 2006–08
+(Percent of GDP)
+Montenegro
+Bulgaria
+Latvia
+Lithuania
+Estonia
+Slovenia
+Serbia
+Romania
+Croatia
+Moldova
+Hungary
+Slovak Republic
+Macedonia, FYR
+Bosnia
+Poland
+Russia
+Czech Republic
+Ukraine
+Turkey
+Albania
+Belarus
+
+Figure 4. CESEE: Change in Public Net SavingInvestment Balance between 2009–14 and 2006–08
+(Percent of GDP)
+Russia
+Montenegro
+Slovenia
+Bulgaria
+Lithuania
+Serbia
+Bosnia
+Croatia
+Macedonia, FYR
+Ukraine
+Moldova
+Slovak Republic
+Poland
+Czech Republic
+Latvia
+Romania
+Albania
+Belarus
+Estonia
+Turkey
+Hungary
+
+Private investment
+
+Private savings
+Private net savinginvestment balance
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+Public investment
+
+Public savings
+Public net savinginvestment balance
+
+-10
+
+-5
+
+0
+
+5
+
+Sources: IMF, World Economic Outlook database; and IMF staff calculations.
+
+Relatively few countries, however, saw
+Figure 5. CESEE: Contributions to the Cumulative Growth
+their 2013 private-debt-to-GDP ratios dip
+Rate of Private Debt-to-GDP Ratio over 2008–13 (Percent)
+below 2008 levels. The debt-to-GDP ratio
+-35 debt
+Private
+Real GDP
+GDP deflator
+Cummulative
+can be lowered through (1) reduction of the
+2009
+2010
+2011
+-35
+Private debt
+Real GDP
+GDP deflator
+Cummulative growth rate of private debt-to-GDP ratio since 2008
+debt stock (via liquidation of2009
+assets and use2010
+2011
+2012
+2013
+-200
+-100
+0
+100
+200
+of the proceeds to pay down debt or via
+Montenegro
+higher saving or lower investment or via
+Lithuania
+Latvia
+debt restructuring); or (2) an increase in
+Estonia
+nominal GDP (via higher real growth or
+Hungary
+Serbia
+higher inflation and asset prices).
+Slovenia
+Bulgaria
+Let’s consider what happened across CESEE:
+Romania
+
+
+20
+
+Debt stocks: Visible reductions in private
+debt stocks, including valuation effects,
+occurred only in the Baltics and
+Montenegro, as can be seen from the
+negative contributions of the debt stock
+to the growth of the debt-to-GDP ratios
+in these countries during 2008–13
+(Figure 5). Countries with flexible
+exchange rates and a high share of
+
+INTERNATIONAL MONETARY FUND
+
+Ukraine
+Croatia
+Bosnia & Herz
+Kosovo
+Poland
+Slovak Rep
+Czech Rep
+Macedonia, FYR
+Moldova
+Russia
+Albania
+Belarus
+Turkey
+
+Sources: Eurostat; IMF, World Economic Outlook database; and IMF
+staff calculations.
+Note: See note to Figure 7.
+
+growth rate of p
+
+2
+
+CESEE REI SPRING 2015
+
+foreign-exchange-denominated liabilities experienced an increase in their debt burdens in the
+immediate aftermath of the crisis due to valuation effects. For example, foreign exchange
+devaluations have increased the debt burdens for households in Hungary and Poland (Figure
+6b). Russia, Turkey, and Ukraine, which have significant debt exposures in U.S. dollars, were also
+affected by exchange rate depreciation—but later on, in 2014. On the other hand, write-offs or
+restructuring of debt has lowered debt burdens in some cases. Available data for EU CESEE show
+that debt restructuring was applied more widely in the case of corporate than household loans.
+The biggest declines in corporate debt burdens attributable to revaluations and reclassifications
+were in Hungary, Latvia, Lithuania, Poland, and Slovenia (Figure 6a).7 Households benefited the
+most in the Czech Republic, Latvia, Romania, and the Slovak Republic (Figure 6b).
+
+
+Inflation: Higher inflation (growth of GDP deflator) helped bring down debt-to-GDP ratios in
+some countries (Figure 5).
+
+
+
+Growth: Real incomes facilitated reductions in the debt-to-GDP metrics to a lesser extent,
+reflecting the severity of the 2009 contractions and the weakness of subsequent recoveries
+(Figure 5). In some countries, stronger external demand helped lower their private-debt-to-GDP
+ratios in the postcrisis period (see Section B).
+
+Figure 6a. EU CESEE: Valuation Effects on Postcrisis
+Growth of Bank Credit to Nonfinancial Corporations
+(Percent)
+
+Figure 6b. EU CESEE: Valuation Effects on Post-Crisis
+Growth of Bank Credit to Households
+(Percent)
+
+Slovenia
+
+Latvia
+
+Latvia
+
+Hungary
+
+Hungary
+
+Revaluations and reclassifications
+
+Lithuania
+
+Financial transactions
+
+Croatia
+
+Total growth of bank credit to non-financial
+corporations over Dec'07-Dec'14
+
+Estonia
+
+Croatia
+Estonia
+
+Revaluations and reclassifications
+
+Lithuania
+
+Financial transactions
+Total growth of bank credit to
+households over Dec'07-Dec'14
+
+Romania
+
+Slovenia
+
+Slovakia
+Czech Republic
+
+Bulgaria
+
+Romania
+
+Czech Republic
+
+Poland
+
+Poland
+
+Bulgaria
+
+Slovakia
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+-50
+
+0
+
+50
+
+100
+
+150
+
+Sources: European Central Bank, monetary financial institution balance sheet statistics; and IMF staff calculations.
+Note: Revaluation effects include write-offs and write-downs of loans and revaluation adjustments as a result of price and exchange
+rate changes. Financial transactions refer to the repayment and drawing of loans. Data for the Baltics is for the 2010–14 due to lack of
+data. EU CESEE = European Union central, eastern, and southeastern economies.
+
+7
+
+In the case of Bulgaria, the recorded revaluation and reclassification effects are mostly on account of the closure of
+a large domestic bank in 2014.
+
+INTERNATIONAL MONETARY FUND
+
+21
+
+CESEE REI SPRING 2015
+
+Private debt reductions reflected declines in both household and corporate debt. In the Baltics,
+Hungary, and Ukraine, a significant share of the adjustment was carried out by households, while
+corporate debt stocks were reduced in Estonia, Hungary, Lithuania, Serbia, and Slovenia (Figure 7).
+Within corporate debt, intercompany loans from abroad have fallen only in a few countries,
+reflecting the fact that such loans are typically more stable, but also that they are disproportionately
+affected by valuation effects from depreciation of floating currencies.
+Figure 7a. CESEE: Private Sector Debt, 2008
+(Percent of GDP)
+Households
+Corporate (other)
+0
+
+Corporate (intercompany)
+50
+
+100
+
+Bulgaria
+Estonia
+Croatia
+Ukraine
+Slovenia
+Hungary
+Moldova
+Latvia
+Bosnia
+Turkey
+Macedonia, FYR
+Serbia
+Poland
+Slovak Republic
+Russia
+Czech Republic
+Belarus
+Albania
+Romania
+Lithuania
+
+Figure 7b. CESEE: Change in Private Debt-to-GDP
+Ratios, 2008–13 (Percentage points)
+Households
+Corporate (other)
+
+150
+
+-40
+
+Corporate (intercompany)
+Total
+-20
+
+0
+
+20
+
+40
+
+Lithuania
+Estonia
+Latvia
+Hungary
+Slovenia
+Serbia
+Bulgaria
+Romania
+Ukraine
+Bosnia
+Poland
+Croatia
+Slovak Republic
+Czech Republic
+Macedonia, FYR
+Russia
+Moldova
+Albania
+Belarus
+Turkey
+
+Sources: Eurostat; IMF, International Financial Statistics and World Economic Outlook databases; and IMF staff calculations.
+Note: For EU countries, debt includes loans and debt securities, excluding financial derivatives and consolidated within sector, owed by
+nonfinancial private and public firms and households (based on European System of National Accounts, 2010). For other countries, the
+sum of bank loans to sectors other than the government and other financial corporations and financial liabilities of “Other sectors” to
+nonresidents (as defined in the IMF’s Balance of Payments Manual statistics and excluding other financial corporations), including
+intercompany loans from nonresidents. In the breakdown of corporate loans, only intercompany loans from nonresidents are shown.
+
+Firm-level data show that among continuously reporting viable firms, those with relatively
+higher leverage experienced the largest postcrisis adjustment (Figure 8):8
+
+
+Among viable firms, the most indebted have undertaken the largest adjustments. Nonviable firms
+had much higher median leverage in 2008 than continuously operating viable firms and in most
+cases ceased operations or reported irregularly in subsequent years. Nonviable firms accounted
+for about 10 percent of total sales of firms in the sample.
+
+8
+
+The analysis is based on a sample of firms that had non-zero debt in 2008 and continuously operated as viable
+entities (with nonnegative equity) during 2008–13. Given data availability, the sample includes Bulgaria, Croatia, the
+Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia, Serbia, the Slovak Republic, Slovenia, Turkey, and
+Ukraine.
+
+22
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Figure 8. Firm-Level Deleveraging Patterns, 2008–12
+(Median debt, percent of equity)
+Leverage
+
+Leverage by Firms' Size
+
+250
+
+200
+
+600
+Nonviable firms
+Viable firms
+1st quartile of viable firms
+2nd quartile of viable firms
+500
+3rd quartile of viable firms
+4th quartile of viable firms (right axis)
+
+80
+
+400
+
+70
+
+300
+
+65
+
+200
+
+60
+
+100
+
+55
+
+0
+
+50
+
+Small
+Medium
+
+75
+
+Large
+
+150
+
+100
+
+50
+
+0
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Deleveraging by Industry
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+Deleveraging by Country
+
+100
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+90
+
+Slovenia
+Croatia
+
+Latvia
+
+80
+
+Estonia
+
+70
+
+Russia
+
+Bulgaria
+
+60
+
+Lithuania
+
+50
+
+Slovak Republic
+
+40
+
+Ukraine
+Hungary
+
+30
+
+Turkey
+
+20
+
+Poland
+Russia
+
+10
+
+2008
+
+Czech Republic
+
+0
+WR
+
+MS
+
+CR
+
+MF
+
+AG
+
+UT
+
+0
+
+50
+
+2012
+
+100
+
+150
+
+Sources: ORBIS database; and IMF staff calculations.
+Note: Sample excludes firms that ceased operations or reported irregularly during 2008–12. These nonviable firms had excessive
+leverage in 2008 and mostly closed down in subsequent years. Including these firms in 2008, the median leverage of the top 25
+percent of firms by leverage would be close to 710 percent instead of the current 450 percent. The remaining quartiles would
+remain practically unchanged. Industrial sectors are agriculture and mining (AG), manufacturing (MF), utilities (UT), construction and
+real estate (CR), wholesale and retail trade (WR), and market services (MS). Size buckets are small, medium, and large.
+
+INTERNATIONAL MONETARY FUND
+
+23
+
+CESEE REI SPRING 2015
+
+
+
+Sectors dominated by small or highly leveraged firms deleveraged the most during 2009–12. The
+wholesale-retail trade and market services sectors reduced their median debt-to-equity ratio by
+close to 20 percentage points from 80-90 percent in 2008. Construction, manufacturing, and
+agriculture have scaled back leverage by close to 10 percentage points. In contrast, leverage in
+the utilities sector—which is dominated by larger and least indebted firms—did not change
+much.
+
+
+
+In countries with highly leveraged corporate sectors before the crisis, continuously operating viable
+firms experienced the largest reduction in leverage during 2008–12. This was most notably the
+case in the Baltics, Bulgaria, Hungary, Slovenia, and Ukraine. In contrast, in countries with
+relatively low corporate leverage in 2008, such as the Czech Republic and Poland, firms reduced
+leverage only slightly. Also consistent with the aggregate-level evidence (Figure 7b), the upleveraging by Turkish firms contrasts with the deleveraging trend in the rest of the region.
+
+B. What Determines the Economic Cost of Deleveraging?
+A smooth repair of private nonfinancial sector balance sheets—with minimal output losses—requires
+supportive macroeconomic policies and flexible institutions. The scale of debt overhang, financial
+sector resilience, and external environment matter as well. A less favorable combination of all these
+factors, as in the case of SEE, would result in more protracted private sector deleveraging, with higher
+real costs for the economy.
+The repair of private balance sheets may take longer and entail larger output losses if
+
+
+The debt overhang is pervasive: If both firms and households are highly leveraged, the
+adjustment will likely be more difficult and/or more protracted.
+
+
+
+Macroeconomic policies are not sufficiently supportive: the private sector balance sheet
+adjustment could deepen the economic downturn if the government does not have fiscal space
+to accommodate private sector deleveraging and/or if the central bank lacks monetary policy
+space or flexibility to counter deflationary forces.
+
+
+
+Institutions are not sufficiently flexible: A lack of efficient debt-resolution frameworks would make
+it more difficult for firms and households to deal with the debt stock problem and make a fresh
+start. In addition, more rigid labor market regulations (such as high hiring and firing costs) would
+prevent firms from carrying out necessary labor shedding, thereby forcing them to
+disproportionately cut back on investment, which could further delay the recovery in corporate
+profitability and dampen growth prospects.
+
+
+
+The financial sector is not sufficiently resilient: This means that banks are less able to absorb
+losses stemming from nonperforming loan exposures and to facilitate debt restructuring.
+
+
+
+External demand is weak: This happens if many countries must adjust at the same time.
+
+24
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Corporate Debt Overhang and Financial Accelerator
+The extent of balance sheet weaknesses determines the impact of corporate deleveraging on
+the economy. In response to falling demand, firms adjust production and costs to maintain
+profitability and reduce payouts to shareholders in order to be able to service debt and protect
+equity. Besides cutting investment and wage costs, they also sell off assets, particularly inventories
+and noncore fixed assets. As firms demand fewer inputs for their new lower production, they need
+less working and investment capital, leading to net repayment of debt. The intensity of the financial
+accelerator depends on the prevalence of balance sheet weaknesses that can increase firms’
+sensitivity to demand, income, and interest rate shocks (Bernanke and Gertler, 1989).
+For a given decline in sales, more leveraged firms tend to react with larger cutbacks in
+employment and investment. As a result, the greater the share of overleveraged firms the larger
+the overall decline in aggregate demand. Figure 9 shows the average sensitivity of employment and
+investment of firms in different CESEE countries to a 10 percent decline in sales. In countries with
+larger corporate sector debt-to-GDP ratios, investment declines, on average, were larger than in
+other countries for a given shock to sales or demand.9 Our analysis also confirms that for a given
+decline in sales, more leveraged and/or smaller firms across CESEE countries tended to react by
+relatively larger cutbacks in employment and investment (see Box 4).
+Figure 9. Firm-level Analysis of Employment and Investment Sensitivity to a Demand Shock
+Employment and Leverage (Percent)
+
+Investment and Leverage (Percent)
+
+140
+
+140
+
+BGR
+UKR
+
+Corporate debt to GDP
+
+100
+80
+
+EST
+
+60
+
+HUN
+
+SVN
+TUR
+
+RUS
+
+CZE
+SVK
+
+40
+
+POL
+
+UKR
+
+100
+
+HRV
+
+LVA
+
+SRB
+
+BGR
+
+120
+
+LTU
+
+20
+
+Corporate debt to GDP
+
+120
+
+HRV
+80
+60
+
+SVN
+
+HUN
+
+EST
+
+LVA
+
+SRB
+
+TUR
+
+RUS
+SVK
+
+40
+
+CZE
+
+POL
+LTU
+
+20
+
+0
+-1.1
+
+-1.0
+
+-0.9
+
+-0.8
+
+Employment fall in response to 10 percent decline in sales
+
+0
+-0.9
+
+-0.85
+
+-0.8
+
+-0.75
+
+-0.7
+
+-0.65
+
+-0.6
+
+Investment fall in response to 10 percent decline in sales
+
+Source: IMF staff estimates (see Annex VII for details).
+Note: The figure shows the link between firm-level response by employment and investment to a negative sales shock of 10 percent
+(corresponding to a negative-value-added shock of about 3 percent) and corporate sector leverage.
+
+9
+
+The firm-level investment analysis for CESEE implies the elasticity of investment to GDP growth in the range of 1.6
+to 2.5, which is similar to the elasticity range estimated for advanced economies (see Annex Table 4.3.1 in the April
+2015 World Economic Outlook).
+
+INTERNATIONAL MONETARY FUND
+
+25
+
+CESEE REI SPRING 2015
+
+Box 4. Firm-Level Analysis of Adjustment in Response to Aggregate Shock
+For a given decline in sales, more leveraged and/or smaller firms tend to react with relatively larger cutbacks in
+employment and investment (see Annex VII, Table 3, for details):
+
+
+
+The adjustment is larger in more leveraged firms. Such firms have lower free cash flow buffers and thus
+tend to be more sensitive to declining demand than less leveraged firms. This is in line with the evidence
+in studies for the United States and Canada (Sharpe, 1994; Heisz and LaRochelle-Côté, 2004). In the case
+of investment, when testing determinants of the standard investment intensity, leverage appears to have
+negatively affected investment in the aftermath of the 2008–09 crisis, but was not statistically significant
+before the crisis (Annex VIII, Table 4). This is similar to findings that firms’ financial positions affected
+investment in the euro area in the aftermath of the crisis (Martinez-Carrascal and Ferrando, 2008; Goretti
+and Souto, 2013).
+
+
+
+The adjustment is larger in smaller firms. This is in line with the findings in the literature that larger
+manufacturing firms tend to hoard labor (Fay and Medoff, 1985; Sharpe, 1994) and that small firms are
+less able than large firms to adjust by selling fixed assets (Heisz and LaRochelle-Côté, 2004) when they
+face declining sales. Highly leveraged small firms tend to cut back investment disproportionately more
+than employment.
+High-leveraged firms
+(Response to 10 percent decline in sales, percent)
+
+Average-leveraged firms
+(Response to 10 percent decline in sales; percent)
+
+Small
+
+Small
+
+Average
+
+Average
+
+Employment
+Employment
+
+Investment
+
+Large
+
+Large
+
+Investment
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+Source: IMF staff calculations
+Note: Average-leveraged firms have debt-to-assets ratio of 15 percent and high-leveraged firms 150 percent.
+
+Large-scale repair of corporate balance sheets complicates deleveraging efforts of
+households, with negative feedback effects on firms. To put it simply, as firms cut back
+investment and fire workers, they depress household income, which weakens household debt
+metrics. This lowers consumption, in turn further weakening firms’ balance sheets. Analysis based on
+sectoral accounts for CEE EU countries confirms that reductions in wages and salaries paid by firms
+have eroded incomes of households, except in Bulgaria and Slovenia, likely undoing much of the
+effect of higher corporate savings on firms’ balance sheets (See Annex VI). When debt overhang
+afflicts both corporate and household sectors, the adjustment is even more painful.
+
+26
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Macroeconomic Policies
+As private balance sheets adjust, macroeconomic policies need to buffer the adverse impact
+on growth and inflation. Governments and
+Figure 10. CESEE: Change in Private- and PublicDebt-to-GDP Ratios, 2008–13 (Percentage points)
+inflation-targeting central banks have indeed
+partially accommodated private balance sheet
+Government
+Private Sector
+Total
+-40
+-20
+0
+20
+40
+adjustment, cushioning the impact on the real
+Slovenia
+economy. Governments in most CESEE countries
+Croatia
+Montenegro
+have allowed their net savings to drop sizably,
+Serbia
+Slovak Republic
+acting as safety valves in the economy-wide flow of
+Romania
+Lithuania
+funds (Figure 3). This helped reduce the downward
+Ukraine
+Latvia
+pressure on domestic demand created by the
+Belarus
+Czech Republic
+deleveraging efforts of corporations and
+Albania
+10
+Macedonia, FYR
+households. But as a result, public debt burdens
+Bosnia
+Poland
+increased (Figure 10). At the same time, inflationRussia
+Estonia
+targeting central banks have lowered policy rates to
+Hungary
+Moldova
+historical lows, providing reprieve to borrowers.
+Bulgaria
+
+The lack of flexible institutions could amplify
+the impact of corporate deleveraging on
+investment:
+
+
+Labor markets: Countries with more flexible
+hiring and firing labor regulations tended to
+have bigger adjustments in their savingsinvestment balances (Figure 11). Using firmlevel data, we are able to show that firms in
+countries with more flexible hiring and firing
+labor codes adjust more in economic
+downturns and upturns (see Annex VII for
+details). The results further expose the tradeoff facing small and medium enterprises
+(SMEs), in particular between the investment
+and labor adjustment—greater labor market
+flexibility seems to be associated with relatively
+
+Turkey
+Kosovo
+
+Sources: Eurostat; IMF, World Economic Outlook database;
+and IMF staff calculations.
+Note: See note to Figure 7.
+
+Figure 11. CESEE: Aggregate Deleveraging and
+Labor Market Regulations
+Post-crisis change in average private saving-investment balance
+(Percentage points of GDP)
+
+Institutional Flexibility
+
+60
+
+30
+MNE
+
+BGR
+
+25
+20
+
+LVA
+LTU
+EST
+
+15
+SRB
+
+10
+
+SVN
+HRV
+MDA
+
+ROM
+SVK
+
+5
+UKR
+
+0
+
+RUS
+
+HUN
+BIH
+
+POL
+
+CZE
+
+TUR
+
+ALB
+
+BLR
+
+-5
+6
+
+6.5
+
+7
+
+7.5
+
+8
+
+Labor Market Regulations, 2012
+(Index, 10 = least restrictive)
+
+Sources: Fraser Institute, Economic Freedom of the World
+database; IMF, World Economic Outlook database; and IMF staff
+calculations.
+
+10
+
+Existing safety nets were kept in place and further fiscal stimulus was provided, while allowing tax revenues to
+follow their procyclical behavior through the decline in direct tax payments net of transfers and subsidies and indirect
+tax revenues driven by the reduction of private consumption and investment.
+
+INTERNATIONAL MONETARY FUND
+
+27
+
+CESEE REI SPRING 2015
+
+larger adjustment in employment but smaller adjustment in investment.
+Debt-resolution framework: Weaknesses in the debt-resolution framework mean that firms are
+less able to address the debt stock problem, which would also affect the overall economic cost
+of adjustment. SMEs, in particular, face a number of unique challenges, including lack or
+inadequacy of a fresh start and high fixed restructuring costs.11
+
+
+
+Financial Sector Resilience
+Stronger balance sheets put banks in a better position to absorb losses and facilitate
+reallocation of credit to healthy sectors of the economy. Given the size of the 2008–09 shock
+and the depth of subsequent recessions, many CESEE banking systems were saddled with sizable
+nonperforming loans. The share of these loans in total loans rose above 10 percent in many CESEE
+countries and even exceeded 20 percent in some cases (Figure 12a). The need for increasingly larger
+provisions amid the lack of loan growth has further undermined banks’ profitability, thereby
+reducing their capacity and willingness to lend and to facilitate restructuring of non–financial sector
+balance sheets (Figure 12a). Furthermore, many of the euro area cross-border banking groups with
+operations in CESEE tended to have overall weaker balance sheets than their peers, reflecting asset
+quality deterioration both at home and abroad (Figure 12b), and they were therefore less able to
+support their subsidiaries in CESEE.
+Figure 12a. CESEE: Bank Asset Quality and Profitability
+(Percent)
+30
+
+20%
+
+R² = 0.3187
+
+Peak NPL ratio (2009-2014)
+
+25
+
+Euro area banks with operations in CESEE
+
+LTU
+
+15
+
+LVA
+
+15%
+
+SRB
+BGR
+
+HUN
+BIH
+
+UKR
+
+SVN
+
+ALB
+
+ROM
+
+MNE
+
+20
+
+MDA
+
+MKD
+
+10
+
+EST
+
+CZE
+
+BLR
+
+Other euro area banks
+
+10%
+
+HRV
+
+RUS
+
+UVK
+SVK
+
+5
+
+Figure 12b. Common Equity Tier 1 Capital Ratios of
+Euro Area Banks after the Asset Quality Review
+(Percent)
+
+5%
+TUR
+
+POL
+
+0%
+
+0
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+Average bank return on assets (2009-2013)
+
+Source: IMF Financial Soundness Indicators database.
+Note: NPL = nonperforming loan. Data labels are defined in the
+abbreviations list.
+
+11
+
+See Bergthaler (2015).
+
+28
+
+INTERNATIONAL MONETARY FUND
+
+-5%
+
+Source: European Central Bank, Comprehensive Assessment.
+
+CESEE REI SPRING 2015
+
+External Environment
+Having strong trade and financial links with countries that were less affected by the crisis helped
+some CESEE countries in their postcrisis adjustment. Notably, the growth rates of trading partners
+during 2008-14 tended to be higher for the Baltics than for the SEE countries (Figure 13a). Also, the
+Baltics benefited from the presence of Nordic banks that had relatively stronger balance sheets than
+many of the euro area banks (Figure 13b).
+Figure 13a. CESEE: Average post-2008 Real GDP Growth
+Rate of Trade Partners (Trade-weighted, percent)
+
+Figure 13b. Tier 1 Capital Ratios of Foreign Parent
+Banks (Weighted average 1/, percent)
+8
+
+Ukraine
+Turkey
+Russia
+Latvia
+Lithuania
+Belarus
+Czech Republic
+Moldova
+Romania
+Macedonia, FYR
+Bulgaria
+Hungary
+Estonia
+Poland
+Slovak Republic
+Slovenia
+Croatia
+Albania
+Serbia
+Bosnia
+-1.0
+
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+Source: IMF World Economic Outlook database.
+
+1.5
+
+2.0
+
+10
+
+12
+
+14
+
+16
+
+18
+
+Estonia
+Latvia
+Lithuania
+Hungary
+Czech R.
+Poland
+Turkey
+Kosovo
+Russia
+Slovak R.
+Ukraine
+Croatia
+Belarus
+Bulgaria
+Romania
+Serbia
+Slovenia
+Bosnia &…
+Albania
+Macedonia
+Montenegro
+Moldova
+2.5
+
+Sources: Bankscope; and SNL Database.
+1/ Weighted by subsidiaries’ assets in a given country.
+Data are as of 2013 or latest available.
+
+To sum up: given the large size of private debt before the global financial crisis, some of the Baltic
+and SEE economies faced significant deleveraging pressure, which was partly offset by fiscal
+accommodation (as many of these countries lacked monetary policy flexibility). In contrast with SEE
+countries, the Baltic countries were able to adjust faster, resulting in a quicker recovery in investment
+and economic activity (see Figure 1). This appears to have been largely due to their more flexible
+institutions, but also to strong trade and financial links with countries that were in better shape in
+the aftermath of the crisis.
+
+C. What Are the Remaining Debt-Related Risks Facing CESEE?
+A more granular analysis of aggregate and firm-level data suggests that debt-related risks remain
+elevated in some corporate sectors (notably in Bulgaria, Croatia, Slovenia, and Ukraine) and in some
+industries (notably, construction and real estate).
+Aggregate Debt Risk Metrics
+The postcrisis adjustment has helped put external debt on a more sustainable path across
+most countries. Based on the IMF staff’s external debt sustainability assessments, only in Belarus,
+
+INTERNATIONAL MONETARY FUND
+
+29
+
+CESEE REI SPRING 2015
+
+Bosnia and Herzegovina, Estonia, and Turkey are the latest current account deficits wider than
+what is required to stabilize their external-debt-to-GDP
+Figure 14. CESEE: IMF Staff External Debt
+ratios (Figure 14). External debt developments reflect
+12
+Sustainability Assessments, 2008–13
+both public and private balance sheet adjustment.
+On aggregate, private-sector-debt-related risks are
+now lower. The EU Macroeconomic Imbalances
+Procedure (MIP) monitors economy-wide exposure to
+debt-related risks by comparing the ratio of private sector
+debt to GDP with the cutoff point of the top quartile of
+the EU-wide distribution over 1995–2007 (EC, 2012). By
+this metric, only Bulgaria breaches the MIP indicative
+threshold of 133 percent of GDP.13
+But sector-level risk metrics for CEE countries reveal
+some weaknesses.14 CEE countries with the highest
+number of sectoral debt risk metrics exceeding the cutoff
+points of the top quartile of their precrisis EU-wide
+distributions include Bulgaria, Croatia, Latvia, Slovenia,
+and the Slovak Republic (Figure 15; see Iossifov and
+Zumer (2015) for details).
+
+Gap between debt-stabilizing and actual current
+account balance
+Country
+2008
+2011
+2013
+Belarus
+0.5
+2.5
+5.6
+Bosnia
+3.2
+4
+4.1
+Bulgaria
+11.2
+-7.9
+-6
+Croatia
+-3
+-7.7
+-6.2
+Estonia
+-0.9
+-14
+1.7
+Hungary
+-3.9
+-12.5
+-11.2
+Latvia
+3.6
+-8.8
+-7.4
+Lithuania
+3
+-2.8
+-5.6
+Macedonia, FYR
+7.1
+-4.6
+-4.7
+Montenegro
+16.5
+0.3
+-1.8
+Poland
+-0.9
+-2.5
+-3.2
+Romania
+1.8
+-4.3
+-4.8
+Russia
+-9.9
+-7.1
+-0.3
+Serbia
+5.1
+-4.3
+-3.1
+Slovak Republic
+2.8
+-5.1
+-1.7
+Slovenia
+-2.7
+-4.5
+-11.4
+Turkey
+1.8
+2.6
+3.2
+Source: IMF staff reports.
+Note: Countries that need to improve their
+noninterest current accounts to stabilize their
+external-debt-to-GDP ratio are highlighted in red.
+
+
+
+Liquidity risk—measured by debt-to-income and interest-expense-to-income ratios—reflects the
+potential inability of borrowers to service debt obligations out of their current income.
+Corporate liquidity risks are high in Bulgaria and Slovenia.
+
+
+
+Solvency risk—proxied by the debt-to-equity ratio—measures the potential inability of borrowers
+to keep the value of their assets above that of liabilities. Solvency risks are elevated in the
+corporate sectors of Bulgaria, Croatia, Latvia, and Slovenia as well as for households in Croatia,
+Estonia, Latvia, Poland, and the Slovak Republic. CEE countries perform relatively worse on
+solvency- than on liquidity-debt-risk metrics in EU-wide comparisons, signaling that the gap
+between their sectoral net worth levels and that of the euro area is wider than the respective
+gap in incomes.
+
+12
+
+When 2008 data were unavailable, 2007 data were used for Bosnia and Herzegovina, Bulgaria, Montenegro, and
+Turkey; 2006 data were used for the Slovak Republic. When 2011 data were unavailable, 2010 data were used for
+Bulgaria and Estonia. The last column shows the latest available data (2012 data for Bulgaria, Estonia, Hungary, and
+Lithuania; 2014 data for Romania and Serbia).
+13
+
+The level of indebtedness of the corporate sector in Bulgaria may be overestimated by the risk metrics, as a large
+share of it is attributed to intercompany lending in the form of foreign direct investment, which is often used in tax
+optimization strategies. Bulgaria’s corporate tax rate is the lowest in the European Union.
+14
+
+The metrics shown in Figures 13a and 13b are available only for EU countries.
+
+30
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+
+
+The risk of unfavorable debt dynamics—measured by the interest rate–income growth
+differential—reflects the likelihood that debt may be put on an unsustainable path relative to
+income. This metric has been above the cutoff point of the top quartile of its precrisis EU-wide
+distribution in the corporate sectors of the Czech Republic, Romania, and Slovenia, as well as for
+households in all CEE countries except Estonia, Lithuania, and Poland. On one hand, this reflects
+the steep declines in household incomes and their relatively slow recovery across CEE (except in
+Poland), which more than offset the positive effect of the postcrisis decline in nominal interest
+rates. On the other hand, it captures the generally higher country risk premiums of CEE
+countries, compared with other non-euro-area EU countries and nonstressed euro area
+countries.
+
+The debt-related risks are interlinked through negative macro-financial feedback loops.
+Negative real shocks erode the debt-servicing capacity of firms and households, increasing their
+exposure to liquidity risk. The slower income growth and higher demand for liquidity can then result
+in an increase in the risk to autonomous debt dynamics, as the interest rate—–income growth
+differential widens. Lower disposable incomes and higher interest rates can, in turn, trigger deflation
+of asset price bubbles, eroding sectoral net worth and raising solvency risks.
+
+Firm-Level Risk Metrics15
+Firm-level analysis shows a broadly similar picture of debt-related risks for CESEE firms
+(Figure 16). Both flag solvency risks for firms in Bulgaria, Croatia, Latvia, and Slovenia. In addition,
+the average solvency-risk metrics constructed from firm-level data (average debt-to-equity ratios)
+for Russia, Ukraine, and Turkey are also elevated, being above the 2013 average across sample
+countries. Using the same criterion, firm-level data suggest high liquidity risk in the corporate
+sectors of Croatia, Serbia, Slovenia, and Ukraine.
+Furthermore, corporate data shed light on risk concentrations that could exacerbate debtrelated weaknesses. The concept that is often used to assess risk concentration is debt-at-risk.
+Debt-at-risk is defined as the share of debt owed by the most vulnerable firms. We identify
+vulnerable firms as those that are facing high solvency risks, as measured by the debt-to-equity
+ratio, or those facing high liquidity risks, as measured by debt-to-income (debt-to-EBIT [earnings
+before interest and taxes] in the firm-level data) and interest coverage ratio (ICR). The debt-at-risk
+
+15
+
+The analysis in this section is based on firm-level data from the ORBIS database for all CESEE countries except
+Albania, Belarus, Bosnia and Herzegovina, Kosovo, FYR Macedonia, Moldova, and Montenegro (due to insufficient
+data). While caution should be exercised in deriving conclusions based on aggregation of firm-level data, the ORBIS
+data set generally has good coverage—total debt owed by the firms in the sample on average accounts for 35
+percent of total corporate sector debt as recorded in national statistics. See Annex V for details.
+
+INTERNATIONAL MONETARY FUND
+
+31
+
+CESEE REI SPRING 2015
+
+Figure 15. CESEE EU: Debt-Related Risks in Corporate and Household Sectors, 2013 (Percent)
+Corporates
+1
+0
+
+Households
+1
+0
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+H
+
+2013
+
+Avg. 2009-13
+
+Liquidity Risk: Debt-to-Income Ratio1
+Slovenia
+
+Estonia
+
+Bulgaria
+
+Czech Republic
+
+Estonia
+
+Poland
+
+Hungary
+
+Latvia
+
+Latvia
+
+Slovak Republic
+
+Romania
+
+Hungary
+
+Slovak Republic
+
+Slovenia
+
+Czech Republic
+
+Bulgaria
+
+Poland
+
+Romania
+
+Lithuania
+
+Lithuania
+
+Croatia
+
+Cut-off point of the
+top quartile of the
+EU-wide distribution
+of the indicator over
+1995-2007
+
+Croatia
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Solvency Risk: Leverage Ratio2
+Latvia
+
+Slovak Republic
+
+Croatia
+
+Poland
+
+Bulgaria
+
+Croatia
+
+Slovenia
+
+Latvia
+
+Hungary
+
+Estonia
+
+Slovak Republic
+
+Czech Republic
+
+Romania
+
+Slovenia
+
+Poland
+
+Lithuania
+
+Estonia
+
+Hungary
+
+Czech Republic
+
+Romania
+
+Lithuania
+
+Bulgaria
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Risk to Autonomous Debt Dynamics: Interest-Rate-Income Growth Differential (averages for 2009-2013)3
+Romania
+
+Bulgaria
+
+Czech Republic
+
+Hungary
+
+Slovenia
+
+Latvia
+
+Slovak Republic
+
+Slovak Republic
+
+Latvia
+
+Slovenia
+
+Bulgaria
+
+Czech Republic
+
+Estonia
+
+Romania
+
+Hungary
+
+Lithuania
+
+Lithuania
+
+Estonia
+
+Poland
+
+Poland
+
+Croatia
+
+Croatia
+-10
+
+-8
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Sources: EUROSTAT European System of National Accounts (ESA) 2010 and 1995 Annual Sector Accounts; and IMF staff calculations.
+Note: The debt stock includes the outstanding amounts of loans and debt securities, excluding financial derivatives. Data are
+unconsolidated within each sector, except in the case of the general government. ESA 2010 data for construction of liquidity and
+sustainability metrics are not available for Bulgaria, Poland, and Romania, for which ESA 1995 data that end in 2012 (2011 for
+Romania) are used. Data for Croatia are not available. 1 Ratio of stock of debt to augmented gross disposable income (GDI). GDI is
+taken before interest payments and payments to shareholders. 2 Ratio of stock of debt to firms’ equity and households’ net financial
+worth. 3 Difference between the implicit interest rate on debt and the nominal growth rate of augmented GDI. The implicit interest
+rate is calculated as the ratio of interest payments (including financial intermediation services indirectly measured) over the average
+of the beginning and end-period stock of debt.
+
+32
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Figure 16. CESEE: Corporate Sector Exposures to Liquidity and Solvency Risks, 2013
+Average Exposures to Liquidity and Solvency Risks
+Debt to Income (percent)
+
+Debt to Equity (percent)
+average based on aggregate data
+
+average based on aggregate data
+average based on firm-level data
+0
+
+1000
+
+Croatia
+Slovenia
+Bulgaria
+Hungary
+Estonia
+Latvia
+Czech Republic
+Slovak Republic
+Poland
+Romania
+Lithuania
+Ukraine
+Serbia
+Russia
+Turkey
+
+average based on firm-level data
+0
+50
+100
+
+2000
+
+150
+
+Latvia
+Croatia
+Bulgaria
+Slovenia
+Hungary
+Slovak Republic
+Romania
+Poland
+Estonia
+Czech Republic
+Lithuania
+Ukraine
+Russia
+Turkey
+Serbia
+
+2013 average of
+firm-level data
+across sample
+countries
+
+Debt-at-Risk (Liquidity and Solvency)
+Debt to Income
+
+Debt to Equity
+
+Corporate debt (in percent of GDP), of which
+DI< 0
+
+DI> 8
+
+3 < DI < 8
+
+0 < DI < 3
+
+No firm-level data available
+0
+50
+
+Interest Coverage Ratio
+
+Corporate debt (in percent of GDP), of which
+
+Corporate debt (in percent of GDP), of which
+
+DE < 0
+DE > 5
+1 < DE< 5
+0 < DE < 1
+Not firm-level data available
+
+100
+
+150
+
+0
+
+50
+
+100
+
+150
+
+IC < 0
+
+0 < IC < 1
+
+I < IC < 6
+
+6 < IC
+
+No firm-level data available
+0
+50
+
+100
+
+Bulgaria
+
+Bulgaria
+
+Bulgaria
+
+Ukraine
+
+Ukraine
+
+Ukraine
+
+Hungary
+
+Hungary
+
+Hungary
+
+Croatia
+
+Croatia
+
+Latvia
+
+Estonia
+
+Estonia
+
+Turkey
+
+Slovenia
+
+Slovenia
+
+Serbia
+
+Latvia
+
+Latvia
+
+Russia
+
+Turkey
+
+Turkey
+
+Czech Republic
+
+Serbia
+
+Serbia
+
+Romania
+
+Russia
+
+Russia
+
+Slovak Republic
+
+Czech Republic
+
+Czech Republic
+
+Poland
+
+Romania
+
+Romania
+
+Croatia
+
+Slovak Republic
+
+Slovak Republic
+
+Estonia
+
+Poland
+
+Poland
+
+Slovenia
+
+Lithuania
+
+Lithuania
+
+Lithuania
+
+Sources: EUROSTAT Annual Sectoral Accounts; ORBIS database; and IMF staff calculations.
+Note: For aggregate-level data, debt to income is the ratio of stock of debt to gross disposable income, and debt to equity is the
+ratio of stock of debt to firms’ equity. For better compatibility between sectoral and firm-level data, debt stock data are
+unconsolidated within the corporate sector and no adjustments are made to gross disposable income, which is different from the
+construction of sectoral risk metrics in Figure 15. The aggregate-level gross disposable income data for Bulgaria, Poland, and
+Romania are available only until 2012. For firm-level data, debt to income is the ratio of firms’ total financial debt to earnings before
+interest and taxes, and debt to equity is the ratio of firms’ total financial debt to shareholders’ funds. Firm-level data refer to the
+weighted average of all firms covered in ORBIS. ORBIS data for Serbia do not include firms reporting negative equity. ICR = interest
+coverage ratio.
+
+INTERNATIONAL MONETARY FUND
+
+33
+
+150
+
+CESEE REI SPRING 2015
+
+thresholds are based on statistical data analysis and firm-level credit risk studies.16 The share of
+debt-at-risk in total debt based on the ICR exceeds 40 percent in most CESEE countries and in some
+cases is higher than 50 percent. This is comparable to, or higher than, the level in Portugal and Spain
+in 2008-2009, and much higher than around 20 percent in Germany and France (see the IMF’s
+October 2013 Global Financial Stability Report).
+The debt-at-risk analysis reveals relatively high risk concentration in some countries,
+including some that are not flagged based on aggregate data (Figure 16):
+
+
+Bulgaria, Croatia, Estonia, Russia, Serbia, Slovenia, and Ukraine have a relatively larger share than
+other CESEE countries of debt concentrated in firms with elevated liquidity risk, based on
+available firm-level data;
+
+
+
+Croatia, Latvia, Russia, and Ukraine show the largest share of debt concentrated in firms with
+elevated solvency risk, including a significant share of debt owed by firms with negative equity.
+
+
+
+In countries with high debt-at-risk, risks tend to be more acute in SMEs and certain industries (for
+example, construction and real estate—see Box 5.)
+
+To sum up, risks stemming from corporate sector indebtedness appear elevated in a number of
+countries, based on available aggregate and firm-level data:
+Liquidity risk
+Serbia*
+
+Risk to debt
+dynamics
+
+Bulgaria
+Croatia*
+Ukraine*
+Slovenia
+Romania,
+Czech Republic
+
+Latvia
+Russia*
+Turkey*
+
+Solvency risk
+
+Source: Figures 15 and 16.
+Note: (*) based fully on in part on firm-level data.
+
+16
+
+The cutoff values are generally chosen in reference to the distributions of the financial ratios across all countries.
+The debt-at-risk calculated using the debt-to-equity ratio refers to the share of debt owed by firms with a debt-toequity ratio below zero or above 5. The debt-at-risk using the debt-to-income ratio refers to the share of debt owed
+by firms with a debt-to-EBIT ratio below zero or above 8. These thresholds are approximately equal to the cutoff
+values of the 95th percentile of the distributions of the ratios across all sample countries. The threshold for the ICR is
+1, which is widely used in financial analysis, and it corresponds approximately to the cutoff value of the 30th
+percentile of the ICR distribution.
+
+34
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Box 5. Firm-Level Analysis of Debt-at-Risk of CESEE firms by Industry and Firm Size
+Risks tend to be more acute in certain sectors and size groups:
+ The construction and real estate as well as market services sectors in most countries exhibit a relatively high
+concentration of debt in the most vulnerable firms. Even in countries with relatively modest overall debt-atrisk, such as Poland, these two sectors tend to exhibit high risk concentration.
+
+
+
+Debt-at-risk is generally higher among small and medium enterprises than among large firms. This is
+particularly true for solvency risk, because small and medium firms tend to have less equity than large firms.
+Hungary and Poland appear to be exceptions, showing higher debt-at-risk levels among larger firms in the
+sample.17
+CESEE: Debt-at-Risk Metrics by Sector and Firm Size
+(Percent of total debt in each sector owed by vulnerable firms)
+Liquidity risk: Debt-to-Income
+CR MS WR MF AM UT
+Estonia
+67 69 54 50 65 56
+Latvia
+84 74 62 54 46 80
+Lithuania
+62 53 46 59 59 76
+Czech Republic
+59 65 62 49 45 26
+Hungary
+88 76 63 51 39 68
+Poland
+88 78 45 33 55 42
+Slovak Republic
+72 66 72 69 72 27
+Slovenia
+87 87 78 61 92 70
+Bulgaria
+74 79 64 67 42 43
+Croatia
+97 89 81 63 90 73
+Romania
+72 47 54 65 62 41
+Serbia
+88 72 66 75 69 72
+Russia
+73 77 64 64 68 70
+Ukraine
+91 87 76 75 69 69
+Turkey
+78 67 54 44 44 49
+
+Estonia
+Latvia
+Lithuania
+Czech Rep
+Hungary
+Poland
+Slovakia
+Slovenia
+Bulgaria
+Croatia
+Romania
+Serbia
+Russia
+Ukraine
+Turkey
+
+Liquidity risk: Debtto-Income
+S
+M
+L
+64
+63
+57
+70
+63
+63
+50
+51
+56
+72
+56
+43
+56
+54
+72
+47
+47
+69
+74
+73
+51
+70
+73
+76
+60
+70
+63
+83
+83
+86
+87
+66
+50
+65
+71
+76
+75
+71
+68
+83
+83
+76
+43
+46
+54
+
+Liquidity risk: ICR
+CR
+Estonia
+Latvia
+Lithuania
+Czech Republic
+Hungary
+Poland
+Slovak Republic
+Slovenia
+Bulgaria
+Croatia
+Romania
+Serbia
+Russia
+Ukraine
+Turkey
+
+MS
+
+Solvency risk: Debt-to-Equity
+
+WR MF
+
+AM
+
+UT
+
+68
+
+44
+
+25
+
+31
+
+21
+
+13
+
+31
+25
+78
+55
+
+42
+52
+61
+45
+
+33
+33
+16
+39
+
+30
+40
+22
+27
+
+37
+20
+12
+35
+
+7
+48
+17
+18
+
+71
+
+60
+
+46
+
+44
+
+30
+
+26
+
+46
+74
+56
+76
+40
+
+57
+69
+58
+82
+54
+
+30
+52
+47
+59
+36
+
+36
+58
+43
+58
+35
+
+32
+44
+51
+52
+35
+
+37
+5
+36
+48
+41
+
+Liquidity risk: ICR
+S
+Estonia
+Latvia
+Lithuania
+Czech Rep
+Hungary
+Poland
+Slovakia
+Slovenia
+Bulgaria
+Croatia
+Romania
+Serbia
+Russia
+Ukraine
+Turkey
+
+M
+
+L
+
+41
+
+33
+
+17
+
+40
+34
+23
+43
+
+27
+29
+22
+44
+
+27
+41
+59
+27
+
+43
+
+54
+
+44
+
+55
+60
+61
+67
+22
+
+41
+51
+55
+69
+27
+
+37
+55
+47
+62
+42
+
+Estonia
+Latvia
+Lithuania
+Czech Rep
+Hungary
+Poland
+Slovakia
+Slovenia
+Bulgaria
+Croatia
+Romania
+Serbia
+Russia
+Ukraine
+Turkey
+
+Estonia
+Latvia
+Lithuania
+Czech Republic
+Hungary
+Poland
+Slovak Republic
+Slovenia
+Bulgaria
+Croatia
+Romania
+Serbia
+Russia
+Ukraine
+Turkey
+
+CR MS WR MF AM UT
+43 42 30 23 37 17
+89 68 58 50 35 24
+22 16 13 22 10
+9
+32 29 32 17 36 11
+76 66 26 12
+8 48
+76 33 21 20 46 10
+57 52 51 24 31 13
+56 19 32 22
+6
+1
+64 48 44 32 30 32
+52 68 57 35 39 61
+60 34 39 42 36 11
+12 15 21 22
+9
+1
+78 62 64 56 57 51
+70 45 81 62 55 49
+17 42 45 28 48 21
+
+Solvency risk: Debtto-Equity
+S
+M
+L
+41
+40
+19
+72
+47
+37
+29
+17
+15
+60
+29
+11
+32
+26
+48
+28
+23
+45
+60
+46
+21
+33
+31
+17
+53
+52
+26
+70
+55
+50
+83
+44
+29
+24
+25
+11
+79
+74
+55
+78
+79
+58
+31
+32
+32
+
+Sources: ORBIS database; and IMF staff calculations.
+Note: Industrial sectors are agriculture and mining (AG), manufacturing (MF), utilities (UT), construction and real estate (CR), wholesale
+and retail trade (WR), and market services (MS). Size buckets are small (S), medium (M), and large (L). The cutoff values for the debtat-risk metrics are in note 17. ICR = interest coverage ratio. Red indicates sectors or size groups with the highest debt-at-risk level,
+yellow indicates median, and green indicates the lowest for each risk metric.
+
+17
+
+The four largest firms in Hungary (about 20 percent of all debt owed by the country’s sample firms) and a few
+large firms in construction and real estate in Poland (nearly 10 percent of the country’s sample debt) are identified as
+high risk by both the solvency- and liquidity-risk metrics.
+
+INTERNATIONAL MONETARY FUND
+
+35
+
+CESEE REI SPRING 2015
+
+D. What Are the Remaining Credit Gaps across CESEE?
+Postcrisis deleveraging has not been sufficient to align private debt with its fundamentals in a number
+of CESEE countries, suggesting further adjustment in the years ahead that will continue to weigh on
+growth.
+What are the remaining credit gaps across CESEE? To answer this question, we compare the
+current level of private sector debt to a time-varying benchmark derived from the estimated longterm relationship between private sector debt and its fundamental determinants.18 Under this
+approach, CESEE countries can be grouped into four classes, based on the combinations of positive
+or negative credit gaps between the current level of private debt and its secular trend and between
+the growth rate of private credit and its rate implied by the model (Figure 17 and Annex IV).
+Figure 17. CESEE: Estimated Credit Gaps, 2013
+2013 gap between actual and fundamentals-consistent growth of per capita, real
+private debt (%)
+
+20
+
+Level:
+Growth:
+
+Level: above
+model benchmark
+Growth: higher than model benchmark
+
+below model benchmark
+higher than model benchmark
+
+TUR
+
+15
+
+10
+
+BLR
+
+UKR
+RUS
+
+5
+
+SVK
+MDA
+-15
+
+CZE
+
+0
+-10
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+BIH
+HUN
+
+EST
+
+-10
+
+25
+
+BGR
+
+-5
+
+LVA
+
+HRV 20
+MKD
+
+POL
+
+ROM
+
+SVN
+
+LTU
+-15
+
+Level:
+Growth:
+
+below
+model benchmark
+lower than model benchmark
+
+Level:
+Growth:
+
+above model benchmark
+lower than model benchmark
+
+-20
+
+2013 gap between actual and long-run fundamentals-consistent values of private debt (% of GDP)
+
+Source: Annex IV.
+Note: Data for Bulgaria and Poland are for the 2012 gap and for Romania for 2011 due to missing data.
+
+18
+
+This is done using data for 36 European countries for 1995–2013. Annex IV presents the results of the estimation of
+the stylized, reduced-form, demand and supply system for private sector debt. Explanatory variables include per
+capita GDP (in purchasing-power-parity U.S. dollars) as a proxy for debt-servicing capacity that positively affects both
+the demand for and supply of debt and the nominal interest rate on private debt, which has a negative effect on
+demand and a positive effect on supply. The model also includes country-specific constants that may reflect
+differences in the quality of institutions across countries, as well as other country-specific factors.
+
+36
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+The analysis suggests that postcrisis deleveraging has not been sufficient to align private debt
+with its fundamentals in a number of CESEE countries. As of 2013, countries with positive credit
+gaps (that is, where private debt exceeds the model-based values)19—though with a rate of growth
+below the speed of adjustment predicted by the model—include Bulgaria, Croatia, the former
+Yugoslav Republic of Macedonia, and Romania. At the same time, Russia, Turkey, and Ukraine stand
+out with debt above the level consistent with fundamentals and growth of debt higher than
+predicted by the short-term dynamics of the model. In the model, the debt overhangs weigh on
+credit growth because positive credit gaps must be gradually closed through reduction in debt
+stocks (Annex IV). One important caveat is that the model assumes the credit gap to be zero, on
+average over the sample period (1995–2013) in each country. In reality, it is possible that the initial
+debt levels were already too high in some cases. A comparison between country-specific constants
+and the fitted trend line with these countries’ relative institutional strength suggests that in some
+cases debt levels are indeed notably higher than one would expect given their institutional quality
+(see Annex IV for details).
+Recovery in corporate sector profitability tends to lead recovery in GDP growth. Rising
+profitability encourages investing, hiring, and borrowing and thus accelerates domestic-demanddriven growth. Borrowing increases leverage, which boosts profitability further and strengthens the
+upturn in the business cycle. The upturn phase lasts until growth and borrowing reach unsustainable
+levels. Then profitability starts to weaken and the economy cools down (Figure 18). The analysis of
+quarterly national accounts data for the CESEE EU countries during 2005–14 shows that in the
+current cycle, net leverage above 40 percent signals the need for adjustment.
+Further balance sheet adjustment is needed to create conditions for resumption of the new
+credit cycle. Although the region as a whole shows signs of turning a corner, in many instances
+legacy debt burdens remain above their fundamentals-consistent values (Figure 17), acting as a drag
+on credit growth. Some CEE EU countries appear to have entered a phase of so-called economic
+bounce-back (McKinsey Global Institute, 2012), characterized by leverage reduced to levels that
+would allow resumption of credit, investment and output growth. Countries with lower levels of
+corporate leverage already see some positive credit growth, while credit continues to fall where
+leverage is still high (Figure 19, right panel). For others, past episodes of deleveraging (Tang and
+Upper, 2010) seem to suggest that deleveraging may continue through real growth and inflation
+over a number of years, with real credit gradually growing again—but by less than the equity gains
+from improved profitability (Figure 19, left panel).
+
+19
+
+Defined as private debt overhang in excess of 10 percent of GDP, which is also the threshold for statistical
+significance. The Basel Committee on Banking Supervision proposed the same threshold, as a trigger for a
+countercyclical capital buffer add-on, but based on the deviation of the credit-to-GDP ratio from its long-term trend
+(BCBS, 2010). The regression analysis in Annex IV develops this concept further by using only the component of the
+long-term trend that can be explained by developments in the fundamental determinants of private debt.
+
+INTERNATIONAL MONETARY FUND
+
+37
+
+CESEE REI SPRING 2015
+
+Figure 18. CESEE EU Countries: Leverage and Growth
+6
+Real entrepreneurial income, y-o-y growth
+
+10
+
+Gross value added
+
+5
+
+0
+
+-5
+
+-10
+y = 1.63x + 0.36
+R² = 0.91
+
+-15
+-8
+
+-6
+
+2006
+
+4
+
+2007
+2
+
+2005
+
+2011
+2010
+2012
+
+2014Q3
+0
+
+2013
+2008
+
+-2
+-4
+
+y = -0.02x2 + 1.06x - 9.16
+R² = 0.68
+
+2009
+
+-6
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+0
+
+6
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Net leverage
+
+Gross entrepreneurial income, one quarter lagged
+
+Sources: Haver Analytics; and IMF staff calculations.
+Note: Net leverage is calculated as net financial debt over equity. Real gross operating profit after net financial charges (gross
+entrepreneurial income) of the nonfinancial private sector was derived using quarterly financial and national accounts data for 11
+countries. CESEE EU = central, eastern, and southeastern Europe European Union; y-o-y = year-over-year.
+
+Figure 19. CESEE EU Countries: Leverage Cycle
+(Percent)
+Leverage Cycle
+Credit Growth and Net Leverage, 2014
+50
+45
+
+80
+
+2009
+
+2013
+
+40
+
+70
+
+2010
+2011 2012
+
+35
+
+2008
+
+30
+
+←|→
+Deleveraging Upleveraging
+
+25
+
+2007
+
+20
+2006
+
+15
+
+Non-investment grade*
+
+HRV
+
+60
+
+2014
+
+Net leverage
+
+Net leverage
+
+90
+
+Non-investment grade*
+
+LVA
+SVN
+
+50
+
+BGR
+
+40
+
+ROM
+
+30
+
+HUN
+
+20
+
+2005
+
+POL
+
+SVK
+CZE
+
+LTU
+
+EST
+
+10
+
+10
+
+0
+
+5
+-10
+
+-5
+
+0
+5
+10
+15
+Real bank credit, y-o-y growth
+
+20
+
+25
+
+-30
+
+-25
+
+-20
+
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+Real bank credit, y-o-y growth
+
+Sources: European Bank for Reconstruction and Development; Haver Analytics; and IMF staff calculations.
+Note: *According to Moody's 2006 ratings mapping into leverage. Net leverage is net financial debt over equity. The regionwide
+leverage cycle holds for individual countries as well. CESEE EU = central, eastern, and southeastern Europe European Union; y-o-y =
+year-over-year.
+
+38
+
+INTERNATIONAL MONETARY FUND
+
+10
+
+CESEE REI SPRING 2015
+
+To sum up, private sector balance sheet repair is not yet complete in some CESEE countries:
+
+
+Bulgaria, Croatia, and Ukraine stand out as requiring further adjustment in order for credit and
+investment growth to resume; in Latvia and Slovenia corporate sector risks remain elevated
+despite progress in recent years. Romania also had a large positive credit gap in 2011, but this
+gap has likely narrowed since then on the back of monetary policy easing, strong performance,
+and efforts to facilitate debt restructuring through sales of nonperforming loans, write-offs, and
+higher provisioning.
+
+
+
+Belarus, Russia, and Turkey are in the upswing of the credit cycle, which raises the risk that
+balance sheets may become overextended. Similar risk exists in the former Yugoslav Republic of
+Macedonia as well.
+
+
+
+Other CESEE countries appear better positioned for an upturn in the credit cycle.
+
+Consistent with this assessment, credit developments during 2014 show a robust pickup in credit
+growth only in CEE countries. At the same time, CIS countries were facing tighter financing
+conditions, and experienced significant deceleration of corporate credit growth throughout 2014
+(Figure 20).
+Figure 20. CESEE: Credit to Nonfinancial Companies
+(Percent change, year over year, nominal, exchange-rate adjusted)
+40
+
+4
+Baltics
+
+CEE
+
+SEE
+
+Russia
+
+Turkey
+
+Other CIS
+
+30
+
+2
+
+20
+
+0
+10
+-2
+0
+-4
+
+-10
+-20
+
+-6
+Dec-12
+
+Jun-13
+
+Dec-13
+
+Jun-14
+
+Source: European Bank Reconstruction and Development.
+
+Dec-14
+
+Dec-12
+
+Jun-13
+
+Dec-13
+
+Jun-14
+
+Dec-14
+
+Source: European Bank Reconstruction and Development.
+
+INTERNATIONAL MONETARY FUND
+
+39
+
+CESEE REI SPRING 2015
+
+E.
+
+How Can CESEE Countries Grow out of Debt?
+
+Growing out of debt may be challenging for some SEE and CIS countries without major structural
+reforms.
+Over the medium term, growth is projected to remain at about half of its precrisis potential,
+slightly below 2½ percent in the CESEE region. While labor markets in CESEE countries have seen
+considerable improvement (see Chapter I), limited support from improving labor market conditions
+for a consumption-driven recovery may well become increasingly evident, if investment does not
+rebound or reforms do not tackle low productivity and structural unemployment. A comparison with
+OECD countries shows that CESEE countries, particularly those in SEE and the CIS, are below the 25th
+percentile in many key areas of structural reform, including of labor markets (Figure 22).
+Figure 21. CESEE: 2013 Gap between Actual and Long-Term,
+Fundamentals-Consistent Values of Private Sector Debt As a Ratio of
+Forecast GDP in 2020
+(Percent of GDP)
+Level:
+
+below
+
+BGR
+
+model benchmark
+
+UKR
+
+HRV
+MKD
+ROM
+TUR
+RUS
+POL
+BIH
+SVN
+CZE
+BLR
+HUN
+SVK
+EST
+LVA
+MDA
+
+Level:
+
+above
+
+model benchmark
+
+LTU
+
+-10
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Sources: Arellano-Bond dynamic-panel generalized method of moments estimates
+of coefficients of Model 2 and country-specific intercepts (Table 1 in Annex IV);
+and IMF, World Economic Outlook nominal GDP forecasts.
+Note: Data labels are defined in the abbreviations list.
+
+Growing out of the debt problem will likely remain a challenge for some CESEE countries.
+Simulation of the gap between actual and long-term, fundamentals-consistent values of private
+sector debt in 2020—carried out by dividing the 2013 gap between actual and fundamentalsconsistent values of private debt by the IMF’s 2015 April World Economic Outlook forecast for
+nominal GDP in 2020—suggests that absent a policy response, the debt burden will remain a drag
+on credit and by extension on domestic demand in Bulgaria, Croatia, the former Yugoslav Republic
+of Macedonia, and Romania, as well as in Turkey and Ukraine (Figure 21). In other countries,
+especially those where growth has picked up recently, the private sector is in a better position to
+grow out of the debt problems.
+
+40
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Estonia
+
+Latvia
+
+Lithuania
+
+Average
+
+Czech Republic
+
+Hungary
+
+Poland
+
+Slovak Republic
+
+Slovenia
+
+Average
+
+Albania
+
+Bosnia and Herzegovina
+
+Bulgaria
+
+Croatia
+
+Kosovo
+
+Macedonia, FYR
+
+Montenegro
+
+Romania
+
+Serbia
+
+Average
+
+Belarus
+
+Moldova
+
+Russian Federation
+
+Ukraine
+
+Average
+
+Turkey
+
+EU15
+
+Figure 22. CESEE: Structural Reforms Relative to OECD Countries
+
+Institutions (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+2.2
+
+3
+
+0
+
+3
+
+3
+
+0
+
+2
+
+2
+
+3
+
+3
+
+2.7
+
+0
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+Extent of public ownership (OECD)
+
+1
+
+1
+
+0
+
+1
+
+2
+
+2
+
+3
+
+2
+
+2
+
+2.2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 ###
+
+0
+
+0
+
+3
+
+0
+
+3
+
+3
+
+2
+
+Legal system and property rights (IEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+2.2
+
+3
+
+2
+
+3
+
+2
+
+0
+
+3
+
+2
+
+3
+
+3
+
+2.6
+
+0
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+Enforcing Contracts (WB)
+
+2
+
+2
+
+1
+
+1.7
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2.2
+
+3
+
+3
+
+3
+
+2
+
+3
+
+3
+
+3
+
+2
+
+3
+
+2.8
+
+1
+
+2
+
+1
+
+2
+
+1.5
+
+2
+
+2
+
+Infrastructure (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+3
+
+2
+
+2.4
+
+3
+
+0
+
+3
+
+2
+
+0
+
+3
+
+3
+
+3
+
+3
+
+2.9
+
+0
+
+3
+
+2
+
+3
+
+2.7
+
+3
+
+1
+
+Sectoral regulation in transport (OECD)
+
+2
+
+3
+
+2
+
+2.3
+
+2
+
+1
+
+2
+
+2
+
+3
+
+2
+
+0
+
+0
+
+2
+
+3
+
+0
+
+0
+
+0
+
+2
+
+0
+
+2.3
+
+0
+
+0
+
+0
+
+0 ###
+
+3
+
+2
+
+Health and primary education (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+3
+
+1
+
+2.2
+
+3
+
+0
+
+2
+
+3
+
+0
+
+3
+
+2
+
+3
+
+3
+
+2.7
+
+0
+
+3
+
+3
+
+2
+
+2.7
+
+3
+
+2
+
+Higher education and training (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2
+
+2.4
+
+3
+
+0
+
+3
+
+3
+
+0
+
+3
+
+3
+
+3
+
+3
+
+3
+
+0
+
+3
+
+2
+
+2
+
+2.3
+
+3
+
+2
+
+Average PISA score (OECD)
+
+1
+
+2
+
+0
+
+1.5
+
+2
+
+3
+
+1
+
+3
+
+2
+
+2.2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 ###
+
+0
+
+0
+
+3
+
+0
+
+3
+
+3
+
+2
+
+Labor market efficiency (WEF)
+
+1
+
+1
+
+2
+
+1.3
+
+2
+
+2
+
+2
+
+3
+
+3
+
+2.4
+
+3
+
+0
+
+2
+
+3
+
+0
+
+2
+
+2
+
+3
+
+3
+
+2.6
+
+0
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+Labor market regulations (IEF)
+
+2
+
+2
+
+2
+
+2
+
+1
+
+2
+
+1
+
+2
+
+3
+
+1.8
+
+3
+
+2
+
+1
+
+2
+
+0
+
+1
+
+2
+
+2
+
+2
+
+1.9
+
+0
+
+3
+
+2
+
+2
+
+2.3
+
+3
+
+2
+
+Employment protection (OECD)
+
+2
+
+3
+
+0
+
+2.5
+
+3
+
+1
+
+2
+
+2
+
+3
+
+2.2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 ###
+
+0
+
+0
+
+0
+
+0 ###
+
+2
+
+2
+
+Goods market efficiency (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+0
+
+2
+
+3
+
+0
+
+2
+
+3
+
+3
+
+3
+
+2.7
+
+0
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+Business regulations (IEF)
+
+1
+
+2
+
+2
+
+1.7
+
+3
+
+2
+
+2
+
+3
+
+3
+
+2.6
+
+3
+
+3
+
+2
+
+3
+
+0
+
+1
+
+2
+
+2
+
+3
+
+2.4
+
+0
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+Starting a business (WB)
+
+2
+
+2
+
+1
+
+1.7
+
+3
+
+2
+
+3
+
+3
+
+1
+
+2.4
+
+2
+
+3
+
+2
+
+3
+
+2
+
+1
+
+2
+
+2
+
+2
+
+2.1
+
+2
+
+2
+
+2
+
+3
+
+2.3
+
+3
+
+2
+
+Product market regulation (OECD)
+
+1
+
+3
+
+0
+
+2
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2.4
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 ###
+
+0
+
+0
+
+3
+
+0
+
+3
+
+3
+
+2
+
+Freedom to trade (IEF)
+
+1
+
+1
+
+2
+
+1.3
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2.4
+
+3
+
+3
+
+2
+
+2
+
+0
+
+2
+
+2
+
+2
+
+3
+
+2.4
+
+0
+
+3
+
+3
+
+3
+
+3
+
+3
+
+1
+
+Barriers to FDI (OECD)
+
+1
+
+2
+
+0
+
+1.5
+
+1
+
+2
+
+2
+
+2
+
+1
+
+1.6
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 ###
+
+0
+
+0
+
+3
+
+0
+
+3
+
+2
+
+2
+
+Trading across borders (WB)
+
+1
+
+2
+
+2
+
+1.7
+
+2
+
+3
+
+2
+
+3
+
+2
+
+2.4
+
+3
+
+3
+
+2
+
+3
+
+3
+
+3
+
+2
+
+2
+
+3
+
+2.7
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+1
+
+Financial market development (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2.2
+
+3
+
+0
+
+2
+
+2
+
+0
+
+2
+
+2
+
+2
+
+3
+
+2.3
+
+0
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+Credit market regulations (IEF)
+
+1
+
+2
+
+2
+
+1.7
+
+1
+
+2
+
+2
+
+2
+
+3
+
+2
+
+3
+
+1
+
+1
+
+2
+
+0
+
+2
+
+1
+
+1
+
+3
+
+1.8
+
+0
+
+2
+
+2
+
+3
+
+2.3
+
+3
+
+2
+
+Getting credit (WB)
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+3
+
+1.6
+
+2
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+1
+
+2
+
+1.6
+
+3
+
+1
+
+2
+
+1
+
+1.8
+
+3
+
+2
+
+Technological readiness (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+3
+
+3
+
+2
+
+2.6
+
+3
+
+0
+
+2
+
+2
+
+0
+
+3
+
+3
+
+2
+
+3
+
+2.6
+
+0
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+Business sophistication (WEF)
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+2
+
+2
+
+2.2
+
+3
+
+0
+
+3
+
+3
+
+0
+
+3
+
+3
+
+3
+
+3
+
+3
+
+0
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+Innovation (WEF)
+
+2
+
+3
+
+2
+
+2.3
+
+2
+
+2
+
+3
+
+3
+
+2
+
+2.4
+
+3
+
+0
+
+3
+
+3
+
+0
+
+3
+
+2
+
+3
+
+3
+
+2.9
+
+0
+
+3
+
+2
+
+3
+
+2.7
+
+2
+
+2
+
+Financial support for R&D (OECD)
+
+2
+
+0
+
+0
+
+2
+
+1
+
+1
+
+3
+
+3
+
+1
+
+1.8
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0 ###
+
+0
+
+0
+
+1
+
+0
+
+1
+
+2
+
+2
+
+Institutions and contracts
+
+Infrastructure
+
+Human capital
+
+Labor market efficiency
+
+Business regulation
+
+Openness to trade and FDI
+
+Credit market rigidity
+
+Innovation
+
+Sources: Fraser Institute Index of Economic Freedom (IEF) 2014; Organisation for Economic Co-operation and Development (OECD),
+Going for Growth 2015; World Bank Doing Business 2015; World Economic Forum (WEF) Global Competitiveness Report 2014–15; and IMF
+staff calculations.
+Note: Red indicates a value below the 25th percentile, orange indicates a value below the 75th percentile, and green indicates a value
+above the 75th percentile. The sample includes all OECD and CESEE countries. FDI = foreign direct investment; R&D = research and
+development.
+
+INTERNATIONAL MONETARY FUND
+
+41
+
+CESEE REI SPRING 2015
+
+III. POLICY PRIORITIES
+Supporting domestic demand and completing the repair of private sector balance sheets are the key
+near-term priorities.
+Despite some progress, the repair of private sector balance sheets remains a work in progress
+in several CESEE countries. While most countries improved saving-investment balances, the
+accompanying reduction in absorption has eroded national incomes, only marginally lowering
+private-debt-to-GDP ratios. In some cases, the debt-related problems are pervasive, afflicting both
+firms and households, while policy space to accommodate private sector deleveraging is limited,
+further complicating and raising the economic cost of the adjustment process.
+Macroeconomic developments may pose new challenges for balance sheet repair:
+
+
+Low inflation—driven by falling world oil prices—has boosted households’ purchasing power,
+freeing up funds for debt service. But persistent disinflation and particularly deflation can
+complicate the process of deleveraging by heavily indebted firms and households, because it
+increases their real debt burden.
+
+
+
+Tightening of global financial conditions (for example, as the United States begins to normalize
+its monetary policy) are also a downside risk to debt dynamics, particularly for countries with
+large participation by nonresidents in domestic financial markets, large external and/or shortterm and/or U.S. dollar–denominated debt. However, to the extent that they accompany higher
+U.S. and euro area growth, the effects on funding costs will be mitigated by better prospects for
+exports.
+
+Macroeconomic policies should be mindful of the credit gaps. Countries whose private debt
+does not exceed a level consistent with fundamentals (for example, in CEE) are well positioned for
+balanced growth, with positive contributions from both investment and consumption. In the rest of
+the region, debt-related risks may continue to weigh on demand, and supportive macroeconomic
+policies are therefore essential. Among CESEE countries still afflicted with private debt overhang and
+subpar credit growth, the Bulgarian, Croatian, and Slovenian economies are exhibiting symptoms of
+balance sheet stagnation. The economies of Latvia, the former Yugoslav Republic of Macedonia, and
+Romania are more dynamic, but may still need to do more to complete balance sheet repair in order
+to ensure robust recovery and resumption of income convergence. Ukraine is currently in the
+process of restructuring of privately held external debt.
+Fiscal consolidation, while needed in many CESEE countries, should not derail the recovery. In
+the aftermath of the crisis, many governments helped accommodate the deleveraging of firms and
+households. The flip side was a significant increase in public debt levels, which now need to be
+brought back on a sustainable path in a number of countries, notably in Croatia, Serbia, and
+Slovenia, (Figure 23a). Countries with high public debt levels have been pursuing fiscal consolidation
+mostly via expenditure reductions. Yet further consolidation is needed for these countries to reach
+
+42
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+their medium-term fiscal targets (Figure 23b). In CEE and SEE, fiscal consolidation needs to be
+mindful of the fragile recovery and could be partly offset by bringing forward public investment, as
+envisaged in Poland and Romania, supported by higher absorption of EU funds. A tighter fiscal
+stance in Turkey—in line with the new medium-term program—will contribute to a gradual
+narrowing of external imbalances. In Russia, although fiscal consolidation would likely be required to
+stabilize debt over the medium term, cyclical considerations and fiscal space permit some easing in
+the short run.
+Figure 23a. CESEE: IMF Staff Public Debt
+20
+Sustainability Assessments, 2008–13
+Gap between debt-stabilizing and actual primary
+balance
+Country
+2008
+2011
+2013
+Belarus
+-4.8
+-4
+0.1
+Bosnia
+-1.7
+1.1
+-0.5
+Bulgaria
+-4.6
+3.9
+-0.1
+Croatia
+-1.1
+3.5
+2.8
+Czech Republic
+-0.8
+2.2
+-0.5
+Hungary
+-1
+2.1
+-0.8
+Latvia
+4.1
+1.1
+-0.5
+Lithuania
+2.7
+3.1
+-0.3
+Macedonia, FYR
+-0.1
+1.3
+1.7
+Poland
+0.6
+1.4
+0.8
+Romania
+2.5
+2
+-0.3
+Russia
+-0.2
+-0.5
+1
+Serbia
+0.3
+1.5
+3.8
+Slovak Republic
+1.2
+2.3
+0.3
+Slovenia
+-1.3
+4.7
+3.5
+Turkey
+-1.5
+-2.2
+-1.1
+Ukraine
+1.5
+1.4
+-1
+Source: IMF staff reports.
+Note: Countries that need to improve their primary balance to
+stabilize the public-debt-to-GDP ratio are highlighted in red.
+
+Figure 23b. CESEE: Fiscal Balance and MediumTerm Projections (Percent of GDP)
+2014 Structural balance
+
+Medium-term projection
+
+Bosnia
+Bulgaria
+Croatia
+Czech Republic
+
+Hungary
+Latvia
+Lithuania
+Poland
+Romania
+
+Russia
+Serbia
+Slovak Republic
+Slovenia
+Turkey
+
+Ukraine
+-6
+
+-5
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+Sources: World Economic Outlook database; and IMF staff
+calculations.
+
+Monetary policy should remain accommodative in countries facing deflation risks. Monetary
+conditions are appropriately supporting recovery of domestic demand in CEE and SEE countries.
+Additional policy action may be necessary to return inflation to target in inflation-targeting CESEE
+countries, should inflation expectations continue to decline or interest-rate differentials widen,
+resulting in unwarranted upward pressure on the exchange rate. In Turkey, further easing of
+monetary conditions should only be considered once inflation expectations are well anchored and
+real interest rates are firmly in positive territory. In Russia, the speed of monetary policy easing
+
+20
+
+When 2008 data were unavailable, 2007 data were used for Bosnia and Herzegovina, the Czech Republic, Montenegro, and
+Turkey; 2006 data were used for Bulgaria and the Slovak Republic. When 2011 data were unavailable, 2010 data were used (Bulgaria
+and Croatia). The last column shows the latest available data (2012 data for Bulgaria; 2014 data for Romania, Serbia, and Ukraine).
+
+INTERNATIONAL MONETARY FUND
+
+43
+
+CESEE REI SPRING 2015
+
+should be tied to developments in core inflation and inflation expectations to ensure that inflation
+will come down to target over the medium term.
+Financial sector policies should encourage further strengthening of bank balance sheets and
+ensure that banks have adequate capacity and incentives to deal with large stocks of NPLs. A
+comprehensive strategy of dealing with NPLs and debt overhang would combine stricter supervisory
+standards, reforms to speed insolvency procedures, and efforts to jump-start distressed debt
+markets, where feasible. A robust debt-restructuring framework is particularly important for
+countries where the stock of debt is high, institutional frameworks are weak, and current baseline
+growth projections do not allow them to escape the debt overhang over the medium term (see
+Figure 21 and Annex IV).
+
+Labor Market Regulations, 2012
+(Index, 10 = least restrictive)
+
+Institutional reforms are critical to lifting potential growth and facilitating balance sheet
+repair. Potential growth in the region is estimated to be half of what it was during the precrisis
+years. To lift growth potential in light of much lower capital flows and aging populations, improving
+productivity and competitiveness through deep structural reforms will be key. These include the
+long-standing tasks of improving the
+Figure 24. CESEE: Labor Market Regulations and
+business environment, increasing labor
+Insolvency Frameworks 1/
+market flexibility, privatizing inefficient
+9
+government-owned enterprises, and
+improving governance. For countries
+8
+suffering from debt overhang, institutional
+reforms that increase labor and product
+market flexibility (notably, reduce hiring
+7
+and firing costs; open product and services
+markets to competition) may help reduce
+6
+the real costs of private sector balance
+sheet adjustment. Figure 24 shows that in
+Slovenia and Ukraine, labor market
+5
+3
+23
+43
+63
+83
+103
+123
+regulations, as well insolvency frameworks
+Country Ranks on Enforcing Contracts and Resolving Insolvency, 2015
+(1 = best practice)
+or contract enforcement are weaker than in
+Sources: Eurostat; Fraser Institute, Economic Freedom of the World
+other CESEE countries; while Slovenia
+database; IMF, International Financial Statistics and World Economic
+significantly overhauled its insolvency
+Outlook databases; World Bank Doing Business indicators; and IMF
+staff calculations.
+framework, it still has relatively weak score
+on enforcing contracts.
+1/ The size of the national flags of selected CESEE countries is
+proportional to the ratio of private debt to GDP. The score shown on
+the horizontal axis is an average of the two scores (enforcing
+contracts and resolving insolvency).
+
+For countries experiencing rapid credit
+growth (for example, Turkey) further
+targeted macroprudential policies could be considered to maintain the quality of credit, control
+risk exposures, and ensure adequate capital to absorb potential losses. In Russia, macroprudential
+measures taken in 2013 to curb unsecured consumer lending by increasing applicable risk weights
+and provisioning requirements have cooled the credit boom. In addition, sizable external
+deleveraging is already taking place in Russia amid sanctions and uncertainty surrounding
+conditions for resumption of access to international capital markets.
+
+44
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Annex I. CESEE: Growth of Real GDP, Domestic Demand, Exports, and Private Consumption,
+2013–16
+(Percent)
+Table A1. CESEE: Growth of Real GDP, Domestic Demand, Exports, and Private Consumption, 2013–16
+(Percent)
+Real GDP Growth
+Baltics1
+Estonia
+Latvia
+Lithuania
+Central and Eastern Europe1
+Czech Republic
+Hungary
+Poland
+Slovak Republic
+Slovenia
+Southeastern Europe-EU1
+Bulgaria
+Croatia
+Romania
+Southeastern Europe-non-EU1
+Albania
+Bosnia and Herzegovina
+Kosovo
+Macedonia, FYR
+Montenegro
+Serbia
+European CIS countries1
+Belarus
+Moldova
+Russia
+Ukraine
+Turkey
+CESEE1,2
+Emerging Europe1,3
+New EU member states1,4
+Memorandum
+Euro Area1
+European Union1
+
+2013 2014 2015 2016
+3.2
+2.6
+2.6
+3.3
+1.6
+2.1
+2.5
+3.4
+4.2
+2.4
+2.3
+3.3
+3.3
+2.9
+2.8
+3.2
+1.1
+3.0
+3.1
+3.1
+-0.7
+2.0
+2.5
+2.7
+1.5
+3.6
+2.7
+2.3
+1.7
+3.3
+3.5
+3.5
+1.4
+2.4
+2.9
+3.3
+-1.0
+2.6
+2.1
+1.9
+2.3
+2.2
+2.1
+2.3
+1.1
+1.7
+1.2
+1.5
+-0.9 -0.4
+0.5
+1.0
+3.4
+2.9
+2.7
+2.9
+2.5
+0.4
+1.6
+2.7
+1.4
+2.1
+3.0
+4.0
+2.5
+0.8
+2.3
+3.1
+3.4
+2.7
+3.3
+3.5
+2.7
+3.8
+3.8
+3.9
+3.3
+1.1
+4.7
+3.5
+2.6 -1.8 -0.5
+1.5
+1.2
+0.0 -3.9 -0.8
+1.0
+1.6 -2.3 -0.1
+9.4
+4.6 -1.0
+3.0
+1.3
+0.6 -3.8 -1.1
+0.0 -6.8 -5.5
+2.0
+
+Real Domestic Demand
+Growth
+2013 2014 2015 2016
+2.5
+3.8
+3.3
+4.3
+0.9
+4.8
+3.2
+3.8
+3.1
+2.0
+2.3
+4.7
+2.8
+4.5
+3.8
+4.3
+0.1
+3.9
+3.3
+3.4
+-0.8
+2.2
+2.9
+3.1
+1.2
+4.3
+1.1
+2.0
+0.2
+4.7
+4.1
+4.0
+0.0
+3.0
+3.1
+2.8
+-2.1
+0.8
+0.8
+1.9
+-0.9
+2.1
+2.2
+2.6
+-1.3
+2.7
+1.3
+1.5
+-0.9 -1.9 -0.6
+0.4
+-0.8
+2.7
+3.1
+3.4
+-1.0
+0.9
+1.6
+2.6
+0.6
+3.1
+4.3
+4.6
+0.5
+2.1
+3.3
+3.0
+1.7
+3.3
+3.6
+3.4
+-2.6
+4.2
+4.7
+4.1
+0.3
+3.1
+9.9
+6.7
+-1.9 -1.5 -1.9
+0.8
+1.6 -1.8 -6.6 -1.9
+8.9
+0.3 -1.8 -0.1
+4.9
+1.8 -11.0
+1.2
+1.3 -1.0 -6.8 -2.4
+0.2 -10.7 -7.0
+2.4
+
+Real Export Growth
+(goods and services)
+2013 2014 2015 2016
+5.5
+2.8
+2.0
+3.3
+2.4
+2.6
+3.2
+3.8
+1.4
+1.9
+1.2
+2.6
+9.4
+3.4
+1.9
+3.4
+4.2
+6.6
+6.2
+5.6
+0.3
+8.8
+5.0
+5.2
+5.9
+8.7
+6.2
+5.5
+5.0
+5.6
+7.1
+5.8
+5.2
+4.6
+4.4
+5.6
+2.6
+6.3
+4.3
+4.3
+12.8
+6.6
+5.5
+5.4
+9.2
+2.2
+1.6
+2.8
+3.0
+6.3
+7.0
+6.0
+16.2
+8.1
+6.4
+6.1
+12.5
+6.6
+4.9
+6.1
+7.9
+9.9
+4.7
+4.7
+7.6
+5.2
+5.9
+8.1
+2.5
+1.9
+3.6
+1.5
+-2.7 17.0 10.0
+9.1
+0.1 -2.2
+4.2
+4.0
+21.3
+3.9
+3.1
+5.0
+2.4 -2.0 -2.0 -1.2
+-16.0
+2.6 -10.7 -0.8
+10.7 -0.5 -1.6
+7.1
+4.6 -0.1 -1.1 -2.0
+-9.3 -22.8 -7.3
+5.4
+
+Real Private Consumption
+Growth
+2013 2014 2015 2016
+4.7
+4.4
+3.5
+4.2
+3.8
+4.5
+4.0
+4.0
+6.2
+2.3
+2.9
+4.1
+4.2
+5.6
+3.7
+4.2
+0.5
+2.4
+3.1
+3.0
+0.4
+1.7
+2.5
+2.6
+0.2
+1.6
+2.6
+2.6
+1.0
+3.0
+3.5
+3.4
+-0.7
+2.2
+2.9
+2.8
+-3.9
+0.3
+1.0
+1.6
+0.1
+3.3
+3.0
+2.7
+-2.3
+2.0
+1.7
+2.6
+-1.2 -0.7
+0.1
+0.8
+1.2
+4.7
+4.0
+3.2
+0.8 -0.1 -0.2
+2.3
+1.8
+0.8
+1.1
+2.8
+2.2
+0.1
+2.5
+3.3
+2.0
+3.6
+3.5
+3.6
+2.1
+2.3
+4.0
+3.4
+3.1
+1.8
+7.5
+5.1
+-0.6 -1.3 -3.9
+1.0
+5.4
+0.5 -4.6 -1.2
+12.1
+3.5 -0.5
+0.3
+6.5
+3.5 -7.9
+1.3
+4.8
+1.2 -4.6 -1.7
+7.8 -7.1 -6.4
+2.6
+
+4.1
+
+2.9
+
+3.1
+
+3.6
+
+6.7
+
+0.6
+
+4.0
+
+3.5
+
+-0.3
+
+8.0
+
+3.5
+
+4.6
+
+5.1
+
+1.3
+
+5.0
+
+3.4
+
+1.8
+1.9
+1.5
+
+1.4
+1.3
+2.8
+
+-0.4
+-0.6
+2.8
+
+1.3
+1.2
+2.9
+
+1.9
+2.1
+0.0
+
+0.3
+0.1
+3.5
+
+-1.4
+-1.9
+3.0
+
+0.9
+0.7
+3.3
+
+3.4
+3.4
+6.4
+
+2.5
+2.2
+6.3
+
+1.6
+1.4
+5.8
+
+2.2
+1.9
+5.4
+
+3.8
+4.1
+0.6
+
+1.3
+1.2
+2.8
+
+-0.3
+-0.6
+3.1
+
+1.1
+0.9
+3.0
+
+-0.5
+0.1
+
+0.9
+1.4
+
+1.5
+1.8
+
+1.6
+1.9
+
+-0.9
+-0.3
+
+0.8
+1.6
+
+1.2
+1.7
+
+1.5
+1.9
+
+2.0
+2.5
+
+3.7
+3.5
+
+4.4
+4.6
+
+4.3
+4.5
+
+-0.7
+-0.1
+
+1.0
+1.4
+
+1.7
+2.1
+
+1.5
+2.0
+
+Source: IMF, World Economic Outlook database.
+1
+Weighted average. Weighted by GDP valued at purchasing power parity.
+2
+Includes Albania, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Kosovo, Latvia, Lithuania, Macedonia FYR, Moldova,
+Montenegro, Poland, Romania, Russia, Serbia, Slovak Republic, Slovenia, Turkey, and Ukraine.
+3
+CESEE excluding Czech Republic, Estonia, Latvia, Lithuania, Slovak Republic, and Slovenia.
+4
+Includes Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovak Republic, and Slovenia.
+
+INTERNATIONAL MONETARY FUND
+
+45
+
+CESEE REI SPRING 2015
+
+Annex II. CESEE: Consumer Price Index Inflation, Current Account Balance, and External Debt,
+2013–16
+(Percent)
+CPI Inflation
+(Period average)
+Baltics1
+Estonia
+Latvia
+Lithuania
+Central and Eastern Europe1
+Czech Republic
+Hungary
+Poland
+Slovak Republic
+Slovenia
+Southeastern Europe-EU1
+Bulgaria
+Croatia
+Romania
+Southeastern Europe-non-EU1
+Albania
+Bosnia and Herzegovina
+Kosovo
+Macedonia, FYR
+Montenegro
+Serbia
+European CIS countries1
+Belarus
+Moldova
+Russia
+Ukraine
+Turkey
+CESEE1,2
+Emerging Europe1,3
+New EU member states1,4
+Memorandum
+European Union1
+
+CPI Inflation
+(End of period)
+
+2013 2014 2015 2016
+1.3
+3.2
+0.0
+1.2
+1.2
+1.4
+1.7
+0.9
+1.5
+1.8
+3.0
+0.4
+2.2
+4.0
+4.5
+1.9
+-0.1
+1.8
+2.8
+2.2
+7.7
+6.5
+18.3
+4.6
+6.8
+-0.3
+
+0.4
+0.5
+0.7
+0.2
+0.0
+0.4
+-0.3
+0.0
+-0.1
+0.2
+0.3
+-1.6
+-0.2
+1.1
+1.0
+1.6
+-0.9
+0.4
+-0.1
+-0.7
+2.1
+8.6
+18.1
+5.1
+7.8
+12.1
+
+7.5
+5.2
+5.5
+1.6
+1.5
+
+Current Account Balance to
+GDP
+
+Total External Debt to GDP
+
+2013 2014 2015 2016
+
+2013 2014 2015 2016
+
+2013
+
+2014
+
+2015
+
+2016
+
+0.1
+0.4
+0.5
+-0.3
+-0.5
+-0.1
+0.0
+-0.8
+0.0
+-0.4
+0.3
+-1.0
+-0.9
+1.0
+1.7
+1.8
+0.6
+0.3
+0.1
+0.5
+2.7
+19.4
+22.1
+7.5
+17.9
+33.5
+
+1.9
+1.7
+1.7
+2.0
+1.4
+1.3
+2.3
+1.2
+1.4
+0.7
+1.8
+0.6
+0.9
+2.4
+2.7
+2.5
+1.1
+1.4
+1.3
+1.0
+4.0
+10.2
+17.4
+6.3
+9.8
+10.6
+
+0.6
+2.0
+-0.4
+0.5
+0.8
+1.4
+0.4
+0.7
+0.4
+0.7
+0.9
+-0.9
+0.3
+1.6
+1.3
+1.9
+-1.4
+0.5
+1.5
+0.3
+2.2
+6.3
+16.5
+5.2
+6.5
+0.5
+
+0.0
+0.0
+0.3
+-0.2
+-0.7
+0.1
+-0.9
+-1.0
+-0.1
+0.2
+0.1
+-2.0
+0.2
+0.8
+0.8
+0.7
+-0.5
+-0.4
+-0.5
+-0.3
+1.8
+12.8
+16.2
+4.7
+11.4
+24.9
+
+0.9
+0.8
+1.6
+0.5
+0.6
+0.8
+1.7
+0.4
+0.7
+-0.2
+1.4
+0.3
+-0.6
+2.2
+2.7
+2.1
+1.2
+1.5
+0.8
+0.9
+4.2
+13.7
+22.0
+8.6
+12.0
+26.7
+
+1.9
+2.1
+1.7
+2.0
+1.7
+1.8
+2.4
+1.5
+1.4
+1.9
+1.8
+0.9
+1.2
+2.2
+2.9
+2.8
+1.7
+1.5
+1.8
+1.2
+4.0
+8.5
+18.1
+5.4
+8.0
+8.7
+
+-0.3 -1.1 -0.7 -1.4
+-1.1 -0.1 -0.4 -0.7
+-2.3 -3.1 -2.2 -3.0
+1.6 -0.4
+0.2 -0.8
+0.2
+0.3
+0.4 -0.2
+-0.5
+0.6
+1.6
+0.9
+4.1
+4.2
+4.8
+4.1
+-1.3 -1.2 -1.8 -2.4
+1.5
+0.2
+0.4
+0.4
+5.6
+5.8
+7.1
+6.5
+0.0 -0.2 -0.3 -0.8
+2.3
+0.0
+0.2 -0.8
+0.8
+0.7
+2.2
+2.0
+-0.8 -0.5 -1.1 -1.5
+-6.6 -7.4 -7.6 -7.8
+-10.7 -13.9 -15.7 -15.5
+-5.9 -7.1 -9.0 -8.2
+-6.4 -7.1 -7.3 -8.0
+-1.8 -1.3 -2.0 -3.3
+-14.6 -17.8 -20.6 -25.3
+-6.1 -6.0 -4.7 -4.7
+0.4
+2.3
+4.3
+5.3
+-10.5 -6.1 -7.0 -4.2
+-5.0 -5.5 -4.5 -5.4
+1.6
+3.1
+5.4
+6.3
+-9.2 -4.0 -1.4 -1.3
+
+96.0
+97.1
+135.5
+69.2
+77.9
+51.4
+122.4
+72.6
+84.2
+114.8
+80.9
+93.9
+109.1
+68.7
+69.9
+35.5
+51.0
+...
+66.4
+132.8
+81.9
+38.6
+56.0
+83.1
+34.4
+78.3
+
+89.2
+97.0
+128.6
+58.8
+75.4
+53.4
+107.6
+70.5
+83.8
+115.1
+68.7
+87.3
+96.1
+55.6
+64.3
+34.3
+51.7
+...
+56.6
+128.5
+74.0
+41.8
+54.6
+78.2
+36.9
+100.4
+
+96.7
+107.3
+140.8
+61.6
+80.9
+53.3
+106.7
+78.6
+90.7
+126.9
+68.4
+90.0
+99.1
+54.7
+74.1
+42.1
+56.3
+...
+55.5
+144.2
+88.4
+60.5
+69.4
+100.4
+52.7
+158.4
+
+97.0
+108.8
+144.3
+59.4
+77.1
+53.8
+90.2
+75.5
+90.4
+126.6
+66.6
+89.3
+96.7
+53.2
+73.9
+42.6
+56.5
+...
+53.5
+153.1
+87.5
+52.2
+69.0
+98.6
+44.7
+149.5
+
+8.9
+
+6.6
+
+6.5
+
+7.4
+
+8.2
+
+7.0
+
+6.0
+
+-7.9
+
+-5.7
+
+-4.2
+
+-4.8
+
+47.4
+
+49.7
+
+55.8
+
+56.2
+
+5.9
+6.4
+0.1
+
+10.5
+11.4
+-0.2
+
+6.6
+7.0
+1.5
+
+4.7
+5.1
+0.8
+
+7.7
+8.4
+-0.4
+
+8.2
+8.9
+0.8
+
+5.7
+6.1
+1.7
+
+-1.3
+-1.5
+0.1
+
+-0.1
+-0.2
+0.1
+
+0.6
+0.5
+0.1
+
+0.8
+0.8
+-0.5
+
+53.3
+50.9
+79.9
+
+54.6
+52.2
+74.9
+
+66.9
+65.2
+79.2
+
+62.3
+60.1
+76.2
+
+0.5
+
+0.0
+
+1.2
+
+1.0
+
+0.0
+
+0.3
+
+1.3
+
+1.7
+
+1.7
+
+2.2
+
+2.0
+
+...
+
+...
+
+...
+
+...
+
+Source: IMF, World Economic Outlook database.
+Weighted average. Consumer Price Index (CPI) inflation is weighted by GDP valued at purchasing power parity, and current account balances and external debt are
+weighted by GDP in U.S. dollars.
+2
+Includes Albania, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Kosovo, Latvia, Lithuania, Macedonia FYR, Moldova,
+Montenegro, Poland, Romania, Russia, Serbia, Slovak Republic, Slovenia, Turkey, and Ukraine.
+1
+
+3
+4
+
+46
+
+CESEE excluding Czech Republic, Estonia, Latvia, Lithuania, Slovak Republic, and Slovenia.
+Includes Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovak Republic, and Slovenia.
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Annex III. CESEE: Evolution of Public Debt and General Government Balance, 2013–161
+(Percent of GDP)
+
+Baltics2
+Estonia
+Latvia3
+Lithuania
+Central and Eastern Europe2
+Czech Republic
+Hungary
+Poland
+Slovak Republic
+Slovenia3
+Southeastern Europe-EU2
+Bulgaria3
+Croatia3
+Romania
+Southeastern Europe-non-EU 2
+Albania3
+Bosnia and Herzegovina
+Kosovo3,4
+Macedonia
+Montenegro3
+Serbia3
+European CIS countries 2
+Belarus 3,5
+Moldova3
+Russia3
+Ukraine3
+Turkey3
+2,6
+
+CESEE
+Emerging Europe2,7
+New EU member states 2,8
+Memorandum
+European Union1
+
+General Government Balance
+2013
+2014
+2015
+-1.7
+-0.7
+-1.2
+-0.5
+0.4
+-0.5
+-1.2
+-1.7
+-1.4
+-2.6
+-0.7
+-1.4
+-3.6
+-2.9
+-2.6
+-1.4
+-1.0
+-1.4
+-2.4
+-2.6
+-2.7
+-4.0
+-3.5
+-2.9
+-2.6
+-3.0
+-2.6
+-14.3
+-6.3
+-4.4
+-2.9
+-2.8
+-2.6
+-1.8
+-3.7
+-3.0
+-5.2
+-5.0
+-4.8
+-2.5
+-1.9
+-1.8
+-4.4
+-5.1
+-4.6
+-5.2
+-5.6
+-4.8
+-1.9
+-3.6
+-2.0
+-3.1
+-2.6
+-3.7
+-3.9
+-4.2
+-3.8
+-3.3
+-0.8
+-5.3
+-5.6
+-6.7
+-5.9
+-1.5
+-1.3
+-3.7
+-0.8
+0.3
+-3.0
+-1.8
+-1.7
+-5.3
+-1.3
+-1.2
+-3.7
+-4.8
+-4.5
+-4.2
+
+2016
+-1.1
+-0.1
+-1.0
+-1.6
+-2.2
+-1.2
+-2.5
+-2.3
+-2.3
+-3.9
+-2.2
+-2.5
+-3.8
+-1.7
+-3.9
+-3.3
+-1.7
+-3.9
+-3.5
+-7.9
+-4.7
+-2.6
+-2.6
+-6.3
+-2.6
+-3.7
+
+2013
+30.8
+10.1
+35.2
+39.0
+56.7
+43.8
+77.3
+55.7
+54.6
+70.0
+42.0
+17.6
+75.7
+38.8
+55.4
+70.1
+41.5
+17.6
+34.2
+58.2
+61.4
+16.9
+38.3
+23.8
+14.0
+40.7
+
+Public Debt
+2014
+30.9
+9.7
+37.8
+37.7
+53.2
+41.6
+76.9
+48.8
+54.0
+82.9
+45.4
+26.9
+80.9
+40.4
+62.0
+72.6
+44.9
+18.5
+38.0
+58.4
+72.4
+22.1
+37.9
+31.5
+17.9
+71.2
+
+2015
+31.1
+10.1
+37.7
+38.1
+53.4
+42.0
+75.5
+49.4
+53.9
+79.8
+46.0
+28.9
+85.1
+40.5
+64.6
+73.6
+46.6
+20.2
+37.3
+60.4
+76.4
+24.7
+39.6
+48.0
+18.8
+94.1
+
+2016
+30.9
+10.0
+37.0
+38.1
+53.2
+42.0
+74.7
+49.2
+54.0
+82.1
+46.1
+30.7
+87.2
+40.0
+65.5
+69.8
+46.5
+22.1
+40.2
+64.3
+78.4
+22.9
+45.5
+50.8
+17.1
+92.6
+
+-1.7
+
+-1.9
+
+-1.8
+
+-1.2
+
+36.2
+
+33.5
+
+33.4
+
+32.5
+
+-2.2
+-2.1
+-3.3
+
+-2.0
+-2.0
+-2.7
+
+-2.9
+-3.0
+-2.5
+
+-2.2
+-2.2
+-2.1
+
+31.6
+30.0
+51.7
+
+34.1
+32.7
+49.9
+
+37.2
+36.0
+50.1
+
+35.8
+34.5
+50.0
+
+-3.1
+
+-2.9
+
+-2.6
+
+-1.8
+
+87.0
+
+87.7
+
+87.7
+
+86.8
+
+Source: IMF, World Economic Outlook database.
+1
+As in the WEO, general government balances reflect IMF staff’s projections of a plausible baseline, and as such contain a mixture of
+unchanged policies and efforts under programs, convergence plans, and medium-term budget frameworks. General government
+overall balance where available; general government net lending/borrowing elsewhere. Public debt is general government gross debt.
+2
+Average weighted by GDP in U.S. dollars.
+3
+Reported on a cash basis.
+4
+Public debt includes former Yougoslav debt, not yet recognized by Kosovo.
+5
+General government balance: the measure reflects augmented balance, which adds to the balance of general government outlays
+for banks recapitalizations and is related to called guarantees of publicly-guaranteed debt.
+6
+Includes Albania, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Kosovo, Latvia, Lithuania,
+Macedonia, Moldova, Montenegro, Poland, Romania, Russia, Serbia, Slovak Republic, Slovenia, Turkey, and Ukraine.
+7
+CESEE excluding Czech Republic, Estonia, Latvia, Lithuania, Slovak Republic, and Slovenia.
+8
+Includes Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovak Republic, and Slovenia.
+
+INTERNATIONAL MONETARY FUND
+
+47
+
+CESEE REI SPRING 2015
+
+Annex IV. Estimation of the Private Sector Debt Level Consistent with Fundamentals1
+The relationship between private sector debt and its main determinants is cast as a single
+equation, autoregressive-distributed lag (ADL) model. The latter can be interpreted as a stylized,
+reduced-form, demand and supply system expressed in semi-loglinear form:
+(1)
+– Per capita private sector debt stock in thousands of 2005 purchasing-power-parity
+U.S. dollars (see note to Figure 7 for details);
+– Per capita GDP in thousands of 2005 purchasing-power-parity U.S. dollars (source:
+IMF’s World Economic Outlook database), used as a measure of debt-servicing
+capacity that affects positively (+) both the demand and supply of credit;
+– nominal interest rate on private sector debt (fraction)2, which has opposite effects
+on demand (-) and supply (+);
+– country index, – time index.
+The demand-side effect of changes in interest rates is expected to dominate the supply-side impact
+in the reduced-form equation, in line with the findings in the existing literature (Cottarelli,
+Dell’Ariccia, and Vladkova-Hollar, 2003; Schadler and others, 2005; Iossifov and Khamis, 2009). Lack
+of data on private sector net worth for CESEE countries outside the EU prevents us from including
+that variable in the regional regressions.
+The long-run relationship between private sector debt and its main determinants is then
+given by the long-run solution of the ADL model, under the stability condition (
+, where
+
+):
+
+(2)
+
+lowercase variables are expressed in natural logarithm of per capita
+quantities in thousands of 2005 purchasing power parity U.S. dollars; asterisk indicates
+long-run value;
+
+1
+
+This annex was prepared by Plamen Iossifov.
+
+2
+
+For EU countries, the implicit interest rate is calculated using sectoral accounts data as the ratio of interest
+payments (including financial intermediation services indirectly measured) over the average of the beginning and
+end-period combined stock of debt of firms and households. For other countries, data are mostly for the lending
+rate, published in the IMF’s International Financial Statistics database, with gaps in country coverage filled with data
+for the short-term interest rate published in the OECD’s Economic Outlook database and from national data sources.
+
+48
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+All variables entering equation (2) are assumed to be either (trend) stationary or integrated of order
+one and cointegrated (that is, there is a linear combination of the variables in levels that is
+stationary). In the latter case, the long-run coefficients inferred from the short-run regression
+specification lie in the cointegration space of the dependent and explanatory variables (Hendry,
+1995).
+The equilibrium-correction (EC) model isomorphic to the reduced-form demand and supply system
+(1) is then given by:
+(3)
+Regression findings
+The long-run relationship between private sector debt and its main determinants is estimated
+with data for 36 European countries during 1995–2013.3 The use of a broad sample of European
+countries is valid under the assumption that all countries share the same long-term elasticities with
+respect to fundamentals. Restricting the sample to CESEE countries is not appropriate because it
+increases the risk of contaminating the long-term equilibrium path with credit-boom dynamics. All
+series are time demeaned by subtracting the mean across all countries in a given period from the
+individual country values. This removes nuisance cross-sectional dependency that creates size
+distortions and makes inference based on two-stage generalized method of moments (GMM)
+estimates unreliable (Roodman, 2009). Exploratory data analysis suggests that all variables are panel
+stationary.
+The static and dynamic versions of equation (1) are evaluated using different estimation
+methods (Table 1). Model 2 in Table 2 represents the full ADL model. The static and dynamic
+regression specifications are first evaluated using pooled and within-group (fixed-effects) ordinary
+least squares. While these estimators have the advantage of computational ease, both are
+inconsistent in the presence of endogenous explanatory variables and/or a lagged dependent
+variable. Therefore, in the final stage of analysis we use the Arellano-Bond dynamic-panel system
+GMM estimator (GMM-SYS). It is consistent in these circumstances, with the caveat that its
+asymptotic properties require a cross-sectional unit dimension of the data that is large relative to its
+time dimension. The latter condition is only partially met in the case of European panel data studies.
+Regression analysis confirms the importance of the identified demand and supply factors in
+determining the path of the stock of private sector debt. The magnitudes of the coefficients of
+real per capita GDP in purchasing-power-parity U.S. dollars and the nominal interest rate are sizable,
+and their signs are consistent with theoretical priors (Table 1). The per capita debt stock exhibits a
+
+3
+
+Albania, Belarus, Iceland, Luxembourg, Montenegro, Norway, and Serbia are dropped from the sample, due to lack
+of data or data free of major structural breaks for the typical duration of a full business cycle (eight years). For all
+CESEE countries, data prior to 1998 are discarded, due to structural breaks in the early stage of transition.
+
+INTERNATIONAL MONETARY FUND
+
+49
+
+CESEE REI SPRING 2015
+
+Table 1. Determinants of Real per Capita Private Sector Debt in Europe
+/ Dependent variable
+
+Log of per capita private sector debt in thousand 2005 PPP USD
+
+Regressors / Regression model
+/ Estimator
+Lagged dependent variable
+Second-lag of dependent variable
+Log of per capita GDP in thousand 2005 PPP USD
+First lag of log of per capita GDP in thousand 2005 PPP USD
+Interest rate (fraction)
+First lag of interest rate (fraction)
+Common intercept
+Country-specific effects
+
+(1)
+
+(2)
+
+OLS
+
+Within
+(Fixed Effects)
+
+…
+
+…
+
+…
+
+…
+
+OLS
+
+Within
+(Fixed Effects)
+
+Arellano-Bond TwoStep System GMM 5
+
+1.25
+
+0.92
+
+0.98
+
+(0.048)***
+
+(0.063)***
+
+(0.094)***
+
+-0.32
+
+-0.20
+
+-0.23
+
+(0.045)***
+
+(0.040)***
+
+(0.070)***
+
+1.66
+
+2.16
+
+0.62
+
+0.40
+
+0.46
+
+(0.056)***
+…
+
+(0.280)***
+…
+
+(0.124)***
+
+(0.109)***
+
+(0.211)**
+
+-0.54
+
+0.07
+
+-0.03
+
+(0.122)***
+
+(0.147)
+
+(0.273)
+
+0.34
+
+0.87
+
+0.344
+
+-0.057
+
+1.191
+
+(0.561)
+…
+
+(0.904)
+…
+
+(0.494)
+
+(0.468)
+
+(0.864)
+
+-0.59
+
+-0.72
+
+-1.41
+
+(0.370)
+
+(0.279)**
+
+(0.543)**
+
+-0.05
+
+-0.07
+
+0.01
+
+-0.002
+
+0.003
+
+(0.019)**
+
+(0.011)***
+
+(0.004)***
+
+(0.004)
+
+(0.019)
+
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+560
+
+Observations
+Number of countries
+Time span
+
+513
+
+36
+
+36
+Available data over 1995-2013
+
+Adjusted R-squared
+Within adjusted R-squared
+
+0.84
+…
+
+0.84
+0.52
+
+0.99
+…
+
+0.98
+0.91
+
+…
+…
+
+Chi2(54) 1
+Durbin-Watson
+F(1,35) 2
+AR(1) 3
+AR(2) 3
+
+…
+0.06
+
+…
+2.06
+…
+…
+…
+
+…
+…
+…
+…
+…
+
+33.3
+…
+
+…
+…
+…
+
+…
+…
+158.8***
+…
+…
+
+-3.33***
+-0.44
+
+…
+…
+
+60.3***
+…
+
+…
+…
+
+…
+5.87***
+
+…
+…
+
+F(35, 522) 4
+F(35, 471) 4
+
+Source: IMF Staff estimations.
+Note: All variables are time demeaned. Standard errors are in parentheses. GMM = generalized method of moments; OLS =
+ordinary least squares; PPP = purchasing power parity; USD = U.S. dollars.
+*
+**
+***
+coefficient significant at 10%; significant at 5%; significant at 1%.
+1
+Hansen test of overidentifying restrictions (whether the instruments, as a group, appear exogenous).
+2
+Wooldridge test for autocorrelation in panel data (H0: no first-order autocorrelation).
+3
+Test of (n-th) order serial correlation in regression residuals in first differences, N(0,1). Null hypothesis is no
+autocorrelation.
+4
+F-test that all fixed effects are jointly zero.
+Instruments for (1) first differences equation: L(2/3).(l_crdprs_ppp_r_pc_dt l_gdp_ppp_r_pc_dt int_rat_dt); and
+(2) levels equation: DL.(l_crdprs_ppp_r_pc_dt l_gdp_ppp_r_pc_dt int_rat_dt), using the first 50 principal
+components of the GMM-style instruments.
+
+significant degree of inertia, with 23 percent of any existing gap between the actual and
+fundamentals-consistent (in the long run) values closed each year. Diagnostic tests point to the lack
+of serial correlation in the non-idiosyncratic residuals of the dynamic model4 and to the validity of
+
+4
+
+As seen from the rejection of the hypothesis of the presence of second-order correlation in the residuals in firstdifferences (Doornik, Arellano, and Bond, 2002).
+
+50
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+the instruments used.5According to the Arellano-Bond dynamic-panel GMM estimates of
+Model 2, the long-run relationship between private sector debt and its fundamentals is
+(4)
+Our preferred modeling approach is to include country-specific intercepts in the long-run
+relationship, equation (4), and partially incorporate common time effects:
+
+
+Country-specific intercepts—included to ensure that the actual series and their fundamentalsconsistent counterparts have the same means for each country in the sample.6 The underlying
+assumption is that CESEE countries may not converge to a common equilibrium path from
+different starting points. This is in line with the thesis in Barajas and others (2013) that countries
+contend with different, constrained, optimum levels of financial development.
+
+
+
+Common time effects—included but only to the extent that they can be explained by common
+time effects in the right-hand variables. The underlying assumption is that the dynamics of
+fundamentals have the same impact on the “equilibrium” debt burdens, whether or not they are
+driven by common time effects or country idiosyncratic factors. This provides a midrange
+estimate of the misalignment between actual private debt burdens and their long-run,
+fundamentals-consistent values.7
+
+Equation (4) can then be used to calculate the long-run, fundamentals-consistent values of
+real per capita private sector debt in CESEE countries. Using equation (3), countries can be
+further classified into four broad classes, depending on their positions relative to the secular trend in
+private sector debt and the phase of the credit cycle:
+1. Level of debt above its long-run value consistent with fundamentals and growth of debt higher
+than predicted by the short-run dynamics of the model.
+2. Level of debt above its long-run value consistent with fundamentals and growth of debt lower
+than or close to the value predicted by the short-run dynamics of the model.
+3. Level of debt below or close to its long-run value consistent with fundamentals and growth of
+debt lower than or close to the value predicted by the short-run dynamics of the model.
+
+5
+
+As seen from the statistical insignificance at the 10 percent level of confidence of the Hansen test of overidentifying
+restrictions (whether the instruments, as a group, appear exogenous).
+6
+
+The alternative is to use a common intercept for all sample countries.
+
+7
+
+The alternatives are to exclude the common time effects altogether or to fully include the common time effects in
+the left-hand variable in its long-run equilibrium values.
+
+INTERNATIONAL MONETARY FUND
+
+51
+
+CESEE REI SPRING 2015
+
+4. Level of debt below or close to its long-run value consistent with fundamentals and growth of
+debt higher than predicted by the short-run dynamics of the model.
+
+However, other idiosyncratic effects
+may be present as well. In particular, in
+some cases the initial debt levels may be
+higher than expected given the quality of
+institutions in these countries. The
+empirical relationship between the
+country-specific intercepts and
+institutional quality could be used to
+separate the country-specific-level effects
+unexplained by institutional quality. Then,
+if the credit gaps obtained from the
+regression analysis were adjusted to
+include the country-specific-level effects
+unexplained by institutional quality, the
+credit gaps would be even larger in a
+number of countries (see Figure 2). This
+further underscores the importance of
+structural reforms to increase countries’
+capacity to support financial deepening.
+
+52
+
+INTERNATIONAL MONETARY FUND
+
+Figure 1. CESEE: Explanatory Power of Institutional Quality for
+Differences in Country-Specific-Level Effects in Private Debt
+Regressions
+Distance of Country Intercepts from Average Advanced
+Europe Country Intercept in Private Debt Regression
+
+Differences in country-specific
+intercepts in the regression of private
+debt may reflect differences in the
+quality of institutions across countries,
+as well as other country-specific
+factors. This conjecture is indeed
+supported by evidence, as countries with
+weaker institutions (compared with the
+euro area average) tend to have lower
+country-specific constants (compared with
+the euro area average), implying that they
+would, on average, be expected to have
+lower debt levels (see Figure 1). Thus, the
+differences in country-specific intercepts
+could be interpreted as capturing the
+potential for further financial deepening
+after controlling for differences in interest
+rates and per capita incomes.
+
+Outliers not included in fitting the regression line
+1.5
+
+MDA
+1.0
+
+CYP
+UKR
+
+0.5
+
+BIH
+
+0.0
+
+PRT
+GBR
+
+BGR
+HRV
+
+MKD
+BLR
+
+LVA
+HUN
+SVN
+
+EST
+
+-1.0
+
+CHE
+AUT
+
+TUR SVK
+ROU POL LTU
+CZE
+RUS
+
+-0.5
+
+NLD
+
+FIN
+
+DEU
+
+y = 0.14x - 0.11
+R² = 0.40
+
+-1.5
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+Distance of Country Rank on Strength of Legal System and Property
+Rights from Advanced Europe Average
+Sources: Fraser Institute, Economic Freedom of the World database; and IMF staff
+estimates (Model 2, Table 1).
+Note: Data labels are defined in the abbreviations list.
+
+Figure 2. CESEE: Credit Gaps Adjusted for Country-Specific-Level
+Effects Unexplained by Institutional Quality
+Credit gaps adjusted to include country specfic level effects unexplained by
+institutional quality
+Credit gaps (unadjusted)
+Ukraine
+Bulgaria
+Moldova
+Bosnia
+Croatia
+Macedonia, FYR
+Turkey
+Belarus
+Estonia
+Romania
+Hungary
+Slovenia
+Latvia
+Russia
+Poland
+Slovak Republic
+Czech Republic
+Lithuania
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+Source: IMF staff estimates (Model 2 in Table 1 and Figure 1).
+
+80
+
+100
+
+CESEE REI SPRING 2015
+
+Annex V. Firm-Level Debt-at-Risk Analysis1
+To examine the distribution of corporate sector debt, the analysis uses disaggregated, firmlevel annual data from the ORBIS database, covering about 2 million firms in 14 countries for
+the period between 2008 and 2013. The coverage of sample firms for each country varies, but on
+average total debt owed by sample firms accounts for about 35 percent of countries’ aggregate
+corporate sector debt calculated using sectoral accounts.
+Table 1. Number of Observations and Data Coverage by Country
+Debt-to-EBIT
+Country
+
+N. Firms
+
+ICR
+
+Coverage (%)
+
+N. Firms Coverage (%)
+
+Bulgaria
+
+194,293
+
+35.67
+
+Croatia
+
+68,931
+
+88.40
+
+Czech Rep.
+
+50,262
+
+29.15
+
+Estonia
+
+17,866
+
+51.71
+
+Hungary
+
+63,767
+
+18.30
+
+5,951
+
+Latvia
+
+37,669
+
+28.99
+
+10,004
+
+1,310
+
+30.17
+
+Poland
+
+13,752
+
+13.07
+
+11,079
+
+Romania
+
+10,222
+
+22.74
+
+Lithuania
+
+Debt-to-Equity
+
+81,924
+
+Coverage (%)
+
+214,862
+
+36.20
+
+77,031
+
+89.34
+
+57,177
+
+29.46
+
+19,671
+
+52.07
+
+17.61
+
+69,452
+
+18.44
+
+24.59
+
+72,734
+
+47.03
+
+1,310
+
+30.18
+
+11.69
+
+13,829
+
+13.22
+
+3,993
+
+20.94
+
+18,128
+
+23.03
+
+63.27 131,979
+
+57.44
+
+1,058,322
+
+65.89
+
+20,011
+
+35.03
+
+N. Firms
+
+26.50
+
+Russia
+
+947,475
+
+Serbia
+
+37,000
+
+84.30
+
+1,082
+
+49.41
+
+32,818
+
+56.77
+
+Slovak Rep.
+
+99,214
+
+41.74
+
+31,238
+
+35.58
+
+11,8670
+
+42.04
+
+Slovenia
+
+6,012
+
+41.08
+
+3,119
+
+34.81
+
+5,999
+
+50.94
+
+Turkey
+
+7,953
+
+11.84
+
+6,039
+
+11.24
+
+8,072
+
+11.87
+
+193,682
+
+59.36
+
+8,631
+
+49.56
+
+245,513
+
+59.67
+
+Ukraine
+Total
+
+1,749,408
+
+315,050
+
+2,013,588
+
+Sources: Eurostat, Annual Sectoral Accounts data; and ORBIS database.
+Note: Both ORBIS and aggregate-level data are nonconsolidated data for the nonfinancial corporate sector (for non-EU countries,
+aggregate-level data are consolidated data). Coverage is the share of total debt owed by sample firms to the aggregate-level
+corporate sector debt. The aggregate corporate debt stocks for Russia, Serbia, and Ukraine—countries for which sectoral accounts
+data are not available—are underestimated, as they do not include domestic intercompany loans and domestically held debt
+securities issued by nonfinancial companies. EBIT = earnings before interest and taxes; ICR = interest coverage ratio.
+
+1
+
+This Annex was prepared by Jiae Yoo.
+
+INTERNATIONAL MONETARY FUND
+
+53
+
+CESEE REI SPRING 2015
+
+Within each country sample, we divide firms into six industries—agriculture and mining (AG),
+manufacturing (MF), utilities (UT), construction and real estate (CR), wholesale and retail trade (WR),
+and market services (MS)2—and three firm-size groups (small, medium, large).3 The breakdown of
+the sample firms by industry and firm sizes is reported in Table 2.
+Table 2. Number of Observations and Data Coverage by Industry and Firm Size
+Debt-to-EBIT
+
+ICR
+
+Percent of
+Country
+Agriculture/mining
+
+N. Firms
+
+total debt
+
+Debt-to-Equity
+
+Percent of
+N. Firms
+
+total debt
+
+Percent of
+N. Firms
+
+total debt
+
+96,002
+
+12.63
+
+29,503
+
+13.43
+
+114,857
+
+12.53
+
+221,374
+
+26.83
+
+54,570
+
+28.50
+
+244,420
+
+26.11
+
+30,460
+
+6.17
+
+7,348
+
+5.88
+
+33,822
+
+6.09
+
+Construction/real estate
+
+199,437
+
+10.73
+
+33,000
+
+9.65
+
+229,225
+
+11.24
+
+Wholesale/retail
+
+647,286
+
+21.09
+
+113,407
+
+20.36
+
+742,201
+
+21.07
+
+Market services
+
+554,849
+
+22.55
+
+77,224
+
+22.18
+
+649,063
+
+22.96
+
+1,586,744
+
+11.65
+
+235,907
+
+8.02
+
+1,849,149
+
+12.44
+
+128,821
+
+18.22
+
+58,078
+
+17.36
+
+130,400
+
+18.33
+
+33,843
+
+70.13
+
+21,067
+
+74.63
+
+34,039
+
+69.23
+
+Manufacturing
+Utilities
+
+Small
+Medium
+Large
+Source:
+
+Note: Percent of total debt is the share of each sector. EBIT = earnings before interest and taxes; ICR = interest coverage ratio.
+
+2
+
+Industry classification is based on NACE 2 codes (in parentheses): agriculture and mining, AG, includes agriculture,
+forestry, and fishing (A) and mining and quarrying (B); utilities, UT, refers to electricity, gas, steam, and air
+conditioning supply (D) and water supply, sewage, waste management, and remediation activities (E); market
+services, MS, includes transportation and storage (J), accommodation and food service activities (I), information and
+communication (J), professional, scientific, and technical activities (M), administrative support service activities (M),
+arts, entertainment, and recreation (R), and other service activities (S).
+3
+
+Firms are classified as small, medium, or large, depending on their number of employees and the size of the total
+balance sheet. The classification is based on the ceiling defined by ECB (2013): medium firms are defined as firms that
+employ fewer than 250 people and whose annual balance sheet does not exceed 43 million euros; small firms are
+firms that employ fewer than 50 people and whose annual balance sheet does not exceed 10 million euros.
+
+54
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Annex VI. CEE EU Countries: Contributions to Difference between Average Sectoral Saving
+Rates in 2009–12 and 2006–08
+(Percentage points)
+Corporates1
+
+Households2
+
+(percentage points of gross value added)
+
+(percentage points of gross disposable income)
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0
+
+0
+
+-5
+
+-5
+
+-10
+
+-10
+-15
+
+-15
+LVA BGR POL ROU LTU HUN EST SVK SVN CZE HRV
+Wages and salaries
+
+Net taxes/subsidies from government
+
+Net interest payments
+
+Distributed corporate profits
+
+Other distributions
+
+Change in gross savings rate
+
+EST
+
+BGR LTU ROU LVA
+
+SVK CZE HUN POL SVN HRV
+
+Self-employment income
+Net taxes/transfers from government
+Distributed corporate profits
+Final consumption net of taxes on products
+
+Wages and salaries
+Net interest payments
+Other distributions
+Change in gross savings rate
+
+General government3
+(Percentage points points of gross disposable income)
+40
+20
+
+0
+-20
+-40
+
+-60
+-80
+
+HUN EST
+
+POL CZE ROU SVN SVK BGR
+
+LVA
+
+Gross value added
+
+Wages and salaries
+
+Net taxes/transfers to households
+
+Net interest payments
+
+Net taxes on products/subsidies to firms
+
+Other distributions
+
+Final consumption net of taxes on products
+
+Change in gross savings rate
+
+LTU
+
+HRV
+
+Source: EUROSTAT ESA 1995 Annual Sector Accounts and Fund staff calculations.
+Notes: Data for Croatia are not available, while data for Romania end in 2011.
+1 All cash flows identified in the chart typically represent net outflows for corporates and as such a positive contribution to the saving rate signify a reduction in the corresponding
+outlays. The net inflow is the gross value-added, which also appears in the denominator of the saving ratio and as such does not contribute to the percentage point difference in saving
+rates before and after the crisis.
+2 For households, positive cash flows typically are wages and salaries, self-employment income, net interest payments and other distributions. A positive contribution to the saving rate
+by these inflows signify increase in the corresponding revenues. The share of indirect taxes paid by households is calculated as the ratio of household consumption to the sum of
+household consumption and government consumption, the latter being net of compensation of employees.
+3 Government's gross value added is measured as the sum of public sector wages and benefits and depreciation. Public sector wa ges and benefits are also part of government final
+consumptions, with the two entries cancelling each other. Government's gross disposable income is equal to total revenues minus social benefits other than social transfers in kind.
+
+INTERNATIONAL MONETARY FUND
+
+55
+
+CESEE REI SPRING 2015
+
+Annex VII. Firm-level Analysis of Employment and Investment4
+Following a large body of firm-level studies, we estimate the accelerator-style model. Such a
+model was used by Cantor (1990), Sharpe (1994), Heisz and LaRochelle-Côté (2004), and ChodorowReich (2014) to test the procyclicality of firm-level employment and investment in relation to
+differences in leverage and size of companies. In addition, we add a country-specific variable
+measuring flexibility of hiring and firing labor market regulations and test its significance for an
+average firm, and specifically for small firms. For a firm i in time t and country j, the whole model can
+be expressed as follows:
+
+The dependent variable Y is alternatively employment or investment. Investment is measured as a
+change in fixed assets. S stands for sales; A for assets (measuring size); L is leverage (debt to total
+assets); R is the index of flexibility of hiring and firing labor market regulation of the Fraser Institute’s
+Economic Freedom of the World database; and D is a dummy variable equal to one if a firm has
+fewer than 50 employees. Following the literature, the choice of the lag structure minimizes
+endogeneity issues. The model is estimated using an Arellano-Bond dynamic panel data two-step
+estimator with robust Windmeijer-adjusted standard errors. Residuals are assumed to be
+independent and identically distributed.
+Results suggest that leverage and size of firms as well as flexibility of hiring and firing
+regulation influence firms’ responses to shocks in sales. According to the results in Table 3, firms
+respond to falling sales by cutting employment and investment.
+
+
+A 10 percent decline in sales calls for cost reductions between 2 and 4 percent (since value
+added typically ranges between 30 and 50 percent of sales and profits account for a third of
+value added) to restore profitability.
+
+
+
+Firms of average size and leverage respond by about 2 percent, equally divided between
+investment and employment. Small firms adjust more, and their response seems to be also
+dependent on the degree of labor market flexibility, with more rigid regimes associated with
+lower response of employment and greater in investment. For instance, small, low-leverage firms
+in countries with relatively rigid labor regulation respond to a 10 percent decline in sales by
+cutting employment by 1 percent and investment by 3 percent. Highly leveraged small firms in
+countries with flexible labor codes reduce employment and investment by close to 2 percent
+
+4
+
+This Annex was prepared by Jiri Podpiera.
+
+56
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+each. Large firms tend to fire fewer workers and cut less investment, as they rely more on selling
+off assets to deleverage.
+Table 3. Corporate Response to Changing Demand
+Δ Employment
+(E1)
+Lagged dependent variable
+Δ Salesi,t
+x Size i,t-2
+x Leverage i,t-2
+
+-0.047***
+(0.0033)
+0.125***
+(0.005)
+-0.003***
+(0.001)
+0.002*
+(0.001)
+
+x Labor market regulation j,t
+x Labor market regulation j,t x 1 (Small i,t )
+Size i,t-2
+Leverage i,t-2
+
+-0.088***
+(0.002)
+-0.007***
+(0.001)
+
+Labor market regulation j,t
+Labor market regulation j,t x 1 (Small i,t )
+Constant
+
+0.93***
+(0.03)
+
+Observations
+Firms
+Hansen test
+
+514,824
+117,633
+
+(E2)
+
+Δ Investment
+(E3)
+
+(I1)
+
+(I2)
+
+(I3)
+
+-0.049*** -0.049***
+(0.0033)
+(0.0033)
+0.078*** 0.074***
+(0.015)
+(0.017)
+-0.003*** -0.003***
+
+-0.018*** -0.026*** -0.026***
+(0.003)
+(0.003)
+(0.003)
+0.123*** 0.11***
+0.23***
+(0.008)
+(0.027)
+(0.028)
+-0.006*** -0.005*** -0.016***
+
+(0.001)
+0.003**
+(0.001)
+0.024***
+(0.008)
+
+(0.001)
+0.007***
+(0.002)
+
+(0.001)
+0.007***
+(0.002)
+0.018
+(0.013)
+
+-0.15***
+(0.004)
+0.001
+(0.001)
+
+-0.15***
+(0.004)
+0.001
+(0.001)
+0.63***
+(0.01)
+
+-0.24***
+(0.04)
+
+-0.24***
+(0.04)
+
+(0.002)
+0.007***
+(0.002)
+0.02
+(0.013)
+-0.06***
+(0.005)
+-0.12***
+(0.005)
+0.001
+(0.002)
+0.63***
+(0.01)
+-0.03***
+(0.005)
+-0.22***
+(0.04)
+
+465,410
+109,330
+
+465,410
+109,330
+
+465,410
+109,330
+
+(0.001)
+0.003**
+(0.001)
+0.018**
+(0.008)
+0.008***
+(0.003)
+-0.083*** -0.086***
+(0.002)
+(0.002)
+-0.007*** -0.007***
+(0.001)
+(0.001)
+0.139***
+0.36***
+(0.01)
+(0.01)
+-0.32***
+(0.005)
+0.28***
+0.23***
+(0.02)
+(0.02)
+514,824
+117,633
+
+514,824
+117,633
+
+Source: IMF staff estimates.
+
+Note: All variables are in logarithms. Investment is measured as the percent change in fixed assets (investment
+intensity—that is, It/Kt-1). Firms with fewer than 50 employees and assets below 10 million euros are small firms. Size is
+measured by total assets and leverage by debt to total assets. Labor market regulation is represented by the Hiring and
+Firing regulation index (5Bii) of the Fraser Institute’s Economic Freedom of the World database. The model is estimated
+using an Arellano-Bond dynamic two-step panel data estimator with robust standard errors. Lagged dependent and
+independent variables were used as instruments. Standard errors are in parentheses.
+*
+**
+***
+coefficient significant at 10 percent; at 5 percent; at 1 percent.
+
+INTERNATIONAL MONETARY FUND
+
+57
+
+CESEE REI SPRING 2015
+
+Annex VIII. Firm-Level Analysis of Debt and Investment1
+Dynamic panel regressions confirm the sensitivity of firms’ investment-to-capital ratio to
+their debt overhang. Following the earlier literature, we estimate a specification for the investment
+equation of the firm as follows:
+
+where
+is the investment-to-capital ratio of firm at time . The debt overhang or financial
+pressure variable
+is proxied by standard measures such as the debt-to-asset ratio or interestcoverage ratio. The latter is defined as the ratio of EBIT (earnings before interest and taxes) to
+interest payments. We include the lagged cash-flow-to-capital ratio to control for standard salesaccelerator effects in such models. The coefficient measuring the sensitivity of investment to
+balance sheet variables appears to be significant and with the correct sign (Table 4, columns 1,3).
+Table 4. Investment Ratio and Debt Overhang in CESEE
+Dependent variable:
+Variables
+
+Investment-to-capital ratio
+D = Interest-coverage ratio
+(1)
+(2)
+0.0046***
+(0.000)
+0.0229**
+(0.010)
+0.0355**
+(0.049)
+
+0.0047***
+(0.000)
+0.0269*
+(0.092)
+
+D = Debt to Assets
+(3)
+0.0056***
+(0.000)
+-0.0457
+(0.230)
+-0.12717***
+(0.000)
+
+-0.0389
+(0.268)
+0.1888***
+(0.000)
+Observations
+1
+AR(1)
+1
+AR(2)
+2
+Hansen test
+
+3,159
+-1.506*
+-1.328
+27.34
+
+3,159
+-1.508*
+-1.334
+54.71
+
+(4)
+0.0233***
+(0.000)
+-0.0661
+(0.165)
+
+0.2133
+(0.815)
+-0.1390***
+(0.000)
+3,458
+-1.620*
+-1.324
+23.73
+
+3,458
+-1.621*
+-1.278
+50.70
+
+Source: IMF Staff estimates.
+Note: Regression results of equation (3) are estimated with a two-step generalized method of moments estimator for dynamic
+panel models, using lags of dependent variables as instruments. Given the high number of exits and entrances of firms in the data
+set, the regression is run on representative firms representing 10 different size bins for each country, industry, and year spanning
+2004–13. Regressions include country and industry dummies. CESEE = central, eastern, and southeastern Europe.
+*, **, *** represent significance at 10%, 5% and 1% respectively. P-values are in parentheses. 1 Test of (n-th) order serial correlation
+in regression residuals is in first differences. Null hypothesis is no autocorrelation. 2 Hansen test of overidentifying restrictions.
+
+1
+
+This annex was prepared by Faezeh Raei.
+
+58
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+ABBREVIATIONS
+
+ALB
+
+Albania
+
+AQR
+
+Asset Quality Review
+
+AUT
+
+Austria
+
+BGR
+
+Bulgaria
+
+BiH
+
+Bosnia and Herzegovina
+
+BIS
+
+Bank for International
+Settlements
+
+BLR
+
+Belarus
+
+CEE
+
+Central and eastern Europe
+
+CESEE
+
+Central, eastern, and
+southeastern Europe
+
+CHF
+
+Swiss franc
+
+CIS
+
+Commonwealth of
+Independent States
+
+CZE
+
+Czech Republic
+
+DEU
+
+Germany
+
+ECB
+
+European Central Bank
+
+EIB
+
+European Investment Bank
+
+EM
+
+Emerging Market
+
+EMBIG
+
+Emerging Markets Bond Index
+Global
+
+EPFR
+
+Emerging Portfolio Fund
+Research
+
+EST
+
+Estonia
+
+EU
+
+European Union
+
+FIN
+
+Finland
+
+FDI
+
+Foreign direct investment
+
+FX
+
+Foreign exchange
+
+GDP
+
+Gross domestic product
+
+GRC
+
+Greece
+
+HICP
+
+Harmonised Index of
+
+HUN
+
+Hungary
+
+ICR
+
+Interest coverage ratio
+
+IMF
+
+International Monetary Fund
+
+ITA
+
+Italy
+
+LTU
+
+Lithuania
+
+LVA
+
+Latvia
+
+LUX
+
+Luxembourg
+
+MDA
+
+Moldova
+
+MKD
+
+Former Yugoslav Republic of
+
+Macedonia
+MNE
+
+Montenegro
+
+NPL
+
+Nonperforming loan
+
+OECD
+
+Organisation for Economic Cooperation and Development
+
+PMI
+
+Purchasing Managers Index
+
+POL
+
+Poland
+
+REI
+
+Regional Economic Issues
+
+ROU
+
+Romania
+
+RUS
+
+Russia
+
+SA
+
+Seasonally adjusted
+
+SEE
+
+Southeastern Europe
+
+SRB
+
+Serbia
+
+SVK
+
+Slovak Republic
+
+SVN
+
+Slovenia
+
+TUR
+
+Turkey
+
+QE
+
+Quantitative easing
+
+UKR
+
+Ukraine
+
+UVK
+
+Kosovo
+
+WEO
+
+World Economic Outlook
+
+Consumer Prices
+
+INTERNATIONAL MONETARY FUND
+
+59
+
+CESEE REI SPRING 2015
+
+REFERENCES
+Barajas, Adolfo, Thorsten Beck, Era Dabla-Norris, and Reza Yousefi, 2013, “Too Cold, Too Hot, or
+Just Right? Assessing Financial Sector Development across the Globe,” IMF Working Paper
+13/81 (Washington: International Monetary Fund).
+http://www.imf.org/external/pubs/ft/wp/2013/wp1381.pdf.
+Bergthaler, Wolfgang, Kenneth Kang, Yan Liu, and Dermot Monaghan, 2015, “Tackling Small and
+Medium Sized Enterprise Problem Loans in Europe,” IMF Staff Development Note 15/04
+(Washington: International Monetary Fund).
+Bernanke, B. S., and M. Gertler, 1989, “Agency Costs, Net Worth, and Business Fluctuations,”
+American Economic Review, Vol. 79, pp. 14–31.
+Bernanke, B. S., M. Gertler, and S. Gilchrist, 1999, “The Financial Accelerator in a Quantitative
+Business Cycle Framework,” in J. B. Taylor, and M. Woodford, eds., Handbook of
+Macroeconomics, Elsevier.
+Cantor, Richard, 1990, “Effects of Leverage on Corporate Investment and Hiring Decisions,” Federal
+Reserve Bank of New York Quarterly Review, Vol. 15, No. 2, pp. 31–41.
+Chodorow-Reich, Gabriel, 2014, “The Employment Effects of Credit Market Disruptions: Firm-Level
+Evidence from the 2008-9 Financial Crisis,” Quarterly Journal of Economics, Vol. 129, No. 1,
+pp. 1–59.
+Cottarelli, C., G. Dell’Ariccia, and I. Vladkova-Hollar, 2003, “Early Birds, Late Risers, and Sleeping
+Beauties: Bank Credit Growth to the Private Sector in Central and Eastern Europe and the
+Balkans,” IMF Working Paper 03/213 (Washington: International Monetary Fund).
+www.imf.org/external/pubs/ft/wp/2003/wp03213.pdf.
+Doornik, Jurgen, Manuel Arellano, and Steven Bond, 2002, “Panel Data estimation using DPD for
+Ox,” Technical Report. www.doornik.com/download/dpd.pdf.
+European Central Bank (ECB), 2013, “Corporate Finance and Economic Activity in the Euro Area,”
+Occasional Paper 151 (Frankfurt). http://www.ecb.europa.eu/pub/pdf/scpops/ecbocp151.pdf.
+European Commission (EC), 2012, “Scoreboard for the Surveillance of Macroeconomic Imbalances,”
+Occasional Paper 92 (Brussels).
+ec.europa.eu/economy_finance/publications/occasional_paper/2012/pdf/ocp92_en.pdf.
+
+60
+
+INTERNATIONAL MONETARY FUND
+
+CESEE REI SPRING 2015
+
+Fay, Jon A., and James L. Medoff, 1985, “Labor and Output Over the Business Cycles: Some Direct
+Evidence,” American Economic Review, Vol. 75, No. 4, pp. 638–55.
+Fazzari, Steven, Piero Ferri, and Edward Greenberg, 2008, “Cash Flow, Investment, and KeynesMinsky Cycles,” Journal of Economic Behavior and Organization, Vol. 65, pp. 555–72.
+Goretti, Manuela, and Marcos Souto, 2013, “Macro-Financial Implications of Corporate
+(De)Leveraging in the Euro Area Periphery,” IMF Working Paper 13/154 (Washington:
+International Monetary Fund). www.imf.org/external/pubs/ft/wp/2013/wp13154.pdf.
+Heisz, Andrew, and Sébastien LaRochelle-Côté, 2004, “Corporate Financial Leverage in Canadian
+Manufacturing: Consequences for Employment and Inventories,” Canadian Journal of
+Administrative Sciences, Vol. 21, No. 2, pp. 111–28.
+Hendry, David, 1995, Dynamic Econometrics (Oxford: Oxford University Press).
+Hilbers, Paul, Inci Ötker, Ceyla Pazarbasioglu, and Gudrun Johnsen, 2005, “Assessing and Managing
+Rapid Credit Growth and the Role of Supervisory and Prudential Policies,” IMF Working
+Paper 05/151 (Washington: International Monetary Fund).
+www.imf.org/external/pubs/ft/wp/2005/wp05151.pdf.
+Hubbard, Glenn R., 1998, “Capital-Market Imperfections and Investment,” Journal of Economic
+Literature, Vol. XXXVI, pp. 193–225.
+International Monetary Fund (IMF), 2009, “From Recession to Recovery: How Soon and How Strong,”
+Chapter 3 in World Economic Outlook (Washington, April).
+www.imf.org/external/pubs/ft/weo/2009/01.
+———, 2013, “Making the Transition to Stability,” Chapter 1 in Global Financial Stability Report,
+October, available via internet at: http://www.imf.org/External/Pubs/FT/GFSR/2013/02/ ,
+(Washington: DC).
+———, 2014, “25 Years of Transition: Post-Communist Europe and the IMF,” Regional Economic
+Issues Special Report (Washington).
+www.imf.org/external/pubs/ft/reo/2014/eur/eng/pdf/erei_sr_102414.pdf.
+Iossifov, Plamen, and May Khamis, 2009, “Credit Growth in Sub-Saharan Africa–Sources, Risks, and
+Policy Responses,” IMF Working Paper 09/180 (Washington: International Monetary Fund).
+www.imf.org/external/pubs/ft/wp/2009/wp09180.pdf.
+Iossifov, Plamen, and Jiri Podpiera, 2014, “Are Non-Euro Area EU Countries Importing Low Inflation
+from the Euro Area?” IMF Working Paper 14/191 (Washington: International Monetary Fund).
+INTERNATIONAL MONETARY FUND
+
+61
+
+CESEE REI SPRING 2015
+
+Iossifov, Plamen, and Tina Zumer, 2015, “Common Methodology for Analyzing Sectoral
+Indebtedness,” unpublished manuscript (Frankfurt and Washington: European Central Bank
+and International Monetary Fund).
+Martinez-Carrascal, Carmen, and Annalisa Ferrando, 2008, “Financial Position and Investment,” ECB
+Working Paper 943 (Frankfurt: European Central Bank).
+http://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp943.pdf.
+McKinsey Global Institute, 2012, “Debt and Deleveraging: Uneven Progress on the Path to Growth”
+(Washington).
+Roodman, David, 2009, “How to do xtabond2: An Introduction to Difference and System GMM in
+Stata,” The Stata Journal, Vol. 9, No. 1, pp. 86–136.
+Schadler, Susan, Paulo Drummond, Flavio Nacif, Louis Kuijs, Zuzana Murgasova, and Rachel van
+Elkan, 2005, Adopting the Euro in Central Europe: Challenges of the Next Step in European
+Integration, IMF Occasional Paper 234 (Washington: International Monetary Fund).
+Sharpe, Steven A., 1994, “Financial Market Imperfections, Firm Leverage, and the Cyclicality of
+Employment,” American Economic Review, Vol. 84, No. 4, pp. 1060–1074.
+Tang, Garry, and Christian Upper, 2010, “Debt Reduction After Crises,” BIS Quarterly Review,
+September.
+
+62
+
+INTERNATIONAL MONETARY FUND
+
+

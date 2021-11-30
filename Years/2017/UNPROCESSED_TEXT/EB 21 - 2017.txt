@@ -1,0 +1,7131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+  
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acquis communautaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+China 2030: Building a Modern, Harmonious, and Creative High
+-Income Society
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMF Working Paper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=+
+=[(1+
+)+(
+)]+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Financial 
+Analysts 
+Journal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Rev
+iew 
+of Economics and Statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Studies in 
+Banking and Finance
+
+
+
+Journal of Political Economy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+European system of accounts 
+Œ ESA 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic Bulletin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statistics 
+Paper Series
+
+
+
+
+
+
+Financial Stability Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic Bulletin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+minus
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+minus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic 
+Bulletin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic Bulletin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic Bulletin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2016
+ European Semester: country
+-specific 
+recommendations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Quality of Public Finances
+  Findings of the Economic Policy Committee Working Group
+
+
+
+
+
+
+Economics Department Working Papers, 
+
+
+
+
+
+
+OECD 
+Economic
+s 
+Department Working Papers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oxford Bulletin of Economics and Statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMF Working Paper
+s
+
+
+
+
+Journal of Economic Surveys
+
+
+
+
+
+
+
+
+
+
+
+Empirical Economics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+European 
+Economy 
+Œ Economic Papers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic Journal
+
+
+
+
+
+
+
+
+
+
+Economic Journal
+
+
+
+
+
+
+
+
+
+
+
+NBER Working Paper
+
+
+
+
+
+
+
+International Tax and Public Finance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The first period
+ covers the years leading up to and including the start of the 
+financial crisis
+ (2003
+-10).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The second period was marked by strong consolidation efforts in most 
+euro 
+area countries to reverse
+ the steep deterioration of public finances
+ (2011
+-13).
+
+
+Although consolidation continued in a few
+ countries beyond 2013, most notably 
+those countries with the highest adjustment need
+s, the 
+subsequent 
+period can 
+be considered as the conv
+ergence 
+to the new ﬁnormalﬂ (2014
+-16).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monthly Bulletin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OECD Economics Department Working 
+Papers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OECD Economics Department Working 
+Papers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taxing Wages 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effective Tax Levels
+ using 
+the Devereux/Griffith Methodology, Project for the EU Commission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAT rates applied in the Member States of the European Union
+Situation at 1
+ January 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+German Economic Review
+
+
+
+, IMF Fiscal Monitor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OECD Economics Department Working 
+Papers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+StatisticsS 1ECB Economic Bulletin, Issue 5 / 2017 - StatisticsContents1 External environmentS 22 Financial developmentsS 33 Economic activityS 84 Prices and costsS 145 Money and creditS 186 Fiscal developmentsS 23Further informationECB statistics can be accessed from the Statistical Data Warehouse (SDW): http://sdw.ecb.europa.eu/Data from the statistics section of the Economic Bulletin are available from the SDW: http://sdw.ecb.europa.eu/reports.do?node
+=1000004813 A comprehensive Statistics Bulletin can be found in the SDW: http://sdw.ecb.europa.eu/reports.do?node=1000004045 Methodological definitions can be found in the General Notes to the Statistics Bulletin:http://sdw.ecb.europa.eu/reports.do?node=10000023
+Details on calculations can be found in the Technical Notes to the Statistics Bulletin:http://sdw.ecb.europa.eu/reports.do?node=10000022
+Explanations of terms and abbreviations can be found in the ECB's statistics glossary: http://www.ecb.europa.eu/home/glossary/html/glossa.en.html
+Conventions used in the tables -data do not exist/data are not applicable 
+.data are not yet available...nil or negligible
+
+(p)provisional
+s.a.seasonally adjusted
+n.s.a.non-seasonally adjusted
+1 External environmentS 2ECB Economic Bulletin, Issue 5 / 2017 - Statistics1.1 Main trading partners, GDP and CPI       
+   GDP 1)    CPI   (period-on-period percentage changes)   (annual percentage changes)   G20 2)UnitedUnitedJapanChinaMemo item:   OECD countriesUnitedUnitedJapanChinaMemo item:
+StatesKingdomeuro areaStatesKingdomeuro area
+ 3)Totalexcluding food
+(HICP)(HICP)and energy12345678910111213
+2014   3.42.43.10.37.3
+1.21.7
+1.81.61.52.72.0
+0.42015   3.42.62.21.16.9
+2.00.6
+1.70.10.00.81.4
+0.02016   3.21.61.81.06.7
+1.81.1
+1.81.30.7-0.12.0
+0.2 2016 Q3   0.90.90.50.31.8
+0.41.0
+1.81.10.7-0.51.7
+0.3         Q4   0.90.50.70.31.7
+0.51.5
+1.71.81.20.32.2
+0.72017 Q1   0.90.40.20.31.3
+0.62.4
+1.82.52.10.31.4
+1.8         Q2   . . . . 1.7
+. . . 1.9. . . 1.5
+ 2017 Jan.   - - - - - - 2.3
+1.92.51.80.42.5
+1.8         Feb.   - - - - - - 2.5
+1.92.72.30.30.8
+2.0         Mar.   - - - - - - 2.3
+1.82.42.30.20.9
+1.5         Apr.   - - - - - - 2.4
+1.92.22.70.41.2
+1.9         May   - - - - - - 2.1
+1.81.92.90.41.5
+1.4         June   - - - - - - . . 1.6. . . 1.3
+Sources: Eurostat (col. 3, 6, 10, 13); BIS (col. 9, 11, 12); OECD (col. 1, 2, 4, 5, 7, 8).1) Quarterly data seasonally adjusted; annual data unadjusted.
+2) Data for Argentina are currently not available owing to the state of emergency in the national statistical system declared by the government of Argentina on 7 January 2016. As a 
+consequence, Argentina is not included in the calculation of the G20 aggregate. The policy regarding the inclusion of Argentina will be reconsidered in the future depending on
+
+further developments.3) Data refer to the changing composition of the euro area.1.2 Main trading partners, Purchasing Managers' Index and world trade       
+   Purchasing Managers' Surveys (diffusion indices; s.a.)   Merchandise
+         imports
+ 1)    Composite Purchasing Managers' Index   Global Purchasing Managers' Index
+ 2)    Global 2)UnitedUnitedJapanChinaMemo item:ManufacturingServicesNew exportGlobalAdvancedEmerging
+StatesKingdomeuro areaorderseconomiesmarket
+economies123456789101112
+2014   54.257.357.950.951.152.7
+53.354.151.52.53.81.7
+2015   53.255.856.351.450.453.8
+51.853.750.31.33.7-0.2
+2016   51.652.453.450.551.453.3
+51.851.950.20.91.20.7
+ 2016 Q3   51.451.951.649.651.752.9
+51.851.350.10.91.00.9
+         Q4   53.254.655.652.053.153.8
+53.453.250.51.6-1.33.7
+2017 Q1   53.354.354.652.552.355.6
+53.453.351.82.61.73.2
+         Q2   53.153.654.853.051.356.6
+52.553.351.5. . . 
+ 2017 Jan.   53.855.855.352.352.254.4
+53.254.051.72.70.34.4
+         Feb.   53.054.153.852.252.656.0
+53.652.852.22.81.13.9
+         Mar.   53.253.054.852.952.156.4
+53.553.151.62.61.73.2
+         Apr.   53.053.256.252.651.256.8
+52.753.151.60.50.40.6
+         May   53.153.654.353.451.556.8
+52.653.351.4. . . 
+         June   53.253.953.852.951.156.3
+52.253.451.6. . . 
+Sources: Markit (col. 1-9); CPB Netherlands Bureau for Economic Policy Analysis and ECB calculations (col. 10-12).
+1) Global and advanced economies exclude the euro area. Annual and quarterly data are period-on-period percentages; monthly data are 3-month-on-3-month percentages. All data
+are seasonally adjusted.2) Excluding the euro area.2 Financial developmentsS 3ECB Economic Bulletin, Issue 5 / 2017 - Statistics2.1 Money market interest rates(percentages per annum; period averages)       Euro area 1) United StatesJapanOvernight1-month3-month6-month12-month3-month3-monthdepositsdepositsdepositsdepositsdepositsdepositsdeposits(EONIA)(EURIBOR)(EURIBOR)(EURIBOR)(EURIBOR)
+(LIBOR)(LIBOR)1234567
+2014   0.090.130.210.310.480.230.132015   -0.11-0.07-0.020.050.170.320.092016   -0.32-0.34-0.26-0.17-0.030.74-0.02 2016 Dec.   -0.35-0.37-0.32-0.22-0.080.98-0.042017 Jan.   -0.35-0.37-0.33-0.24-0.091.03-0.02         Feb.   -0.35-0.37-0.33-0.24-0.111.04-0.01         Mar.   -0.35-0.37-0.33-0.24-0.111.130.00         Apr.   -0.36-0.37-0.33-0.25-0.121.160.02         May   -0.36-0.37-0.33-0.25-0.131.19-0.01         June   -0.36-0.37-0.33-0.27-0.151.26-0.01Source: ECB.1) Data refer to the changing composition of the euro area, see the General Notes.2.2 Yield curves(End of period; rates in percentages per annum; spreads in percentage points)          
+   Spot rates   Spreads   Instantaneous forward rates
+         Euro area 1), 2) Euro area 1), 2)United StatesUnited Kingdom
+   Euro area 1), 2) 3 months1 year2 years5 years10 years10 years10 years10 years1 year2 years5 years10 years
+- 1 year- 1 year- 1 year
+123456789101112
+2014   -0.02-0.09-0.120.070.650.741.95
+1.45-0.15-0.110.581.77
+2015   -0.45-0.40-0.350.020.771.171.66
+1.68-0.35-0.220.821.98
+2016   -0.93-0.82-0.80-0.470.261.081.63
+1.17-0.78-0.750.351.35
+2016 Dec.   -0.93-0.82-0.80-0.470.261.081.63
+1.17-0.78-0.750.351.35
+2017 Jan.   -0.70-0.70-0.69-0.280.501.201.69
+1.36-0.72-0.600.641.63
+         Feb.   -0.87-0.88-0.90-0.540.251.131.56
+1.05-0.92-0.860.341.46
+         Mar.   -0.75-0.74-0.73-0.360.381.121.36
+1.01-0.75-0.640.471.52
+         Apr.   -0.78-0.77-0.73-0.350.381.151.21
+1.03-0.75-0.610.481.50
+         May   -0.73-0.74-0.74-0.390.361.101.05
+0.88-0.76-0.670.431.54
+         June   -0.69-0.65-0.59-0.170.541.191.07
+0.93-0.60-0.410.651.63
+Source: ECB.
+1) Data refer to the changing composition of the euro area, see the General Notes.
+2) ECB calculations based on underlying data provided by EuroMTS and ratings provided by Fitch Ratings.2.3 Stock market indices(index levels in points; period averages)       Dow Jones EURO STOXX indicesUnitedJapan
+      States
+   Benchmark   Main industry indices
+Broad50BasicConsumerConsumerOil andFinancialsIndustrialsTechnologyUtilitiesTelecomsHealth careStandardNikkei
+indexmaterialsservicesgoodsgas& Poor's225
+5001234567891011121314
+2014   318.73,145.3644.3216.6510.6335.5180.0452.9310.8279.2306.7668.11,931.415,460.4
+2015   356.23,444.1717.4261.9628.2299.9189.8500.6373.2278.0377.7821.32,061.119,203.8
+2016   321.63,003.7620.7250.9600.1278.9148.7496.0375.8248.6326.9770.92,094.716,920.5
+ 2016 Dec.   342.63,207.3698.1253.7619.1313.6165.7541.6396.0237.1320.9797.32,246.619,066.0
+2017 Jan.   352.43,298.8720.9258.4637.7321.1170.1557.7412.7240.1337.5817.42,275.119,194.1
+         Feb.   353.23,293.1728.9257.0644.9312.5166.6563.0431.7239.1334.6839.52,329.919,188.7
+         Mar.   365.73,427.1740.4261.7671.6314.2174.7578.4450.3252.1349.6870.02,366.819,340.2
+         Apr.   373.93,491.8753.7271.1683.6319.4178.0598.4459.3260.7349.8893.32,359.318,736.4
+         May   387.13,601.9765.9281.9707.5318.8186.4616.2477.1272.5363.8935.12,395.319,726.8
+         June   383.63,547.8767.8283.0698.8299.9182.4617.2475.2283.6355.4927.32,434.020,045.6
+Source: ECB.2 Financial developmentsS 4ECB Economic Bulletin, Issue 5 / 2017 - Statistics2.4 MFI interest rates on loans to and deposits from households (new business) 1), 2) (Percentages per annum; period average, unless otherwise indicated)          
+   DepositsRevolvingExtended   Loans for consumptionLoans   Loans for house purchase
+   loanscredit   to sole   
+Over-Redeem-   Withandcard   By initial periodAPRC
+ 3)proprietors   By initial periodAPRC
+ 3)Compositenightable   an agreedoverdraftscredit   of rate fixationand   of rate fixationcost-of-
+at   maturity of:unincor-borrowing
+noticeFloatingOverporatedFloatingOver 1Over 5Overindicator
+of upUp toOverrate and1partner-rate andand upand up10
+to 322up toyearshipsup toto 5to 10years
+monthsyearsyears1 year1 yearyearsyears
+12345678910111213141516
+2016 June   0.090.540.560.856.5416.804.965.876.182.441.812.001.962.012.321.96
+         July   0.090.520.500.916.4516.805.145.966.292.391.811.961.961.952.321.92
+         Aug.   0.080.510.520.836.4816.785.436.016.372.401.861.951.861.882.311.90
+         Sep.   0.080.500.500.796.5016.785.165.756.142.351.801.981.851.852.281.86
+         Oct.   0.080.490.440.756.4316.785.165.696.112.431.781.901.801.812.251.81
+         Nov.   0.080.490.430.786.4016.714.915.746.122.431.761.911.761.792.241.79
+         Dec.   0.080.490.430.766.3416.684.785.485.872.311.771.901.801.752.241.78
+2017 Jan.   0.070.480.420.756.3416.625.055.876.242.271.761.881.801.762.281.81
+         Feb.   0.070.480.400.766.3916.685.095.726.172.391.771.891.841.812.291.85
+         Mar.   0.060.480.400.746.3416.684.995.626.082.391.741.881.851.822.251.85
+         Apr.   0.060.470.400.756.3416.704.825.585.962.361.721.891.911.852.261.87
+         May (p)  0.060.470.390.816.3316.695.065.786.212.441.731.901.901.872.231.87
+Source: ECB.1) Data refer to the changing composition of the euro area.
+2) Including non-profit institutions serving households.
+3) Annual percentage rate of charge (APRC).2.5 MFI interest rates on loans to and deposits from non-financial corporations (new business) 1), 2) (Percentages per annum; period average, unless otherwise indicated)       
+   DepositsRevolving
+   Other loans by size and initial period of rate fixationComposite   loans and
+         cost-of-Over-   With an agreedoverdrafts   up to EUR 0.25 million   over EUR 0.25 and up to 1 million   over EUR 1 millionborrowing
+night   maturity of:
+indicatorFloatingOverOverFloatingOverOverFloatingOverOver
+Up toOver
+rate3 months1 yearrate3 months1 yearrate3 months1 year
+2 years2 years
+and up toand up to
+and up toand up toand up toand up to
+3 months1 year
+3 months1 year
+3 months1 year
+1234567
+891011121314
+2016 June   0.110.150.642.752.663.012.521.851.911.851.341.601.641.90
+         July   0.100.160.422.712.733.072.471.861.911.811.281.561.691.87
+         Aug.   0.090.160.472.742.693.022.461.871.951.801.221.481.541.83
+         Sep.   0.090.120.472.732.652.962.421.831.861.731.281.611.631.86
+         Oct.   0.080.150.492.682.633.042.371.811.841.721.281.401.631.83
+         Nov.   0.070.120.422.652.602.912.381.821.821.681.291.431.521.82
+         Dec.   0.070.120.592.642.582.842.301.831.841.681.331.461.621.81
+2017 Jan.   0.060.120.512.642.682.802.301.811.861.731.221.381.621.79
+         Feb.   0.060.100.532.642.582.782.351.771.761.711.181.321.531.76
+         Mar.   0.060.080.582.572.522.792.351.761.791.721.311.631.581.82
+         Apr.   0.060.100.402.562.552.692.351.791.781.701.341.501.641.81
+         May (p)  0.050.100.472.512.492.772.371.761.731.711.201.461.631.76
+Source: ECB.
+1) Data refer to the changing composition of the euro area.
+2) In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-financial corporations sector to the financial
+corporations sector.2 Financial developmentsS 5ECB Economic Bulletin, Issue 5 / 2017 - Statistics2.6 Debt securities issued by euro area residents, by sector of the issuer and initial maturity(EUR billions; transactions during the month and end-of-period outstanding amounts; nominal values) Short-term       
+   Outstanding amounts   Gross issues
+ 1)             
+TotalMFIs   Non-MFI corporations   General governmentTotalMFIs   Non-MFI corporations   General government
+(including   (including   
+Euro-FinancialNon-CentralOtherEuro-FinancialNon-CentralOther
+system)corporationsfinancialgovern-generalsystem)corporationsfinancialgovern-general
+other thanFVCscorporationsmentgovern-other thanFVCscorporationsmentgovern-
+MFIsmentMFIsment
+1234567891011121314
+2014  1,322544132.5953850410219
+34.389325
+2015  1,269517147.6247865347161
+37.338234
+2016  1,242520135.5946662351161
+46.327933
+2016 Dec.  1,242520135.5946662316143
+66.325025
+2017 Jan.  1,276536135.7346963420203
+49.398841
+         Feb.  1,303550141.7946666348168
+49.317229
+         Mar.  1,315547131.8248074389171
+52.439033
+         Apr.  1,302525136.9047972354155
+45.437536
+         May  1,301522138.9248168357173
+42.378421
+ Long-term 2014  15,1284,0553,156.9906,28564221965
+43.168510
+2015  15,2323,7843,274.1,0556,48263721568
+45.13819
+2016  15,2453,6403,187.1,1336,64364120859
+46.17788
+2016 Dec.  15,2453,6403,187.1,1336,64364116345
+78.13252
+2017 Jan.  15,3053,6453,198.1,1356,688638317103
+82.151089
+         Feb.  15,3323,6673,201.1,1386,68664024680
+54.128912
+         Mar.  15,3463,6483,170.1,1496,73664327763
+83.24979
+         Apr.  15,3133,6323,184.1,1486,71763221154
+53.13875
+         May  15,3793,6343,177.1,1526,78163424962
+63.181014
+Source: ECB.1) For the purpose of comparison, annual data refer to the average monthly figure over the year.2.7 Growth rates and outstanding amounts of debt securities and listed shares(EUR billions; percentage changes) Oustanding amount       
+   Debt securities   Listed shares
+      
+TotalMFIs   Non-MFI corporations   General governmentTotalMFIsFinancialNon-
+(including   
+corporationsfinancial
+Eurosystem)FinancialNon-CentralOtherother thancorporations
+corporationsfinancialgovernmentgeneralMFIs
+other thanFVCscorporationsgovernment
+MFIs1234567891011
+2014  16,450.24,598.33,287.1.1,048.96,823.2692.75,958.0591.1782.24,584.6
+2015  16,501.24,301.43,421.0.1,116.76,960.1702.16,744.7586.1907.65,251.0
+2016  16,486.54,160.03,322.3.1,192.67,108.6703.07,029.2538.71,020.05,470.5
+2016 Dec.  16,486.54,160.03,322.3.1,192.67,108.6703.07,029.2538.71,020.05,470.5
+2017 Jan.  16,580.64,181.53,333.6.1,208.17,156.9700.57,015.2542.31,018.45,454.5
+         Feb.  16,634.64,217.13,342.1.1,217.27,151.9706.37,201.2539.01,028.85,633.4
+         Mar.  16,660.94,195.33,301.9.1,230.77,216.0717.07,509.1609.81,058.85,840.5
+         Apr.  16,615.24,157.83,319.7.1,238.57,195.8703.57,689.6636.81,077.25,975.6
+         May  16,680.24,155.93,315.3.1,244.77,262.7701.67,781.7631.01,070.86,079.9
+ Growth rate 2014  -0.8-8.10.2.4.93.11.11.67.22.00.7
+2015  0.2-7.05.4.4.71.80.61.14.51.50.6
+2016  0.1-3.1-2.2.7.02.1-0.10.51.21.00.4
+2016 Dec.  0.1-3.1-2.2.7.02.1-0.10.51.21.00.4
+2017 Jan.  0.7-2.1-1.0.8.92.2-0.30.61.51.10.4
+         Feb.  1.2-1.71.1.9.81.60.80.74.11.30.3
+         Mar.  1.3-1.41.5.9.51.70.80.85.80.90.3
+         Apr.  1.4-2.01.9.8.42.20.20.85.91.10.3
+         May  1.4-1.92.1.8.22.20.10.85.81.20.3
+Source: ECB.2 Financial developmentsS 6ECB Economic Bulletin, Issue 5 / 2017 - Statistics2.8 Effective exchange rates 1) (period averages; index: 1999 Q1=100)       
+   EER-19   EER-38
+NominalReal CPIReal PPIReal GDPReal ULCM
+ 2)Real ULCTNominalReal CPI
+deflator12345678
+2014   101.897.997.091.997.999.7
+114.796.1
+2015   92.488.489.383.782.589.5
+106.587.8
+2016   94.890.191.485.881.190.4
+110.490.0
+ 2016 Q3   95.290.591.786.080.890.5
+110.690.1
+         Q4   94.990.291.185.680.990.1
+110.089.6
+2017 Q1   94.289.790.384.279.789.0
+109.288.7
+         Q2   95.790.991.9...110.889.6
+ 2017 Jan.   94.489.890.4- - - 109.789.1
+         Feb.   93.989.590.0- - - 108.888.5
+         Mar.   94.489.890.4- - - 109.288.6
+         Apr.   94.189.690.2- - - 108.888.3
+         May   96.091.292.3- - - 111.190.0
+         June   96.891.893.3- - - 112.190.6
+Percentage change versus previous month  2017 June   0.80.71.0- - - 0.9
+0.7Percentage change versus previous year 
+ 2017 June   2.11.71.9- - - 1.4
+0.4Source: ECB.1) For a definition of the trading partner groups and other information see the General Notes to the Statistics Bulletin.
+2) ULCM-deflated series are available only for the EER-18 trading partner group.2.9 Bilateral exchange rates(period averages; units of national currency per euro) ChineseCroatianCzechDanishHungarianJapanesePolishPoundRomanianSwedishSwissUS
+renminbikunakorunakroneforintyenzlotysterlingleukronafrancDollar
+123456789101112
+2014   8.1867.63427.5367.455308.706140.3064.1840.8064.44379.0991.2151.329
+2015   6.9737.61427.2797.459309.996134.3144.1840.7264.44549.3531.0681.110
+2016   7.3527.53327.0347.445311.438120.1974.3630.8194.49049.4691.0901.107
+ 2016 Q3   7.4437.49327.0297.442311.016114.2924.3380.8504.46469.5111.0891.117
+         Q4   7.3697.52327.0297.439309.342117.9184.3780.8694.50699.7571.0801.079
+2017 Q1   7.3357.46727.0217.435309.095121.0144.3210.8604.52179.5061.0691.065
+         Q2   7.5607.43026.5357.438309.764122.5844.2150.8614.55329.6921.0841.102
+ 2017 Jan.   7.3197.53027.0217.435308.987122.1364.3670.8614.50189.5111.0711.061
+         Feb.   7.3147.44827.0217.435308.502120.1684.3080.8534.51369.4761.0661.064
+         Mar.   7.3697.42327.0217.436309.714120.6764.2870.8664.54769.5281.0711.068
+         Apr.   7.3897.45026.8237.438311.566118.2944.2370.8484.52919.5941.0731.072
+         May   7.6137.43226.5727.440309.768124.0934.2000.8564.55399.7101.0901.106
+         June   7.6467.41026.2647.438308.285124.5854.2110.8774.57219.7541.0871.123
+Percentage change versus previous month  2017 June   0.4-0.3-1.20.0-0.50.40.32.50.40.5-0.31.6
+Percentage change versus previous year  2017 June   3.3-1.5-2.90.0-1.85.2-4.311.01.14.5-0.20.0
+Source: ECB.2 Financial developmentsS 7ECB Economic Bulletin, Issue 5 / 2017 - Statistics2.10 Euro area balance of payments, financial account(EUR billions, unless otherwise indicated; outstanding amounts at end of period; transactions during period) Outstanding amounts (international investment position)             
+   Total 1)    Direct   PortfolioNet   Other investmentReserveMemo:
+      investment   investmentfinancial   
+assetsGross
+derivativesexternal
+AssetsLiabilitiesNetAssetsLiabilitiesAssetsLiabilitiesAssetsLiabilitiesdebt
+123456789101112
+2016 Q2   22,882.623,691.0-808.59,940.68,276.07,430.29,989.1-65.14,855.05,425.9721.813,618.7
+         Q3   23,116.423,859.3-743.09,911.58,142.67,690.010,166.4-62.14,849.95,550.4727.013,617.3
+         Q4   23,598.024,253.6-655.510,246.58,382.57,883.910,324.0-53.84,813.85,547.1707.713,616.0
+2017 Q1   24,733.925,094.7-360.810,613.88,559.88,223.210,601.2-51.35,221.65,933.7726.613,959.6
+Outstanding amounts as a percentage of GDP  2017 Q1   228.4231.8-3.398.079.175.997.9-0.548.254.86.7128.9
+ Transactions 2016 Q2   248.4162.086.417.945.5117.6-52.6-45.6156.3169.02.2-
+         Q3   218.887.7131.055.8-79.4127.514.823.93.8152.47.7-
+         Q4   95.411.783.7120.1102.914.6-78.215.2-59.1-13.04.6-
+2017 Q1   566.7513.653.1147.2110.5167.791.215.5238.8311.9-2.5-
+ 2016 Nov.   40.138.81.344.251.7-14.49.52.94.9-22.32.5-
+         Dec.   -206.6-281.274.7-11.9-1.122.9-41.06.1-229.7-239.26.1-
+2017 Jan.   350.2362.6-12.552.564.843.031.42.2257.6266.4-5.1-
+         Feb.   219.7197.722.085.453.082.526.98.141.7117.82.0-
+         Mar.   -3.2-46.743.59.3-7.342.232.95.2-60.5-72.30.6-
+         Apr.   149.2133.415.827.93.842.7-3.11.381.6132.7-4.4-
+12-month cumulated transactions  2017 Apr.   1,128.3793.4334.9367.6173.4418.255.732.0301.2564.49.2-
+12-month cumulated transactions as a percentage of GDP  2017 Apr.   10.47.33.13.41.63.90.50.32.85.20.1-
+Source: ECB.1) Net financial derivatives are included in total assets.3 Economic activityS 8ECB Economic Bulletin, Issue 5 / 2017 - Statistics3.1 GDP and expenditure components(quarterly data seasonally adjusted; annual data unadjusted) Current prices (EUR billions)       GDP      
+Total   Domestic demand   External balance
+ 1)    TotalPrivateGovernment   Gross fixed capital formationChanges inTotalExports
+ 1)Imports 1)consumptionconsumption
+inventories 2)TotalTotalIntellectual
+constructionmachineryproperty
+products123456789101112
+2014   10,143.59,783.85,633.22,125.71,991.51,002.0600.9383.7
+33.5359.74,534.34,174.6
+2015   10,473.810,002.85,748.22,163.72,070.01,021.1634.5409.2
+20.9471.04,827.94,356.9
+2016   10,745.410,272.35,887.32,218.12,163.51,056.0662.0440.3
+3.4473.14,902.64,429.5
+ 2016 Q2   2,672.62,551.61,465.1553.0534.7260.6163.5109.3
+-1.2121.01,213.51,092.5
+         Q3   2,689.32,568.01,473.2555.5536.3264.9165.9104.3
+3.1121.21,223.91,102.6
+         Q4   2,715.22,614.11,488.3558.4559.2267.9167.4122.6
+8.2101.11,258.81,157.6
+2017 Q1   2,729.62,639.31,501.8562.6567.3272.7169.3124.0
+7.690.31,288.71,198.4
+as a percentage of GDP  2016   100.095.654.820.620.19.86.24.1
+0.04.4- - 
+ Chain-linked volumes (prices for the previous year) quarter-on-quarter percentage changes  2016 Q2   0.30.40.40.31.2-0.40.76.0
+- - 1.21.6
+         Q3   0.40.40.40.10.01.60.8-4.9
+- - 0.40.3
+         Q4   0.51.40.40.33.40.1-0.317.6
+- - 1.73.8
+2017 Q1   0.60.60.30.41.31.31.80.7
+- - 1.21.3
+annual percentage changes  2014   1.21.30.80.71.6-0.84.73.5
+- - 4.44.9
+2015   2.01.91.81.33.21.44.75.6
+- - 6.26.3
+2016   1.82.22.11.83.72.33.97.0
+- - 3.04.1
+ 2016 Q2   1.62.32.02.03.72.05.06.1
+- - 2.74.2
+         Q3   1.81.91.91.72.52.54.1-0.1
+- - 2.83.2
+         Q4   1.82.62.01.45.11.81.020.1
+- - 3.85.7
+2017 Q1   1.92.81.61.06.02.53.019.4
+- - 4.67.1
+contributions to quarter-on-quarter percentage changes in GDP; percentage points  2016 Q2   0.30.40.20.10.20.00.00.2
+-0.1-0.1- - 
+         Q3   0.40.40.20.00.00.20.0-0.2
+0.10.1- - 
+         Q4   0.51.40.20.10.70.00.00.7
+0.4-0.8- - 
+2017 Q1   0.60.60.20.10.30.10.10.0
+0.10.0- - 
+contributions to annual percentage changes in GDP; percentage points  2014   1.21.30.40.10.3-0.10.30.1
+0.40.0- - 
+2015   2.01.81.00.30.60.10.30.2
+-0.10.2- - 
+2016   1.82.11.10.40.70.20.20.3
+-0.1-0.3- - 
+ 2016 Q2   1.62.21.10.40.70.20.30.2
+-0.1-0.5- - 
+         Q3   1.81.81.10.30.50.20.30.0
+-0.10.0- - 
+         Q4   1.82.51.10.31.00.20.10.8
+0.1-0.7- - 
+2017 Q1   1.92.70.90.21.20.20.20.8
+0.4-0.8- - 
+Sources: Eurostat and ECB calculations.1) Exports and imports cover goods and services and include cross-border intra-euro area trade.
+2) Including acquisitions less disposals of valuables.3 Economic activityS 9ECB Economic Bulletin, Issue 5 / 2017 - Statistics3.2 Value added by economic activity(quarterly data seasonally adjusted; annual data unadjusted) Current prices (EUR billions)       Gross value added (basic prices)Taxes less
+subsidiesTotalAgriculture,ManufacturingConst-Trade,Infor-FinanceRealProfessional,Public ad-Arts, enter-on
+forestry andenergy andructiontransport,mationandestatebusiness andministration,tainmentproducts
+fishingutilitiesaccom-and com-insurancesupporteducation,and other
+modationmunica-serviceshealth andservices
+and foodtionsocial work
+services123456789101112
+2014   9,109.0150.31,780.3460.91,713.7417.9460.91,045.5980.71,777.5321.31,034.5
+2015   9,402.4151.41,890.8468.01,765.6430.6460.41,067.01,025.11,816.2327.31,071.5
+2016   9,637.4149.21,928.2486.61,817.1445.2449.41,093.61,068.51,863.5336.11,108.0
+ 2016 Q2   2,396.836.7477.6121.1451.7110.8112.5272.4266.3464.083.7275.7
+         Q3   2,411.837.2481.3121.9454.3111.7112.2274.0267.8467.284.1277.5
+         Q4   2,434.238.6487.1122.9459.9112.5111.3276.6270.3470.484.6281.0
+2017 Q1   2,446.338.8488.4124.3463.1112.5111.8277.9273.4471.484.9283.3
+as a percentage of value added  2016   100.01.520.05.018.94.64.711.311.119.33.5
+-  Chain-linked volumes (prices for the previous year) quarter-on-quarter percentage changes  2016 Q2   0.3-0.6
+0.10.20.41.0-0.60.2
+1.30.30.00.4
+         Q3   0.4-0.6
+0.70.30.41.4-0.10.2
+0.30.40.50.5
+         Q4   0.50.1
+0.70.20.70.3-0.30.4
+0.60.40.20.9
+2017 Q1   0.62.1
+0.21.10.60.70.90.5
+1.20.20.30.8
+annual percentage changes  2014   1.21.5
+2.5-1.21.33.8-1.30.6
+2.70.50.11.2
+2015   1.90.5
+4.10.11.83.00.10.7
+2.80.90.13.2
+2016   1.6-1.6
+1.61.72.33.0-0.20.9
+3.11.21.12.7
+ 2016 Q2   1.5-1.3
+1.31.62.22.6-0.70.9
+3.61.01.12.5
+         Q3   1.7-1.9
+1.32.22.23.4-0.21.0
+3.11.31.22.8
+         Q4   1.8-2.5
+2.01.52.53.5-0.41.0
+2.91.51.32.1
+2017 Q1   1.81.0
+1.71.82.23.5-0.11.3
+3.41.21.12.6
+contributions to quarter-on-quarter percentage changes in value added; percentage points  2016 Q2   0.30.0
+0.00.00.10.00.00.0
+0.10.10.0
+-          Q3   0.40.0
+0.10.00.10.10.00.0
+0.00.10.0
+-          Q4   0.50.0
+0.10.00.10.00.00.0
+0.10.10.0
+- 2017 Q1   0.60.0
+0.00.10.10.00.00.1
+0.10.00.0
+- contributions to annual percentage changes in value added; percentage points  2014   1.20.0
+0.5-0.10.20.2-0.10.1
+0.30.10.0
+- 2015   1.90.0
+0.80.00.30.10.00.1
+0.30.20.0
+- 2016   1.60.0
+0.30.10.40.10.00.1
+0.30.20.0
+-  2016 Q2   1.50.0
+0.30.10.40.10.00.1
+0.40.20.0
+-          Q3   1.70.0
+0.30.10.40.20.00.1
+0.30.30.0
+-          Q4   1.80.0
+0.40.10.50.20.00.1
+0.30.30.0
+- 2017 Q1   1.80.0
+0.30.10.40.20.00.2
+0.40.20.0
+- Sources: Eurostat and ECB calculations.3 Economic activityS 10ECB Economic Bulletin, Issue 5 / 2017 - Statistics3.3 Employment 1)(quarterly data seasonally adjusted; annual data unadjusted) Persons employed        
+Total   By employment   By economic activity
+   status   
+Employ-Self-Agricul-Manufac-Con-Trade,Infor-FinanceRealProfessional,Public adminis-Arts,
+eesemployedture,turing,struc-transport,mationandestatebusiness andtration, edu-entertainment
+forestryenergytionaccom-andinsur-supportcation, healthand other
+andandmodationcom-anceservicesandservices
+fishingutilitiesand foodmunica-social work
+servicestion
+12345678910111213
+as a percentage of total persons employed  2014   100.085.114.93.415.16.124.72.72.71.013.0
+24.37.12015   100.085.314.73.314.96.024.82.72.61.013.3
+24.27.12016   100.085.514.53.214.85.924.92.72.61.013.5
+24.27.1annual percentage changes  2014   0.50.60.00.0-0.4-1.60.70.5-0.90.2
+2.21.00.52015   1.01.2-0.4-1.20.20.01.11.3-0.21.8
+3.00.90.82016   1.41.6-0.2-0.60.60.11.92.30.11.6
+2.91.20.9 2016 Q2   1.41.6-0.2-0.80.6-0.22.02.00.11.0
+2.81.31.0         Q3   1.31.60.0-0.30.60.01.92.20.21.9
+2.71.30.6         Q4   1.41.60.20.20.70.51.82.70.31.9
+2.61.20.52017 Q1   1.51.70.20.90.71.31.72.6-0.21.7
+3.01.20.9 Hours worked as a percentage of total hours worked  2014   100.080.319.74.415.66.825.62.92.71.012.7
+22.06.32015   100.080.619.44.315.56.825.62.92.71.013.0
+22.06.32016   100.080.719.34.215.46.725.82.92.61.013.2
+21.96.3annual percentage changes  2014   0.60.8-0.5-0.40.0-1.30.30.5-1.00.0
+2.31.30.22015   1.11.4-0.3-0.30.60.70.82.40.02.3
+3.10.90.82016   0.81.0-0.1-0.40.3-0.51.51.1-1.31.4
+2.50.20.6 2016 Q2   1.01.10.7-0.10.4-0.51.91.1-0.91.6
+2.90.20.7         Q3   0.60.8-0.3-0.60.0-0.71.60.6-1.61.2
+1.80.10.0         Q4   0.70.9-0.2-0.70.5-0.71.51.4-1.41.6
+2.20.10.22017 Q1   1.01.20.1-0.40.60.51.22.1-0.91.7
+2.60.40.9 Hours worked per person employed annual percentage changes  2014   0.00.2-0.5-0.40.40.3-0.30.0-0.1-0.2
+0.10.3-0.32015   0.10.20.10.90.40.7-0.31.10.20.5
+0.10.00.02016   -0.6-0.60.10.2-0.4-0.6-0.3-1.1-1.4-0.2
+-0.3-1.0-0.2 2016 Q2   -0.4-0.60.90.7-0.1-0.3-0.2-0.8-1.00.6
+0.1-1.1-0.3         Q3   -0.7-0.8-0.3-0.3-0.6-0.7-0.3-1.5-1.8-0.7
+-0.8-1.2-0.6         Q4   -0.7-0.6-0.4-0.9-0.2-1.3-0.4-1.3-1.6-0.4
+-0.5-1.1-0.32017 Q1   -0.5-0.5-0.1-1.3-0.1-0.7-0.4-0.5-0.70.1
+-0.3-0.80.0Sources: Eurostat and ECB calculations.1) Data for employment are based on the ESA 2010.3 Economic activityS 11ECB Economic Bulletin, Issue 5 / 2017 - Statistics3.4 Labour force, unemployment and job vacancies(seasonally adjusted, unless otherwise indicated)    LabourUnder-   UnemploymentJob
+force,employ-         vacancy
+millions 1)ment,   TotalLong-term
+   By age   By genderrate 2)% ofunemploy-   
+         labourMillions% ofment,   Adult
+   Youth   Male   Femaleforce 1)labour% of
+forcelabourMillions% ofMillions% ofMillions% ofMillions% of% of total
+force 1)labourlabourlabourlabourposts
+forceforceforceforce1234567891011121314
+% of total   100.0  81.8 18.2 52.2 47.8  
+in 2016               
+ 2014   160.3344.618.63711.66.115.21810.43.41923.79.93211.58.70511.81.4
+2015   160.6004.617.44210.95.614.2929.83.14922.39.25210.78.19011.01.5
+2016   161.8824.316.22610.05.013.2769.02.95020.98.4709.77.75610.41.7
+ 2016 Q2   161.7794.516.46410.25.113.4529.13.01221.28.5519.87.91210.61.7
+         Q3   162.2804.116.0849.94.813.1668.92.91820.68.3829.67.70210.31.6
+         Q4   162.3064.215.7499.74.912.8838.72.86720.38.2449.47.50510.01.7
+2017 Q1   161.6344.315.3769.54.812.6588.52.71819.47.9559.17.4209.91.9
+ 2016 Dec.   - - 15.6189.6- 12.7798.62.84020.18.1319.37.48710.0- 
+2017 Jan.   - - 15.5249.6- 12.7478.62.77719.78.0429.27.48110.0- 
+         Feb.   - - 15.3379.4- 12.6328.52.70519.37.9359.17.4029.9- 
+         Mar.   - - 15.2669.4- 12.5948.52.67219.17.8889.07.3789.8- 
+         Apr.   - - 15.0399.3- 12.4138.42.62618.97.7288.97.3129.8- 
+         May   - - 15.0349.3- 12.4128.42.62218.97.7348.97.2999.7- 
+Sources: Eurostat and ECB calculations.1) Not seasonally adjusted.
+2) The job vacancy rate is equal to the number of job vacancies divided by the sum of the number of occupied posts and the number of job vacancies, expressed as a percentage.
+3.5 Short-term business statistics          Industrial productionCon-ECB indicator   Retail salesNew
+      structionon industrialpassenger
+   Total   Main Industrial Groupingsproduc-new ordersTotalFood,Non-foodFuelcar regis-
+   (excluding construction)   tionbeverages,trations
+tobaccoManu-Inter-CapitalConsumerEnergy
+facturingmediategoodsgoods
+goods12345678910111213
+% of total 100.086.033.629.222.514.7100.0100.0100.039.351.59.1100.0
+in 2010              
+ annual percentage changes 2014   0.81.71.11.82.6-5.32.0
+3.11.50.72.40.03.8
+2015   2.12.41.03.62.50.8-0.8
+3.63.21.74.22.38.8
+2016   1.41.51.81.71.10.12.2
+0.32.21.32.91.87.2
+ 2016 Q3   1.01.31.70.81.2-0.53.6
+-0.21.51.31.52.46.4
+         Q4   2.31.82.41.81.25.42.3
+3.32.61.63.51.44.1
+2017 Q1   1.41.32.21.4-0.62.01.8
+5.62.11.13.00.84.8
+         Q2   . . . . . . . . . . . . 6.0
+ 2017 Jan.   0.4-0.70.6-1.6-2.58.1-5.7
+2.91.61.11.91.43.7
+         Feb.   1.41.22.11.6-1.62.45.3
+6.51.91.02.80.84.8
+         Mar.   2.23.23.73.62.1-4.94.1
+7.32.81.34.30.35.5
+         Apr.   1.21.53.10.30.8-0.73.3
+7.22.62.92.9-0.84.3
+         May   4.04.33.85.53.12.22.6
+. 2.62.13.50.97.1
+         June   . . . . . . . . . . . . 6.5
+ month-on-month percentage changes (s.a.) 2017 Jan.   0.1-0.2-1.11.0-1.12.8-2.8
+-2.90.10.0-0.20.50.8
+         Feb.   -0.10.51.21.1-1.2-5.75.5
+2.20.50.30.7-0.40.8
+         Mar.   0.40.80.60.91.9-2.8-0.9
+0.90.40.01.10.1-0.6
+         Apr.   0.30.00.3-1.10.23.80.3
+-0.60.11.1-0.7-0.60.2
+         May   1.31.30.32.31.30.9-0.7
+. 0.4-0.40.61.73.0
+         June   . . . . . . . . . . . . -1.9
+Sources: Eurostat, ECB calculations, ECB experimental statistics (col. 8) and European Automobile Manufacturers Association (col. 13).
+3 Economic activityS 12ECB Economic Bulletin, Issue 5 / 2017 - Statistics3.6 Opinion surveys(seasonally adjusted)       
+   European Commission Business and Consumer Surveys   Purchasing Managers' Surveys
+   (percentage balances, unless otherwise indicated)   (diffusion indices)      Economic   Manufacturing industryConsumerConstructionRetail   Service industriesPurchasingManu-BusinessComposite
+sentimentconfidenceconfidencetrade
+Managers'facturingactivityoutput
+indicatorIndustrialCapacityindicatorindicatorconfid-ServicesCapacityIndex (PMI)outputfor
+(long-termconfidenceutilisation
+enceconfidenceutilisationfor manu-
+servicesaverageindicator(%)
+indicatorindicator(%)facturing
+= 100)1234567891
+01
+11
+21999-13   100.0-6.180.7-12.8-13.6-8.77.0
+- 51.052.452.952.7
+ 2014   101.4-3.880.5-10.2-26.6-3.14.787.751.853.352.552.7
+2015   104.2-3.181.4-6.3-22.41.69.288.452.253.454.053.8
+2016   104.8-2.681.9-7.8-16.61.511.289.152.553.653.153.3
+ 2016 Q3   104.2-2.982.0-8.3-16.00.310.389.352.153.752.652.9
+         Q4   106.9-0.682.4-6.5-13.11.812.489.454.054.953.553.8
+2017 Q1   108.01.182.6-5.5-11.02.013.289.455.656.955.155.6
+         Q2   110.03.3. -2.7-5.03.213.5
+. 57.058.356.056.6
+ 2017 Jan.   108.00.882.5-4.9-12.92.312.989.455.256.153.754.4
+         Feb.   108.01.3- -6.4-10.11.813.9
+- 55.457.355.556.0
+         Mar.   108.01.3- -5.1-9.91.812.8
+- 56.257.556.056.4
+         Apr.   109.72.682.6-3.6-6.03.114.289.456.757.956.456.8
+         May   109.22.8- -3.3-5.62.012.8
+- 57.058.356.356.8
+         June   111.14.5- -1.3-3.54.413.4
+- 57.458.755.456.3
+Sources: European Commission (Directorate-General for Economic and Financial Affairs) (col. 1-8) and Markit (col. 9-12).3.7 Summary accounts for households and non-financial corporations(current prices, unless otherwise indicated; not seasonally adjusted)       
+   Households   Non-financial corporationsSavingDebtReal grossFinancialNon-financialNetHous-ProfitSavingDebtFinancialNon-financialFinan-
+ratioratiodisposableinvestmentinvestmentworthingshare
+ 3)ratioratio
+ 4)investmentinvestmentcing
+(gross) 1)income(gross) 2)wealth(net)(gross)                                                             Percentage of      Percentage of netPercent-
+      gross disposable   Annual percentage changes   value addedage of   Annual percentage changes
+   income (adjusted)      GDP   12345678910111213
+2014   12.694.70.91.8
+1.42.61.032.84.9131.02.6
+7.21.4
+2015   12.494.01.72.1
+2.83.42.534.06.4134.13.7
+3.52.1
+2016   12.393.51.82.0
+4.74.54.533.57.7133.63.2
+4.81.5
+ 2016 Q2   12.593.52.42.2
+5.93.13.733.67.2134.13.5
+3.41.9
+         Q3   12.593.51.62.2
+4.94.34.133.67.6132.63.3
+3.01.6
+         Q4   12.393.51.32.0
+4.34.54.533.57.7133.63.2
+9.11.5
+2017 Q1   ..1.72.2
+9.44.84.833.57.2.3.412.01.9
+Sources: ECB and Eurostat.1) Based on four-quarter cumulated sums of both saving and gross disposable income (adjusted for the change in the net equity of households in pension fund reserves).
+
+2) Financial assets (net of financial liabilities) and non-financial assets. Non-financial assets consist mainly of housing wealth (residential structures and land). They also include
+non-financial assets of unincorporated enterprises classified within the household sector.3) The profit share uses net entrepreneurial income, which is broadly equivalent to current profits in business accounting. 
+4) Based on the outstanding amount of loans, debt securities, trade credits and pension scheme liabilities.3 Economic activityS 13ECB Economic Bulletin, Issue 5 / 2017 - Statistics3.8 Euro area balance of payments, current and capital accounts(EUR billions; seasonally adjusted unless otherwise indicated; transactions)       
+   Current account   Capital
+                  account
+ 1)    Total   Goods   Services   Primary income   Secondary income   
+CreditDebitNetCreditDebitCreditDebitCreditDebitCreditDebitCreditDebit
+12345678910111213
+2016 Q2   902.5796.6105.9522.2423.0192.6178.9160.6137.427.257.36.47.3
+         Q3   907.1812.195.0526.6433.6197.6177.9155.8133.327.267.56.65.5
+         Q4   940.1864.176.0545.1456.5199.6205.0167.2138.528.264.09.610.0
+2017 Q1   958.3867.590.8559.0478.2208.0187.8163.4146.827.854.76.722.3
+2016 Nov.   316.4288.428.0182.8152.766.568.958.245.08.821.82.32.8
+         Dec.   314.9290.424.5184.5153.866.067.953.948.210.520.55.34.6
+2017 Jan.   317.9295.122.8183.2159.468.766.257.448.28.621.32.310.9
+         Feb.   319.2284.934.3187.2159.169.961.753.250.48.913.72.45.3
+         Mar.   321.2287.433.8188.6159.669.459.852.948.310.319.72.06.1
+         Apr.   313.0290.822.2182.7157.668.761.353.445.28.226.71.61.9
+12-month cumulated transactions  2017 Apr.   3,721.43,368.2353.22,161.81,808.5802.7751.3646.9557.2110.0251.328.845.0
+12-month cumulated transactions as a percentage of GDP  2017 Apr.   34.431.23.320.016.77.47.06.05.21.02.30.30.4
+1) The capital account is not seasonally adjusted.3.9 Euro area external trade in goods 1) , values and volumes by product group 2) (seasonally adjusted, unless otherwise indicated) Values (EUR billions; annual percentage changes for columns 1 and 2)          
+   Total (n.s.a.)   Exports (f.o.b.)   Imports (c.i.f.)
+         
+   TotalMemo item:   Total   Memo items:
+ExportsImportsIntermediateCapitalConsump-Manu-IntermediateCapitalConsump-Manu-Oil
+goodsgoodstionfacturinggoodsgoodstionfacturing
+goodsgoods
+12345678910111213
+2016 Q2   -0.1-3.5504.8231.8106.4153.4425.3433.4237.372.9115.6321.742.1
+         Q3   -0.1-1.7509.0237.5103.5154.2426.3443.4244.372.5117.5327.943.9
+         Q4   2.22.4525.6244.9108.7157.5439.8461.3256.774.7119.4335.450.3
+2017 Q1   10.813.6539.7256.8108.6160.9449.4484.8279.176.8119.8343.259.9
+ 2016 Dec.   6.14.7179.283.138.752.6150.8156.387.425.140.0112.317.7
+2017 Jan.   12.617.3177.584.834.953.4146.1162.393.226.139.9114.420.7
+         Feb.   5.17.0179.085.636.452.7150.0161.092.825.739.3114.020.7
+         Mar.   14.516.6183.186.437.354.8153.3161.693.125.040.6114.818.5
+         Apr.   -2.14.3180.085.536.053.6149.7161.491.625.640.0116.417.8
+         May   12.916.4183.7
+. . . 154.1164.0
+. . . 118.1. 
+ Volume indices (2000 = 100; annual percentage changes for columns 1 and 2) 2016 Q2   2.45.0118.0114.3118.0123.9117.8108.2107.0107.2111.1111.0100.1
+         Q3   0.71.8118.2116.2113.7124.0117.3109.2108.2106.6111.9112.2101.1
+         Q4   1.40.9120.5118.2118.3124.9119.9109.9108.9106.8112.0112.5105.0
+2017 Q1   6.33.0121.0120.9117.5124.3120.5110.2111.3106.4109.7112.0109.8
+ 2016 Nov.   4.85.2121.2120.0115.9126.0120.4111.3111.0107.1112.4113.9108.1
+         Dec.   4.7-0.3122.2119.2125.3124.2122.5108.9107.5105.2111.2111.0103.1
+2017 Jan.   8.86.5119.8119.9113.7124.4117.9110.3111.3108.9108.2111.8112.3
+         Feb.   1.0-3.2120.7121.1117.9122.6121.0109.9111.1106.3108.4111.9113.3
+         Mar.   9.25.9122.7121.7120.8125.9122.5110.6111.6104.1112.6112.4103.7
+         Apr.   -6.6-4.9120.8120.7116.1123.7119.8111.0110.9106.2110.9114.2101.5
+Sources: ECB and Eurostat.1) Differences between ECB's b.o.p. goods (Table 3.8) and Eurostat's trade in goods (Table 3.9) are mainly due to different definitions.
+
+2) Product groups as classified in the Broad Economic Categories.4 Prices and costsS 14ECB Economic Bulletin, Issue 5 / 2017 - Statistics4.1 Harmonised Index of Consumer Prices 1)(annual percentage changes, unless otherwise indicated)          
+   Total   Total (s.a.; percentage change vis-à-vis previous period)
+ 2)    Memo item:
+      Administered pricesIndex:   TotalGoodsServicesTotalProcessedUnpro-Non-energyEnergyServices
+2015foodcessedindustrial(n.s.a.)Total HICPAdminis-
+= 100Totalfoodgoodsexcludingtered
+excludingadministeredprices
+food andpricesenergy12345678910111213
+% of total 100.0100.070.955.444.6100.012.17.526.39.544.686.813.2
+in 2017              
+ 2014  100.00.40.8-0.21.2---
+--
+-0.21.9
+2015  100.00.00.8-0.81.2---
+--
+--0.10.9
+2016  100.20.20.9-0.41.1---
+--
+-0.20.2
+ 2016 Q3   100.30.30.8-0.41.10.30.11.20.00.30.4
+0.30.3
+         Q4   101.00.70.80.41.10.40.3-0.10.12.40.3
+0.80.3
+2017 Q1   101.01.80.82.31.10.60.31.80.13.30.3
+2.00.5
+         Q2   102.01.51.11.51.60.10.7-1.30.1-1.40.6
+1.61.3
+ 2017 Jan.   100.51.80.92.21.20.30.10.70.12.50.0
+2.00.4
+         Feb.   100.82.00.92.61.30.20.11.7-0.1-0.20.2
+2.20.5
+         Mar.   101.71.50.72.01.0-0.10.1-1.60.1-0.80.0
+1.70.7
+         Apr.   102.01.91.21.91.80.20.2-0.50.00.30.5
+2.01.3
+         May   101.91.40.91.51.3-0.10.4-0.10.0-1.2-0.1
+1.41.2
+         June   102.01.31.11.01.60.00.2-0.50.1-0.90.3
+1.31.3
+       
+   Goods   Services
+         
+   Food (including alcoholic   Industrial goods   HousingTransportCommuni-RecreationMiscel-
+   beverages and tobacco)      cationandlaneous
+personalTotalProcessedUnpro-TotalNon-energyEnergyRents
+foodcessedindustrial
+foodgoods
+141516171819202122232425
+% of total 19.612.17.535.8
+26.39.510.76.57.33.215.18.2
+in 2017             
+ 2014  0.51.2-0.8-0.5
+0.1-1.91.71.41.7-2.81.51.3
+2015  1.00.61.6-1.8
+0.3-6.81.21.11.3-0.81.51.2
+2016  0.90.61.4-1.1
+0.4-5.11.11.10.80.01.41.2
+ 2016 Q3   1.10.52.1-1.3
+0.3-5.11.11.00.90.01.51.3
+         Q4   0.80.61.00.2
+0.30.21.21.21.2-0.11.31.2
+2017 Q1   2.00.94.02.4
+0.38.21.31.21.7-1.11.40.7
+         Q2   1.51.41.61.5
+0.34.61.31.32.6-1.42.30.8
+ 2017 Jan.   1.80.73.52.5
+0.58.11.31.31.3-1.01.70.7
+         Feb.   2.50.85.32.6
+0.29.31.21.21.9-0.91.70.8
+         Mar.   1.81.03.12.1
+0.37.41.31.21.9-1.20.90.8
+         Apr.   1.51.12.22.2
+0.37.61.31.33.3-1.22.80.8
+         May   1.51.51.61.4
+0.34.51.31.32.1-1.41.80.8
+         June   1.41.61.00.8
+0.41.91.31.32.4-1.62.40.9
+Sources: Eurostat and ECB calculations.1) Data refer to the changing composition of the euro area.
+2) In May 2016 the ECB started publishing enhanced seasonally adjusted HICP series for the euro area, following a review of the seasonal adjustment approach as described
+in Box 1, Economic Bulletin, Issue 3, ECB, 2016 (https://www.ecb.europa.eu/pub/pdf/ecbu/eb201603.en.pdf).4 Prices and costsS 15ECB Economic Bulletin, Issue 5 / 2017 - Statistics4.2 Industry, construction and property prices(annual percentage changes, unless otherwise indicated)       Industrial producer prices excluding construction 1)Con-ResidentialExperimental
+      structionpropertyindicator of
+Total   Total   Industry excluding construction and energyEnergyprices
+ 2)commercial(index:   property
+2010 = 100)Manu-TotalIntermediateCapital   Consumer goodsprices
+ 2)facturinggoodsgoods
+TotalFood,Non-
+beveragesfood
+and tobacco12345678910111213
+% of total 100.0100.078.172.129.420.122.613.88.927.9   
+in 2010              
+ 2014   106.9-1.5-0.9-0.3-1.10.40.1-0.10.3-4.30.3
+0.41.02015   104.0-2.7-2.4-0.5-1.30.7-0.6-0.90.2-8.20.2
+1.62.92016   101.6-2.3-1.5-0.5-1.70.40.00.00.1-6.90.4
+3.35.2 2016 Q2   100.9-3.8-2.8-1.1-2.70.4-0.5-0.70.1-10.70.2
+3.13.7         Q3   101.9-2.0-1.3-0.6-1.80.40.00.00.1-5.90.4
+3.47.1         Q4   103.10.41.00.4
+0.00.50.81.30.10.41.1
+3.85.12017 Q1   104.74.14.02.0
+3.10.81.72.60.19.91.9
+4.0.  2016 Dec.   103.71.62.30.9
+0.80.61.11.8-0.13.8- - - 
+2017 Jan.   104.83.93.71.5
+2.10.71.52.20.110.3- - - 
+         Feb.   104.84.54.42.1
+3.40.81.72.60.111.4- - - 
+         Mar.   104.53.94.02.4
+3.90.91.93.00.28.1- - - 
+         Apr.   104.54.33.92.6
+4.00.92.33.50.29.0- - - 
+         May   104.13.33.02.4
+3.50.92.33.50.25.7- - - 
+Sources: Eurostat, ECB calculations, and ECB calculations based on MSCI data and national sources (col. 13).1) Domestic sales only.
+2) Experimental data based on non-harmonised sources (see https://www.ecb.europa.eu/stats/ecb_statistics/governance_and_quality_framework/html/experimental-data.en.html
+for further details).4.3 Commodity prices and GDP deflators(annual percentage changes, unless otherwise indicated)          GDP deflatorsOil prices   Non-energy commodity prices  (EUR)
+   (EUR per      
+TotalTotal   Domestic demandExports
+ 1)Imports 1)barrel)   Import-weighted
+ 2)   Use-weighted 2) (s.a.;index:TotalPrivateGovern-GrossTotalFoodNon-foodTotalFoodNon-food
+2010consump-mentfixed
+= 100)tionconsump-capital
+tionformation
+123456789101112131415
+% of total          100.045.454.6100.050.449.6
+                 
+ 2014   104.60.90.60.50.80.7-0.7-1.574.1-3.42.0-8.5-0.44.6-6.4
+2015   105.91.20.30.20.50.70.2-1.847.10.04.2-4.52.97.0-2.7
+2016   106.70.80.50.30.70.8-1.4-2.439.9-3.5-3.9-3.2-7.3-10.3-2.9
+ 2016 Q3   106.70.70.60.20.70.7-1.6-2.241.0-0.5-2.11.4-5.8-10.61.3
+         Q4   107.20.70.80.80.81.20.00.146.59.11.118.63.3-6.718.5
+2017 Q1   107.20.71.21.61.01.72.74.350.818.35.933.213.00.132.4
+         Q2   . . . . . . . . 45.67.0-2.818.56.8-2.320.1
+ 2017 Jan.   - - - - - - - - 51.619.27.234.013.10.932.0
+         Feb.   - - - - - - - - 52.221.48.037.415.51.736.0
+         Mar.   - - - - - - - - 48.714.62.728.510.5-2.229.3
+         Apr.   - - - - - - - - 49.611.41.223.29.9-0.524.8
+         May   - - - - - - - - 46.07.0-2.117.76.9-1.819.7
+         June   - - - - - - - - 41.72.6-7.214.73.7-4.615.7
+Sources: Eurostat, ECB calculations and Bloomberg (col. 9).
+1) Deflators for exports and imports refer to goods and services and include cross-border trade within the euro area.
+2) Import-weighted: weighted according to 2009-11 average import structure; use-weighted: weighted according to 2009-11 average domestic demand structure.
+4 Prices and costsS 16ECB Economic Bulletin, Issue 5 / 2017 - Statistics4.4 Price-related opinion surveys(seasonally adjusted)       
+   European Commission Business and Consumer Surveys   Purchasing Managers' Surveys
+   (percentage balances)   (diffusion indices)
+         
+   Selling price expectationsConsumer   Input prices   Prices charged
+   (for next three months)price trends      
+over pastManu-Retail tradeServicesConstruction12 monthsManu-ServicesManu-Services
+facturingfacturingfacturing
+123456789
+1999-13   4.7- - -2.0
+34.957.756.7
+- 49.9
+ 2014   -0.9-1.50.9
+-17.415.049.653.549.748.2
+2015   -2.81.32.7
+-13.2-0.348.953.549.649.0
+2016   -0.41.74.4
+-7.30.249.853.949.349.6
+ 2016 Q3   -0.21.04.5
+-6.60.551.454.049.649.8
+         Q4   4.63.14.9
+-5.42.458.654.951.650.5
+2017 Q1   9.05.56.4
+-3.712.967.856.755.051.4
+         Q2   7.94.25.9
+1.812.362.555.954.651.5
+ 2017 Jan.   8.34.96.7
+-5.19.267.056.454.050.9
+         Feb.   9.06.36.4
+-3.113.868.356.955.451.1
+         Mar.   9.65.16.1
+-2.915.668.156.855.652.2
+         Apr.   8.25.56.7
+2.313.567.156.555.451.7
+         May   8.23.65.1
+-0.511.862.055.954.151.7
+         June   7.23.45.8
+3.711.758.455.354.350.9
+Sources: European Commission (Directorate-General for Economic and Financial Affairs) and Markit.4.5 Labour cost indices(annual percentage changes, unless otherwise indicated)       
+TotalTotal   By component   For selected economic activitiesMemo item:
+(index:Indicator of2012 = 100)Wages andEmployers' socialBusiness economyMainly non-businessnegotiated
+salariescontributionseconomywages
+ 1)1234567
+% of total 100.0100.074.625.469.330.7 in 2012        
+ 2014   102.61.21.31.21.31.21.72015   104.21.61.90.41.61.61.52016   105.71.41.41.41.31.61.4 2016 Q2   109.11.10.91.50.91.41.5         Q3   102.51.41.51.11.21.81.5         Q4   112.11.41.61.41.51.41.42017 Q1   100.41.51.41.51.31.71.5Sources: Eurostat and ECB calculations.1) Experimental data based on non-harmonised sources (see https://www.ecb.europa.eu/stats/ecb_statistics/governance_and_quality_framework/html/experimental-data.en.html
+for further details).4 Prices and costsS 17ECB Economic Bulletin, Issue 5 / 2017 - Statistics4.6 Unit labour costs, compensation per labour input and labour productivity(annual percentage changes, unless otherwise indicated; quarterly data seasonally adjusted; annual data unadjusted) Unit labour costs     TotalTotal   By economic activity
+(index:2010Agriculture,Manu-Con-Trade,InformationFinanceRealProfessional,Public ad-Arts, enter-
+=100)forestryfacturing,structiontransport,and commu-andestatebusiness andministration,tainment
+and fishingenergy andaccom-nicationinsurancesupporteducation,and other
+utilitiesmodation andserviceshealth andservices
+food servicessocial work
+123456789101112
+2014   104.60.7-1.3-0.81.4
+0.6-0.92.31.5
+1.21.61.6
+2015   104.80.2-0.9-2.20.6
+0.60.70.72.3
+1.71.21.6
+2016   105.70.81.80.1-0.4
+0.80.41.54.0
+1.01.41.9
+ 2016 Q2   105.50.81.50.0-0.8
+1.20.61.63.8
+0.51.51.6
+         Q3   105.80.82.40.5-0.6
+0.8-0.31.64.0
+0.61.41.7
+         Q4   106.21.03.6-0.10.4
+0.70.21.54.5
+1.11.41.8
+2017 Q1   106.30.8-0.30.40.8
+0.7-0.21.02.2
+1.11.31.4
+ Compensation per employee  2014   106.61.40.22.11.9
+1.22.31.81.9
+1.71.11.2
+2015   107.91.20.81.60.7
+1.32.41.01.2
+1.51.20.9
+2016   109.31.20.81.11.2
+1.21.11.13.3
+1.31.42.1
+ 2016 Q2   109.01.11.10.81.0
+1.31.20.83.6
+1.31.21.7
+         Q3   109.51.30.81.21.6
+1.20.91.33.0
+1.01.52.3
+         Q4   110.01.40.81.21.4
+1.41.00.83.6
+1.31.72.6
+2017 Q1   110.31.2-0.21.41.4
+1.20.71.11.8
+1.51.41.6
+ Labour productivity per person employed 2014   102.00.71.62.90.4
+0.63.2-0.40.3
+0.5-0.5-0.4
+2015   103.01.01.74.00.1
+0.71.70.3-1.0-0.2
+-0.1-0.6
+2016   103.40.4-1.00.91.6
+0.50.7-0.4-0.7
+0.30.00.3
+ 2016 Q2   103.30.3-0.50.81.8
+0.10.6-0.8-0.2
+0.8-0.20.1
+         Q3   103.50.4-1.60.72.2
+0.31.2-0.3-0.9
+0.40.10.6
+         Q4   103.60.5-2.71.31.0
+0.60.8-0.6-0.9
+0.20.30.8
+2017 Q1   103.80.40.11.00.5
+0.50.80.1-0.3
+0.40.00.1
+ Compensation per hour worked  2014   108.51.31.11.61.4
+1.42.21.81.7
+1.20.81.2
+2015   109.71.10.91.10.1
+1.31.20.90.8
+1.21.20.9
+2016   111.71.90.01.42.1
+1.62.32.93.7
+1.72.43.0
+ 2016 Q2   111.11.7-0.10.91.7
+1.62.22.43.5
+1.82.32.9
+         Q3   111.82.00.61.72.7
+1.42.53.34.3
+1.82.53.6
+         Q4   112.52.11.11.42.5
+1.82.52.74.2
+1.72.63.6
+2017 Q1   112.81.70.31.52.5
+1.61.11.92.5
+1.62.22.1
+ Hourly labour productivity 2014   104.00.72.02.50.1
+0.93.2-0.40.6
+0.3-0.8-0.2
+2015   105.00.90.83.5-0.6
+1.00.60.0-1.5-0.3
+-0.1-0.6
+2016   106.01.0-1.21.32.2
+0.81.81.1-0.5
+0.61.00.5
+ 2016 Q2   105.50.6-1.10.92.1
+0.31.40.2-0.7
+0.70.80.4
+         Q3   106.01.2-1.31.32.9
+0.62.81.5-0.2
+1.31.31.2
+         Q4   106.31.1-1.81.52.3
+1.02.11.0-0.5
+0.71.41.1
+2017 Q1   106.50.91.41.11.3
+1.01.30.8-0.4
+0.80.80.1
+Sources: Eurostat and ECB calculations.5 Money and creditS 18ECB Economic Bulletin, Issue 5 / 2017 - Statistics5.1 Monetary aggregates 1) (EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)
+ Outstanding amounts       M3      
+   M2   M3-M2
+         
+   M1   M2-M1   
+CurrencyOvernightDepositsDepositsReposMoneyDebt
+indepositswith anredeemablemarketsecurities
+circulationagreedat noticefundwith
+maturityof up tosharesa maturity
+of up to3 monthsof up to
+2 years2 years
+123456789101112
+2014   969.54,970.55,939.91,581.72,147.63,729.49,669.3121.5424.3107.3653.110,322.4
+2015   1,036.55,566.36,602.81,439.22,159.83,599.110,201.874.6479.073.6627.210,829.1
+2016   1,073.16,117.07,190.11,320.32,175.83,496.110,686.370.4519.696.7686.711,373.0
+2016 Q2   1,054.65,821.26,875.81,411.02,170.03,581.010,456.884.2481.794.8660.711,117.5
+         Q3   1,066.65,946.77,013.31,393.32,172.63,565.810,579.280.5494.293.9668.611,247.8
+         Q4   1,073.16,117.07,190.11,320.32,175.83,496.110,686.370.4519.696.7686.711,373.0
+2017 Q1   1,088.66,303.27,391.81,306.02,180.03,486.010,877.873.5530.3104.5708.411,586.1
+2016 Dec.   1,073.16,117.07,190.11,320.32,175.83,496.110,686.370.4519.696.7686.711,373.0
+2017 Jan.   1,081.86,154.87,236.61,329.82,178.13,507.810,744.475.1513.298.6686.911,431.3
+         Feb.   1,086.16,208.47,294.51,325.22,178.03,503.210,797.766.7505.999.7672.411,470.1
+         Mar.   1,088.66,303.27,391.81,306.02,180.03,486.010,877.873.5530.3104.5708.411,586.1
+         Apr.   1,092.36,345.77,438.01,279.52,183.03,462.410,900.473.0512.482.8668.211,568.6
+         May (p)  1,092.56,383.97,476.41,268.02,188.03,456.010,932.473.2511.391.0675.511,607.9
+ Transactions 2014   59.0374.9433.9-91.83.7-88.1345.83.612.512.928.9374.8
+2015   65.9562.6628.5-135.412.3-123.0505.5-48.049.3-26.6-25.2480.3
+2016   36.7544.6581.3-107.916.0-91.9489.4-4.340.417.954.0543.5
+2016 Q2   5.0104.4109.3-12.77.2-5.5103.9-1.415.5-1.412.7116.6
+         Q3   12.0127.9139.9-15.72.3-13.5126.5-3.712.9-2.27.1133.5
+         Q4   6.5156.2162.6-65.43.3-62.1100.5-10.425.32.217.2117.7
+2017 Q1   15.5188.7204.1-11.74.1-7.6196.63.110.87.221.2217.8
+2016 Dec.   -2.146.944.7-28.53.8-24.620.1-2.115.5-2.211.231.3
+2017 Jan.   8.741.550.212.02.214.264.44.7-6.31.2-0.464.0
+         Feb.   4.350.154.4-5.2-0.2-5.449.0-8.5-7.31.0-14.834.3
+         Mar.   2.497.199.5-18.52.0-16.483.16.924.45.136.4119.4
+         Apr.   3.747.150.8-25.03.1-21.928.9-0.3-17.9-21.9-40.2-11.3
+         May (p)  0.145.645.8-9.23.0-6.239.50.4-0.97.67.146.6
+ Growth rates 2014   6.58.48.0-5.40.2-2.33.72.93.019.34.73.8
+2015   6.811.310.5-8.60.6-3.35.2-39.111.5-25.5-3.84.6
+2016   3.59.88.8-7.50.7-2.64.8-5.88.424.18.65.0
+2016 Q2   4.09.78.8-4.10.6-1.35.11.19.2-3.36.05.1
+         Q3   3.79.38.4-3.30.5-1.05.0-12.88.013.95.75.1
+         Q4   3.59.88.8-7.50.7-2.64.8-5.88.424.18.65.0
+2017 Q1   3.710.19.1-7.40.8-2.55.1-14.413.96.09.05.3
+2016 Dec.   3.59.88.8-7.50.7-2.64.8-5.88.424.18.65.0
+2017 Jan.   3.69.38.4-6.70.8-2.24.7-7.38.512.47.04.8
+         Feb.   3.99.28.4-6.20.7-2.14.8-24.47.97.93.54.7
+         Mar.   3.710.19.1-7.40.8-2.55.1-14.413.96.09.05.3
+         Apr.   4.210.29.3-8.60.9-2.85.1-16.98.6-15.31.74.9
+         May (p)  3.910.39.3-8.70.8-2.95.1-16.37.7-1.83.15.0
+Source: ECB.1) Data refer to the changing composition of the euro area.5 Money and creditS 19ECB Economic Bulletin, Issue 5 / 2017 - Statistics5.2 Deposits in M3 1) (EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)
+ Outstanding amounts        
+   Non-financial corporations 2)    Households 3) FinancialInsuranceOther
+corpor-corpor-general
+TotalOvernightWith anRedeem-ReposTotalOvernightWith anRedeem-Reposationsationsgovern-
+agreedableagreedableother thanandment
+ 4)maturityat notice
+maturityat notice
+MFIs andpension
+of up toof up to
+of up toof up to
+ICPFs 2)funds2 years3 months2 years3 months
+12345678910111213
+2014   1,863.41,366.3365.1112.619.45,555.62,749.5812.11,991.12.8847.2222.2332.9
+2015   1,950.81,503.1321.8117.58.45,748.93,059.7695.11,991.72.4949.7225.8364.7
+2016   2,077.21,656.4293.9118.38.66,049.83,399.6643.62,004.81.7979.5196.5380.6
+2016 Q2   2,034.81,594.2314.0118.28.45,904.13,214.2688.81,998.13.0957.0210.7379.9
+         Q3   2,069.01,622.9317.7119.39.15,977.73,301.8672.02,001.32.6953.9206.2386.3
+         Q4   2,077.21,656.4293.9118.38.66,049.83,399.6643.62,004.81.7979.5196.5380.6
+2017 Q1   2,170.71,743.4303.6117.46.46,139.63,503.1620.02,013.72.7972.4190.9389.1
+2016 Dec.   2,077.21,656.4293.9118.38.66,049.83,399.6643.62,004.81.7979.5196.5380.6
+2017 Jan.   2,121.31,697.8299.2117.37.06,087.83,438.6636.02,010.52.7940.9194.6392.9
+         Feb.   2,142.81,717.2301.5117.36.86,111.83,469.5627.52,012.02.8937.0195.4391.3
+         Mar.   2,170.71,743.4303.6117.46.46,139.63,503.1620.02,013.72.7972.4190.9389.1
+         Apr.   2,164.71,746.0294.8117.16.86,156.53,524.2611.52,017.63.2962.6199.7397.6
+         May (p)  2,171.81,754.4294.3116.96.26,173.53,542.1605.72,023.02.7975.5196.0396.4
+ Transactions 2014   68.791.1-26.71.52.8140.7208.8-65.0-1.4-1.752.77.321.0
+2015   83.9123.7-33.54.9-11.2193.6303.0-109.90.9-0.484.0-0.130.3
+2016   129.7153.3-24.10.30.2302.0335.5-46.113.4-0.829.0-29.317.1
+2016 Q2   27.636.6-8.91.1-1.175.576.2-5.14.00.4-0.8-8.53.7
+         Q3   35.229.93.90.70.773.887.7-16.63.2-0.5-0.2-4.26.2
+         Q4   5.228.6-21.8-1.1-0.571.893.1-23.83.4-0.921.6-10.0-4.9
+2017 Q1   96.388.411.1-1.0-2.290.0103.9-23.98.81.1-5.6-5.18.6
+2016 Dec.   -9.41.2-10.70.00.119.927.9-9.11.9-0.821.9-9.8-2.3
+2017 Jan.   46.743.26.1-1.0-1.638.839.6-7.45.61.0-35.6-1.712.3
+         Feb.   19.917.92.30.0-0.222.930.4-9.11.50.1-6.30.9-1.2
+         Mar.   29.727.32.70.0-0.428.334.0-7.41.7-0.136.3-4.3-2.5
+         Apr.   -2.54.5-7.2-0.30.518.121.8-8.24.00.5-8.19.18.2
+         May (p)  10.511.50.4-0.8-0.618.119.5-5.44.7-0.616.6-3.5-1.9
+ Growth rates 2014   4.07.6-6.61.315.92.68.2-7.4-0.1-37.86.63.97.0
+2015   4.59.0-9.44.4-57.43.511.0-13.60.0-15.19.70.09.1
+2016   6.710.2-7.60.22.25.311.0-6.70.7-31.23.1-13.04.7
+2016 Q2   8.011.1-3.03.9-27.84.610.4-5.90.10.34.0-8.510.3
+         Q3   7.59.9-1.31.8-8.55.110.6-4.90.4-18.20.9-5.77.7
+         Q4   6.710.2-7.60.22.25.311.0-6.70.7-31.23.1-13.04.7
+2017 Q1   8.211.8-4.9-0.3-32.65.311.5-10.01.02.11.6-12.73.6
+2016 Dec.   6.710.2-7.60.22.25.311.0-6.70.7-31.23.1-13.04.7
+2017 Jan.   7.110.5-5.5-0.1-26.85.511.4-7.70.9-19.8-1.2-13.55.6
+         Feb.   7.610.9-4.7-0.3-26.75.411.5-8.90.9-4.8-2.2-15.35.1
+         Mar.   8.211.8-4.9-0.3-32.65.311.5-10.01.02.11.6-12.73.6
+         Apr.   7.110.6-6.8-0.4-20.05.311.4-11.01.2-9.81.4-7.05.4
+         May (p)  7.510.9-5.6-1.6-22.45.111.2-11.61.3-23.92.8-8.34.3
+Source: ECB.1) Data refer to the changing composition of the euro area.
+2) In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-financial corporations sector to the financial
+corporations sector. These entities are included in MFI balance sheet statistics with financial corporations other than MFIs and insurance corporations and pension funds (ICPFs).
+3) Including non-profit institutions serving households.
+4) Refers to the general government sector excluding central government.5 Money and creditS 20ECB Economic Bulletin, Issue 5 / 2017 - Statistics5.3 Credit to euro area residents 1) (EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)
+ Outstanding amounts          Credit to general government   Credit to other euro area residents   TotalLoansDebtTotal
+   LoansDebtEquity and
+securities   securitiesnon-money
+   TotalTo non-To house-To financialTo insurance
+market fundfinancialholds
+ 4)corporationscorporations
+investmentAdjustedcorpor-
+other thanand pension
+fund sharesloans 2)ations 3)MFIs andfunds
+ICPFs 3)123456789101112
+2014   3,615.61,135.02,478.512,506.810,454.510,726.74,316.65,200.7808.1129.01,280.0772.4
+2015   3,904.21,112.32,789.512,599.410,512.010,807.44,290.75,307.6790.1123.51,305.1782.3
+2016   4,397.61,082.03,302.412,843.010,674.110,981.84,313.45,410.1838.2112.51,384.6784.3
+2016 Q2   4,191.81,112.53,066.212,664.010,566.110,870.44,312.75,348.3801.2103.91,342.5755.4
+         Q3   4,272.21,105.23,153.712,768.510,623.510,927.44,302.55,379.3832.6109.11,364.5780.5
+         Q4   4,397.61,082.03,302.412,843.010,674.110,981.84,313.45,410.1838.2112.51,384.6784.3
+2017 Q1   4,438.51,070.43,353.912,976.710,757.611,055.64,333.85,459.2851.7112.91,426.9792.2
+2016 Dec.   4,397.61,082.03,302.412,843.010,674.110,981.84,313.45,410.1838.2112.51,384.6784.3
+2017 Jan.   4,383.31,087.33,282.312,882.210,696.510,995.84,329.35,422.9829.8114.61,399.5786.2
+         Feb.   4,399.61,073.33,312.512,913.410,720.011,012.14,334.65,443.9829.9111.61,400.4793.0
+         Mar.   4,438.51,070.43,353.912,976.710,757.611,055.64,333.85,459.2851.7112.91,426.9792.2
+         Apr.   4,466.91,074.23,378.512,958.910,743.111,043.34,337.15,467.6823.9114.41,426.4789.4
+         May (p)  4,477.01,066.53,395.712,980.710,747.511,058.14,341.25,474.6820.6111.11,439.4793.8
+ Transactions 2014   73.816.457.4-99.9-47.1-32.4-60.6-14.916.711.7-89.837.0
+2015   296.1-21.1316.984.958.275.9-13.898.3-20.5-5.725.11.5
+2016   489.1-34.9523.9317.6233.6253.478.5119.846.3-11.180.63.4
+2016 Q2   125.2-8.9134.054.922.160.219.314.5-6.7-5.031.11.6
+         Q3   78.1-7.385.2113.170.373.63.933.827.55.220.722.1
+         Q4   161.0-20.3181.480.361.865.419.935.33.43.317.80.7
+2017 Q1   77.8-11.088.2149.199.092.729.151.617.80.541.28.9
+2016 Dec.   71.7-7.879.72.0-9.415.3-14.89.2-0.3-3.54.47.0
+2017 Jan.   22.05.216.352.230.524.118.814.0-4.42.116.05.6
+         Feb.   8.4-13.021.324.020.012.83.820.0-0.9-3.0-0.44.4
+         Mar.   47.5-3.250.772.948.555.86.517.623.01.325.6-1.1
+         Apr.   28.23.624.4-7.8-5.4-3.67.411.1-25.51.6-0.4-2.0
+         May (p)  12.1-5.116.831.213.925.09.08.7-0.5-3.313.63.8
+ Growth rates 2014   2.11.52.4-0.8-0.4-0.3-1.4-0.31.811.9-6.64.6
+2015   8.2-1.912.80.70.60.7-0.31.9-2.5-4.42.00.2
+2016   12.5-3.118.72.52.22.41.82.35.9-9.06.20.5
+2016 Q2   12.3-2.819.01.61.21.61.31.90.5-23.67.2-2.9
+         Q3   10.8-2.516.32.01.92.11.42.15.4-10.73.50.8
+         Q4   12.5-3.118.72.52.22.41.82.35.9-9.06.20.5
+2017 Q1   10.9-4.216.83.22.42.71.72.55.23.68.44.4
+2016 Dec.   12.5-3.118.72.52.22.41.82.35.9-9.06.20.5
+2017 Jan.   11.4-2.917.12.72.22.41.72.45.1-8.66.82.6
+         Feb.   10.6-3.916.32.62.02.31.52.44.4-11.46.53.6
+         Mar.   10.9-4.216.83.22.42.71.72.55.23.68.44.4
+         Apr.   10.4-4.215.92.92.22.61.62.62.81.57.84.4
+         May (p)  9.6-4.815.03.02.22.61.62.72.40.38.14.3
+Source: ECB.1) Data refer to the changing composition of the euro area.
+2) Adjusted for loan sales and securitisation (resulting in derecognition from the MFI statistical balance sheet) as well as for positions arising from notional cash pooling services
+provided by MFIs.3) In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-financial corporations sector to the financial
+corporations sector. These entities are included in MFI balance sheet statistics with financial corporations other than MFIs and insurance corporations and pension funds (ICPFs).
+4) Including non-profit institutions serving households.5 Money and creditS 21ECB Economic Bulletin, Issue 5 / 2017 - Statistics5.4 MFI loans to euro area non-financial corporations and households 1) (EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)
+ Outstanding amounts       
+   Non-financial corporations 2)    Households 3)       
+   TotalUp to 1 yearOver 1Over 5 years   TotalLoans forLoans forOther loans
+and up toconsumptionhouse
+Adjusted5 yearsAdjustedpurchase
+loans 4)loans 4)1234567891
+02014   4,316.64,269.91,112.3724.32,480.05,200.75,546.1563.53,860.9776.4
+2015   4,290.74,272.91,041.1761.52,488.25,307.65,640.6595.93,948.4763.3
+2016   4,313.44,313.2998.5797.62,517.35,410.15,726.7616.54,044.9748.7
+2016 Q2   4,312.74,293.21,043.0777.52,492.15,348.35,683.5604.13,986.3757.9
+         Q3   4,302.54,291.61,011.5787.92,503.15,379.35,701.1608.54,018.2752.6
+         Q4   4,313.44,313.2998.5797.62,517.35,410.15,726.7616.54,044.9748.7
+2017 Q1   4,333.84,335.61,003.8802.62,527.55,459.25,770.6628.24,085.7745.3
+2016 Dec.   4,313.44,313.2998.5797.62,517.35,410.15,726.7616.54,044.9748.7
+2017 Jan.   4,329.34,322.31,013.9799.62,515.75,422.95,743.6620.84,052.2749.9
+         Feb.   4,334.64,325.31,011.3798.32,525.05,443.95,757.2623.84,072.3747.8
+         Mar.   4,333.84,335.61,003.8802.62,527.55,459.25,770.6628.24,085.7745.3
+         Apr.   4,337.14,343.3990.4812.42,534.45,467.65,778.1630.54,096.3740.8
+         May (p)  4,341.24,348.2992.6810.12,538.45,474.65,793.9637.14,096.6740.9
+ Transactions 2014   -60.6-67.0-14.1
+2.6-49.0-14.95.5-3.0-3.2-8.7
+2015   -13.822.8-64.231.918.598.376.121.980.0-3.6
+2016   78.593.7-18.443.253.8119.8112.524.1105.2-9.4
+2016 Q2   19.323.7-4.2
+8.514.914.529.5
+1.613.5-0.6
+         Q3   3.99.0-23.713.414.233.827.8
+5.132.5-3.8
+         Q4   19.931.4-9.8
+8.421.335.330.4
+9.330.6-4.7
+2017 Q1   29.133.98.6
+7.013.651.646.210.640.20.8
+2016 Dec.   -14.89.6-29.3-1.816.39.210.0
+2.410.4-3.6
+2017 Jan.   18.813.516.5
+2.10.214.018.6
+4.87.51.7
+         Feb.   3.81.6-2.9-1.17.820.012.5
+1.918.6-0.5
+         Mar.   6.518.8-5.0
+6.05.617.615.1
+4.014.0-0.4
+         Apr.   7.411.1-3.7
+3.47.611.110.5
+2.510.7-2.0
+         May (p)  9.09.66.0-0.73.78.718.1
+7.01.10.7
+ Growth rates 2014   -1.4-1.5-1.3
+0.4-1.9-0.30.1-0.5-0.1-1.1
+2015   -0.30.5-5.8
+4.40.71.91.4
+3.92.1-0.5
+2016   1.82.2-1.8
+5.72.22.32.0
+4.12.7-1.2
+2016 Q2   1.31.8-2.0
+5.11.61.91.8
+3.52.1-0.4
+         Q3   1.41.9-3.0
+6.41.82.11.8
+3.42.4-0.9
+         Q4   1.82.2-1.8
+5.72.22.32.0
+4.12.7-1.2
+2017 Q1   1.72.3-2.8
+4.82.62.52.4
+4.42.9-1.1
+2016 Dec.   1.82.2-1.8
+5.72.22.32.0
+4.12.7-1.2
+2017 Jan.   1.72.2-1.9
+5.32.12.42.2
+4.62.7-0.9
+         Feb.   1.51.9-2.3
+3.82.32.42.3
+4.22.8-1.0
+         Mar.   1.72.3-2.8
+4.82.62.52.4
+4.42.9-1.1
+         Apr.   1.62.4-3.0
+4.92.62.62.4
+4.73.0-1.1
+         May (p)  1.62.4-2.7
+4.72.42.72.6
+6.22.9-1.0
+Source: ECB.1) Data refer to the changing composition of the euro area.
+2) In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-financial corporations sector to the financial
+corporations sector. These entities are included in MFI balance sheet statistics with financial corporations other than MFIs and insurance corporations and pension funds (ICPFs).
+3) Including non-profit institutions serving households.
+4) Adjusted for loan sales and securitisation (resulting in derecognition from the MFI statistical balance sheet) as well as for positions arising from notional cash pooling services
+provided by MFIs.5 Money and creditS 22ECB Economic Bulletin, Issue 5 / 2017 - Statistics5.5 Counterparts to M3 other than credit to euro area residents 1) (EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)
+ Outstanding amounts       
+   MFI liabilities   MFI assets
+      
+Central   Longer-term financial liabilities vis-à-vis other euro area residentsNet external   Other
+governmentassets   
+holdings 2)TotalDepositsDepositsDebtCapital
+   Totalwith anredeemablesecuritiesand reserves
+agreedat noticewith a
+ReposReverse
+maturityof overmaturity
+with centralrepos to
+of over3 monthsof over
+counter-central
+2 years2 yearsparties 3)counter-parties 3)1234567891
+02014   269.47,131.52,186.692.22,391.52,461.11,380.4220.4184.5139.7
+2015   284.86,996.92,119.779.82,254.02,543.51,343.8263.4205.9135.6
+2016   318.86,921.92,054.470.62,144.32,652.51,136.4236.6205.9121.6
+2016 Q2   319.37,012.32,094.174.62,181.42,662.31,298.0295.3238.0144.0
+         Q3   310.16,966.72,068.572.42,130.82,695.01,202.2281.7209.2129.1
+         Q4   318.86,921.92,054.470.62,144.32,652.51,136.4236.6205.9121.6
+2017 Q1   304.16,880.92,033.569.22,100.32,677.81,104.4251.5182.2111.8
+2016 Dec.   318.86,921.92,054.470.62,144.32,652.51,136.4236.6205.9121.6
+2017 Jan.   303.46,871.22,037.869.82,122.82,640.91,119.3221.0176.5106.3
+         Feb.   295.76,919.82,027.969.62,125.32,697.01,120.0252.6171.3104.4
+         Mar.   304.16,880.92,033.569.22,100.32,677.81,104.4251.5182.2111.8
+         Apr.   335.96,849.22,023.469.32,083.02,673.41,089.2238.7173.8103.7
+         May (p)  310.56,824.52,015.867.02,074.22,667.51,035.6249.7161.5104.3
+ Transactions 2014   -4.0-171.0-120.82.0-160.1107.9238.7-12.80.717.8
+2015   9.2-213.6-106.2-13.5-216.1122.2-86.6-18.521.4-4.0
+2016   31.0-114.2-73.1-9.1-117.285.2-274.1-72.412.8-12.0
+2016 Q2   4.2-4.0-22.3-1.8-16.436.5-63.50.3-9.2-8.1
+         Q3   -9.2-45.0-25.8-2.0-41.724.6-97.6-14.3-19.2-13.7
+         Q4   6.6-18.9-21.5-2.6-18.223.3-43.6-92.3-0.2-7.5
+2017 Q1   -16.1-15.6-14.7-1.4-31.431.9-31.6-9.3-22.6-9.1
+2016 Dec.   21.1-13.3-7.9-1.3-3.3-0.722.2-56.811.20.3
+2017 Jan.   -16.4-22.0-10.3-0.8-4.9-6.16.7-55.3-28.3-14.6
+         Feb.   -8.213.3-11.1-0.2-5.630.2-34.541.6-5.1-2.0
+         Mar.   8.4-6.96.6-0.4-20.97.8-3.84.410.87.5
+         Apr.   31.8-15.1-8.50.2-5.8-1.0-3.4-11.5-8.4-8.2
+         May (p)  -25.47.2-5.4-0.87.06.5-30.816.0-12.20.6
+ Growth rates 2014   -1.6-2.3-5.12.2-6.34.5
+- - 0.414.6
+2015   3.6-3.0-4.8-14.5-8.84.9
+- - 11.6-2.9
+2016   10.9-1.6-3.4-11.5-5.23.3
+- - 6.3-9.0
+2016 Q2   20.1-2.0-2.9-13.3-6.93.8
+- - 3.6-2.9
+         Q3   5.3-2.1-4.3-12.2-6.23.8
+- - 1.5-8.2
+         Q4   10.9-1.6-3.4-11.5-5.23.3
+- - 6.3-9.0
+2017 Q1   -4.6-1.2-4.0-10.1-4.94.5
+- - -21.2-25.3
+2016 Dec.   10.9-1.6-3.4-11.5-5.23.3
+- - 6.3-9.0
+2017 Jan.   -1.4-1.6-3.5-11.3-4.63.0
+- - -12.2-23.8
+         Feb.   -1.7-1.2-4.4-10.5-3.73.9
+- - -25.7-25.7
+         Mar.   -4.6-1.2-4.0-10.1-4.94.5
+- - -21.2-25.3
+         Apr.   5.5-1.5-4.4-9.0-4.93.9
+- - -21.6-24.8
+         May (p)  3.2-1.4-4.4-9.6-4.53.8
+- - -23.9-23.6
+Source: ECB.1) Data refer to the changing composition of the euro area.
+2) Comprises central government holdings of deposits with the MFI sector and of securities issued by the MFI sector.
+3) Not adjusted for seasonal effects.6 Fiscal developmentsS 23ECB Economic Bulletin, Issue 5 / 2017 - Statistics6.1 Deficit/surplus(as a percentage of GDP; flows during one-year period)       Deficit (-)/surplus (+)Memo item:
+PrimaryTotalCentralStateLocalSocualdeficit (-)/
+governmentgovernmentgovernmentsecuritysurplus (+)
+funds123456
+2013   -3.0-2.6-0.2-0.1-0.1-0.22014   -2.6-2.2-0.20.0-0.20.12015   -2.1-1.9-0.20.1-0.10.32016   -1.5-1.70.00.20.00.7 2016 Q1   -1.9. . . . 0.4
+         Q2   -1.8. . . . 0.5
+         Q3   -1.8. . . . 0.5
+         Q4   -1.5. . . . 0.7
+Sources: ECB for annual data; Eurostat for quarterly data.6.2 Revenue and expenditure(as a percentage of GDP; flows during one-year period)       
+   Revenue   Expenditure
+      
+Total   Current revenueCapitalTotal   Current expenditureCapital
+revenueexpenditure
+DirectIndirectNet socialCompen-IntermediateInterestSocial
+taxestaxescontributionssation ofconsumptionbenefits
+employees12345678910111213
+2013   46.746.212.613.015.50.549.745.610.4
+5.32.823.0
+4.12014   46.746.312.513.115.50.549.345.310.3
+5.32.723.0
+4.02015   46.445.912.613.115.30.548.544.610.1
+5.22.422.8
+3.92016   46.345.812.613.015.40.547.844.310.0
+5.22.222.8
+3.5 2016 Q1   46.445.912.613.115.30.548.344.510.1
+5.22.322.8
+3.9         Q2   46.345.812.513.115.40.548.144.310.0
+5.22.322.8
+3.8         Q3   46.345.812.613.115.40.548.144.310.0
+5.22.222.8
+3.8         Q4   46.345.812.613.015.40.547.844.310.0
+5.22.222.9
+3.5Sources: ECB for annual data; Eurostat for quarterly data.6.3 Government debt-to-GDP ratio(as a percentage of GDP; outstanding amounts at end of period)                
+Total   Financial instrument   Holder   Original maturity   Residual maturity   Currency
+   CurrencyLoansDebt   Resident creditorsNon-residentUp toOverUp toOver 1OverEuro orOther
+andsecuritiescreditors1 year1 year1 yearand up to5 yearsparticipatingcurren-
+depositsMFIs5 yearscurrenciescies
+1234567891011121314
+2013   91.42.617.571.246.426.345.010.481.019.432.139.989.32.1
+2014   92.02.717.172.145.226.046.810.082.018.831.941.289.92.1
+2015   90.32.816.271.345.527.544.79.381.017.731.141.588.22.1
+2016   89.22.715.571.047.830.341.59.080.317.329.542.587.22.1
+ 2016 Q1   91.32.716.272.4. . . . . . . . . . 
+         Q2   91.22.716.072.5. . . . . . . . . . 
+         Q3   90.12.715.671.7. . . . . . . . . . 
+         Q4   89.32.715.571.1. . . . . . . . . . 
+Sources: ECB for annual data; Eurostat for quarterly data.6 Fiscal developmentsS 24ECB Economic Bulletin, Issue 5 / 2017 - Statistics6.4 Annual change in the government debt-to-GDP ratio and underlying factors 1) (as a percentage of GDP; flows during one-year period)    Change inPrimary   Deficit-debt adjustmentInterest-Memo item:
+debt-to-deficit (+)/   growthBorrowing
+GDP ratio 2)surplus (-)Total   Transactions in main financial assetsRevaluationOtherdifferentialrequirement
+effectsTotalCurrencyLoansDebtEquity andand other
+andsecuritiesinvestmentchanges in
+depositsfund sharesvolume
+123456789101112
+2013   1.90.2-0.2-0.8-0.5-0.4-0.20.40.20.4
+1.92.62014   0.6-0.1-0.1-0.30.2-0.2-0.30.00.00.2
+0.82.52015   -1.7-0.3-0.9-0.50.2-0.2-0.3-0.1-0.1-0.3-0.5
+1.32016   -1.0-0.7-0.30.20.2-0.10.00.1-0.3-0.2-0.1
+1.5 2016 Q1   -1.5-0.4-0.6-0.20.3-0.2-0.30.00.0-0.4-0.5
+1.3         Q2   -0.9-0.50.10.40.8-0.2-0.20.0-0.1-0.2-0.5
+2.0         Q3   -1.4-0.5-0.5-0.20.2-0.1-0.30.0-0.2-0.1-0.4
+1.5         Q4   -1.1-0.7-0.30.30.2-0.10.00.1-0.3-0.3-0.2
+1.5Sources: ECB for annual data; Eurostat for quarterly data.1) Intergovernmental lending in the context of the financial crisis is consolidated except in quarterly data on the deficit-debt adjustment.
+
+2) Calculated as the difference between the government debt-to-GDP ratios at the end of the reference period and a year earlier. 
+6.5 Government debt securities 1) (debt service as a percentage of GDP; flows during debt service period; average nominal yields in percentages per annum)          Debt service due within 1 year 2) Average   Average nominal yields 4)       residual      
+Total   Principal   Interestmaturity   Outstanding amounts   Transactions
+in years 3)   MaturitiesMaturitiesTotalFloatingZero   Fixed rateIssuanceRedemption
+of up to 3of up to 3ratecoupon
+monthsmonthsMaturities
+of up to 1year12345678910111213
+2014   15.913.85.12.00.5
+6.43.11.60.43.52.80.81.6
+2015   14.712.84.31.90.5
+6.62.91.40.13.33.00.41.2
+2016   14.412.64.81.70.4
+6.72.61.2-0.13.02.90.21.2
+ 2016 Q1   15.213.44.71.80.5
+6.62.81.40.03.22.80.31.1
+         Q2   15.113.34.81.80.5
+6.72.71.3-0.13.12.90.31.1
+         Q3   14.712.94.01.80.4
+6.82.61.3-0.13.12.80.21.2
+         Q4   14.412.64.81.70.4
+6.92.61.2-0.13.02.90.21.2
+ 2017 Jan.   14.612.85.11.70.4
+6.92.61.2-0.23.02.90.21.2
+         Feb.   14.112.44.31.70.4
+7.02.61.2-0.23.02.90.21.3
+         Mar.   14.312.54.41.70.4
+6.92.61.2-0.23.02.90.21.1
+         Apr.   14.212.54.31.70.4
+7.02.61.2-0.23.02.70.21.2
+         May   14.312.64.31.70.4
+7.02.51.2-0.22.92.60.11.2
+         June   14.012.34.31.70.4
+7.02.51.2-0.22.92.60.21.2
+Source: ECB.
+1) At face value and not consolidated within the general government sector.
+2) Excludes future payments on debt securities not yet outstanding and early redemptions.
+3) Residual maturity at the end of the period.
+4) Outstanding amounts at the end of the period; transactions as 12-month average.6 Fiscal developmentsS 25ECB Economic Bulletin, Issue 5 / 2017 - Statistics6.6 Fiscal developments in euro area countries(as a percentage of GDP; flows during one-year period and outstanding amounts at end of period) Government deficit (-)/surplus (+) BelgiumGermanyEstoniaIrelandGreeceSpainFranceItalyCyprus
+123456789
+2013   -3.1-0.2-0.2-5.7-13.1
+-7.0-4.0-2.9-5.1
+2014   -3.10.30.7-3.7-3.7-6.0-3.9-3.0-8.8
+2015   -2.50.70.1-2.0-5.9-5.1-3.6-2.7-1.2
+2016   -2.60.80.3-0.60.7-4.5-3.4-2.40.4 2016 Q1   -2.60.80.7-1.6-4.8-5.1-3.5-2.6-0.3
+         Q2   -2.60.80.8-1.6-3.7-5.3-3.3-2.4-1.3
+         Q3   -3.00.60.5-1.8-1.8-4.8-3.4-2.4-1.0
+         Q4   -2.60.80.3-0.60.7-4.5-3.4-2.40.4 Government debt 2013   105.677.510.2119.5177.4
+95.592.3129.0102.2
+2014   106.774.910.7105.3179.7100.4
+94.9131.8107.1
+2015   106.071.210.178.7177.4
+99.895.6132.1107.5
+2016   105.968.39.575.4179.0
+99.496.0132.6107.8
+ 2016 Q1   109.270.99.980.1176.4101.2
+97.6134.8108.4
+         Q2   109.770.29.777.7179.7101.1
+98.4135.4107.5
+         Q3   108.769.59.677.1176.3100.4
+97.5132.7110.6
+         Q4   105.968.39.575.4179.0
+99.496.6132.6107.8
+ Government deficit (-)/surplus (+) LatviaLithuaniaLuxembourgMaltaNetherlandsAustriaPortugalSloveniaSlovakiaFinland
+10111213141516171819
+2013   -1.0-2.6
+1.0-2.6-2.4-1.4-4.8-15.1-2.7-2.6
+2014   -1.6-0.7
+1.4-2.0-2.3-2.7-7.2-5.4-2.7-3.2
+2015   -1.3-0.2
+1.4-1.3-2.1-1.1-4.4-2.9-2.7-2.7
+2016   0.00.31.61.00.4-1.6-2.0-1.8-1.7-1.9
+ 2016 Q1   -0.7-0.1
+1.3-0.3-1.9-1.0-3.7-2.7-2.5-2.4
+         Q2   -0.40.41.10.4-1.0-0.9-3.5-1.8-2.3-2.4
+         Q3   0.20.21.10.8-0.4-0.6-3.7-1.7-2.0-2.2
+         Q4   0.00.31.61.00.4-1.6-2.0-1.8-1.7-1.9
+ Government debt 2013   39.038.723.468.767.781.3129.071.054.756.5
+2014   40.940.522.464.367.984.4130.680.953.660.2
+2015   36.542.721.660.665.285.5129.083.152.563.7
+2016   40.140.220.058.362.384.6130.479.751.963.6
+ 2016 Q1   36.340.021.961.864.986.5128.983.651.864.3
+         Q2   38.940.121.461.063.886.2131.682.552.961.9
+         Q3   37.941.320.959.762.083.7133.182.852.761.8
+         Q4   40.140.220.058.362.384.6130.479.751.963.6
+Source: Eurostat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

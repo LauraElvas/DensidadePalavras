@@ -1,0 +1,10072 @@
+Regional Economic Issues
+November 2015
+Regional Economic Issues 
+INTERNATIONAL MONETARY FUND
+15 
+NOV
+Central, Eastern, and Southeastern Europe
+ 
+Reconciling Fiscal Consolidation and Growth 
+ 
+ 
+ 
+ 
+ 
+INTERNATIONAL MONETARY FUND
+Regional Economic Issues November 2015 
+Central, Eastern, and Southeastern Europe
+ Reconciling Fiscal Consolidation and Growth  Country Coverage and Codes
+ Central, Eastern, and Southeastern Europe
+ (CESEE)
+ refers to Albania, Belarus, Bosnia and 
+Herzegovina, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Kosovo, Latvia, Lithuania, Macedonia, 
+Moldova, Montenegro, Poland, Romania, Russia, Serbia, Slovak Republic, Slovenia, Turkey, and Ukraine.
+ The follo
+wing country codes, nation
+al flag markers, and 
+regional aggregates are used in the report:
+ Baltic
+ countries (Baltics) 
+(shown in 
+light blue
+): Estonia (EST 
+), Latvia (LVA 
+), Lithuania (LTU 
+); Central and Eastern Europe (CEE)
+ (shown in 
+blue
+): Czech Republi
+c (CZE 
+), Hungary (HUN 
+), 
+Poland (POL 
+), Slovak Republic (SVK 
+), Slovenia (SVN 
+); Commonwealth of Independent States (CIS)
+ (shown in 
+yellow
+): Belarus (BLR ), Moldova (MDA 
+), 
+Russian Federation (RUS 
+, also in 
+red
+ when shown separately), Ukraine (UKR 
+); Southeastern European EU member states (SEE EU)
+ (shown in 
+green
+): Bulgaria (BGR 
+), Croatia 
+(HRV 
+), Romania (ROU 
+); Southeastern European 
+non-EU 
+member states 
+(SEE non
+-EU or Western Balkans
+) (shown in
+ light 
+green
+): Albania (ALB 
+), Bosnia and Herzegovina (BIH 
+), Kosovo (UVK 
+), FYR Macedonia (MKD 
+), 
+Montenegro (MNE 
+), Serbia (SRB 
+); Turkey (T
+UR ) is shown in 
+black
+. Averages are weighted by the 
+PPP GDP weights 
+of countries in sub
+-groups
+ in 
+2014. CESEE:
+ Mapping of Country Groups*
+ */ The boundaries, colors, denominations, and any other information shown on the maps do not imply, on the part of the Intern
+ational 
+Monetary Fund, any judgment on the legal status of any territory or any 
+endorsement or acceptance of suc
+h boundaries.  In this report, 
+statistical data on Crimea and the City of Sevastopol are included as part of the data for the Russian Federation
+. Reconciling Fiscal Consolidation and Growth 
+EXECUTIVE SUMMARY 
+Much of the Central, Eastern, and Southeastern Europe (CESEE) 
+is growing at a healthy 
+pace, while Russia and other CIS economies are facing significant economic challenges
+. 
+The region as a whole is expected to return to positive growth next year
+.  Overall, activity in 
+the region is set to contract by 0.6 percent in 2015 and expand by 1.3 percent in 2016. This is 
+little changed from the spring 2015 projections, but the risks have shifted to the downside: 
+ Central and Eastern Europe
+ (CEE)
+, Turkey, and most of the
+ Southeastern European
+ (SEE)
+ countries
+ are expected to maintain solid, largely domestic-demand-driven growth in 2015
+16. 
+There are also some external tailwinds, such as lower oil prices and improved euro-area growth 
+prospects. Furthermore, several CESEE European Union (EU) member states benefited from a 
+
+temporary boost to investment from a sharp increase in utilization 
+of EU Structural and Cohesion 
+Funds (SCFs). In contrast, growth has softened in the 
+Baltics
+ due to weaker demand from the CIS.
+  The economies of
+ Russia, Ukraine,
+ and 
+other CIS
+ countries will contract this year, with 
+some stabilization expected in 2016. Russia continues to adjust to low oil prices and Western 
+
+sanctions, but is expected to remain in recession in 2016. Ukraine is projected to return to 
+positive growth next year, despite multiple challenges related to ambitious reforms, significant 
+macroeconomic adjustment, and economic dislocations in the eastern part of the country.
+  And the balance of risks has shifted to the downside.
+ New risks to trade and capital flows 
+stemming from a possible further slowdown in major emerging markets (notably, in China) as 
+
+well as the ongoing refugee crisis in Europe are the main additions to long-standing risks.
+ The key policy challenges are broadly similar
+ from those discussed in the Spring 2015 
+Regional Economic Issues
+ report
+. Supporting domestic demand, addressing crisis legacies, 
+rebuilding buffers against external shocks, and improving the business environment to boost 
+
+investment and long-term growth remain important. Country-specific priorities depend on how 
+
+far along these economies are in the postcrisis adjustment and their exposure to external risks. 
+ Where the recovery is well advanced
+, the policy priorities need to increasingly shift 
+toward the medium term, including rebuilding fiscal buffers and continuing with reforms to 
+improve the business environment and address structural weaknesses. This is not to deny that 
+
+there is still a lot of uncertainty about the strength of global recovery that, domestically, inflation 
+
+is still too low in many CESEE economies, and that the key crisis legacies
+high nonperforming 
+loans (NPLs) and debt overhangs
+still need to be addressed in some countries (notably, in SEE).
+ November 13, 2015
+ CESEE REI FALL 2015 
+INTERNATIONAL MONETARY FUND
+  2  For economies that are in recession
+, the key challenge is to steer the adjustment to 
+terms-
+of-trade and other shocks with a view to supporting weak internal demand and reducing 
+high inflation.
+  Countries vulnerable to external shocks
+such as those with large external financing 
+needs, weak fiscal positions, or high dependence on commodity exports
+need to be prepared 
+to deal with market pressures by using exchange rate flexibility as a shock absorber alongside 
+macro-prudential policies to contain the buildup of financial sector risks and gradually rebuild 
+
+foreign exchange reserves if they are below prudent levels.
+ Large fiscal challenges remain in CESEE
+, despite progress with consolidating the fiscal stance 
+and improving the quality of budgets in recent years.
+ Can CESEE countries reconcile fiscal 
+consolidation with growth? The analysis presented in this 
+Regional Economic Issues
+ report offers 
+some insights: 
+ Most CESEE economies entered the 2008
+09 global financial crisis with growth-
+unfriendly budgetary structures relative to their peers
+. On the 
+spending side
+, budgets were 
+characterized by high public consumption and large unproductive transfers. On the 
+revenue side
+, they were characterized by a disproportionate reliance on labor taxes, notably social security 
+contributions. Structures reflected a mixture of legacy issues from the economic transition of the 
+
+1990s, an aging population burdening social security systems, and 
+an orientation based on 
+Advanced Europe, which sustains similar budgetary structures but with support from much 
+
+higher per capita incomes. 
+ Budgets have generally improved since the global financial crisis,
+ when severe 
+pressure on many CESEE budgets forced fiscal adjustment. On the 
+revenue side
+, many countries 
+managed to shift the tax burden from taxes harmful to growth
+such as the corporate income 
+tax (CIT)
+to more neutral forms as taxation
+such as the Value-Added Tax (VAT). 
+On the 
+spending side,
+ countries with access to EU SCFs often managed to avoid large cuts in public 
+investment. Large fiscal savings came instead from reforming entitlement programs and 
+reducing public consumption.  
+ Fiscal consolidation in CESEE has not yet run its course, with sizable adjustment 
+needs remaining, especially in SEE
+. To safeguard or improve the quality of budgets during 
+consolidation, the focus should be on reducing unproductive transfers and further reforming 
+entitlement programs, including public pension systems. Restructuring public employment may 
+
+also be called for, especially where the public sector wage bill is high, either because of excessive 
+employment levels or disproportionately high public sector wages. On the revenue side, 
+policymakers should focus on achieving a sizable part of the adjustment through indirect taxes, 
+
+and consider the introduction or strengthening of carbon and property taxes.  
+ For countries that do not have urgent fiscal consolidation needs, fiscal reform is 
+still called for
+ to enhance the quality of their budgets
+, including by shifting taxation toward 
+indirect taxes, and increasing the efficiency of health and infrastructure expenditures. 
+CESEE REI FALL 2015 
+3 INTERNATIONAL MONETARY FUND
+ Approved 
+by Poul Thomsen
+ Prepared by 
+a staff team consisting of
+ Ernesto Crivelli, Plamen Iossif
+ov, Jiri 
+Podpiera
+, Faezeh Raei
+, Haonan
+ Qu,
+ Yan
+ Sun 
+and Jiae Yoo, with
+ input from 
+country teams and
+ research assistance 
+from
+ Tiberiu Scutaru 
+and Xuan Tu
+. The team was
+ led by Anna Ilyina and 
+Johannes Wiegand
+, under the 
+general
+ guidance of Jörg Decressin.
+ Administrative support was provided 
+by Gilda Ordonez
+-Baric.
+ CONTENTS
+ I. RECENT DEVELOPMENTS, OUTLOOK, AND RIS
+KS ___________________________________________
+ 5
+ A. Recent Developments 
+__________________________________________________________________________
+ 5
+ B. Outlook 
+_______________________________________________________________________________________
+ 14 C. Risks 
+__________________________________________________________________________________________
+ 17 II.FISCAL CONSOLIDATION IN CESEE AND IT
+S LONG-TERM IMPACT ON GROWTH 
+______ 20A. How Growth Friendly Are Budgets in CESEE? 
+_________________________________________________
+ 21 B. Budgetary Adjustment in the Wake of the Global Financial Crisis 
+_____________________________ 36 III.POLICY PRIORITI
+ES ________________________________________________________________________
+ 45ABBRE
+VIATIONS 
+_______________________________________________________________________________
+ 65 REFERENCES 
+___________________________________________________________________________________
+ 66 BOXES 
+1.1. CESEE EU Structural and Cohesion Funds 
+_____________________________________________________
+ 7 1.2. CESEE: Implications of a Slowdown in China and Emerging Markets 
+_________________________ 13 1.3. CESEE: Vulnerability to External Shocks 
+______________________________________________________
+ 19 1.4. Migration in the European Union 
+____________________________________________________________
+ 20 2.1. Public Pension Spending and Pension Sustainability 
+________________________________________
+ 24 2.2. Public Spending Efficiency 
+___________________________________________________________________
+ 29 2.3. Taxes on Property 
+___________________________________________________________________________
+ 31 2.4. Tax Rates 
+____________________________________________________________________________________
+ 40 FIGURES 
+1.1. CESEE: Quarterly GDP Growth 
+________________________________________________________________
+ 6 1.2. CESEE: Contributions to Real GDP Growth 
+____________________________________________________
+ 6 1.3. CESEE: Real Domestic Bank Credit to Private Sector 
+__________________________________________
+ 6 1.4. CESEE: Non-
+
+-to-Equity Ratios 
+___________________________________
+ 9 1.5. CESEE: Nonperforming Loan Ratios 
+___________________________________________________________
+ 9 1.6. CESEE: Headline Inflation 
+____________________________________________________________________
+ 10 1.7. CESEE: Net Capital and Financial Account Flows 
+_____________________________________________
+ 10 1.8. Oil price and Financial Market Developments 
+_______________________________________________
+ 11 1.9. CESEE: Net Capital and Financial Account Flows 
+_____________________________________________
+ 12 1.10. Flows into Foreign Exchange Traded and Mutual Funds Investing in Emerging Europe 
+____ 12 CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+4
+ 
+1.11. CESEE: Growth Forecasts and Revisions since May 2015
+ 
+________________________________
+____
+ 
+15
+ 
+1.12. CESEE: Inflation Forecast and Revisions s
+ince May 2015
+ 
+________________________________
+____
+ 
+16
+ 
+2.1. Public Spending and Income, 2014
+ 
+________________________________
+__________________________
+ 
+22
+ 
+2.2. Budgetary Structures, 2014
+ 
+________________________________
+________________________________
+__
+ 
+23
+ 
+2.3. Actual vs. Model
+-
+Implied CESEE Budgets
+ 
+________________________________
+____________________
+ 
+27
+ 
+2.4. Estimated Impact of Fiscal Policy on Long
+-
+term Growth
+ 
+________________________________
+_____
+ 
+33
+ 
+2.5. Growth 
+Friendliness of Budget Structures, 2008 and 2014
+ 
+________________________________
+___
+ 
+35
+ 
+2.6. Fiscal Adjustment, 2008
+-
+14
+ 
+________________________________
+________________________________
+__
+ 
+37
+ 
+2.7. Changes in Budget Structures, 2008
+-
+14
+ 
+________________________________
+_____________________
+ 
+39
+ 
+2.8. Growth Friendliness of Changes in Budget Structures, 2008
+-
+14
+ 
+_____________________________
+ 
+41
+ 
+2.9. Size vs. Composition of Adjustment, 2008
+-
+14
+ 
+________________________________
+_______________
+ 
+42
+ 
+3.1 CESEE: Headline Inflation, 2015
+ 
+________________________________
+______________________________
+ 
+45
+ 
+3.2. CESEE: Estimated Remaining Adjustment Needs
+ 
+________________________________
+_____________
+ 
+46
+ 
+3.3. IMF Survey
+-
+Based Scores on Obstacles  to the Resolution of Nonperforming Loans
+ 
+________
+ 
+47
+ 
+3.4. CESEE: Long
+-
+Term Growth Forecasts in 2007 and 2015
+ 
+________________________________
+______
+ 
+47
+ 
+TABLE
+ 
+1. CESEE: Regional Risk Assessment Matrix
+ 
+________________________________
+______________________
+ 
+18
+ 
+ANNEXES
+ 
+I. CESEE: Growth of Real GDP, Domestic Demand, Exports, and Private Consumption, 2013
+
+16
+ 
+_
+ 
+48
+ 
+II. CESEE: Consumer Price Index 
+Inflation, Current Account Balance, and External Debt, 2013
+
+16
+ 
+_____
+ 
+49
+ 
+III. CESEE: Evolution of Public Debt and General Government Balance, 2013
+
+16
+ 
+_________________
+ 
+50
+ 
+IV. Methodology to Obtain Cyclically
+-
+Adjusted  Revenues/Expenditures
+ 
+________________________
+ 
+51
+ 
+V. Country Coverage
+ 
+________________________________
+________________________________
+_____________
+ 
+52
+ 
+VI. Budget Stru
+ctures and Country Characteristics
+ 
+________________________________
+_______________
+ 
+53
+ 
+VII. Fiscal Policy Instruments and Economic Growth: A Panel Data Analysis
+ 
+______________________
+ 
+56
+ 
+VIII. 
+Large Fiscal Consolidations: Country Experiences
+ 
+________________________________
+___________
+ 
+61
+ 
+CESEE REI FALL 2015
+ 
+5
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+I. 
+RECENT DEVELOPMENTS
+, 
+OUTLOOK
+, AND RISKS
+ 
+While a modest contraction in activity is expected this year for the Central, Eastern and South
+-
+eastern Europe (CESEE) as a whole, 
+this reflects widely divergent country
+-
+specific developments
+. 
+Most 
+economies are growing at a relatively healthy pace, 
+with t
+he exception of 
+Russia and the rest 
+of the CIS
+, which
+ 
+are in recession. 
+CESEE growth is expected to turn positive in 2016, but risks are 
+tilted to the downside. 
+Regional
+ 
+financial markets have, generally, weathered well the recent bouts 
+of market volatilit
+y stemming from worries about Grexit, slowing activity in China, and falling 
+commodity prices
+.
+ 
+ 
+A
+.   
+Recent 
+Developments
+ 
+In the first half of 
+2015
+, 
+economic development
+s 
+continued to differ widely 
+across 
+CESEE 
+countries 
+(Figure 1
+.1
+)
+:
+ 
+ 
+
+ 
+In 
+Central a
+nd Eastern Europe (CEE) and 
+Southeastern Europe
+an EU member
+s
+ 
+(SEE EU) 
+the 
+recovery
+, generally,
+ 
+proceeded
+ 
+at a 
+solid
+ 
+pace
+. The main tailwinds were 
+stronger
+ 
+domestic 
+demand, 
+lower oil prices, 
+improved euro area growth prospects 
+following 
+the launch of the 
+EC
+
+quantitative easing (
+QE
+)
+,
+ 
+and 
+increased
+ 
+absorption of 
+the 
+EU 
+Structural and Cohesion 
+Funds 
+(SCFs)
+. 
+Both CEE and SEE EU
+ 
+also 
+benefited from improved 
+competitiveness vis
+-
+à
+-
+vis 
+the rest of the world, as
+ 
+their 
+currencies weakened along 
+with the euro. 
+ 
+
+ 
+Most 
+SEE non
+-
+EU 
+economies
+, except Serbia,
+ 
+also saw relatively strong growth
+. 
+In contrast
+, 
+Serbia 
+is
+ 
+only gradually 
+emerging 
+from the recession 
+caused by the devastating floods in 2014
+.
+ 
+
+ 
+Growth in the 
+Baltics
+ 
+has softened
+ 
+this year 
+due to 
+larger
+-
+than
+-
+expected spillovers from the 
+recession in Russia and other CIS
+ 
+countries
+.
+ 
+
+ 
+In Turkey
+, 
+growth remained robust
+,
+ 
+in the face of downside risks to invest
+or confidence 
+stemming from 
+political uncertai
+nty and elevated corporate debt
+.
+ 
+
+ 
+Russia and the 
+rest of the
+ 
+CIS
+ 
+are in recession
+.
+ 
+The Russian 
+economy
+ 
+contracted 
+due to
+ 
+a 
+combination of 
+continued Western sanctions, 
+low
+ 
+oil prices
+,
+ 
+and 
+structural weaknesses
+. The 
+recession
+ 
+deepened in Ukraine, reflecting declining activity in the eastern conflict zone
+ 
+and 
+ongoing macroeconomic adjustment
+. Russia
+
+ 
+has had a negative effect on activity 
+in other CIS countries 
+through the trade and remittances c
+hannel
+s
+ 
+and 
+via 
+confidence effects 
+on consump
+tion and investment
+.
+ 
+Domestic demand
+ 
+was generally robust outside the CIS, with investment growth supported 
+by greater absorption of EU SCFs. 
+Private 
+consumption 
+remained buoyant across CESEE EU 
+countries and Turkey (Figure 1.2), on the back of lower oil prices and favorable employment and 
+in
+come dynamics
+. 
+Investment 
+surged in 
+SEE EU
+ 
+countries and remained a major growth factor in 
+CEE EU
+, driven by the s
+harp acceleration 
+in 
+the absorption of 
+SCFs
+ 
+before 
+the pending
+ 
+deadline 
+for use of budgeted amounts for 2007
+
+13
+ 
+(
+Box 1.1). 
+In 
+contrast, consum
+ption 
+and investment 
+in 
+the 
+CIS declined 
+in response to worsening terms of trade, tighter credit conditions 
+(Figure 1.3)
+, 
+and strong inflationary pressures (Figure 1.
+6
+)
+.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+6
+ 
+Figure 1
+.1
+. CESEE: Quarterly GDP Growth 
+(Percent, year over year)
+ 
+ 
+ 
+Sources: Haver Analytics; and IMF staff calculations Note: CESEE = 
+Central, Eastern, and 
+Southeastern Europe
+;
+ 
+CEE = 
+Central and Eastern Europe
+; SEE = 
+Southeastern Europe; CIS = Commonwealth of Independent States
+.
+ 
+ 
+Figure 
+1.
+2. CESEE: Contributions to Real GDP Growth 
+(Percent, year over year)
+ 
+ 
+ 
+Sources: Haver Analytics; and IMF staff calculations Note
+s
+: CESEE = 
+Central, Eastern, and 
+Southeastern Europe; 
+Semi
+-
+annual 
+data constructed as the average of the respective quarterly data.
+ 
+ 
+Figure 
+1.3
+. CESEE: Real 
+Domestic 
+Bank Credit to Private Sector
+ 
+(12
+-
+month growth rates net of 
+foreign exchange
+ 
+valuation 
+effects
+ 
+and CPI
+-
+deflated
+, percent)
+ 
+ 
+Source: EBRD, ECB, Haver Analytics, IMF 
+International Financial Statistics
+, and IMF staff estimates.
+ 
+Note
+s
+: CESEE = 
+Central, Eastern, and 
+Southeastern Europe
+; CEE = 
+Central and Eastern Europe
+; SEE = 
+Southeastern 
+Europe; CIS = Commonwealth of Independent States; CPI = Consumer Price Index
+.
+ 
+ 
+CESEE REI FALL 2015
+ 
+7
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Box 1
+.1
+. CESEE: EU Structural and Cohesion Funds 
+1/
+ 
+The 
+
+one
+-
+third of the total 
+EU budget
+ 
+(192.6 billion euro over 2014
+
+20)
+. Their main objectives are to promote convergence, regional 
+competitiveness and employment, and thus to improve th
+e functioning of the internal 
+EU 
+market. All EU countries 
+are beneficiaries, with lower income CESEE countries receiving proportionately bigger shares relative to their GDP. 
+
+offered by t
+he European Commission
+ 
+(
+EC
+)
+ 
+oversight, national authorities provide around 15 percent co
+-
+financing to ensure ownership
+,
+ 
+depending on the 
+operational program. Certain costs, for instance most land purchases and 
+value added taxes
+ 
+on inputs, have to be 
+fully 
+covered by national authorities, at times raising the effective co
+-
+financing to 40
+
+50 percent. Moreover, 
+operating costs, 
+such as
+ 
+those for 
+waste management projects, are fully born
+e
+ 
+by the beneficiary. 
+ 
+ 
+There are three SCFs
+: (
+1
+) 
+the
+ 
+European Fund for Regional Development
+, which is tasked with modernizing 
+economic structures (e.g., improve public administration), infrastructure (e.g., improve metro systems), 
+and 
+support 
+R&D
+ 
+and innovation
+, 
+environmental protection (
+e.g.,
+ 
+solar 
+and wind energy, waste water and 
+sewage projec
+ts), etc.; (
+2
+) the 
+European Social Fund
+, which focuses 
+on increasing worker and enterprise 
+adaptability
+ 
+and
+ 
+employment 
+participation, and reinforcing social 
+inclusion, 
+among other areas
+; and 
+           
+(
+3
+) 
+the 
+Cohesion Fund
+, which 
+supports regions with 
+per capita 
+g
+ross 
+n
+ational 
+i
+ncome 
+of less than 90 
+percent of
+ 
+the EU average
+, 
+in the 
+transport, environment and energy 
+sectors
+.
+ 
+The allocations from the first 
+two funds are guided by the 
+principle 
+of additionality
+, under which only new 
+projects can be 
+financed.
+ 
+The funds are primarily spent on public and private investment, but also on goods and services
+. CESEE 
+countries use a bigger share of the SCF allocations, relative to the 
+average for the EU, for
+ 
+transportation 
+infrastruct
+ure and environmental pro
+j
+ects
+ 
+(
+see F
+igure
+ 
+above
+). Both CEE and SEE EU countries invest less in R&D 
+than their EU peers.
+ 
+ 
+SCF allocations are budgeted over 7
+-
+
+ 
+(e.g., 2007
+
+13; 2014
+
+20). Funds that are not 
+drawn within the pertinent deadlines (i.e., two 
+years 
+(
+N+2) or three years (N+3) are, generally, lost for recipients. 
+SCFs are administered by national authorities under close monitoring by the EC. Following the negotiation of 
+
+tates for each program 
+
+National authorities choose the individual projects, with the EC monitoring all aspects of the process, including 
+proc
+urement procedures, IT systems, audit practices, etc. There is typically under
+-
+execution of SCF absorption in 
+the beginning of each program period (figure below). Besides some advance payments at the start of each 
+program period, reimbursements are made up
+on the presentation of invoices vetted and ultimately certified 
+initially by the national certifying authority
+ 
+and then by the EC
+. If proper procedures are not followed, 
+
+regulations, or outright fraud, 
+may be identified. In cases of serious irregularities, the reimbursement of EU Funds can be suspended. Confirmed 
+irregularities also trigger an adjustment in EU co
+-
+financing, ranging from a haircut to a full charge back to 
+g
+overnments. The EU grants, however, may not always be fully lost, since they can be reallocated to other 
+
+-
+
+ 
+ 
+Breakdown of 2007
+-
+13 Structural and Cohesion Funds 
+by Type
+s
+ 
+of 
+Projects 
+(Shares in national allocations
+, percent
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source
+s
+: European Commission and IMF staff estimates.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+8
+ 
+Czech Republic, Bulgaria and Slovak
+ 
+Republic
+ 
+have sharply increased the absorption
+ 
+(ratio of EC pay
+-
+outs 
+relative to budget allocation) 
+of 2007
+
+13 funds in the run
+-
+up to the pending deadline for their use
+. In 
+the 
+case of Romania and 
+Hungary, 
+EC payouts were not as strong 
+in the first half of the yea
+r
+. In Hungary, this was 
+due 
+to the suspension of some operational programs
+, with the burden of payment temporarily shifted to the national 
+budget. 
+In 
+Romania, there is a discrepancy in the timing of recording of disbursements between the EC data and 
+fiscal
+ 
+accounts
+, as the former are on a cash basis and the latter are on a commitment basis. Fiscal data
+ 
+point to an 
+increase in absorption in 
+the first half of 
+2015. For all countries, the absorption in the second half of the year is 
+expected to be even stronger, as countries strive to reach 
+certified 
+payout rates 
+of 
+95 percent. 
+On the other hand, 
+Lithuania and Estonia have already absorbed most of the available 
+funds from the 2007
+
+13 
+program 
+period. 
+ 
+The hastened absorption could, however, adversely 
+affect growth 
+and fiscal positions
+:
+ 
+
+ 
+Rushed projects may be more prone to irregularities, which may 
+result in larger fiscal burden in 2015
+
+16. 
+ 
+
+ 
+If they were to materialize, recently floated ideas about 
+retroactively 
+providing 
+EU funding for projects that or
+iginally 
+had 
+been fully domestically financed would create risks for 
+use of th
+e 
+newly created fiscal space
+ 
+for unproductive current spending.
+ 
+
+ 
+Since efforts have been focused on the previous 
+seven
+-
+year 
+program period, preparations for the new period (2014
+
+20) have 
+been delayed in some countries. This may cause a slump in 
+absorption of SCFs in 2016, adversely affecting growth. 
+ 
+
+ 
+Priority may have been given to shovel
+-
+ready projects (e.g., 
+amelioratio
+n of urban public spaces) rather than to ones that 
+could better enhance potential output. 
+ 
+
+ 
+The 20
+1
+4
+-
+20 budget envelope is 10 percent larger than the 2007
+-
+13 one in nominal terms, but significantly 
+smaller in percent
+age
+ 
+of 
+the 
+
+refore, 
+the 
+impact 
+of 
+SCFs
+ 
+on growth will likely 
+p
+rogressively decline, unless more efficient
+ 
+use 
+of the 
+funds 
+will compensate
+ 
+for their smaller relative size.
+ 
+These potential downsides are likely to be less of an issue in the Baltics, which have demonstra
+ted better 
+preparedness to absorb SCFs in a 
+more 
+timely manner. 
+ 
+___________
+ 
+1/
+ 
+This box was prepared by Plamen Iossifov and Tonny Lybek.
+ 
+CESEE: Payouts from EU Structural and Cohesion Funds 
+under
+ 
+2007
+
+13 
+Program
+ 
+(Percent of recipient country's GDP)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: European Commission and IMF staff estimates. 
+Note: 
+2015 data is until June and 
+are
+ 
+divided by half of projected 2015 GDP.
+ 
+ 
+CESEE: EU SCF Allocations 
+ 
+ 
+(Percent of GDP in first year of program)
+ 
+Source: European Commission and IMF staff 
+estimates.
+ 
+ 
+CESEE REI FALL 2015
+ 
+9
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+C
+risis legacies
+
+private sector debt overhangs and 
+high 
+nonperforming loans (NPLs)
+
+ 
+continue to weigh on economic activity 
+and credit growth in parts of the region
+.
+ 
+While 
+many countries have made significant
+ 
+adjustment 
+
+ 
+as reflected 
+in 
+a notable improvement in the 
+private sector net saving
+-
+investment balance
+s
+ 
+and 
+a decline
+ 
+of 
+banking sy
+stems
+
+ 
+loan
+-
+to
+-
+deposit 
+rati
+o
+s 
+
+ 
+the balance
+-
+sheet repair is not yet 
+fully 
+complete
+d
+ 
+(Figure
+ 
+1.4)
+.
+ 
+The Spring 2015 REI (IMF, 
+2015b) 
+highlights the persistent debt overhang in several SEE and CIS economies 
+(notably, in 
+Bulgaria, Croatia, 
+and Ukraine
+)
+.
+ 
+Data 
+for
+ 
+2015:Q1 show
+ 
+that non
+-
+
+-
+to
+-
+equity ratios in Croatia, Latvia, Bulgaria, Romania, 
+and 
+Slovenia 
+are still 
+well 
+above the euro area 
+average
+.
+ 
+Reflecting weaknesses in private balance sheets a
+nd slow pace of distressed debt 
+resolut
+ion
+,
+ 
+t
+he
+ 
+aggregate 
+NPL
+ 
+ratios
+ 
+remain persistently high, exceeding 10 percent in man
+y SEE 
+and CIS countries (Figure
+ 
+1.
+5
+)
+.
+ 
+ 
+ 
+Figure 1.4
+.
+ 
+CESEE: 
+Changes in Domestic Deposit
+-
+Loan Gaps 
+and Priva
+te Savings
+-
+Investment 
+Balances
+ 
+(Percen
+t
+ 
+of GDP
+)
+ 
+Figure 1.5
+.
+ 
+CESEE: Nonperforming Loan Ratios
+ 
+(Percent)
+ 
+ 
+ 
+Source: 
+Eurostat
+, 
+Central Bank of Russia, 
+Orbis
+,
+ 
+and Fund staff 
+calculations.
+ 
+ 
+Note: 
+Data are not consolidated within the corporate sector. 
+Debt includes loans and securities.
+ 
+For Russia and Turkey, 
+the 
+ratios are calculated from firm
+-
+level data. 
+ 
+Sources: 
+IMF FSI database
+ 
+Note: NPL ratio is the ratio of gross nonperforming loans to 
+to
+tal 
+loans
+. The data for 2015 are either as of 2015:Q2 or the 
+latest available. 
+ 
+ 
+Inflat
+ion 
+trends
+ 
+remain divergent between
+ 
+CEE/SEE and CIS/
+Turkey
+. 
+The prolonged 
+disinflation across Europe reversed course in
+ 
+2015:Q1
+, but the reflation has 
+since
+ 
+stalled, as oil 
+prices fell
+ 
+again (Figure 
+1.
+6
+)
+.
+ 
+In 
+contra
+st, i
+nflation 
+has remained
+ 
+high or accelerated further in 
+Turkey and CIS countries, on the back of 
+expansionary policies (
+Turkey
+)
+ 
+and capital outflow 
+pressures that weakened
+ 
+domestic
+ 
+currencies.
+ 
+Inf
+lat
+ion expectations in SEE and CEE EU countries 
+have stabil
+ized at historically low levels 
+(Figure 1.7).
+ 
+The recent fall in inflation expectations in SEE and CEE EU countries
+ 
+
+for which 
+comparable data are available
+
+cannot be fully explained by their norma
+l response to falling oil 
+prices (see
+ 
+Box 1 in IMF (2015b) for details). Thus far, this overshooting does not appear to have 
+impacted real activity, but renewed disinflationary pressure would raise concerns of possible 
+unanchoring of inflation expectations. 
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+10
+ 
+Figure 
+1.
+6
+. CESEE: Headline Inflation 
+(Percent, year over year)
+ 
+ 
+Sources: Haver Analytics; IMF, national authorities; and IMF staff calculations.
+ 
+Note: CESEE = 
+Central, Eastern, and 
+Southeastern Europe
+; CEE = 
+Central and Eastern Europe; SEE = 
+South
+e
+astern 
+Europe
+; 
+CIS = Commonwealth of Independent States
+.
+ 
+ 
+Figure 1.
+7
+. CEE and SEE EU: Inflation Expectations
+ 
+Consensus forecasts of next year's inflation
+ 
+(
+P
+ercent)
+ 
+ 
+     
+Consumer expectations of average inflation 
+  
+ 
+     
+over the next 12 months 
+(
+I
+ndex)
+ 
+ 
+ 
+Sources:  European Comm
+ission and 
+Consensus Economics Forecasts
+.
+ 
+Notes: Euro peggers 
+
+ 
+Bulgaria and
+ 
+Croatia
+; Inflation targeters 
+-
+ 
+Czech Republic, Hungary, Poland, and 
+Romania
+; 
+It is 
+generally believed that firms 
+form their expectations using 
+ 
+professional forecasters
+
+, whereas households 
+tend 
+to 
+follow the general sentiment reflected in survey results
+. 
+Consumer inflationary expectations index reflect
+s
+ 
+survey
+ 
+responses to the question on price trends over next 12 months. It is calculated as +
+ 
+1* ( "Pecentage  thinking it will rise a lot")+ 1/2 * ("Pecentage thinking it will rise moderately"
+-
+ 
+1/2 * ("Pecentage thinking it 
+will stay about the same") 
+-
+ 
+1 * ("Pece
+ntage thinking it will fall").
+ 
+ 
+CESEE f
+inancial markets ha
+ve
+ 
+weathered 
+well the
+ 
+bouts of 
+market 
+volatility
+ 
+stemming from 
+worries about Grexit
+,
+ 
+slowing activity
+ 
+in
+ 
+China
+,
+ 
+and 
+falling
+ 
+commodity prices. 
+Across the 
+three periods
+ 
+discussed below, CESEE have
+ 
+generally 
+performed 
+better than 
+other 
+EM
+ 
+regions:
+ 
+ 
+
+ 
+The 
+
+boost
+: 
+since the start of the year, 
+equity and bond markets rallied across much 
+of the region
+, mirroring developments in 
+the euro area
+ 
+(Figure
+s
+ 
+1.
+8
+). 
+While 
+the 
+
+ 
+QE 
+raised inve
+stor confidence, 
+net 
+financial 
+flows 
+into CESEE markets 
+were
+ 
+negative
+ 
+in 2015:H1 
+(Figure 
+1.
+9
+)
+.
+ 
+In the case of EU member states, 
+however, 
+these outflows were
+ 
+more than offset 
+by the inflows of EU funds 
+through the capital account 
+(Figure 
+1.
+9
+). 
+ 
+CESEE REI FALL 2015
+ 
+11
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+ 
+Grexit 
+worries
+ 
+and 
+an increase in German bund yields
+: 
+T
+he 
+re
+-
+emergence of market 
+worries 
+about 
+Grexit in May and a correction in German bond yields had little impact on
+ 
+regional 
+financial markets, including SEE
+ 
+countries with sizable trade or
+ 
+financial links with
+ 
+Greece 
+(Figure
+s 1.
+8
+). The subsidiaries of Greek banks operating in the SEE countries experienced 
+some deposit outflows
+, which 
+remained in the domestic banking system (see below).
+ 
+ 
+
+ 
+Concerns about China slowdown
+ 
+and 
+commodi
+ti
+es sell
+-
+off
+: 
+D
+uring 
+July
+-
+September 2015, 
+equity markets across the region posted modest losses, while sovereign spreads widened by 
+less than 50 basis points in most countries (except Turkey), and only some currencies (Turkey, 
+Russia and other CIS
+ 
+countries
+) saw depreciation
+ 
+p
+ressures (Figure 1.
+8
+). The spike in global 
+risk aversion
+ 
+(VIX) in the last week of August triggered the largest outflows from mutual 
+funds investing in CESEE since the 
+
+s
+ 
+1.
+8
+ 
+and 1.
+10
+)
+. The 
+outflows were 
+largest from bond fun
+ds.
+ 
+ 
+Figure 1.
+8
+. Oil price and 
+Financial 
+Market Developments
+ 
+ 
+ 
+         
+Source: 
+Bloomberg.
+ 
+ 
+Note: 
+CESEE = 
+Central, Eastern, and 
+Southeastern Europe
+.
+ 
+1
+ 
+Euro bond spread.
+ 
+Exchange rates are vis
+-
+à
+-
+vis USD.
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+12
+ 
+What explains the resilience of 
+the 
+CESEE 
+financial markets?
+ 
+One reason is that t
+rade links of 
+the
+ 
+CESEE
+ 
+region with China are relatively small
+ 
+(Box 1.2). In addition, 
+the impact of China
+
+ 
+rebalancing on commodity prices is a positive terms
+-
+of
+-
+trade shock for most CESEE countries, in 
+contrast with emerging market
+ 
+commodity exporters (such as Brazil, Indonesia, 
+and 
+Russia). 
+At 
+the same time, m
+ost CEE and SEE countries are in a different 
+phase of the c
+redit cycles compared 
+with other emerging markets
+. 
+M
+any 
+CEE and
+ 
+SEE countries have
+ 
+made 
+notable 
+progress i
+n 
+private sector deleveraging 
+
+via improvements in the priv
+ate saving
+-
+investment balance
+s
+ 
+
+that 
+has reduced their external vulnerabiliti
+es 
+(Figure 1.11)
+. 
+This makes them more resilient to 
+changes in international investor sentiment. 
+That said, these countries 
+are not 
+immune to 
+a
+ 
+more 
+persistent rise in global risk aversion
+, which could 
+result in sustained
+ 
+capital
+ 
+outflows
+, with a
+ 
+greater i
+mpact on countries with a large
+r
+ 
+share of foreign investors in thei
+r local markets (such as 
+Poland
+ 
+and Hungary).
+ 
+ 
+Figure 
+1.
+9
+. CESEE: Net Capital and Financial Account F
+lows
+ 
+(Billions of US 
+dollars)
+ 
+ 
+Sources: Haver Analytics and IMF staff calculations.
+ 
+Notes: 
+CEE = Central and Eastern Europe; SEE = Southeastern Europe; 
+Capital account, which mostly comprises of EU Structural 
+and Cohesion Funds, is shown only in the first panel.
+ 
+Figure 
+1.10
+. Flows into 
+Foreign Exchange
+-
+Traded 
+and Mutual Funds 
+Investing in 
+Emerging Europe
+ 
+(
+Million U.S. dollars
+)
+ 
+Figure 
+1.11
+. 
+CESEE: Post
+-
+Crisis Private Sector 
+Adjustment 
+(Percent
+)
+ 
+      
+ 
+ 
+Source:
+ 
+Haver Analytics, EPFR
+.
+ 
+Source:
+ 
+WEO, IFS
+ 
+ 
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+13
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+ 
+Box 1.2. CESEE: Implications of a Slowdown in China and 
+Major 
+Emerging Markets 
+1/
+ 
+Figure. CESEE: Domestic Value
+-
+Added 
+Embodied in Chinese Final Demand, 2011 
+ 
+(Percent of GDP of exporting country)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: 
+OECD
+-
+WTO Trade in Value Added (TIVA)
+ 
+dataset.
+ 
+ 
+The direct trade links between CESEE and China 
+are small
+. 
+T
+he share of domestic value added from 
+the region consumed by China is less than 2 percent 
+
+those CESEE economies that are more integrated
+ 
+into 
+the global supply chains (the Czech and Slovak 
+Republics, and Hungary) are most exposed. This 
+suggests that
+
+in the absence of any impact of 
+
+premiums 
+
+the impact on CESEE would be small.
+ 
+ 
+Model 
+
+growth slowdown to CESEE via the real channel
+
+through both direct and indirect channels
+
+confirm that the impact is fairly small. 
+
+Flexible System of Global Models (FSGM) used for 
+this exercise is a multi
+-
+region, forward
+-
+looking, semi
+-
+structural model (Andrle, M., et. al., 2015). In the 
+model, lower growth in China affects world growth 
+through two channels. First, lower than expected 
+investment and growth in China implies weaker 
+exports for the rest of the 
+world. Second, it implies weaker global demand for commodities and lower 
+commodity prices (including oil and metals). The simulation assumes a weakening of Chinese growth by 
+around 1.5 percentage points on average over the next five years (relative to the 
+October 2015 WEO 
+baseline), combined with yuan depreciation vis
+-
+à
+-
+vis the dollar by 10 percent and an increase in the 
+Chinese risk premium by 100 basis points. All countries with policy space are assumed to use it to offset the 
+shock. Model simulations sho
+w that the impact on CESEE countries would be relatively small (see Figure 
+below). This is, importantly, due to the assumption that these countries have fiscal and in most cases 
+monetary space to engage in countercyclical policies that counteract the impac
+t of the shock.
+ 
+ 
+Spillovers from a broader economic slowdown in emerging economies would be bigger, but 
+manageable.
+ 
+The October 2015 WEO (Scenario Box 1) presents a scenario that assumes a slower pace of 
+catching
+-
+up and lower productivity growth, combined with a tightening of external financing conditions in 
+large emerging economies (including in Russia and Turkey). Co
+mmodity prices fall and emerging market 
+currencies depreciate in response to the growth slowdown and reversal of capital flows. 
+The key results are 
+as follows:
+ 
+ 
+
+ 
+The impact on smaller emerging economies in CESEE is double that under China
+-
+only slowdown, but
+ 
+is 
+short
+-
+lived and small relative to the size of the assumed negative shock on large emerging markets. 
+ 
+ 
+
+ 
+The substantially lower growth in Russia and Turkey compared to baseline under this scenario mostly 
+reflects the assumed slowdown of their own potenti
+al growth, rather than spillover effect from China 
+and other emerging economies. The spillover
+s
+ 
+
+ 
+ 
+to Russia and Turkey
+ 
+from 
+a
+ 
+structural slowdown in
+ 
+the 
+other emerging markets
+ 
+is of similar 
+magnitude to that in non
+-
+euro area EU countries.
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+14
+ 
+ 
+Some banks in
+ 
+SEE countries 
+saw deposit outflows during t
+he 
+Greek 
+crisis in late June/early 
+July
+ 
+2015
+.
+  
+Greek
+-
+owned subsidiaries 
+and branches 
+have a significant presence in five SEE 
+countries
+
+Albania, Bulgaria, FYR Macedonia, 
+Romania, and Serbia
+
+holding 12
+-
+22 percent of 
+total banking sector assets
+ 
+(see 
+IMF (2015b) for details)
+. In the immediate aftermath of the Greek 
+referendum, some subsidiaries of Greek banks experienced deposits outflows
+,
+ 
+although those 
+outflows were channeled to the rest of 
+the domestic banking system. Prudential measures and 
+enhanced monitoring that have been in place for some time, 
+along with
+ 
+other actions by national 
+central banks have 
+helped enhance 
+confidence
+ 
+and 
+have
+ 
+proven
+ 
+effective in dampening the 
+initial contagion
+. 
+The situation has 
+since 
+stabilized
+ 
+but authorities should
+ 
+remain vigilant
+.
+ 
+ 
+B
+.   
+Outlook
+ 
+The 
+2015 
+GDP 
+growth 
+forecast 
+for CESEE remains 
+broadly 
+unchanged 
+since the May 2015 
+REI, 
+but 
+there are
+ 
+notable 
+shifts 
+in contributions 
+of
+ 
+countr
+ies
+.
+ 
+ 
+Growth was revised up in 
+CEE 
+and SEE, 
+kept unchanged in Russia and 
+Turkey, and 
+revised down in the 
+Baltics
+ 
+and 
+other 
+CIS
+ 
+countries 
+(
+Figure 
+1.
+1
+2
+)
+.
+ 
+ 
+ 
+The 
+revisions to 2015 GDP growth 
+reflect 
+both 
+domestic and external factors
+ 
+(Figure 
+1.
+1
+2
+)
+: 
+ 
+ 
+
+ 
+External demand:
+ 
+The 
+
+QE
+,
+ 
+launched in March 2015
+, 
+has supported economic activity in 
+the euro area
+ 
+with positive effects on 
+CEE
+.
+ 
+At the same time, the rec
+essions in Russia and 
+Ukraine had negative spillovers on the
+ 
+CIS and the 
+Baltic 
+countries
+.  
+ 
+ 
+
+ 
+O
+il prices
+:
+ 
+Oil prices 
+returned to multi
+-
+year lows over the summer, extending their support of 
+real di
+sposable incomes in 
+most 
+CESEE, while dragging down
+ 
+growth in oil exporters
+ 
+(
+Russia
+)
+.
+ 
+ 
+Figure
+.
+ 
+CESEE: S
+imulations of Impact of China and EMs Growth Slowdown
+ 
+ 
+(Real GDP growth rates, percent)
+ 
+
+ 
+Note
+s
+: Baseline real GDP growth rates
+ 
+are from the October 2015 WEO; 
+WEO EMs slowdown scenario
+
+assumes slower 
+pace of catching
+-
+up and lower productivity growth, combined with a tightening of external financing conditions in large 
+emerging economies (
+including in Russia and Turkey); 
+Spillovers from 
+other 
+EMs slowdown
+ 
+scenario
+
+same as the WEO 
+EMs slow
+down scenario, except that there is no structural slowdown in Russia and Turkey and CESEE countries do not benefit 
+from flight
+-
+to
+-
+safety capital inflows from other emerging markets.
+ 
+ 
+1
+/
+ 
+This box was prepared by Plamen Iossifov
+, 
+Susanna Mursula
+, 
+Agustin 
+Roitman
+, and Jiae Yoo
+.
+ 
+ 
+CESEE REI FALL 2015
+ 
+15
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+ 
+Fiscal policy: 
+In Belarus, Bosnia and Herzegovina, and Kosovo, fiscal tightening is expected to 
+weigh on growth. Delays in public investment projects 
+will contribute to 
+lower 
+growth in 
+Montenegro. In con
+trast, greater
+-
+than
+-
+expected absorption
+ 
+of EU funds
+ 
+by the
+ 
+EU countr
+ies 
+outside the Baltics
+, 
+will 
+provide a boost to growth. 
+ 
+ 
+
+ 
+Domestic monetary and credit 
+conditions:
+ 
+Tighter 
+credit c
+onditions turned out to be
+ 
+more of
+ 
+a 
+drag 
+on 
+growth in
+ 
+the
+ 
+CIS
+ 
+than previously expected
+, while 
+monetary policy
+ 
+easing in 
+Russia 
+has 
+counteracted the 
+negative 
+terms
+-
+of
+-
+trade shock
+.
+ 
+ 
+
+ 
+Other country
+-
+specific factors: 
+T
+he conflict in Eastern Ukraine 
+has 
+take
+n
+ 
+a larger
+-
+than
+-
+expected
+ 
+toll on growth
+ 
+of the Ukrainian economy
+. On the other hand, growth in EU SEE and 
+CEE ha
+s 
+benefited from 
+improved domestic demand, supported by gains in consumer 
+confidence
+ 
+and
+ 
+wage growth.
+ 
+Figure 1.
+1
+2
+. 
+CESEE: 
+Growth 
+Forecast
+s
+ 
+and 
+Revisions
+ 
+since May 2015
+ 
+(Percent)
+ 
+ 
+ 
+ 
+ 
+Sourc
+e: 
+
+ 
+Note: CEE = 
+Central and Eastern Europe
+Europe; EU = European Union; SEE = 
+S
+outh
+-
+ 
+Eastern Europe; 
+CIS = Com
+monwealth of 
+Independent States; 1/ Domestic policies represent financial conditions and fiscal policy (including EU fund
+s); 2/ G
+eopolitical and
+ 
+domestic political uncertainty and 
+consumer confidence.
+  
+ 
+ 
+I
+nflation 
+projections for 2015 have 
+been revised down 
+across CESEE 
+since 
+the Spring 
+2015 
+REI
+.
+ 
+The main disinflationary drivers h
+ave been the renewed weakness in
+ 
+oil prices (with higher 
+transmission to consumer prices in the Baltics
+)
+ 
+and
+ 
+lower food prices in Russia and some SEE 
+non
+-
+EU countries (
+Figure 
+1.
+1
+3
+). Factors that contributed positively to inflation include the 
+depreciation of domestic currencies in 
+Turkey 
+and 
+CIS
+,
+ 
+excluding Russia
+,
+ 
+and the faster
+-
+than
+-
+anticipated closing of output 
+gaps in CEE and SEE EU
+. 
+Some country
+-
+specific factors, such as the 
+sharp tightening of monetary policy in Belarus (which adopted monetary aggregate targeting) 
+and the 
+cut 
+i
+n the value
+-
+added tax on 
+food 
+in Romania, had a sizable down
+ward impact on 
+inflation
+ 
+in these countries
+. In Turkey, both 
+inflation and inflation expectations remain elevated
+. 
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+16
+ 
+Figure 
+1.
+1
+3
+. 
+CESEE: 
+Inflation 
+Forecast 
+and 
+Revisions
+ 
+since May 2015
+ 
+(Percent)
+ 
+  
+ 
+ 
+ 
+Sourc
+
+ 
+Note: CEE = 
+C
+entral 
+and 
+E
+astern 
+Europe; EU = European Union; SEE = 
+South
+-
+Eastern 
+S
+outh
+-
+Eeastern 
+Europe; 
+CIS = 
+Com
+monwealth of 
+Independent States; 1/ Domestic policies include output gap and changes in taxes.
+ 
+ 
+In 2016, 
+growth 
+in many
+ 
+CESEE 
+countries is expected to continue at a pace 
+broadly similar 
+to that 
+in 
+2015, except in CIS and the Baltics 
+(Figure 
+1.
+1
+2
+ 
+and Annex I
+)
+. 
+As the 
+Russian 
+economy stabilizes and 
+contraction of activity slows
+ 
+and 
+Ukraine
+
+ 
+rebounds
+, 
+neighboring economies will be seeing higher growth rates in 2016. By contrast, t
+he anticipated 
+normalization of the annual absorption rate of EU SCFs will likely s
+low growth in CEE (
+Box 1.1).
+ 
+The expected sustained growth in SEE EU countries 
+is 
+predicated on a successful rotation of 
+investment expenditures from 
+the absorption of 
+EU funds 
+in
+to private investment. 
+In the SEE 
+non
+-
+EU countries, the IMF program with Serbia is forecast to help support a somewhat stronger 
+rebound from the 2014 recession. 
+ 
+ 
+Inflation trends will 
+continue to be bimodal 
+in 2016 
+(Figure 
+1.
+1
+3
+ 
+and Annex II).
+ 
+T
+he weakness 
+of emerging market cur
+rencies amidst the ongoing rotation of financial sector risks from 
+developed to emerging markets will keep inflation elevated
+ 
+in the CIS and Turkey
+, albeit on a 
+downward trajectory. The significant downward revision in 
+World Economic Outlook (
+WEO
+)
+ 
+medium
+-
+t
+erm projections of commodity prices are driving 
+mark
+downs to 
+inflation forecasts in 
+the rest of CESEE, though inflation is 
+generally 
+expected to move closer to central bank inflation 
+targets.
+ 
+The inertia in inflation expectations is contributing to the slo
+w pace of change in inflation 
+outcomes.  
+ 
+C
+.   
+Risks
+ 
+ 
+The balance of risks to CESEE growth has shifted from broadly neutral at the time of the 
+Spring 
+2015 
+REI to being tilted to the downside. 
+New risks to trade and capital flows 
+stemming from a possible further
+ 
+slowdow
+n in major emerging markets
+ 
+(
+notably, in 
+China)
+ 
+as 
+well as the ongoing refugee crisis in Europe 
+are the main
+ 
+add
+ition
+s
+ 
+to long
+-
+standing risks. 
+Table 
+
+likelihood and impact of these risks on the region.
+ 
+The
+y
+ 
+include:
+  
+ 
+CESEE REI FALL 2015
+ 
+17
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+ 
+W
+eaker
+-
+than
+-
+anticipated 
+external demand:
+ 
+ 
+o
+ 
+F
+rom 
+China
+: 
+While 
+direct trade links 
+between 
+CESEE
+ 
+and
+ 
+China are relatively small
+, 
+c
+ommodity exporters (Russia) and the most open 
+CESEE 
+economies (Czech 
+Republic
+, 
+Slovak 
+Republic, 
+and 
+Hungary) 
+would be most affected by a decline in the import 
+demand from China
+ 
+through both direct and indirect channels 
+(
+Box 1.
+2
+).
+ 
+o
+ 
+F
+rom 
+Russia
+: CESEE countries with close links to Russia
+/CIS
+
+notably, other CIS
+ 
+countries 
+and the Baltic states
+
+would be negatively affected 
+if the recession 
+in Russia 
+deepens
+ 
+further
+1
+.
+ 
+o
+ 
+F
+rom 
+the 
+euro area
+: 
+W
+eaker
+-
+than
+-
+expected
+ 
+euro area
+ 
+growth 
+would 
+take a toll on the CEE 
+and SEE EU
+, which are 
+most closely
+ 
+integrated in
+to 
+pan
+-
+European global value chains.
+ 
+The potential negative fallout from the Volk
+s
+wagen emissions scandal could be 
+damaging for the Czech and Slovak economies, and to a lesser extent, for Hungary and 
+Poland. 
+ 
+
+ 
+A s
+urge in financial 
+market 
+volatility
+ 
+and
+ 
+a
+ 
+tight
+ening in global financial conditions
+:
+ 
+Given 
+their
+ 
+high 
+dependence on foreign funding
+ 
+and generally compressed risk premiums
+ 
+(
+Box 
+1.
+3
+)
+, 
+CESEE
+ 
+countries are vulnerable to 
+tightening 
+of
+ 
+external financing 
+conditions
+ 
+that coul
+d be 
+triggered by 
+dislocations in 
+advanced or emerging markets:
+ 
+o
+ 
+Contagion from renewed selling pressures
+ 
+and 
+volatility in emerging markets
+ 
+(
+including 
+China
+)
+, 
+on account of weaker 
+emerging market 
+fundamentals
+ 
+could 
+result in 
+capital 
+outflows and liquidity strains on 
+CESEE 
+sovereigns and le
+veraged 
+firms. 
+ 
+o
+ 
+A return of financial stress in 
+the euro area 
+(e.g., on concerns about the Greek program) 
+remains a risk,
+ 
+particularly for weaker subsidiaries of Greek banks in 
+SEE
+, 
+as well as other 
+CESEE sovereigns and financial institutions that are 
+reliant on funding from the euro area
+.
+ 
+o
+ 
+A faster
+-
+than
+-
+expected 
+tightening in 
+the 
+U.S. 
+monetary polic
+y 
+or
+ 
+a persistent U.S. dollar 
+appreciation 
+could trigger a 
+reassessment of 
+emerging market
+ 
+prospects. A s
+trong
+er
+ 
+U.S. 
+dollar 
+and higher dollar borrowing cost
+s 
+may lead to 
+balance sheet strains in countries 
+with significant
+ 
+dollar
+-
+denominated debt
+, such as Russia, Turkey, 
+Hungary 
+and Ukraine.
+ 
+ 
+
+ 
+Intensification of geopolitical tensions 
+(
+around 
+Russia/Ukraine and 
+the 
+Middle
+-
+East) 
+could 
+prolong recessions in CIS co
+untries and dampen investor sentiment in other countries (
+e.g.
+, 
+the Baltics, Turkey). 
+The
+ 
+ongoin
+g refugee crisis in Europe 
+(
+Box 1.4)
+ 
+could 
+put pressure on 
+public finances, 
+disrupt trade flows
+
+as countries struggle to secure their borders
+
+and
+ 
+cause political tensions and divisions within the E
+uropean Union
+.
+ 
+ 
+ 
+                                        
+          
+ 
+1
+ 
+See 
+
+
+Neighboring Countries
+
+Paper.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+18
+ 
+ 
+Table 
+1
+. CESEE: Regional Risk Assessment Matrix
+ 
+Source of Risks
+ 
+Likelihood
+ 
+Impact
+ 
+ 
+Lower
+-
+than
+-
+expected growth in
+ 
+advanced economies/
+the euro area
+ 
+ 
+ 
+High
+ 
+ 
+Medium
+ 
+ 
+Further growth deceleration/decline in major EMs (BRICs)
+ 
+ 
+ 
+High
+ 
+ 
+Medium
+ 
+ 
+Surge in financial volatility/a tightening in financial conditions 
+ 
+ 
+ 
+High
+ 
+ 
+Medium
+ 
+ 
+Intensification of 
+geopolitical tensions
+/refugee crisis in 
+Europe
+ 
+ 
+ 
+Medium
+ 
+ 
+Medium
+-
+High
+ 
+Source: IMF staff assessment.
+ 
+Notes: The relative likelihood of risks reflects the IMF staff's subjective assessment of the risks surrounding the baseline.
+ 
+The    
+relative impact is based on country
+-
+specific assessments weighted by 
+purchasing
+-
+power
+-
+parity GDP. "Low" indicates a 
+probability below 10 percent, "Medium" indicates a  probability of 10 to 30 percent, and "High" indicates a probability of 30
+ 
+to 
+50 percent.
+ 
+ 
+ 
+There are also a number of 
+country
+-
+specific
+ 
+risks
+. In several countries in the region, there are 
+increased pressures for 
+populist fiscal loosening
+ 
+and worsening the composition of budgets that 
+may increase vulnerabilities and be viewed negatively by investors. Another risk is 
+an
+ 
+un
+-
+anchoring of inflation
+ 
+expectations
+,
+ 
+due to persistently low oil prices and weak inflation 
+expectations
+. 
+ 
+On the upside, lower oil prices and 
+p
+olicies aimed at supporting domestic demand may 
+boost activity 
+more than currently anticipated
+. 
+For example, 
+policy measures to unclog 
+financial intermediation 
+could
+ 
+boost CESEE domestic demand and a stepped
+-
+up ECB QE 
+could
+ 
+further
+ 
+improve
+ 
+euro area growth prospects as well as 
+CEE and SEE competitiveness.
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+19
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+ 
+ 
+Box 
+1.3
+. 
+CESEE: Vulnerability to External 
+Financial 
+Shocks
+ 
+1/
+ 
+CESEE: External Vulnerabilities 
+(Percent of GDP)
+ 
+ 
+Source: WEO, EBRD, and Fund staff calculations.
+ 
+ 
+ 
+ 
+CESEE: Gap Between Actual and Fitted 
+Sovereign CDS Spreads
+ 
+ 
+(
+August, 2015, 
+Basis points)
+ 
+Source: 
+Heinz and Sun (2014).
+ 
+ 
+ 
+C
+ountries 
+with 
+s
+izable external financing needs
+ 
+or 
+elevated sovereign credit spreads 
+are more 
+vulnerable
+ 
+to external financial shocks
+ 
+(
+see 
+Figure). 
+As 
+discussed in the Spring 2014 REI, the 
+level of 
+rollover ris
+k
+ 
+depends critically on the composition of external 
+borrowing. For some countries (most notably the Baltic 
+states) the rollover risks are mitigated by the fact that a 
+sizable portion of payments falling due is rela
+ted to the 
+inter
+-
+company loans
+, which h
+ave
+ 
+proven to be as stable 
+as FDI. On the other hand, countries that 
+have 
+a relatively 
+large share of maturing debt denominated in USD
+ 
+(Turkey, 
+Russia
+) are 
+more vulnerable to 
+the USD 
+appreciation and to the U.
+S. interest rate hikes
+. 
+In the 
+case of Hungary, t
+he
+ 
+FX conversion of mortgages 
+(finalized in February 2015) will be accompanied by a 
+reduction in short
+-
+term external debt, and less relian
+ce 
+on net FX swaps
+
+ 
+ 
+significantly
+ 
+lowering roll
+-
+over needs 
+f
+rom 2016 onwards 
+(see Figure).
+ 
+ 
+M
+arket 
+risk premiums are
+ 
+ge
+nerally
+ 
+compressed, 
+increasing the risk of abrupt correction. 
+Based on IMF 
+
+he
+ 
+CDS spreads for most CESEE
+ 
+countries are 
+lower than their
+ 
+model
+-
+based 
+medium
+-
+term norm
+s
+ 
+(see Figure)
+2
+/
+.
+ 
+T
+he 
+CDS spreads of 
+Hun
+gary, 
+Croatia, and Slovenia appear to be 
+particularly
+ 
+compressed, making these countries
+ 
+relatively more 
+vulnerable to a sharp
+ 
+decompressio
+n of risk premium
+s
+, 
+when global financial conditions tighten
+.
+ 
+For Turkey, the 
+higher
+-
+than
+-
+model
+-
+based estimate of the
+ 
+CDS spread is 
+likely a consequence of increased political 
+uncertainty
+. 
+ 
+ 
+More leveraged firms and households 
+are
+ 
+more 
+vulnerable to the negative funding shocks. 
+The latest 
+2015:Q1 data shows that the non
+-
+
+debt
+-
+to
+-
+equity ratios in 
+Bulgaria,
+ 
+Croatia, Latvia, 
+Romania, 
+and Slovenia
+ 
+remain elevated
+. 
+ 
+ 
+Countries with higher share of foreign investors in local markets 
+tend to be
+ 
+more 
+vulnerable to contagion
+.  
+For example, t
+he share of foreign holdings of local currency government debt 
+securities is particularly high (over 
+30 pe
+rcent of the total) in Hungary
+ 
+and
+ 
+Poland
+. 
+ 
+ 
+________________________________________________________________________________
+ 
+1/
+ 
+This box was p
+repared by 
+Yan
+ 
+Sun
+ 
+and Plamen Iossifov.
+ 
+2
+/
+ 
+The fundamentals
+-
+consistent values of CDS spreads are derived from Heinz and Sun (2014) regression model that links them to 
+
+t 
+accou
+nt balance, public debt to GDP ratio, as well as the depth of the CDS market (proxied by 
+the 
+CDS bid
+-
+ask spreads), and global 
+investment sentiment (proxied by VIX).
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+20
+ 
+Box 1.4. 
+Making Sense of Different Attitudes toward 
+Migration
+ 
+among EU Countries
+1/
+ 
+The recent surge in migrant
+2/
+ 
+flows to Europe has put in the spotlight the long
+-
+standing issue of migration. 
+Governments have taken different approaches to the current humanitarian c
+risis, with some balking at the costs 
+imposed on EU frontier countries by the Dublin regulation
+
+under which requests of asylum seekers from outside 
+the EU 
+should be
+ 
+processed 
+in
+ 
+the country where they first enter
+
+while others suspending the 
+
+pr
+ovisions in or
+der to legally accept 
+migrants. What accounts for these differences in attitudes?
+ 
+ 
+International experience offers evidence on 
+both the 
+short
+-
+term 
+costs and 
+potential long
+-
+run 
+benefits of migration.
+ 
+An upcoming IMF 
+Staff Discussion Note argues that t
+he net fiscal 
+impact 
+of migration 
+is
+, initially, 
+likely to be 
+negative, reflecting the co
+st of humanitarian aid 
+and integration policies. Over time, however, the 
+fiscal burden diminishes, as migrants gradually 
+enter the labor force and contribute to tax 
+revenues.
+ 
+T
+he impact on employment and wages 
+of native workers is 
+generally found to be sma
+ll 
+and short
+-
+lived. I
+n the long
+-
+run
+, the 
+expansion of 
+the labor force should boost the potential output 
+of host countries.
+ 
+Fully leveraging on the human 
+capital potential of migrants depends crucially on 
+
+ 
+ 
+D
+ifferen
+t 
+countri
+
+-
+term costs or 
+long
+-
+term benefits can be seen as reflecting 
+differences in institutional capacities, income 
+levels, and 
+other 
+factors. 
+Migration flows are 
+driven, to a large degree, by differences in income 
+levels and strength of social safety nets between 
+sender and receiver countries. 
+Most CESEE 
+countries with per capita incomes below USD 
+15,000 (PPP
+-
+adjusted) have been on the 
+sender 
+side of migration flows since the late 1980s
+ 
+(see 
+Figure
+ 
+above
+). Inward migration to wealthier 
+CESEE countries has been mos
+tly from other 
+CESEE countries. Overall, the 
+share of foreign
+-
+born persons living in Central, Eastern, and 
+Southeastern Europe
+ 
+(CESEE) is much lower than 
+in Western Europe (see Figure below).
+ 
+CESEE 
+countries, 
+therefore, 
+general
+ly 
+lack the 
+institutional setup and knowhow to integrate 
+large numbers of migrants from outside Europe.
+ 
+T
+
+more limited 
+hist
+oric links with coun
+tries outside Europe
+.
+ 
+________
+ 
+1/
+ 
+This box was prepared by Gil Mehrez and Plamen Iossifov (with input from Krzysztof Krogulski).
+ 
+2/
+ 
+T
+he term migrant refer
+s
+ 
+
+(
+www.bbc.com/news/world
+-
+europe
+-
+34131911
+).
+ 
+Eur
+ope: Net Migration and Initial Income Levels
+ 
+Sources: Eurostat, World Bank World Development Indicators
+,
+ 
+and IMF 
+staff calculations.
+ 
+ 
+Europe: Share of Foreign
+-
+Born 
+Persons 
+in 
+Total 
+Population, 
+2014 
+(Percent)
+ 
+                             
+ 
+ 
+Source: 
+Eurostat.
+ 
+Note: Foreign
+-
+born refers to people born in other countries, including 
+EU members.
+ 
+ 
+CESEE REI FALL 2015
+ 
+21
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+II
+.
+ 
+FISCAL CONSOLIDATION
+ 
+IN CESEE AND ITS 
+LONG
+-
+TERM 
+IMPACT ON 
+GROWTH
+ 
+ 
+After the onset of the global financial crisis, 
+economies in 
+CESEE came under pressure to 
+correct external and internal imbalance
+s
+. By now, much of the external 
+adjustment 
+has taken 
+place, via increases in private and public savings and, mainly, 
+through 
+declines in investment 
+relative to GDP
+
+a process that 
+has come with high unemployment
+ 
+in ma
+n
+y cases.
+2
+ 
+ 
+T
+he global financial crisis of 2008
+-
+09 forced sharp, pro
+-
+cyclical fiscal adjustments
+ 
+on many 
+CESEE countries
+, typically triggered by a sharp tigh
+tening in financing conditions and the re
+-
+assessment of longer
+-
+term growth prospects. Fiscal adjustment is not yet complete, 
+with 
+significant consolidation needs remain
+ing
+ 
+in several economies, many of them in South
+e
+astern 
+Europe (see below).
+ 
+ 
+The quality 
+of 
+fiscal
+ 
+adjustment is the focus of this chapter, taking a longer
+-
+term 
+perspective.
+ 
+As most countries 
+in CESEE 
+have emerged from the crisis and its aftereffects,
+ 
+this is 
+an opportune time to take stock of the 
+structural 
+quality of 
+their 
+budgetary systems,
+ 
+how these 
+have changed during adjustment, 
+and 
+of 
+reform needs that remain. 
+While there are several 
+
+-
+cutting 
+studies on expenditure and revenue reforms, notably in 
+the IMF Fiscal Monitor (2013, 2014), this 
+study takes a regional perspective, looking for common traits and lessons that can be drawn 
+
+ 
+ 
+The chapter focu
+ses
+ 
+on the 
+structural
+ 
+quality of budgets. 
+At its core are questions such as: do 
+revenue systems limit disincentives to work, save, and invest? Does government spending 
+promote productive activities
+
+particular
+ly
+ 
+the accumulation of physical and human capital
+
+or 
+does it finance mostly unproductive transfers? The focus is not on 
+cyclical
+ 
+budgetary 
+management, which is covered extensively in IMF bilateral surveillance, notably Article IV reports.  
+ 
+A
+.
+ 
+How Growth Friendly Are Budgets in CESEE? 
+ 
+Budge
+t structures in CESEE resemble more those of Advanced Europe than of other Emerging 
+Economies, 
+despite 
+significantly lower GDP level
+s
+. On the spending side, transfers and public 
+consumption tend to be higher than among peers, on the revenue side, CESEE government
+s
+ 
+rely 
+disproportionately on social security contributions and consumption taxes. Overall, 
+most 
+CESEE 
+countries
+ 
+entered the global financial crisis with relatively growth unfriendly budget
+ 
+structures.
+ 
+                                        
+          
+ 
+2
+ 
+See the Spring 2015 Regional Economic Issues report for a detailed discussion of the private sector balance 
+sheet adjustment in CESEE. 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+22
+ 
+CESEE Budget Structures Compared to Peers
+ 
+Budgetary syst
+ems in CESEE are young.
+ 
+Many of their features were put in place during the 
+economic transition from socialism 
+in
+ 
+the early 1990s. This (relative) youth has been both a 
+blessing and a curse
+. O
+n the one hand, CESEE countries could design many budgetary elem
+ents
+ 
+from scratch
+
+notably on the revenue side
+
+and in 
+so 
+doing could draw on international 
+experience. On the other hand, legacy issues burdened the transition, such as loss
+-
+making state 
+owned enterprises, overburdened social security systems, and excessive
+ 
+public employment. In 
+some cases, these issues inhibit fiscal policy to this day.
+ 
+3
+ 
+ 
+Public expenditure levels in Central and Eastern Europe (CESEE) are high and resemble 
+more those of Advanced Europe than of other Emerging Economies 
+(Figure 2.1). 
+4
+ 
+Despite 
+significantly 
+lower income levels, total spending as a share of GDP is close to Western European 
+standards, reflecting arguably 
+historical reasons, 
+geographic and cultural proximity
+,
+ 
+and a similar 
+understanding of the role of government. There are
+ 
+some differences 
+within
+ 
+CESEE: the Baltic 
+countries and Turkey tend to spend somewhat less than Central (CEE) and South
+-
+Eastern (SEE) 
+European countries, and also less than countries in the Commonwealth of Independent States 
+(CIS). However, these differen
+ces pale
+ 
+compared to the discrepancies with 
+public sectors in 
+Latin 
+America or Emerging Asia, both of which 
+absorb much smaller shares of GDP
+.
+ 
+Figure 2.1. Public Spending and Income, 2014 
+ 
+(Structurally ad
+justed)
+ 
+ 
+Sources: IMF World Economic Outlook database; and IMF staff calculations
+ 
+Note: s
+imple cross
+-
+country averages (as in all figures)
+. 
+ 
+                                        
+          
+ 
+3
+ 
+See Tanzi and Tsibouris (2000) or Kopits (2008).
+ 
+4
+ 
+Figures are drawn from the World Economic Outlook (WEO) database. All aggregates, including expenditure 
+and revenue categories, are adjusted for the business cycle, using a methodology developed by Bornhorst 
+et al. 
+(2011). See Annex IV
+ 
+for the adju
+stment 
+methodology, and Annex V
+ 
+for countries included in the sample.
+ 
+CESEE REI FALL 2015
+ 
+23
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Figure 2.2. Budgetary Structures, 2014 
+ 
+(Structurally adjusted)
+ 
+ 
+ 
+ 
+Composition of Government Expenditure
+ 
+(Percent of Potential GDP)
+ 
+ 
+ 
+ 
+Revenue Sources
+ 
+(Percent of Potential GDP)
+ 
+ 
+ 
+ 
+Sources: IMF World Economic Outlook database; and IMF staff calculations.
+ 
+The similarity with Advanced Europe shows up 
+as well
+ 
+in similar revenue and, especially, 
+spending 
+structures
+ 
+(Figure 2.2)
+.
+ 
+
+ 
+Expenditures.
+ 
+Transfers form a sizable portion of government spending, reflecting well 
+developed social safety nets and high outlays for public pensions (Box 2.1).
+ 
+Fo
+r public 
+consumptio
+n
+
+i.e., spending on goods and services
+
+and
+ 
+the public sector wage bill
+, 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+24
+ 
+expenditure levels in CESEE are 
+also 
+close to those of Advanced Europe.
+ 
+The exception is 
+public investment, where CESEE economies outspend Advanced Europe 
+by a substantial 
+margin (as
+ 
+a
+ 
+share of potential GDP). Disaggregating spending by sub
+-
+region shows that 
+Turkey differs from the rest of CESEE, with relatively smaller shares in transfers and public 
+consumption, in line with
+ 
+its smaller overall spending levels. Also in the Baltic count
+ries, 
+transfers are below the CESEE average.
+ 
+Revenues.
+ 
+The discrepancies with Advanced Europe are larger on the revenue side. CESEE 
+governments tend to raise a higher share of revenue from consumption taxes
+
+i.e. value 
+added tax (VAT) and excises
+
+than their
+ 
+western European counterparts. By contrast, they 
+raise less
+ 
+from direct taxes on personal 
+(PIT) 
+and corporate income
+ 
+(CIT)
+. For taxes on 
+personal income and property, the revenue yield in CESEE is less than half compared to that 
+in Advanced Europe.
+5
+ 
+Consumption taxes are an important revenue source especially in 
+Southeastern Europe
+, where yields 
+are 
+almost double th
+ose
+ 
+of Advanced Europe. Turkey 
+raises a relatively small share of revenue from social security contributions, in line with its 
+lower level
+ 
+of 
+transfers
+.
+ 
+Box 
+2
+.1. Public Pension Spending and Pension Sustainability
+1/
+ 
+ 
+The challenges for pension systems in Emerging Europe (EE) resemble those in Advanced Europe (AE). 
+Increasing 
+life expectancy and falling fertility rates have triggered rapid population aging. In the EE EU Member 
+States
+
+where comparable da
+
+
+the share of the 
+working 
+a
+g
+e population is expected to decline rapidly. W
+hile currently about 1.5 workers support one pensioner, 
+this is expected to be only one worker per pensioner in 2060 (for AE countries, the number of workers per 
+pensioner will fall from 1.9 to 1.4). 
+ 
+Progress with pension re
+f
+orm in Emerging Europe compare
+s favorably with Advanced Europe. 
+Many EE 
+countries began to introduce pension reforms 
+starting in the 
+early 2000s. Although the path and pace of 
+reforms differ across countries, most countries have reduced pension benefits, restricted early retirement, an
+d 
+increased the retirement age. As a result of these reforms, in m
+ost
+ 
+EE countries the net pension 
+deficit
+ 
+is 
+projected to be less than 2 percent of GDP by 2060. At the same time, public pension spending is projected to 
+fall
+ 
+by ¼ of a percentage point unti
+l 2060.
+6
+ 
+A 
+major
+ 
+concern is social sustainability of the pensions system. 
+A key element 
+of
+ 
+pension reform has been 
+the reduction in pension benefits through parametric reforms. As a result, the level of pensions
+
+already lower 
+compared to AE
+
+will decline further. Relative to wages, pension benefits are projected to fall on average by 10 
+percenta
+ge points until 2060. While such developments are unavoidable to render public pensions financially 
+sustainable, in a few countries, the benefit ratio and gross replacement rate are projected to fall below 20 
+percent in 2060. This looks unrealistic and rai
+ses concerns about intergeneration
+al
+ 
+equity. 
+ 
+ 
+                                        
+          
+ 
+5
+ 
+The gap is smaller for c
+orporate 
+income tax. High CIT yields are
+ 
+a distinctive characteristic of many developing 
+and emerging economies (Crivelli
+, Keen and De Mooij
+, 2015)
+ 
+6
+ 
+Total
+ 
+ageing
+-
+rela
+ted costs are projected to increase, however, reflecting the impact of ageing on issues like 
+health
+ 
+and
+ 
+long
+-
+term care
+ 
+expenditures.
+ 
+CESEE REI FALL 2015
+ 
+25
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+To ensure adequate retirement incomes in the future, EE policymakers should strive to raise the 
+effective 
+retirement age and encourage private savings.
+ 
+Aligning the retirement age with life expectancy alone co
+uld 
+improve the net pension balance by about 0.6 percentage points. Increases in public pension contributions may 
+also be called for in individual cases. The development of private pension savings schemes should be 
+encouraged, to complement public pensions
+ 
+for higher
+-
+earning workers. 
+ 
+EU: Change in Pension Spending, 2013
+-
+60
+ 
+(Percentage points of GDP)
+ 
+ 
+EU: Net Pension Balance, 2060
+ 
+(Percentage points of GDP)
+ 
+ 
+ 
+ 
+EU: Gross Replacement Rate
+ 
+(Percent)
+ 
+EU: Benefit Ratio
+ 
+(Percent)
+ 
+ 
+ 
+ 
+ 
+Source: European 
+Commission, The 2015 Aging report.
+ 
+___________
+ 
+1/
+ 
+This box was prepared by 
+ 
+Yan Sun
+ 
+ 
+CESEE REI FALL 2015
+ 
+26
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Differences in budget structures can reflect policy preferences, but also different structural 
+characteristics of the underlying economies. 
+For example, an open economy would typically 
+raise a larger portion of revenues from (indirect) trade taxes than a c
+losed economy. To separate 
+
+with a model
+-
+
+
+that is, 
+the budget one would expect from a country 
+with identical structural characteristics. The model
+-
+based budget is computed from cross
+-
+country 
+regressions covering 
+76
+ 
+advanced and em
+erging economies (Annexes V and V
+I for details).The 
+regre
+ssions suggest that 
+per
+-
+capita GDP is
+ 
+the most important 
+correlate
+ 
+of budget structures, 
+with richer economies collecting more revenue from income taxes, and spending a relatively 
+higher share of GDP on the public sector wage bill and on transfers. Other important 
+correlates
+ 
+are total GDP, openness, population density, age s
+tructure, and resource wealth. 
+ 
+ 
+Public spending in CESEE is generally higher than 
+the various 
+structural characteristics 
+suggest
+
+but especially so on transfers, public consumption, and other, unclassified 
+expenses. 
+On the revenue side, CESEE countries use particularly heavily social security contributions and 
+consumption taxes. As CESEE, 
+advanced
+ 
+Europe spends more on transfers than its structural 
+characteristics suggest, but
+
+in contrast to CESEE
+
+not on pub
+lic consumption. On the revenue 
+
+A
+dvanced Europe. 
+Differences in public investment and personal income tax between 
+A
+dvanced Europe and CESEE 
+are largely explained
+ 
+by structural ch
+aracteristics.
+ 
+ 
+What Makes a Budget Growth Friendly?
+ 
+Context
+ 
+The remainder of this chapter analyze
+s
+ 
+
+long
+-
+term growth. 
+Before advancing, some remarks are in order to place the analysis in context. 
+ 
+
+ 
+First, 
+su
+pporting growth is only one objective of fiscal policy. 
+In particular, fiscal policy 
+also pursues social and distributional objectives
+ 
+that may or may not correlate with growth
+
+t
+he
+ 
+link is complex. There can be conflicts: for instance, a shift from direct 
+to indirect taxes 
+reduces disincentives for work and savings, but it also decreases the amount of income 
+redistribution through the tax system. Similarly, cuts in transfers can encourage labor 
+participation but might worsen 
+equity. Th
+at
+ 
+said, well
+-
+designed
+ 
+f
+iscal packages can mitigate 
+such tra
+de
+-
+offs (Cournede et al., 2014).
+7
+ 
+For example, if the proceeds of a regressive yet 
+growth
+-
+enhancing tax reform are used to finance 
+productive
+ 
+spending, 
+for example on 
+education or health, 
+the 
+outcome may be higher growth and lower inequality (IMF, 2014
+b
+).
+ 
+                                        
+          
+ 
+7
+ 
+In general, expenditure
+-
+based fiscal consolidations are found to increase income inequality while revenue
+-
+based consolida
+tions are rather neutral (Ball and others, 2013) or may even decrease inequality (Mulas
+-
+Granados, 
+2005).
+ 
+CESEE REI FALL 2015
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+27
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Figure 2.3. Actual vs. Model
+-
+Implied CESEE Budgets 
+ 
+(Structurally adjusted, percent of potential GDP)
+ 
+ 
+ 
+ 
+Expenditure
+ 
+Revenue
+ 
+ 
+ 
+ 
+ 
+ 
+S
+ources: IMF World Economic Outlook database; and IMF staff calculations.
+ 
+
+ 
+S
+econd, 
+growth friendliness has a long
+-
+ 
+and a short
+-
+term dimension
+. In the short term, 
+the impact of 
+policies on 
+aggregate demand 
+can be more important than the structural 
+aspects discussed here. Cuts in transfers, for example, can be detrimental to aggregate 
+demand, even though they may improve labor market outcomes in the longer term. 
+A
+ 
+discussion of short
+-
+term demand stabilization
+ 
+is be
+yond the scope of this chapter
+.  
+ 
+
+ 
+Third, 
+not only taxa
+tion and spending levels matter
+ 
+for growth but also the quality of 
+government policy
+ 
+and institutions
+. On the revenue side, this includes issues such as tax 
+expenditures and the quality of tax administration. On the expenditure side, 
+spending 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+28
+ 
+efficiency 
+is critical
+. Box 2.2
+ 
+reports results for public infrastructure, health, and education. 
+They 
+point to re
+latively strong education
+al outcomes 
+in CESEE
+ 
+relative to the amount spent 
+on public education
+. This is less the case though for
+ 
+health and public infrastructure (the 
+latter with the exception of the Baltic countries). 
+Thus, 
+
+n 
+public investment may
+ 
+compensate 
+in part for lower spending efficiency.
+ 
+Theory
+ 
+Economic theory offers some insights
+ 
+into how budgetary policies can support growth 
+(Anschauer, 1989; Barro and Sala
+-
+i
+-
+Martin, 1992;
+ 
+Mendoza et al., 1997). 
+ 
+For
+ 
+government rev
+enues
+,
+ 
+theory suggests that
+, at an aggregate level, taxation 
+of income 
+tends 
+to be 
+more harmful 
+to 
+growth than taxation of consumption. 
+ 
+
+ 
+Taxation of capital income
+ 
+reduces the return on savings and investment, thus discouraging 
+domestic investment, 
+foreign
+ 
+direct investment
+ 
+and productivity improvement (
+Hall and 
+Jorgenson, 
+1967; 
+Lee and Gordon, 
+2005). With capital being fairly mobile, high capital taxes 
+can also drive corporate activity across borders
+ 
+absent international cooperation
+. Such tax 
+arbitrage by 
+multinational companies can be especially detrimental for emerging economies 
+(
+De Mooij and Ederveen, 2008
+; 
+Dharmapala, 
+2014
+; 
+Crivelli, Keen and De Mooij, 2015). 
+ 
+
+ 
+Labor taxes
+ 
+can reduce both the demand for and supply of labor
+. 
+Social security contributions
+ 
+can be especially harmful to employment if they interact with the withdrawal of 
+social 
+
+
+that is,
+ 
+high effective 
+marginal tax rates at the lower e
+nd of the income distribution (
+Blundell el 
+al. 1998; Eissa and 
+Liebman 1996; Pissarides 1998)
+. 
+ 
+
+ 
+By contrast
+, broad
+-
+base
+ 
+consumption taxes
+ 
+discourage neither savings nor employment. 
+Some taxes
+
+such as environmental taxes
+
+can even improve resource allocation and correct 
+market failures (IMF, 2015
+a
+; W
+oo et al., 2013; Agnello and Sousa, 2012). 
+At the same time, 
+indirect taxes tend to be regressive.
+ 
+Sector
+-
+specific 
+taxes, 
+by contrast
+,
+ 
+can be especially 
+distortionary and growth unfriendly.
+ 
+In line with these arguments, a series of 
+papers by the Organization for Economic Cooperation 
+and Development 
+(Johansson
+ 
+et al.
+, 2008; Arnold, 2008) has 
+developed
+ 
+
+
+growth, followed by labor t
+axation. By contrast, recurrent taxes on immovable property are the 
+least distortive tax instrument 
+(Box 2.3), followed
+ 
+by broad
+-
+base consumption taxes, particularly 
+VAT.  
+ 
+CESEE REI FALL 2015
+ 
+29
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Box 2.
+2. Public Spending Efficiency
+1/
+ 
+ 
+
+
+that is, 
+achieving policy objectives with minimal public expense
+
+is 
+critical 
+for 
+high
+-
+quality fiscal policy.
+ 
+
+
+
+
+e.g.
+, 
+average PISA 
+test scores
+
+against an 
+input variable
+
+education spending. The frontier is formed by a linear combination of the countries that achieve 
+specific outcomes at the lowest cost.
+ 
+8
+ 
+
+is summarized by 
+an 
+
+that is,
+ 
+the ratio of the frontier
+-
+
+is at the frontier. A score of less than one indicates that the country has room to save by impro
+ving efficiency.
+ 
+ 
+Th
+is
+ 
+box analyzes spending efficiency in three key areas: public infrastructure, health, and education. 
+Outcomes for CESEE countries vary greatly across these three areas.
+ 
+ 
+
+ 
+Infrastructure.
+ 
+Most CESEE countries have not only poorer infrast
+ructure than Advanced Europe, they also 
+lag Advanced Europe as regards the efficiency 
+of 
+public 
+investment 
+provision. The exception 
+are
+ 
+the Baltic
+s, 
+which are
+ 
+close to the efficient frontier.  By contrast, SEE countries have most room to improve. 
+ 
+
+ 
+Health.
+ 
+H
+ealth spending in CESEE countries is 
+also 
+less efficient than in Advanced Europe.
+ 
+Further, the 
+health expenditure efficiency in CESEE countries is at the lower end of emerging market economies. Some 
+SEE countries have higher efficiency with a very low lev
+el of expenditure. CIS countries have the most room 
+to improve efficiency.
+ 
+
+ 
+Education. 
+By contrast, education expenditure in CESEE countries is relatively efficient. Turkey (and to a 
+lesser extent the SEE region) is close to the efficient frontier, with relatively low levels of education 
+spending. Many Baltics and CEE countries have similar 
+educational 
+scores as Advanced Europe, but achieve 
+this with a significantly lower education expenditures.
+ 
+Public Capital Stock Efficient Frontier
+ 
+Public Capital Stock Efficiency Score Distribution
+ 
+ 
+ 
+ 
+ 
+ 
+                                        
+          
+ 
+8
+ 
+See Herrera and Pang (2005) for more on Data Envelopment Analysis methodology.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+30
+ 
+Health Expenditure Efficient Frontier
+ 
+ 
+Health 
+Expenditure Efficiency Score Distribution
+ 
+ 
+ 
+ 
+Government Education Expenditure Efficient 
+Frontier
+ 
+ 
+Government Education Expenditure Efficiency 
+Score Distribution
+ 
+ 
+ 
+ 
+Source: Public capital stock and infrastructure indicator data are provided by FAD 9FAD notes Center for International Compar
+ison 
+(2013). World Economic Forum (2014), OECD (2014), WEO, World Development Indicators (2014) as sources. Health expenditure, li
+f
+e 
+expectancy, and government education expenditure data are from World Development Indicators. PISA 
+(Program for International 
+Student Assessment) 
+score
+s
+ 
+are
+ 
+from OECD (2012). 
+ 
+ 
+Note: The sample includes all countries whose data are available. The box plot
+s on right panels show 25
+th
+, 50
+th
+, and 75
+th
+ 
+percentile, 
+with the whiskers showing minimum and maximum values. For smaller groups, CESEE, SEE, Baltics, CIS, and Turkey, only the rang
+es 
+are presented.
+ 
+___________
+ 
+1/
+ 
+This box was prepared by 
+ 
+Jiae Yoo.
+ 
+ 
+On the 
+expenditure side,
+ 
+ 
+
+ 
+public investment
+ 
+can boost returns to private investment and education, 
+raise productivity 
+and 
+promote technological progress (Romp and de Haan, 2007; Bom and Ligthart, 2009, 
+Pecorino, 1993; King
+ 
+and Rebelo, 1990, Everaert and ot
+hers, 2014; Dhont and Heylen, 2009), 
+and should therefore be generally supportive to growth. Similarly,
+ 
+health and education
+ 
+spending can supp
+ort human capital accumulation.
+ 
+CESEE REI FALL 2015
+ 
+31
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Box 
+2.
+3
+. Taxes on 
+P
+roperty
+1/
+ 
+Property taxes are widely regarded as an 
+efficient and equitable means of raising 
+revenue, but with a revenue potential 
+that is largely untapped in many 
+countries. 
+Property taxes generally
+ 
+yield 
+relatively modest revenue, particularly in 
+developing economies, but there are also 
+large disparities across countries that signal 
+a potential for enhanced utilization 
+(Norregaard, 2013). In CESEE, revenue 
+collection
+2
+/
+ 
+from property taxes in 2012/13 
+averaged 0.7 percent of GDP, similar to that 
+in d
+eveloping countries, but less than half of 
+that in advanced economies. There is no 
+evidence either of any CESEE catch
+-
+up to 
+advanced European countries in property 
+tax collection. Since 1990, collection has 
+increased by about ½ a percentage point of 
+GDP in
+ 
+both country groups.
+ 
+ 
+Recurrent taxes on land and buildings 
+have a small adverse effect on economic 
+growth, though are unpopular.
+ 
+These 
+taxes do not affect the decisions of 
+economic agents to supply labor, to 
+produce or invest to the extent as some 
+other 
+taxes.  Another advantage of property 
+taxes is that the tax base is more stable 
+making its revenue more predictable, partly 
+due to less cyclical fluctuation in property 
+values (Joumard and Kongsrud, 2003). Also, 
+as real estate and land are highly visible a
+nd 
+immobile these taxes are more difficult to evade, and the immovable nature of the tax base may be 
+particularly appealing in the context of increasing tax competition. There is, however, a widespread popular 
+and hence political resistance to their increa
+sed use stemming in part from their transparency and relatively 
+limited scope for tax avoidance and evasion.
+ 
+ 
+Recent reform proposals in CESEE entail significant revenue potential.
+ 
+Latvia
+ 
+introduced a residential 
+property tax on buildings in 2010 to comple
+ment the existing land tax. Kosovo has recently introduced a 
+more efficient and accurate cadastre. 
+Serbia
+ 
+plans to replace the system of taxes based on property rights 
+in tandem with a planned land privatization reform. In 
+Croatia, a plan to 
+introduce a 
+new ad valorem 
+
+being considered.
+ 
+ 
+___________
+ 
+1/
+ 
+This box was prepared by 
+Ernesto Crivelli
+.
+ 
+2
+/
+Due to data availability, the revenue figures 
+relate to total revenue from property taxes, which may also include 
+for some countries, recurrent taxes on net (of debt) wealth; taxes on estates, inheritances and gifts; financial and 
+capital transaction taxes, or sales of immovable property.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+32
+ 
+
+ 
+By contras
+t, 
+subsidies
+ 
+can distort the allocation of resources and therefore harm growth. 
+Transfers 
+such as unemployment benefits, especially when poorly designed, can reduce 
+employment incentives and worsen labor market outcomes (Meyer, 2002; Abbring and 
+others, 2005; OECD, 2006). 
+ 
+ 
+
+ 
+There are no clear theoretical priors for 
+spending on goods and service
+s
+
+that is,
+ 
+public 
+consumption. Public consumption 
+is 
+comprise
+d of
+ 
+basic administrative services that 
+economies need to operate efficiently, as well as education and healthcare spending. 
+Excessive levels of public consumption can be inefficient and growth
+-
+d
+amaging, however.
+ 
+ 
+Empirics
+ 
+ 
+To 
+arrive at a quantifiable framework, 
+e
+mpirical analysis 
+complements 
+the 
+findings identified 
+by theory
+. The results are based on 
+panel regressions that relate real per
+-
+capita GDP growth to a 
+
+cyclically adjusted 
+reven
+ue and ex
+penditure structure
+, following 
+the
+ 
+approach 
+introduced by Kneller et 
+a
+l
+.
+ 
+(1999)
+
+see Annex 
+V
+II
+ 
+for details
+.
+ 
+9
+ 
+Regressions are
+ 
+performed acro
+ss 
+broad expenditure and revenue categories as reported in the World Economic Outlook (WEO) 
+database. This 
+approach yields some broad insights, but it also has limitations:
+ 
+
+ 
+Cyclical adjustment 
+of fiscal data is
+ 
+critical 
+t
+o prevent reverse causality from growth to 
+revenue and expenditure categories. Data 
+for all budget categories 
+are adjusted using a 
+methodology
+ 
+proposed by Bornhorst et al. (2011)
+. The methodology allows for robustness 
+checks by varying the elasticities of budget categories to the business cycle; as another 
+check, re
+gressions are estimated with
+ 
+GMM and
+ 
+instrumental variable techniques. This said
+,
+ 
+t
+here can still be 
+feedback
+ 
+if
+ 
+adjustment is imperfect or in the presence of 
+within
+-
+year fiscal 
+policy reactions to developments in growth.
+ 
+
+ 
+
+average
+ 
+patterns
+ 
+across expenditure and revenue 
+categories. Especially on 
+the spending side, th
+is
+ 
+abstract
+s
+ 
+from 
+composition
+ 
+within
+ 
+these 
+categories: for example the share of public consumption spent on productive uses such as 
+education or health, or the composition of the capital budget
+
+although 
+these issues are 
+likely relevant
+ 
+for growth. 
+More detailed expenditure categorizations
+, and/or a breakdown of 
+expenditures by functional categories,
+ 
+would be desirable but are not available
+ 
+consistently 
+across countries
+. 
+On the revenue side, low yields from certain taxes can reflect low tax rates, 
+large tax exemptions, or poor revenue administration
+
+factors that have arguably different 
+growth implications, but cannot be distinguished here. 
+ 
+                                        
+          
+ 
+9
+ 
+I
+n line with the treatment 
+in Kneller et al. (1999)
+, regressions are
+ 
+run separately for each revenue
+ 
+(expenditure)
+ 
+category and control for total expenditures
+ 
+(total revenues)
+. The implicit assumption is that an increase in one 
+revenue
+ 
+(expenditure)
+ 
+category is, in the long run, offset by a reduction in the other revenue
+ 
+(
+expenditure)
+ 
+categories. The coefficients should thus not be interpreted as the direct, marginal impact of an increase in a 
+revenue
+ 
+(expenditure) category on growth.
+ 
+CESEE REI FALL 2015
+ 
+33
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+ 
+Further, to keep the empirical m
+odel tractable it is 
+linearized. 
+Hence it abstracts from issues 
+like returns to scale (
+for example, 
+the possibility that public investment may become 
+gradually less growth effecti
+ve with larg
+er amounts of investment). 
+ 
+With these limitations in mind, 
+the 
+r
+esults
+ 
+point in the following directions:
+ 
+
+ 
+Revenues. 
+Co
+rporate income taxes and social security contributions correlate negatively with 
+growth in CESEE, as suggested by theory. 
+By contrast, neither consumption nor property 
+taxes correlate significantly with
+ 
+growth. 
+Interestingly, p
+ersonal income tax 
+is
+ 
+also 
+not
+ 
+associated with a significant negative growth effect
+, which is 
+in line with previous findings
+ 
+(Lee and Gordon, 
+2005; Federe and Dahlby, 2012).
+ 
+A growth
+-
+oriented revenue reform
+ 
+in CESEE 
+economies would
+ 
+therefore shift 
+the revenue base away from corporate income tax and 
+social security contributions, and toward consumption taxes, property taxes, and personal 
+income tax.
+10
+ 
+ 
+
+ 
+Expenditures.
+ 
+On the spending side, 
+transfers
+ 
+and public consumption
+ 
+in CESEE 
+are 
+significantly negatively correlated with
+ 
+growth
+ 
+(Annex Table VII. 1)
+. The point estimate for 
+public employment is also (slightly) negative but insignificant. By contrast, public investment 
+is positively associated
+ 
+with 
+growth.
+ 
+11
+ 
+A growth
+-
+oriented 
+spending
+ 
+reform
+ 
+in CESEE 
+would 
+therefore shift
+ 
+spending away from public consumption and transfers, and toward 
+investment.
+ 
+Figure 2.4. Estimated Impact of Fiscal Policy on Long
+-
+T
+erm Growth
+ 
+(Percentage points of real per capita GDP g
+rowth, 95% confidence interval)
+ 
+ 
+ 
+ 
+ 
+Sources: IMF World Economic Outlook database; and IMF staff calculations.
+ 
+ 
+                                        
+          
+ 
+10
+ 
+A shift 
+from corporate to personal income taxes 
+can improve efficiency (Johansson et al.
+, 2008) while also 
+improving income distribution (IMF, 2014)
+.
+ 
+11
+ 
+The coefficient is substantially lower than fiscal multipliers typically found for public investment, for example 
+IMF (2014). This is by design: the focus here is, in contrast to multiplier studies, on investment increases 
+offset
+ 
+by 
+cuts in other public s
+pending categories. 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+34
+ 
+The
+se
+ 
+results 
+for CESEE and Advanced Europe 
+are closely aligned with 
+finding
+s
+ 
+in earlier 
+literature (e.g., Afonso and Alegre, 2011; Acosta
+-
+Ormaechea and Yoo, 2012; Acosta
+-
+Ormaechea and Morozumi, 2013).
+ 
+Th
+at 
+said
+,
+ 
+results for other regions differ, especially on the 
+revenue side
+.
+12
+ 
+ 
+How Does Emerging Europe Score?
+ 
+ 
+With this,
+ 
+the elem
+ents are in place to comp
+ile
+ 
+an index 
+capturing
+ 
+the growth friendliness 
+
+ 
+The index multiplies the growth coefficients from above 
+(Annex Table VII.1 
+and 2) 
+with the deviations
+ 
+of the actual from the predic
+ted budget structure (Annex Table
+ 
+VI. 1)
+, 
+then sums all revenue/expenditure categories. 
+ 
+Importantly,
+ 
+the index is relative:
+ 
+
+structure is more 
+long
+-
+term 
+growth friendly than that of its peers
+ 
+(
+that is, 
+countries with 
+identical struc
+tural characteristics), and vice versa. Further, and in line with the standard 
+treatment in the literature, revenue and expenditure structures are analyzed separately. As these 
+structures are not necessarily independent 
+o
+f one another
+
+for example, higher s
+ocial security 
+contributions typically go hand in hand with higher 
+transfers
+
+the results for expenditures and 
+revenues are 
+not
+ 
+added up
+, in order
+ 
+to avoid double counting. The analysis is done for 2008
+
+i.e., 
+at 
+the onset of the global financial crisis
+
+and 
+for 2014, 
+which is 
+the latest 
+information available
+.
+ 
+ 
+The results show that 
+CESEE economies entered the global financial crisis with relatively 
+growth unfriendly budget structures 
+(Figure 2.5).
+ 
+ 
+
+ 
+On the 
+expenditure side
+
+
+a large porti
+on of which 
+redistribute from 
+the young to the old
+
+and
+, 
+to a lesser extent, public consumption rendered the spending 
+structure growth unfriendly.
+ 
+By contrast, public investment
+ 
+contributed positively to growth, 
+
+tructural characteristics would suggest. Overall, 
+
+ly than that of Advanced Europe.
+ 
+
+ 
+The aggregate hides 
+important differences between sub
+-
+regions
+, however. CIS countries, 
+Central Europe, and 
+Southeastern Europe
+ 
+had especially growth unfriendly spending 
+
+
+broadly 
+favorable for growth, as 
+transfers 
+and public 
+consumption wer
+e lower and public inves
+tment was higher than among peers. 
+ 
+
+ 
+CESEE scored equally poorly on the 
+revenue side
+.
+ 
+High social security contributions were the 
+main factor, for all sub
+-
+regions except Turkey. 
+ 
+                                        
+          
+ 
+12
+ 
+
+spending
+ 
+regressions tend 
+to display similar results as for Europe, but not the 
+revenue 
+regressions, which fail to report significant 
+coefficients fo
+r ROW. This may reflect many things, including heterogeneity within ROW, structural and 
+institutional differences insufficiently captured by the empirical specification, and/or residual or policy feedback.  
+ 
+CESEE REI FALL 2015
+ 
+35
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Th
+at
+ 
+said, 
+in several aspects 
+
+s improved between 2008 and 2014
+.
+ 
+
+ 
+On the 
+spending side
+, for the CESEE region as a whole, 
+cuts 
+in 
+transfers
+ 
+and 
+in 
+public 
+investment broadly offset one another
+ 
+in terms of the growth orientation of spending
+. But 
+the aggregate patterns masks large difference
+s between subgroups: Central Europe, the 
+Baltics and the CIS countries significantly improved 
+the growth orientation of 
+expenditure
+s
+ 
+between 2008 and 2014, while structures in 
+Southeastern Europe
+ 
+and Turkey deteriorated.
+ 
+
+ 
+On the 
+revenue side
+, 
+c
+orporate income tax 
+receipts 
+fell 
+and
+ 
+are now less in CESEE than among 
+peers
+, reflecting 
+not only 
+corporate tax rate reductions but also changes in tax base 
+structures that are likely not related to policies 
+(see below). This loss was mostly 
+compensated by
+ 
+growth
+-
+neutral forms of taxations, in particular VAT. 
+ 
+Figure 2.5. Growth Friendliness of Budget Structures, 2008 and 2014
+ 
+(
+Index
+)
+ 
+                                    
+    
+2008                       
+                                                        
+2014
+ 
+Spending Structure
+                             
+                      
+ 
+                                                                                             
+          
+ 
+ 
+ 
+ 
+Revenue Structure
+ 
+ 
+ 
+ 
+ 
+Sources: IMF World Economic Outlook database; and IMF staff calculations
+ 
+How was the improvement in budget structures possible 
+dur
+ing
+ 
+a period when many 
+countries went through sizable fiscal consolidation? What policies and structural developments 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+36
+ 
+underpinned changes in the spending and revenue structures? Is there a link between the quality 
+and size of fiscal consolidation? The second 
+part of this chapter looks at the evidence in more 
+detail, complementing the quantitative findings with a qualitative analysis of fiscal developments 
+in CESEE economies.
+ 
+B
+.
+ 
+Budgetary Adjustment in the Wake of the Global Financial Crisis 
+ 
+The global financial 
+
+ 
+structures
+. Yields from corporat
+e income tax fell as a result of both tax cuts and structural shifts in 
+the tax bas
+e
+. Governments
+ 
+compensated mostly by 
+raising
+ 
+consumption taxes. On 
+the expenditure 
+side, consolidation affected 
+primarily 
+the public sector wage bill, transfers, and capital 
+spending. 
+This said,
+ 
+countries with access to EU structural funds often avoided large cuts in public investment. 
+Overall, changes on the revenue side
+ 
+went generally into a growth friendly direction, while on the 
+expenditure side 
+outcomes 
+differ widely between countries and sub
+-
+regi
+o
+ns. 
+ 
+Fiscal Adjustment in CESEE, 2008
+
+14
+ 
+In the wake of the global financial crisis of 2008
+-
+09, many CESEE countries went 
+through 
+sizable fiscal adjustment
+ 
+(Figure 2.6). As global financial
+ 
+conditions tightened
+
+even cutting 
+some countries off external financing for a period
+
+funding large deficits became more difficult. 
+Further, the end to credit
+-
+fueled, domestic demand driven
+ 
+growth triggered a re
+-
+assessment of 
+growth prospects, implying that many countries needed a tighter long
+-
+term fiscal stance than 
+previously thought. 
+ 
+ 
+Structural fiscal adjustment varied across sub
+-
+regions.
+ 
+The Baltic countries adjusted the most, 
+followed
+ 
+by 
+Southeastern Europe
+
+with a wide variety of outcomes
+
+and Central Europe. In 
+Romania, Lithuania, Estonia and Bosnia 
+and
+ 
+Herzegovina, structural fiscal adjustment exceeded 
+ 
+5 percentage points of GDP. In Latvia and Hungary, adjustment exceeded 5 percent
+ag
+e points of 
+potential GDP
+ 
+for 
+2008
+-
+12, but some of this was reversed in 2013/14. Also in Croatia, the Czech 
+Republic, and Ukraine structural fiscal adjustment was more than 3 percent. In all countries with 
+very large adjustments, the effort was heavily fro
+ntloaded, often
+
+but not always
+
+in the context 
+of IMF
+-
+supported programs (Romania, Bosnia
+ 
+and
+ 
+Herzegovina
+, Latvia, Hungary, Ukraine). 
+Annex 
+VIII
+ 
+contains a detailed description of country experiences with large adjustments. 
+ 
+ 
+Structural adjustment was, for 
+the most part, expenditure
+-
+led. 
+ 
+
+ 
+The structural primary balance improve
+d
+ 
+in 14 o
+ut of the 17 CESEE economies covered by 
+this analysis, 
+and in 
+9 of these, the structural reduction in spending
+ 
+was larger than the 
+structural increase in revenues
+. 
+For all very
+ 
+large adjusters identified above
+
+Romania, 
+Lithuania, Estonia, Bosnia
+ 
+and Herzegovina
+
+consolidation was clearly expenditure
+-
+led, with 
+structural spending cuts of 5 percent of GDP or more. 
+ 
+ 
+CESEE REI FALL 2015
+ 
+37
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Figure 2.6. Fiscal Ad
+justment, 2008
+
+14 
+ 
+(Change in structural p
+rimary balance, percent of 
+potential 
+GDP)
+ 
+Adjustment 
+a
+cross Regions
+ 
+Size
+ 
+ 
+(
+L
+evel and change
+ 
+in structural primary balance)
+ 
+ 
+ 
+ 
+Phasing
+ 
+Structure
+ 
+ 
+ 
+ 
+ 
+Sources: IMF World Economic Outlook database; and IMF 
+staff calculations.
+ 
+
+ 
+The largest structural
+ 
+revenue 
+increases
+
+about 4 percent of GDP
+
+occurred in Turkey and 
+the Slovak Republic. In both cases, however, higher revenues financed in large part higher 
+spending (of about 2½ of GDP) instead of contributing to c
+onsolidation. Among the larger 
+(overall) adjusters, 
+consolidation was revenue
+-
+led only 
+in Hungary and Latvia. The total for 
+2008
+-
+14 masks shifts over time
+, however
+, as in both countries fiscal adjustment started 
+mostly on the expenditure side in 2008
+-
+10, b
+efore shifting to revenues in later years.
+ 
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+38
+ 
+H
+ow 
+Did Budget Structures Change? 
+ 
+Revenues
+ 
+
+revenue structures
+ 
+(Figure 2.7). On the revenue side, the yield from direct taxes
+
+on 
+personal 
+and, especially, 
+corporate income
+
+fell, for all sub
+-
+regions except Turkey. 
+In the CIS and CEE 
+countries, t
+h
+e loss in CIT receipts often reflected cuts in tax rates
+
+see Box 2.
+4
+ 
+for 
+a
+ 
+survey. 
+However, in the Baltic and SEE countries, the (structurally adjusted) yield from CIT fell 
+without
+ 
+a 
+corresponding cut in 
+tax rates. This points to structural 
+shift
+s
+ 
+in the
+
+ 
+tax bases
+
+notably the sustained decline in the 
+construction
+ 
+s
+ector that occurred in most CESEE countries in 
+the wake of the global financial crisis, and structural declines in the profitability of financial 
+corporations
+.
+13
+ 
+Notwithstanding the fall in income tax yields, overall
+ 
+revenue 
+increased
+ 
+(adjusted for the 
+cycl
+e), owing to t
+wo 
+main factors: 
+ 
+
+ 
+H
+igher 
+consumption taxes
+. 
+VAT reform
+
+a relatively growth friendly form of tax increases. 
+Increases in
+ 
+standard
+ 
+VAT 
+rates
+ 
+and, in some cases, also in reduced rates
+ 
+w
+ere
+ 
+a part of 
+most 
+
+fiscal consolidation package
+s. Romania, Hungary and the Baltic countries had 
+especially large increases in VAT standard rates. 
+ 
+
+ 
+H
+igher 
+non
+-
+tax revenues
+, including grants
+.
+ 
+Most 
+EU member states
+ 
+increased the 
+absorption 
+of EU structural and cohesion funds, 
+yielding on average revenue i
+ncreases of 0.7 percent of 
+GDP (and of more than 1½ percent of potential GDP in Bulgaria and Slovenia). Some 
+countries in Central Europe and the Baltics also increased fees and other non
+-
+tax charges. A 
+prominent example is Hungary, where sector
+-
+specific le
+vies on banks, retail firms, and utility 
+companies increased revenues by more than 2 percentage points of GDP.
+ 
+Expenditures 
+ 
+Turning to expenditure
+s
+, CESEE economies 
+cut 
+(in the aggregate)
+ 
+spending 
+by 2 percent of 
+potential GDP. 
+At more than 4 percent of p
+otential GDP, spending cuts were largest in the Baltic 
+economies, followed by South
+-
+Eastern and Central Europe. In the CIS economies, spending levels 
+remained (on average) unchanged
+. 
+Turkey expanded spending, in line with the increase in 
+revenues
+.
+ 
+ 
+ 
+                                        
+          
+ 
+13
+ 
+This result is highly robust and 
+not
+ 
+driven by
+ 
+insufficient cyclical adjustment: even doubling the elasticity of CIT 
+to GDP compared to the base specification (1.5) does not materially change the result.
+ 
+CESEE REI FALL 2015
+ 
+39
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+There are large cross
+-
+country differences in 
+the structure
+ 
+of expenditure consolidation
+.
+ 
+ 
+
+ 
+Capital spending. 
+Most CESEE countries that tightened the fiscal stance in 2008
+-
+14 also cut 
+public investment. However, investment cuts in 
+non
+-
+EU member
+ 
+state
+s
+ 
+exceed
+ed those in 
+EU 
+member states
+ 
+on average by a full percentage point of potential GDP (1.4 percent vs. 0.4 
+percent). As EU structural funds finance mostly capital projects, this suggests that their 
+availability to EU members helped mitigate pressures on publ
+ic investment, with Hungary, 
+Lithuania and Slovenia managing to even 
+increase
+ 
+capital spending, despite fiscal 
+consolidation.
+14
+ 
+At the other end of the spectrum, Ukraine, Croatia, Romania and Serbia cut 
+investment by 2½ percentage points of potential GDP or
+ 
+more, often motivating these cuts 
+with insufficient prioritization and therefore inefficiency of public investment.  
+ 
+
+ 
+Current spending.
+ 
+The spending category with the largest consolidation was the 
+public sector 
+wage bill.
+ 
+Cuts averaged 1 percent of potent
+ial GDP across CESEE, exceeding 2 percent of 
+potential GDP in Latvia, Romania, Lithuania, and Hungary. These reductions were achieved 
+through a mix of public sector wage cuts (up to 25 percent in Romania), including through 
+the elimination of extra payment
+s such as 13
+th
+ 
+month salaries (Hungary), and reductions in 
+public employment.
+ 
+Figure 2.7. Changes in Budget Structures, 2008
+
+14
+ 
+(Percent of potential GDP)
+ 
+ 
+Revenue Changes
+ 
+Expenditure Changes
+ 
+ 
+ 
+ 
+ 
+ 
+Sources: IMF World Economic Outlook database; and IMF staff calculations.
+ 
+                                        
+          
+ 
+14
+ 
+The end
+-
+date of 2014 used in this analysis may overstate somewhat the increase in EU structural 
+and cohesion 
+funds and the corresponding beneficial impact on public investment, as absorption of EU funds is projected to 
+
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+40
+ 
+Box 
+2.4. Tax Rates
+1/
+ 
+Revenue reforms have been a key component 
+in
+ 
+
+A study 
+of changes in tax rates allows 
+for  
+analyzing policy changes while abstracting from underlying structural or 
+cyclical (and incompletely corrected) changes in the economy.
+ 
+ 
+ 
+
+ 
+Most CESEE countries 
+have 
+raised 
+VAT rates
+ 
+since 2008. In the Baltic and CEE countries, the VAT rate 
+increased on 
+average by close to 3 percentage points, although in SEE and CIS countries the increase 
+has been about 1½ percentage points. This compares to an average VAT rate increase of 2 percentage 
+points in 
+A
+dvanced Europe. In terms of levels, VAT rates in Baltic an
+d CEE countries tend to be slightly 
+higher than in 
+A
+dvanced Europe (21.9 percent on average vs. 21.1 percent, while in SEE and CIS 
+countries they are lower 
+ 
+at 
+19.8 percent.
+ 
+
+ 
+Despite fiscal consolidation efforts,
+ 
+tax rates on corporate profits
+ 
+(CIT) 
+have fa
+llen in several 
+countries, notably in CIS and CEE countries. CIT rates in CESEE are low compared to advanced Europe 
+(15.9 percent vs. 25 percent in 2014).
+ 
+
+ 
+Labor taxes
+ 
+remain high. At 39.2 percent, the average labor tax wedge in CESEE (from personal 
+income tax and social security contributions) exceeds that in advanced Europe 
+ 
+(38.2 percent).
+15
+ 
+Since 2008, the tax wedge has on average increased by less than ½ of a percen
+tage 
+point. This is significantly less than the increase of more than 2 percentage points in advanced Europe.
+ 
+ 
+Standard 
+VAT Rate                    CIT Rate
+ 
+Tax Wedge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________
+ 
+1/
+ 
+This box was prepared by 
+ 
+Haonan Qu. 
+ 
+ 
+ 
+                                        
+          
+ 
+15
+ 
+Tax wedge data does not include 
+most 
+Balkan and CIS countries. 
+Many of these countries, however, have 
+increased tax rates on labor income since 2008, such as Albania, Kosovo,
+ 
+and Moldova
+.
+ 
+CESEE REI FALL 2015
+ 
+41
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+ 
+Further, several countries consolidated 
+transfers, 
+with cuts exceeding 2 percentage points of 
+potential GDP in Hungary, Bosnia
+ 
+and Herzegovina
+, and Lithuania. There is no coherent 
+cross
+-
+country pattern on the transfer categories most affected; examples inc
+lude public 
+pensions
+
+including by curtailing pensions for privileged groups
+
+maternity benefits, and, in 
+the case of Bosnia, transfers to war veterans. 
+Public consumption
+ 
+was typically only a minor 
+consolidation item, but exceeded one percentage point of po
+tential GDP in Lithuania, 
+Slovenia, Romania and the Czech Republic.
+16
+ 
+How 
+Growth Friendly 
+Were Budget Changes
+? 
+ 
+Evaluating these changes with 
+the 
+help of the empirical model described above suggests that
+ 
+
+ 
+non
+-
+tax revenues improved the 
+revenue structure, 
+as the tax burden shifted from taxes considered harmful to growth to 
+broadly growth neutral forms of taxation
+ 
+(Figure 2.8)
+. This pattern shows up in all sub
+-
+regions 
+except Turkey (where large increases in social security contributions worsened the revenue 
+structure). On a country
+-
+by
+-
+country basis, the model
+-
+based analysis suggests that 10 of 17 CESEE 
+economies improved their 
+revenue structures 
+over 
+2008
+
+14.
+ 
+ 
+Figure 2.8. Growth Friendliness of Changes in Budget Structures, 2008
+
+14
+ 
+(Index)
+ 
+ 
+Revenue Changes
+ 
+Expenditure Changes
+ 
+ 
+ 
+ 
+ 
+ 
+Sources: IMF 
+World Economic Outlook database; and IMF staff calculations.
+ 
+ 
+                                        
+          
+ 
+16
+ 
+As mentioned earlier, a consistent cross
+-
+country 
+functional
+ 
+spending breakdown is not available. Eurostat 
+figures for EU members 
+through 2013 suggest that cuts on education and, especially, health spending have been 
+limited (these numbers arguably include both public consumption and investment).  
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+42
+ 
+As for expenditures, t
+he divergent patterns of consolidation 
+translate into
+ 
+different 
+estimated 
+long
+-
+term growth
+ 
+effects
+.
+ 
+As 
+C
+entral European and Baltic countries 
+reduced 
+primarily 
+current 
+expenditures while preserving capital spending, their spending structures 
+typically improved. By contrast, 
+in 
+Southeastern Europe
+ 
+and the CIS countries
+,
+ 
+public investment 
+fell s
+ignificantly, causing the expenditure structure to become less growth supportiv
+e
+. 
+Overall, 
+ 
+6 of 17 countries improved their spending structures.
+ 
+ 
+Quality and Size of
+ 
+Fiscal Consolidation 
+ 
+Does the size of 
+fiscal adjustment 
+affect its quality
+? And is expenditure
+-
+led or revenue
+-
+led 
+consolidation more growth friendly?
+ 
+
+e provides some in
+sights
+. Figure 2.
+9
+ 
+displays
+ 
+expenditure
+-
+side and revenue
+-
+side consolidation separately, and groups countries by 
+whether expenditure
+/
+revenue
+-
+side adjustments were large or more modest. Further, Figure 2.
+9
+ 
+shows wh
+ich
+ 
+spending/revenue categ
+ories adjusted, and groups these into  growth
+-
+positive
+ 
+(green), growth
+-
+neutral (blue) or growth
+-
+negative
+ 
+(red), in line with the analysis above. 
+ 
+
+ 
+Growth friendly adjustment on the 
+revenue side
+ 
+requires
+ 
+shifts
+ 
+in 
+revenues away from 
+categories
+ 
+like
+ 
+corporate income tax and social security contributions to consumption tax
+ 
+personal income tax, or property tax. In CESEE, such shifts occurred only when revenue
+-
+side
+ 
+adjustment was at most 
+2½ percentage points of 
+potential 
+GDP. Countries that increased
+ 
+re
+venues by even more resorted to raising social security contributions, w
+hich are associated 
+with 
+a detrimental impact on the budgetary structure. 
+ 
+Figure 2.
+9
+.
+ 
+Size vs. Composition of Adjustment, 
+2008
+
+14
+ 
+(Percent of potential GDP)
+ 
+ 
+Growth Neutral 
+ 
+ 
+Growth 
+ 
+Negative
+ 
+ 
+ 
+Growth 
+Positive
+ 
+ 
+Growth Neutral
+ 
+Growth 
+Negative
+ 
+ 
+Revenue Changes
+ 
+ 
+Expenditure Changes
+ 
+ 
+ 
+ 
+Sources: IMF World Economic Outlook databa
+se; and IMF staff calculations.
+ 
+CESEE REI FALL 2015
+ 
+43
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+ 
+On the 
+expenditure side
+,
+ 
+cuts in public investment render adjustment growth unfriendly. 
+In 
+CESEE, l
+arge consolidation did 
+not
+ 
+come with
+ 
+disproportionate cuts in investment. Instead, 
+large adjusters realized savings 
+primarily 
+by curtailing public consumption and 
+transfers
+
+steps that ultimately enhanced the growth friendliness
+ 
+of their budgets, 
+all else being
+ 
+equal.
+ 
+
+the results suggest that 
+ 
+the scope for growth friendly revenue
+-
+based consolidation is lim
+ited.
+ 
+L
+arge adjustment 
+s
+hould therefore 
+contain 
+a significant portion of spending
+-
+side measures
+, in particular in 
+countries where overall spending levels are high
+.
+ 
+K
+ey 
+T
+akeaways from the 
+A
+nalysis
+ 
+Despite severe fiscal consolidation pressures in the wake of
+ 
+the global financial crisis, 
+many CESEE countries managed to avoid deteriorations in their budgetary structures. 
+ 
+
+ 
+On the revenue side,
+ 
+most countries were faced with large structural losses on corporate 
+income tax, but managed to over
+-
+compensate for this 
+by increasing revenues from less 
+growth
+-
+harmful
+ 
+forms 
+of 
+taxation
+, in particular value added taxes.
+ 
+ 
+
+ 
+On the spending side,
+ 
+the Baltic and Central European countries typically managed to resist 
+large cuts in public investment, reflecting in part the availability of EU structural funds. Large 
+fiscal savings came instead from reforming entitlement programs and cutting public 
+con
+sumption. 
+Consolidation 
+i
+n SEE and CIS countries, by contrast, resorted more to cuts in 
+capital spending.
+ 
+
+ 
+I
+n 
+Turkey
+, both government spending and revenue 
+grew in cyclically adjusted terms
+, 
+yielding 
+som
+e deterioration in 
+the 
+budget structure. However, in co
+ntrast to much of the rest of 
+
+, in terms of its broad orientation,
+ 
+remains relatively growth friendly compared to peers
+.
+ 
+Looking ahead, sizeable fiscal policy challenges remain
+ 
+in CESEE
+
+and this c
+
+contains several recommendations how to address these. 
+ 
+ 
+ 
+
+ 
+Fiscal consolidation has not yet run its course, especially in 
+SEE
+. 
+ 
+For c
+ountries with sizable 
+remaining 
+fiscal adjustment needs
+, the focus should be 
+on 
+reducing unproductive 
+transfer and subsidies, and on further reforming entitlement 
+programs, including public pension systems that absorb a large share of resources in CESEE
+.
+ 
+Restructuring the public sector may also be called for where the public sector wage bill is 
+high, eithe
+r because of excessive employment or disproportionately high public sector 
+wages. Countries with access to EU structural and cohesion funds should seek to leverage 
+these so as to avoid cuts in public investment.
+ 
+ 
+On the revenue side, 
+p
+olicy makers 
+should f
+ocus on achieving 
+a sizable part of adjustment 
+through indirect taxes
+
+notably VAT
+, especially when existing VAT rates are modest 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+44
+ 
+compared 
+with those of
+ 
+peers
+
+and give consideration to the introduction or strengthening 
+of
+ 
+carbon and property taxes. 
+On incom
+e taxes, broadening tax bases by e
+liminating tax 
+expenditures
+ 
+while reducing marginal rates is a priority. 
+ 
+
+ 
+For
+ 
+countries that do not have 
+urgent 
+fiscal 
+consolidation
+ 
+needs, 
+fiscal reform is still 
+called for to enhance the quality and growth
+-
+friendliness o
+f their budgets.
+ 
+ 
+o
+ 
+Where 
+corporate income taxes
+ 
+are high, governments should seek to bring rates more in 
+line with peers. 
+If
+ 
+distributional aspects are a concern, a relatively growth friendly option 
+is to 
+eliminate instead exemptions from 
+personal income ta
+x. 
+ 
+o
+ 
+While CESEE
+
+ 
+high 
+transfers
+ 
+arguably reflect a conscious policy choice in favor of equity, 
+financing a larger portion from general taxation, particularly 
+indirect taxes
+, instead of 
+social security contributions would enhance the growth friendliness of the welfare state. 
+A careful design is needed for social security contributions and their interaction with the 
+withdrawal of social transfers upon taking up work, to avoid 
+employment and poverty 
+traps.
+ 
+o
+ 
+G
+rowth friendly fiscal reform should seek to 
+enhance the amount and efficiency of health 
+and capital 
+spending
+, while limiting unproductive transfers and subsidies.
+ 
+
+ 
+Finally, it is worth recalling that 
+there are many issues crit
+ical for the quality of fiscal 
+policy that go beyond this chapter
+,
+ 
+but are covered in detail in other IMF publications 
+(including IMF, 2014c, 2015a,c). These include: (i) enhancing spending efficiency, especially 
+on health and public infrastructure; (ii) i
+mproving the design of fiscal policies, notably the 
+careful calibration of transfers to limit any negative impact on labor supply; (iii) improving the 
+composition of spending 
+within
+ 
+expenditure categories, such as protecting spending on 
+health and educatio
+n within public consumption; and (iv) strengthening budget institutions 
+to deliver more growth
+-
+friendly fiscal consolidation.  
+ 
+ 
+CESEE REI FALL 2015
+ 
+45
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+III
+.
+ 
+POLICY PRIORITIES
+ 
+Supporting domestic demand, 
+addressing crisis legacies, rebuilding buffers against external shocks
+, 
+and impr
+oving the business environment to boost investment 
+and long
+-
+term growth 
+a
+re still 
+the
+ 
+key 
+policy challenges for
+ 
+CESEE countries
+. 
+ 
+The country
+-
+specific 
+priorities
+ 
+depend on how far al
+ong these economies 
+are in the
+ 
+post
+-
+crisis adjustment
+ 
+and their exposure 
+to external risks:
+ 
+
+ 
+Where the recovery is well advanced
+, the policy priorities need to increasingly shift toward the 
+medium term, including rebuilding fiscal buffers and continuing with reforms to improve the 
+business environment and address structural weak
+nesses. 
+This is not to deny that there is still 
+a lot of
+ 
+uncertainty about the strength of global recovery that, domestically, inflation is still 
+too low in many CESEE economies, and that 
+the 
+key crisis legacies
+
+high NPLs and debt 
+overhangs 
+
+still need f
+urther work
+ 
+(notably in SEE)
+.
+  
+ 
+
+ 
+For economies that are 
+in recession
+ 
+(Russia and other CIS countries)
+, the key challenge is t
+o 
+steer the adjustment to terms
+-
+of
+-
+trade and other shocks with a view to supporting weak 
+internal demand and reducing high 
+inflation.
+ 
+
+ 
+Countries
+ 
+vulnerable to external shocks
+
+such as 
+those with large e
+xternal financing needs,
+ 
+weak fiscal positions or high
+ 
+dependence on commodity exports
+
+need to be prepared to 
+deal with market pressures by using exchange rate flexibility as 
+a 
+sh
+ock absorber (Russia, 
+Turkey) alongside macroprudential policies to contain the build
+-
+up of financial sector risks
+,
+ 
+and 
+also 
+gradually rebuild
+ing
+ 
+FX
+-
+reserves buffers (Turkey).
+ 
+Inflation C
+hallen
+ges
+ 
+I
+n low
+-
+inflation economies, monetary policy 
+should remain accommodative
+. 
+ 
+Additional 
+policy action may be necessary if inflation 
+expectations continue to decline, or interest
+-
+rate 
+differentials widen, resulting in unwarranted 
+upward pressure on exchange rate
+s
+ 
+that could 
+prove disinflationary.
+ 
+Countries that do not have 
+monetary
+ 
+autonomy
+ 
+
+ 
+euro peggers or euro area 
+members 
+
+ 
+have less scope for
+ 
+policy action
+ 
+(
+Figure
+ 
+3.1
+)
+.
+ 
+Where 
+activity is still sluggish and
+ 
+fiscal space allows, countries could use 
+discretionary, 
+expansionary fiscal policies.
+ 
+ 
+For high
+-
+inflation economies
+, 
+policies should 
+aim 
+to 
+address
+ 
+excess demand pressures and 
+external vulnerabilities
+ 
+to increase
+ 
+confidence in the currency
+.
+ 
+ 
+Figure 3.1.  
+CESEE: Headline Inflation, 
+201
+5
+ 
+ 
+(Percent, year
+-
+over
+-
+year)
+ 
+Source: IMF estimates;                                                              
+                         
+Note: E
+uro area countries and euro peggers are in RED.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+46
+ 
+Fiscal C
+hallenges
+ 
+ 
+Despite improvements in their budgetary structures, CESEE countries face 
+significant fiscal
+ 
+challenges
+. 
+Most 
+CESEE countries still face
+ 
+siz
+able adjustment needs to stabilize debt levels 
+and/or return to full compliance with the 
+
+ 
+fiscal
+ 
+rules
+. The need for further consolidation 
+tends to be 
+large
+r
+ 
+in SEE. 
+The analysis 
+in 
+this report offers some
+ 
+insights
+.
+ 
+ 
+Countries with sizable fiscal 
+adjustment needs
+ 
+(mostly in SEE
+;
+ 
+Figu
+re 3.2) could achieve more 
+growth
+-
+friendly fiscal consolidat
+ion via 
+cutbacks in subsidies and tax 
+incentives, reforms to entitlement 
+programs
+,
+ 
+and the introduction or 
+strengthening of modern property tax 
+regimes. In a number of economies, 
+tax compliance and admin
+istration 
+need to be improved. 
+At the same 
+time, prod
+uctive public investment 
+should be shielded from cuts. EU 
+member states should increase the 
+absorption of EU funds and increase 
+their 
+focus on projects that could 
+better enhance potential growth.
+ 
+ 
+Countries that do not have urgent 
+consolidation needs
+ 
+could
+ 
+concentrate their efforts on improving their budgetary structures
+. This would involve
+ 
+reducing 
+corporate income taxes
+ 
+in line with peers or 
+re
+placing
+ 
+corporate income taxation with increased 
+personal income taxation,
+ 
+especially for higher earners;
+ 
+financing a larger portion 
+of social 
+spending 
+from general taxation, particularly 
+the 
+VAT, instead of social security contributions
+; and 
+taking steps 
+to 
+enhance the amount and efficiency of health and capital spending
+,
+ 
+while limiting 
+unproductive transfer
+s and subsidies.
+ 
+Balance
+-
+Sheet R
+epair
+ 
+Addressing
+ 
+high NPLs and debt overhangs 
+requires a comprehensive approach
+.
+ 
+A recent 
+IMF study 
+on the causes and consequences of 
+persistently high NPL
+s
+ 
+in Europe 
+(
+Aiyar and others 
+2015) 
+finds that the weak economic recovery is only part of the story and that the underlying 
+reasons are often deep rooted.  
+A new survey of European country authorities and banks
+ 
+shows 
+that deficiencies in 
+the legal framework and
+ 
+underdeveloped distressed debt
+ 
+markets are, on 
+average, seen as the 
+most severe obstacles to 
+distressed debt 
+resolution in
+ 
+countries with 
+high 
+NPL
+ 
+levels across
+ 
+Europe.
+ 
+Figure 3.2
+. 
+CESEE: 
+Estimated Remaining Adjustment 
+Needs 
+(Percent of GDP
+)
+ 
+ 
+Note:  The debt stabilizing primary balance uses current debt level as a 
+benchmark; 
+-
+1 percent of GDP is the European 
+
+Term Objective for many CESEE countries. Neither
+ 
+metric gives a full 
+account of 
+fiscal consolidation needs.
+ 
+CESEE REI FALL 2015
+ 
+47
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+For SEE countries, obstacles to NPL
+ 
+resolu
+tion related to information 
+access
+, legal 
+systems
+, an
+d distressed 
+debt market functioning 
+are 
+regarded
+ 
+as more 
+severe than in 
+other European countries
+ 
+with high 
+NPLs
+ 
+(Figure 3.3). Furthermore, 
+different obstacles 
+tend to be 
+interlinked, with difficulties in one 
+area compounding challenges in 
+others.
+ 
+Thus, resolving high NPLs 
+requires a comprehensive strategy 
+that includes tightened 
+supervisory 
+policie
+s, insolvency reforms, and
+ 
+measures to 
+develop distressed debt 
+ma
+rkets
+ 
+(
+see 
+Aiyar and others 2015
+ 
+for 
+detailed
+ 
+recommendations
+)
+.
+ 
+ 
+L
+ong
+-
+term growth
+ 
+challenges
+ 
+ 
+ 
+Lifting potential growth
+ 
+is a key 
+mediu
+m
+-
+term goal for CESEE 
+countries
+. 
+For much of the region
+, 
+long
+-
+term growth forecasts
+ 
+are now 
+substantially lower than before the 
+crisis
+ 
+(Figure 3.4)
+, 
+largely due to 
+lower total factor productivity
+. 
+Capital flows to the region are and 
+will
+ 
+likely
+ 
+remain significantly below 
+pre
+-
+crisis levels. At the same time 
+demographic dynamics are 
+marked
+ly negative
+ 
+in many 
+countries across the region
+.
+ 
+In this 
+context, 
+sustained 
+productivity gains 
+can
+ 
+only materialize through 
+structural r
+eforms focused on 
+expanding
+ 
+the role of the private 
+sector, 
+increasing labor and product 
+market flexibility
+,
+ 
+accelerating the 
+restructuring of loss
+-
+making state
+-
+owned enterprises
+, and improving the efficiency of public 
+administrations and the judiciary
+.
+ 
+Figure 3.3. IMF Survey
+-
+Based Scores on Obstacles  to 
+the 
+Resolution of Nonperforming Loans
+ 
+ 
+Source:  IMF surveys 
+of country authorities and banks.
+ 
+Notes: The figure shows average obstacle scores based on the survey 
+responses of
+ 
+European countries with high n
+umbers (over 10 percent of 
+gross loans at postcrisis peak) in each of five areas (information, 
+supervisory fram
+ework, tax regime, legal framework, and distressed debt 
+market). The scores range from 1 to 3, where 3 = high degree of concern, 
+2 = medium degree of concern; and 1 = no concern. CESEE = Central, 
+Eastern, and Southeastern Europe.
+; SEE=Southeastern Europe.
+ 
+ 
+Figure 3.4. CESEE: Long
+-
+Term Growth Forecasts 
+               
+in 2007
+ 
+and 2015
+  
+(Percent)
+ 
+ 
+Source: IMF
+,
+ 
+World Economic Outlook.
+ 
+Note:  
+CEE = Central and Eastern Europe; 
+CESEE = Central, 
+Eastern, and 
+Southeastern Europe;
+ 
+CIS = Commonwealth of Independent States;
+ 
+SEE = 
+Southeastern Europe
+.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+48
+ 
+Annex I. 
+C
+ESEE: Growth of Real GDP, Domestic Demand, Exports, and Private Consumption, 
+2013
+
+16
+ 
+(Percent)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+49
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Annex II.
+ 
+CESEE: C
+onsumer 
+P
+rice 
+I
+ndex 
+Inflation, Current Account Balance, and External Debt, 
+2013
+
+16
+ 
+ 
+(Percent)
+ 
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+50
+ 
+Annex III.
+ 
+CESEE: Evolution of Public Debt and General Government Balance, 2013
+
+16
+1
+ 
+(Percent of GDP)
+ 
+ 
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+51
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Annex IV.
+ 
+Methodology
+ 
+to 
+O
+btain 
+C
+yclically
+-
+A
+djusted 
+R
+evenues/
+E
+xpenditures
+17
+ 
+A cyclical adjustment was applied to revenues/expenditures following the disag
+gregated 
+approach proposed in Bornhorst and others (2011)
+.  The purpose of cyclical adjustment is to 
+decompose the overall balance into cyclical and cyclically adjusted components:
+ 
+ 
+OB = CB + CAB
+ 
+ 
+ 
+ 
+ 
+(1)
+ 
+ 
+where 
+OB 
+is the overall balance, 
+CB 
+is the cyclical balance (the part of the fiscal overall balance that 
+automatically reacts to the business cycle), and 
+CAB 
+is the cyclically adjusted balance (the part of the 
+overall balance that is left after cyclical movements are taken out), expressed in
+ 
+nominal terms. The 
+disaggregated approach computes the cyclically adjusted balance as a function of individual cyclically 
+adjusted revenue and expenditure categories:
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(2)
+ 
+ 
+where 
+
+
+
+ 
+represents the cyclically adjusted component of the 
+i
+-
+th 
+revenue category, 
+G
+CA 
+represents 
+cyclically adjusted primary expenditures, while 
+R
+NCA
+ 
+and 
+G
+NCA
+ 
+contain all revenue/ expenditure 
+categories that do not require cyclical adjustment (Girouard and Andre,
+ 
+2005). 
+ 
+ 
+On the revenue side, the elasticity of each revenue category can be decomposed into two 
+factors. 
+The output elasticity of tax revenue (
+
+Ri,Y
+) is the product of the elasticity of tax revenues (
+R
+i
+), 
+with respect to the relevant tax base (
+B
+i
+),
+
+RiBi
+, and the elasticity of the tax base relative to the output 
+gap, 
+
+Bi,Y
+:
+ 
+
+Ri,Y
+ 
+= 
+
+RiBi
+
+ 
+
+Bi,Y
+ 
+ 
+ 
+ 
+ 
+(3
+)
+ 
+ 
+Applying this decomposition to the computation of cyclically adjusted revenue yields:
+ 
+ 
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+(4)
+ 
+ 
+Assuming, or deriving, the value of the tax elasticity with respect to its base is the first step.
+ 
+In addition to statutory tax rates, derivation also requires knowledge of the income distribution. The 
+second step is an econometric estimation 
+of the sensitivity of the relevant tax bases with respect to 
+the output gap. This requires specifying macroeconomic proxies for the tax bases. For income taxes 
+and social security contributions a common proxy is the wage bill, for corporate income taxes, t
+he tax 
+base is a measure of corporate profits, whereas private consumption serves as a base for indirect 
+taxes. With these two elasticities at hand, the elasticities of tax revenue with respect to the output gap 
+can be computed. The resulting elasticities 
+of revenue categories with respect to the output gap are 
+usually larger than one for income taxes (reflecting progressivity), around one for indirect taxes 
+                                        
+          
+ 
+17
+ 
+Prepared by Ernesto Crivelli.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+      
+52
+ 
+(reflecting generally flat indirect (VAT) tax rates), and somewhat smaller than one for social secur
+ity 
+contributions. For practical reasons, the elasticities of the several revenue components with respect to 
+the output gap were drawn from Girouard and Andre (2005), taking the mid
+-
+point of their estimated 
+elasticities. As such, we assume an elasticity of
+ 
+1.3 for personal income taxes, of 1.5 for taxes on 
+corporate profits, of 0.7 for social security contributions, and of 1 for indirect taxes, including taxes on 
+goods and services and property tax.
+ 
+ 
+Similarly on the expenditure side, the elasticities can a
+lso be decomposed into two factors. 
+Current transfers
+
+in particular unemployment benefits
+
+are most likely to display a cyclical behavior 
+owing to the benefit system. In contrast, nominal spending on other items such as wages and goods 
+and services or capit
+al spending is likely to be largely independent of the business cycle, not requiring 
+any adjustment. As with revenues, the elasticities of expenditure with respect to the base can be 
+assumed or derived. For simplicity, we only adjust the expenditure on soc
+ial benefits, assuming an 
+elasticity of 
+-
+0.5. For all other expenditure categories, the elasticity relative to the output gap is 
+assumed to be zero.
+ 
+All results in the chapter are robust to changes in elasticities. 
+ 
+Annex V.
+ 
+Country Coverage
+18
+ 
+The empirical analysis in this chapter covers 
+7
+6
+ 
+countries during 1990
+-
+2014 including CESEE, as well as 
+other advanced and emerging economies whose 2014 GDP (constant 2005 USD, PPP) is greater than 
+3.7 billion USD (20
+th
+ 
+percentile of all
+ 
+advanced and emerging economies), and for which cyclically
+-
+adjusted fiscal variables can be computed.
+ 
+ 
+The sample includes the following countries:
+ 
+
+ 
+CESEE:
+ 
+Bulgaria, Bosnia and Herzegovina, Croatia, Czech Republic, Estonia, Hungary, Latvia, 
+Lithuania, Mold
+ova, Poland, Romania, Russia, Serbia, Slovak Republic, Slovenia, Turkey, Ukraine.
+ 
+
+ 
+Advanced Europe:
+ 
+Austria, Belgium, Switzerland, Cyprus, Germany, Denmark, Spain, Finland, 
+France, Greece, Ireland, Italy, Luxemburg, Netherlands, Norway, Portugal, Sweden, an
+d United 
+Kingdom.
+ 
+
+ 
+Other advanced:
+ 
+Australia, Canada, Israel, Japan, New Zealand, and United States of America.
+ 
+
+ 
+Asia:
+ 
+China, Indonesia, India, Malaysia, Philippines, Singapore, and Thailand.
+ 
+
+ 
+Latin America and the Caribbean:
+ 
+Argentina, Bahamas, The, Brazil, Chile, Colombia, Costa Rica, 
+Dominican Republic, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Peru, 
+Uruguay, and Venezuela.
+ 
+
+ 
+Africa:
+ 
+Kenya, Mauritius, and South Africa.
+ 
+
+ 
+Middle East and Central Asia:
+ 
+Armenia,
+ 
+Algeria, Egypt, Georgia, Kazakhstan, Korea, Lebanon, 
+Pakistan, and Tunisia.
+ 
+                                        
+          
+ 
+18
+ 
+Prepared by Ernesto Crivelli.
+ 
+CESEE REI FALL 2015
+ 
+53
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+Annex VI. Budget Structures and Country Characteristics
+19
+ 
+To compare the budget structure of CESEE countries with that of comparator countries, 
+expenditure and revenue categories are regressed on structural country characteristics. 
+Using 
+the sample 
+of countries defined in Annex V
+, we estimate equations of the for
+m:
+ 
+ 
+Fiscal
+it
+ 
+= 
+
+i
+ 
++ 
+
+3
+ 
+X
+it
+ 
++ 
+
+it
+ 
+ 
+ 
+(1)
+ 
+where the index 
+
+ 
+and 
+t=2008, 2014
+ 
+are respectively country
+-
+ 
+and time
+-
+indicators. In Eq. (1), 
+Fiscal
+ 
+is a set of cyclically
+-
+adjusted expenditure and revenue variables, expressed relative to potential 
+GDP, and 
+X
+ 
+is a set economic characteristics. In order to assess changes to the budget structure since 
+the global financial crisis, Eq. (1) is estimated for two separate years: 2008 and 2014. 
+ 
+Revenue
+s
+ 
+and expenditure, taken from the World Economic Outlook (WEO) Dat
+abase, refer to 
+consolidated general government, and are cyclically adjusted in percent of potential GDP.
+ 
+In 
+
+were used to fill gaps in the data series. For s
+pending categories, four categories are considered in 
+addition 
+to 
+total spending: public consumption of goods and services, compensation of employees, 
+transfer
+s
+, and capital spending. For revenues, four categories are considered on top of total revenues: 
+t
+axes on corporate profits (CIT), taxes on goods and services, social security contributions, and the 
+personal income tax (PIT).
+ 
+Structural country characteristics are from the World Development 
+Indicator Database: GDP per capita (in 2005 USD, PPP), log of 
+GDP, dependency ratio (the ratio of 
+depen
+dents
+
+people
+ 
+younger than 15 or older than 64
+
+to
+ 
+the working
+-
+age population
+
+those
+ 
+ages 
+15
+-
+64), trade openness (sum of exports and imports of goods and services 
+to
+ 
+GDP), population 
+density (number of people per sq
+. 
+k
+m.
+ 
+of land area), and natural resource rents (in percent of GDP). 
+ 
+Annex Table VI
+.1 below presents the results for spending and revenue categories.
+ 
+Per capita 
+GDP is generally found positively and statistically significantly correlated with expenditure and
+ 
+
+increases the demand for public services in reflection of a higher degree of economic and institutional 
+sophistication, also requiring higher government reven
+ues. The negative coefficient on public 
+investment could, in turn, reflect structural economic transformation (e.g. Turrini (2004)). Economy 
+size (log GDP) appears to be negatively correlated with public investment, but has strong positive 
+correlation with
+ 
+revenues from social contributions and expenses related to 
+transfers.
+ 
+In addition a 
+high dependency ratio tends to be associated with lower expenditure and lower revenues from 
+consumption taxes. Coefficient estimates on trade openness are mostly statistically insignificant, 
+except for revenues from social contributions, whi
+ch may reflect higher demand for social insurance 
+against external risks in more open economies (e.g. Rodrik (1998)). Population density matters 
+according to the empirical results: higher population density could imply higher urbanization of the 
+economy wh
+ich helps improve efficiency of public sector operation. Resource rich economies have 
+ 
+                                        
+          
+ 
+19
+ 
+Prepared by Haonan Qu and Faezeh Raei.
+ 
+Annex Table VI.1: Government Budget Structure and Structural Characteristics 
+(1)
+ (2)
+ (3)
+ (4)
+ (5)
+ (6)
+ (7)
+ (8)
+ (9)
+ (10)
+ Total 
+Expenditure
+ Compensation 
+of Employees
+ Public 
+Consumption 
+Public 
+Investment
+ Transfers
+ Total 
+Revenue
+ Consumption 
+Taxes
+ PIT CIT
+ Social 
+Contributions
+ GDP per capita
+ 0.278***
+ 0.095***
+ 0.033**
+ -0.034**
+ 0.108***
+ 0.363***
+ -0.012
+ 0.172***
+ 0.035*
+ 0.008
+ (0.000)
+ (0.000)
+ (0.049)
+ (0.019)
+ (0.008)
+ (0.000)
+ (0.652)
+ (0.000)
+ (0.093)
+ (0.801)
+ Log GDP
+ 0.122
+ -0.320
+ 0.012
+ -0.421**
+ 0.790*
+ 0.041
+ -0.407
+ -0.030
+ -0.019
+ 0.983***
+ (0.854)
+ (0.147)
+ (0.956)
+ (0.010)
+ (0.083)
+ (0.950)
+ (0.207)
+ (0.900)
+ (0.891)
+ (0.006)
+ Dependency 
+ratio
+ -0.246***
+ -0.052
+ -0.057**
+ -0.005
+ -0.037
+ -0.231***
+ -0.083**
+ 0.0501
+ 0.0117
+ -0.052
+ (0.007)
+ (0.114)
+ (0.020)
+ (0.869)
+ (0.661)
+ (0.007)
+ (0.027)
+ (0.235)
+ (0.569)
+ (0.366)
+ Openness
+ -0.003
+ -0.012
+ -0.008
+ 0.006
+ 0.0232
+ 0.001
+ 0.001
+ -0.013
+ -0.003
+ 0.028**
+ (0.900)
+ (0.134)
+ (0.147)
+ (0.110)
+ (0.101)
+ (0.984)
+ (0.962)
+ (0.195)
+ (0.642)
+ (0.013)
+ Population 
+density
+ -0.004***
+ -0.001***
+ -0.001
+ 0.001
+ -0.003***
+ -0.003***
+ -0.002***
+ -0.004***
+ 0.001
+ -0.002***
+ (0.000)
+ (0.000)
+ (0.992)
+ (0.958)
+ (0.000)
+ (0.001)
+ (0.000)
+ (0.001)
+ (0.776)
+ (0.000)
+ Natural 
+resource rents
+ -0.058
+ -0.0420
+ -0.056**
+ 0.171**
+ -0.220***
+ 0.050
+ -0.138***
+ -0.059***
+ 0.125**
+ -0.197***
+ (0.628)
+ (0.208)
+ (0.023)
+ (0.019)
+ (0.001)
+ (0.594)
+ (0.001)
+ (0.008)
+ (0.037)
+ (0.000)
+ Constant
+ 43.02***
+ 14.95***
+ 8.380***
+ 7.547***
+ 1.966
+ 38.190***
+ 19.87***
+ 2.641
+ 1.897
+ -3.036
+ (0.001
+ (0.000)
+ (0.008)
+ (0.004)
+ (0.799)
+ (0.001)
+ (0.001)
+ (0.533)
+ (0.430)
+ (0.619)
+ Observations
+ 142 129 128 141 119 142 121 98 98 117 R-squared
+ 0.328
+ 0.306
+ 0.111
+ 0.383
+ 0.376
+ 0.423
+ 0.221
+ 0.547
+ 0.374
+ 0.313
+ Robust p
+-values in parentheses
+ *** p<0.01, ** p<0.05, * p<0.1
+ CESEE REI FALL 2015
+ INTERNATIONAL MONETARY FUND 
+    CESEE REI FALL 2015 
+55    INTERNATIONAL MONETARY FUND 
+different budget structures that are broadly reflected in the estimated coefficients: on the revenue side, 
+resource-rich economies tend to collect less from non-resource tax revenues (Crivelli and Gupta, 2014), 
+except for the CIT tax on companies operating in natural resource sectors. On the expenditure side, there is 
+
+usually high infrastructure investment needs from natural resource sectors.  
+The residuals from the estimated equations on revenue and expenditure components are used to 
+assess budget structures in CESEE relative to their structural characteristics.
+ On the expenditure side, 
+current spending (wages and consumption of goods and services) is relatively high in CESEE as compared to 
+
+
+ristics, except for Turkey. When assessing the 
+changes over time, however, both categories of spending
+in particular the public sector wage bill
+shows a significant drop in SEE, CIS, and Baltic countries from 2008 to 2014. As for public investment, its level in 
+
+2008 appears particularly high in SEE and Turkey, with SEE, CIS, and Baltic countries experiencing a 
+
+significant drop over time. Transfers, however, have remained high among CEE, SEE, and CIS countries. On 
+the revenue side, many CESEE countries except for CIS countries managed to increase their reliance on taxes 
+Annex Figure 1. Residuals from Expenditure Benchmarking Regressions
+ (Percent of potential GDP)
+ Wage Public Consumption
+  Investment
+ Transfers
+ Sources: IMF World Economic Outlook database; and IMF staff calculations. 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+56
+ 
+ 
+on goods and 
+services since 2008, although some countries, such as CEE and SEE, already had relatively high 
+levels. Additionally, CESEE economies have on average brought down CIT revenues, expect for Turkey. 
+Nevertheless, changes in labor income taxes
+
+including social 
+contributions
+
+are moderate, and levels 
+
+ 
+ 
+Annex Figure 2. Residuals from Revenue Benchmarking Regressions
+ 
+(Percent of potential GDP)
+ 
+                                                                                                       
+ 
+Consumption Taxes
+ 
+PIT
+ 
+ 
+ 
+ 
+CIT
+ 
+Social Security Contributions
+ 
+ 
+ 
+ 
+Sources: IMF World Economic Outlook database; and IMF staff calculations.
+ 
+Annex VII. Fiscal Policy Instruments and Economic Growth: A Panel Data Analysis
+20
+ 
+The relationship between revenue and expenditure variables and economic growth is estimated 
+using 
+un
+balanced 
+panel data for 
+7
+6
+ 
+developing and advanced countries during 1990
+-
+2014. 
+The 
+empirical methodology follows that in Afonso and Alegre (2011), in estima
+ting a dynamic growth equation 
+as follows:
+ 
+                                        
+          
+ 
+20
+ 
+Prepared by Ernesto Crivelli.
+ 
+CESEE REI FALL 2015
+ 
+57
+    
+INTERNATIONAL MONETA
+RY FUND
+    
+ 
+y
+it
+ 
+
+i
+ 
+
+1
+ 
+y
+it
+-
+1
+ 
+
+2
+ 
+Fiscal
+it
+ 
+
+3
+ 
+X
+it
+ 
++ 
+
+t
+ 
+
+it
+ 
+ 
+ 
+(1) 
+ 
+ 
+ 
+where the index 
+
+ 
+and 
+
+ 
+are respectively country
+-
+ 
+and time
+-
+indicators (so that 
+
+
+ 
+and 
+
+
+ 
+are 
+country
+-
+ 
+and time
+-
+specific effects).
+ 
+In Eq. (1), 
+y
+ 
+indicates the growth rate of per capita output of country 
+i
+ 
+during year 
+t (y
+it 
+ 
+
+it
+), Fiscal 
+is a set of fiscal variables expressed as a percentage of GDP, and X is a 
+set of non
+-
+fiscal control variables. Eq. (1) is estimated using ordi
+nary least squares with country and time 
+fixed effects (OLS
+-
+FE). The long
+-
+term effect of different fiscal variables on growth is captured by 
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+We also investigate whether the effect of revenues and expenditures on growth differs across 
+regions
+ 
+by
+ 
+interacting the variable of interest with regional dumm
+ies for CESEE and Advanced Europe
+.
+ 
+As described in Kneller et al. (1999), when estimating the impact of each spending category on output 
+growth, an omitted variable represent
+s
+ 
+the underlying
+ 
+assumption about how to finance the additional 
+expenditure. In all cases, the omitted variables are the reminder of the public expenditures. Similarly for 
+revenues, the omitted variables are the remaining public revenues.
+ 
+Data are cyclically adjusted, int
+er alia to 
+prevent reverse causality from growth to revenue/expenditure categories
+. Feedback effects cannot be 
+excluded as cyclical adjustment is difficult to get right, e
+specially for corporate taxes
+. R
+esults could also 
+capture things like governments adj
+usting budgets in response to high/low growth
+. This said, 
+results do not 
+change materially when 
+var
+ying the set of 
+elasticities used 
+in cyclical adjustment, and neither 
+when 
+using 
+Blundell and Bond (1998) system generalized method of moments estimator (GMM
+) instead of OLS
+-
+FE.
+ 
+The fiscal variables, taken from the World Economic Outlook (WEO) database, refer to consolidated 
+general government and are expressed as ratios to GDP.
+ 
+
+Revenue database and Article IV consultation reports were used to fill gaps in the data series. For spending 
+categories, five categories are considered: public consumption (purchase/use of goods and service
+s), 
+compensation of employees, 
+transfers
+, capital spending, and other expense. For revenues, 
+seven
+ 
+categories 
+are considered: taxes on corporate profits (CIT), taxes on labor income (PIT), taxes on goods and services, 
+taxes on property, social contribution
+s, other tax revenues, and other (non
+-
+tax) revenue.
+ 
+In addition, we have included six control variables
+: labor force (as a growth rate), private investment (in 
+percent of GDP), terms of trade (as a growth rate constructed from an index series in which the 
+year 2000 
+takes the value 100), population (growth rate), oil rents (in percent of GDP), and the overall budget balance 
+(in percent of GDP). The inclusion of the production factors related to capital increase (proxied by private 
+investment) and labor force
+ 
+growth follows from the related literature. Population growth may explain 
+output growth. Several studies have suggested the relevance of terms of trade (Odedokun, 2001; Bose et al., 
+2003; Gupta et al., 2005). Oil rents are included to capture potential ne
+gative influence of natural
+-
+resource 
+revenues on domestic revenues and expenditures (Crivelli and Gupta, 2014). The unit specific term in our 
+panel model 
+
+i
+ 
+takes into account the effect of time
+-
+invariant idiosyncratic characteristics of each country, 
+whos
+e impact has been suggested in previous studies, such as the initial levels of GDP or human capital, etc.
+ 
+Annex Table 
+VII
+.1 and 
+VII
+.2 below present the long
+-
+term results for different government spending 
+and revenue categories
+. The coefficients shown there
+ 
+are the estimated 
+
+ 
+computed as explained above. 
+Annex Table 
+VII
+.1, Column 1 presents the results for public consumption spending. The computed long
+-
+run 
+effects for CESEE as well as for advanced Europe show a negative and significant relationship with 
+economic 
+growth. Also a statistically significant and negative coefficient has been estimated for 
+transfers
+ 
+(column 3), 
+while capital spending appears to have a positive and significant relationship to long
+-
+term economic 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+58
+ 
+ 
+growth (column 4). As such, for ins
+tance, an increase in public investment by 1 percentage point of GDP, 
+financed by an equivalent decrease in current public expenditure (omitted variables), would increase long
+-
+ 
+term real per capita GDP growth by about 0.4 percentage points among CESEE coun
+tries. For the revenue 
+categories, the estimated coefficients in Annex Table 
+VII
+.2 point to a negative and significant impact of taxes 
+on corporate profits (column 2) and social contributions (column 4) on growth, while a much smaller and 
+not statistically
+ 
+significant impact of broad
+-
+base consumption taxes (column 1) or property tax (column 3).
+ 
+
+
+ 
+i.e. 
+countries outside Europe, captured by the base coefficient 
+for each spending/revenue category
+
+some 
+
+
+
+the group contains a 
+dive
+rse set of advanced and emerging economies
+
+or structural characteristics of these revenue systems 
+that are insufficiently captured by the model specification.
+ 
+ 
+In order to assess the overall growth friendliness of 
+CESEE 
+government budget structures, 
+additional 
+assumptions are needed to indentify the marginal impact of revenue and expenditure components 
+on long
+-
+term growth.
+ 
+Given the omitted variable assumption used in estimating Eq. (1) above (controlling 
+for total revenue and total expenditure, as we
+ll as for the overall budget balance), the parameter estimates 
+of the expenditure and revenue components cannot be directly interpreted as the marginal impact on 
+growth. For example, the impact of a one percentage point increase of a given expenditure comp
+onent 
+implies in the regressions, a drop of equivalent size in other expenditure components. As a result, the 
+estimated coefficients can only be interpreted as the net impact (net of the impact of reducing other 
+expenditure components) on long
+-
+term growth.
+ 
+ 
+We make the following assumptions in order to identify the marginal impact of expenditure and 
+revenue components on long
+-
+term growth
+21
+:
+ 
+ 
+
+ 
+When computing the net growth impact, the compensating change of other expenditure (revenue) 
+components is equally dis
+tributed among other expenditure (revenue) components.
+ 
+ 
+
+ 
+The sum of the marginal impact of expenditure (revenue) components on long term economic 
+growth is zero.
+ 
+ 
+With these additional assumptions, and the estimated coefficients from the regressions on expe
+nditure and 
+revenue components above, a system of equations can be solved separately for revenue (expenditure) 
+components that allows identification of the estimated marginal effects. This transformation results, as 
+expected, in marginal effects on long
+-
+te
+rm growth that are consistently lower (in absolute value) than the 
+estimated coefficients above.
+ 
+ 
+                                        
+          
+ 
+21
+ 
+For this analysis, we focus on four expenditure components (wage, goods and services, investment, and 
+transfers
+), 
+and four revenue components (taxes on goods and services, CIT, PIT, 
+and social contributions). Total expenditure 
+(revenue) is equal to the sum of the four expenditure (revenue) components plus other expenditure (revenue).
+ 
+CESEE REI FALL 2015
+ 
+59
+    
+INTERNATIONAL MONETA
+RY FUND
+    
+ 
+Annex Table 
+VII
+.1. Government Spending and Economic Growth
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+60
+ 
+ 
+Annex Table 
+VII
+.
+2
+. Government 
+Revenue
+ 
+and Economic Growth
+ 
+ 
+ 
+CESEE REI FALL 2015
+ 
+61
+    
+INTERNATIONAL MONETA
+RY FUND
+    
+ 
+Annex VIII. Large Fiscal Consolidations: Country Experiences
+22
+ 
+ 
+Several CESEE countries underwent sizeable consolidation in the wake of the global financial crisis. This Annex 
+summarizes the main policies taken in countries with 
+the largest fiscal efforts. Overall, many measures went into a 
+growth
+-
+friendly direction, broadly corroborating the findings of the quantitative analysis. That said, they also 
+comprised spending measures that came with hardship for certain segments of the 
+population. Some revenue 
+measures
+
+such as sector
+-
+specific taxes
+
+may be turn out to be harmful to growth.
+ 
+Romania
+ 
+Fiscal consolidation started in 2009 in the context of an IMF supported program. Adjustment focused on 
+expenditure consolidation, seeking to co
+ntain entitlement and wage costs through cuts in wages and social 
+transfers, parametric reforms to the pension system, including the removal of special pension regimes, and the 
+introduction of a unified wage setting system. 
+ 
+ 
+Structural fiscal reforms comp
+lemented consolidation, including on the pension system, tax administration, 
+and the public wage framework. A Fiscal Responsibility Law was enacted to streamline budgeting. A multi
+-
+year 
+public financial management structure was introduced while limiting in
+tra
+-
+year budget revisions. Fiscal rules 
+were introduced to regulate spending, public debt, and the primary deficit. A framework for managing 
+guarantees and other contingent liabilities was approved. The local public finance law was amended to bolster 
+fisca
+l discipline. Reform implementation was uneven though, particularly in the areas of revenue 
+administration and health care reform.
+ 
+Main measures:
+ 
+
+ 
+Wage bill cut
+ 
+(2 percent of potential GDP, cyclically adjusted)
+: 
+A key objective was to reduce the public 
+sect
+or wage bill back to the 2007 level through a 25 percent cut in public wages. 
+Public employment 
+was reduced 
+by about 
+16
+ 
+percent
+. The resulting 
+public wage bill
+ 
+in 2014 was
+ 
+consistent with the 7 
+percent of GDP cap set 
+
+Fiscal 
+Strategy
+.
+ 
+
+ 
+Capital spending cut 
+(2½ percent of potential GDP, cyclically adjusted): 
+efficiency of 
+
+high 
+capital spending had been 
+compromised by 
+the lack of 
+a robust framework and capacity for developing, 
+prioritizing, and executing public
+-
+investment projects. Cuts to capital spending 
+focused on 
+non
+-
+priority, 
+inefficient projects
+. In recent years the focus has shifted 
+to improve absorption of EU funds, 
+by 
+stre
+ngthening
+ 
+targeting rules and public procurement.
+ 
+
+ 
+Transfer cuts 
+(0.1 percent of potential GDP, cyclically adjusted): A parametric reform to the pension 
+system was an essential pillar for long
+-
+term fiscal sustainability, including also the removal of specia
+l 
+pension regimes. 
+Short
+-
+term budgetary impact was only marginal, however, with the focus on 
+preserving the scope and size of the safety net system (social protection).
+ 
+
+ 
+Revenue increases:
+ 
+Only 1/3 of the adjustment was 
+achieved
+ 
+through revenue measures, 
+mo
+stly 
+explained by an increase to the VAT rate from 19 to 24 percent that 
+triggered an increase in yields 
+of 
+                                        
+          
+ 
+22
+ 
+Prepared by Ernesto Crivelli and Yan Sun.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+62
+ 
+ 
+about 1 percent of GDP. Th
+e
+ 
+modest revenue increase relative to the large VAT rate hi
+ke is explained by 
+a weak revenue administration
+.
+ 
+Estonia
+ 
+ 
+Reflecting the early onset of the crisis in Estonia, fiscal consolidation started early in 2008. Supplementary 
+budgets in February and June of 2009 contained consolidation measures of 7½ percent. Many measures were 
+on the revenue side, such as VAT increase
+s and higher excise taxes. Other measures included social benefit 
+reductions, cuts in operational spending, as well as land sales and discretionary spending cuts. Overall, the 
+efforts led to a 2009 fiscal deficit of 1.7 percent of GDP (in ESA terms), which
+ 
+helped paving the way for euro 
+adoption in 2011.
+ 
+ 
+ 
+Main measures: 
+ 
+ 
+
+ 
+Wage bill and consumption spending cuts
+ 
+(2 percent of potential GDP, cyclically adjusted): Large 
+increases, particularly in current spending, resulted in an ill
+-
+timed loosening of fiscal 
+stance in boom 
+years. 
+F
+iscal consolidation was aimed at reversing these earlier spending
+.
+ 
+Cuts in spending in Estonia 
+were possible due to low
+er
+ 
+rigidities as compared to other Baltic countries
+.
+ 
+ 
+
+ 
+Transfer cuts 
+(1
+ 
+percent of potential GDP, cyclically adjust
+ed):
+ 
+Cuts in social transfers 
+reflect lower 
+replacement rates for unemployment benefits.
+ 
+ 
+
+ 
+Revenue collection
+ 
+increases 
+(1½ 
+percent of potential GDP, cyclically adjusted
+): mostly base
+-
+broadening measures.
+ 
+T
+ax collection
+ 
+held up very well, as a result of improvements in tax administration 
+at
+ 
+the onset of the crisis. Estonia has a revenue
+-
+productive and cost
+-
+effective tax system, characterized 
+by an internationally acclaimed low compliance burden (with some 90 percent of t
+axpayers filing 
+electronically). 
+As a res
+ult, 
+they achieved a sizeable increased in revenue collection 
+despite only 
+marginal increases to VAT rates (2 percent) and excise taxes.
+ 
+Bosnia and Herzegovina
+ 
+ 
+Financing constraints triggered fiscal consolidation i
+n 2010
+-
+2011. A temporary financing rule restrained 
+spending on capital goods to offset overruns in wage and other current spending. Since 2012, adjustment 
+efforts have increasingly focused on rationalizing public expenditures and on improving the compositi
+on of 
+spending. There have also been structural fiscal reforms, including strengthening tax administration and tax 
+compliance, reforms of the system of rights
+-
+based benefits; a comprehensive overhaul of the health sector and 
+pension systems; strengthening 
+the medium term budget framework; and streamlining public administration.
+ 
+ 
+Main measures:
+ 
+ 
+
+ 
+Transfer
+ 
+cut
+s
+ 
+(2
+½ 
+percent of potential GDP, cyclically adjusted):
+ 
+T
+he largest contribution came from 
+reduction in war
+-
+related benefits. As a result of a new privileg
+ed pension law in the Federation, benefits 
+of existing war veterans were reduced substantially
+.
+ 
+CESEE REI FALL 2015
+ 
+63
+    
+INTERNATIONAL MONETA
+RY FUND
+    
+ 
+
+ 
+Capital spending cuts 
+(
+1½ 
+percent of potential GDP, cyclically adjusted):
+ 
+In addition, a temporary 
+financing rule restrained non
+-
+priority spending on capital go
+ods, in part explained by delays in official 
+foreign financing.
+ 
+ 
+
+ 
+Tax revenue increases 
+(4 percent of potential GDP, cyclically adjusted):
+ 
+Mostly
+ 
+due to
+ 
+better tax 
+administration and base
+-
+broadening measures.
+ 
+Large gains in revenue collection have been 
+explained 
+by a significant effort to strengthen tax administration. Tax compliance measures including among 
+others, a broader exchange of information between collection agencies in the Federation, and 
+compulsory registration of farmers to broaden the tax b
+ase for social security contributions have 
+resulted in increased collection of all main taxes without
+ 
+major changes to tax rates.
+ 
+Czech Republic
+ 
+ 
+The Czech Republic reacted to the global financial crisis at first with a fiscal stimulus: in 2007
+-
+09, the 
+structural fiscal balance widened by more than 3 percent of GDP, while public debt increased to 38 percent of 
+GDP by 2010. As the crisis intensified, stimulus was withdrawn and followed by large structural consolidation 
+of more than 4 percent of GDP in 201
+0
+
+1
+3
+. 
+ 
+Main measures:
+ 
+ 
+
+ 
+Revenue
+: 
+Mostly 
+due to 
+tax rate changes. 
+Fiscal stimulus at the onset through cutting the CIT rate, 
+resulting in 1 percent of GDP lower CIT revenue collection. Afterwards, 
+graudual 
+increase in
+ 
+the 
+VAT 
+standard 
+rate from 19 to 21 
+percent
+ 
+and increases in reduced VAT rates
+, resulting in 
+higher
+ 
+revenue 
+collection by 1½ percent of GDP.
+ 
+
+ 
+Capital spending cuts 
+(
+1½ 
+percent of potential GDP, cyclically adjusted):
+ 
+
+ 
+Nominal freezes in 
+pu
+blic consumption and w
+age bill
+ 
+ 
+(1½ 
+percent of potential
+ 
+GDP, cyclically 
+adjusted)
+: 
+ 
+Hungary
+ 
+ 
+I
+n 2008
+-
+10
+, fiscal adjustment
+ 
+was carried out in the context of an IMF
+
+supported program. Consolidation 
+focused on expenditures, seeking to reduce the size of the large public sector. Many expenditure measures were 
+of 
+a 
+structural
+ 
+nature, such as the elimination of 13th
+-
+month pensions and wages. From late 2010, the 
+government took increasingly recourse to revenue measures, such as VAT and excise increases, while seeking 
+to 
+reduce public consumption and capital transfers
+. Sector
+-
+specific taxes were levied on banks as well as retail, 
+telecom, and energy firms. During the early phase of consolidation, several structural fiscal measures were 
+implemented, such as the passage of a fiscal responsibility law and parametric pensi
+on reforms. However, 
+many of these were reversed later. 
+ 
+Main measures:
+ 
+ 
+
+ 
+Wage bill and 
+transfers
+ 
+cuts
+ 
+(
+5
+ 
+percent of potential GDP, cyclically adjusted). 
+M
+ost
+ 
+expenditure
+ 
+measures were of a long
+-
+term nature, seeking to reduce the size of the large public sector, resulting in 
+the elimination of the 13
+th
+ 
+month for pensions and
+ 
+wages
+.
+ 
+ 
+
+ 
+Capital spending increased. 
+In contrast to other countries, 
+Hungary 
+a
+ctually 
+increased
+ 
+capi
+tal spending 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+64
+ 
+ 
+to the tune of
+ 
+1½ percent of GDP
+, owing in part to leveraging EU 
+S
+tructural and Cohesion Funds.
+.
+ 
+
+ 
+Revenue: 
+Mostly tax rate changes and new fees and sector specific taxes.
+ 
+Fiscal stimulus 
+in 2010/11 
+through reforming the personal income tax to a
+ 
+flat
+-
+tax system at 16 percent (lower rate)
+. 
+This came at 
+a significant revenue loss of about 2½ percent of GDP. To compensate 
+for 
+the loss, the government 
+starting in 2010 introduced sector
+-
+specific taxes on banks as well as retail, telecom, and energy fi
+rms. In 
+addition, an increase in the VAT rate
+
+to
+ 
+become the highe
+st
+ 
+in Europe at 27 percent
+
+was
+ 
+introduced, 
+followed by increases in excise taxes. These last measures resulted in increased revenue collection by 
+about 3 percent of GDP.
+ 
+Lithuania
+ 
+ 
+Fiscal adjustment began in 2009 and relied mainly on expenditure measures. Spending cuts were roughly 
+proportional to the size of spending categories in total expenditures. However, capital spending supported by 
+EU funds was left untouched 
+so as not 
+to for
+go external grants
+ 
+and the attendant growth benefits
+. On the 
+revenue side, measures focused on indirect taxes and one
+-
+off measures. Public spending as a share of GDP is 
+now among the smallest in the EU. Lithuania also has relatively low implicit and statut
+ory tax rates.
+ 
+ 
+
+ 
+Current spending cuts
+ 
+(5½ 
+percent of potential GDP, cyclically adjusted
+). Evenly distributed among the 
+public sector wage bill, consumption of goods and services, and transfers.
+ 
+
+ 
+Capital spending increased
+ 
+(0.7 percent of potential GDP, cycl
+ically adjusted). Capital spending 
+supported by 
+EU funds
+ 
+was left untouched lest to forgo external grants. 
+ 
+
+ 
+Revenue collection: 
+A
+ 
+base broadening of social security contribution (by including self
+ 
+employed
+ 
+professions that previously did not pay social con
+tributions)
+ 
+with a positive revenue impact of about 
+ 
+1½ percent of potential GDP. 
+ 
+A
+ 
+reduction of
+ 
+the personal income tax
+ 
+rate, which explains deterioration 
+in revenue collection by about 2 percent of potential GDP.
+ 
+Latvia
+ 
+ 
+Fiscal tightening was 
+at first 
+mostly carried out through expenditure cuts in the context of an IMF supported 
+program. Measures included a 4 percent of GDP cut in remuneration
+
+by means of a sizeable wage
+ 
+cut
+s for 
+central government employees
+
+and cuts in public investment. 
+The focus shif
+ted subsequently to revenue
+-
+side 
+measures
+ 
+Pension cuts were reversed by the Constitutional Court. Structural reforms such as a Fiscal Discipline 
+Law (FDL) and a Medium
+-
+Term Budget Framework were implemented in 2013.
+ 
+ 
+
+ 
+Wage bill cut
+ 
+(
+3½ 
+percent of potential 
+GDP, cyclically adjusted):
+ 
+through wage cuts for central 
+government employees.
+ 
+
+ 
+Capital spending 
+(1½ percent of potential GDP, cyclically adjusted)
+ 
+
+ 
+Revenue inc
+reases: 
+Mostly tax rate changes that included a 3 percentage point increase in personal 
+income tax rate (PIT) to 26 percent, a decrease in the tax
+-
+free PIT 
+allowance 
+e, 
+which resulted in a 
+revenue gain by about 1½ percent of 
+potential 
+GDP
+. A
+ 
+VAT increase from 18 t
+o 21 percent
+ 
+result
+ed
+ 
+in a 
+revenue gain of about 1 percent of 
+potential 
+GDP.
+ 
+CESEE REI FALL 2015
+ 
+65
+    
+INTERNATIONAL MONETA
+RY FUND
+    
+ 
+ 
+ABBR
+E
+VI
+A
+TIONS
+ 
+ 
+ALB
+ 
+Albania
+ 
+AQR
+ 
+Asset
+ 
+Quality
+ 
+Review
+ 
+AUT
+ 
+Austria
+ 
+BGR
+ 
+Bulgaria
+ 
+BiH
+ 
+Bosnia
+ 
+and
+ 
+Herzegovina
+ 
+BIS
+ 
+Bank
+ 
+for
+ 
+International
+ 
+Settlement
+s
+ 
+BLR
+ 
+Belarus
+ 
+CEE
+ 
+Central
+ 
+and
+ 
+e
+astern
+ 
+Europe
+ 
+CESEE
+ 
+Central,
+ 
+e
+astern,
+ 
+and
+ 
+Southeastern Europe
+ 
+CHF
+ 
+Swiss 
+f
+ranc
+ 
+CIS
+ 
+Commonwealth
+ 
+of
+ 
+Independent
+ 
+States
+ 
+CZE
+ 
+Czech
+ 
+Republic
+ 
+DEU
+ 
+Germany
+ 
+ECB
+ 
+European
+ 
+Central
+ 
+Bank
+ 
+EIB
+ 
+European
+ 
+Investment
+ 
+Bank
+ 
+EM
+ 
+Emerging
+ 
+Market
+ 
+EMBIG
+ 
+Emerging
+ 
+Markets
+ 
+Bond
+ 
+Index
+ 
+Global
+ 
+EPFR
+ 
+Emerging
+ 
+Portfolio
+ 
+Fund
+ 
+Research
+ 
+EST
+ 
+Estonia
+ 
+EU
+ 
+European
+ 
+Union
+ 
+FIN
+ 
+Finland
+ 
+FDI
+ 
+Foreign
+ 
+direct
+ 
+investment
+ 
+FX
+ 
+Foreign exchange
+ 
+GDP
+ 
+Gross
+ 
+domestic
+ 
+product
+ 
+GRC
+ 
+Greece
+ 
+HICP
+ 
+Harmonised
+ 
+Index
+ 
+of
+ 
+Consumer
+ 
+Prices
+ 
+ 
+HUN
+ 
+Hungary
+ 
+ICR
+ 
+Interest coverage ratio
+ 
+IMF
+ 
+International
+ 
+Monetary
+ 
+Fund
+ 
+ITA
+ 
+Italy
+ 
+LTU
+ 
+Lithuania
+ 
+LVA
+ 
+Latvia
+ 
+LUX
+ 
+Luxembourg
+ 
+MDA
+ 
+Moldova
+ 
+MKD
+ 
+ 
+Former
+ 
+Yugoslav
+ 
+Republic
+ 
+of
+      
+           
+Macedonia
+ 
+MNE
+ 
+Montenegro
+ 
+NPL
+ 
+Nonperforming
+ 
+loan
+ 
+OECD
+ 
+Organis
+a
+tion for Economic Co
+-
+ 
+ 
+operation and Development
+ 
+PMI
+ 
+Purchasing
+ 
+Managers
+ 
+Index
+ 
+POL
+ 
+Poland
+ 
+REI
+ 
+Regional
+ 
+Economic
+ 
+Issues
+ 
+ROU
+ 
+Romania
+ 
+RUS
+ 
+Russia
+ 
+SA
+ 
+Seasonally
+ 
+adjusted
+ 
+SEE
+ 
+Southeastern Europe
+ 
+SRB
+ 
+Serbia
+ 
+SVK
+ 
+Slovak
+ 
+Republic
+ 
+SVN
+ 
+Slovenia
+ 
+TUR
+ 
+Turkey
+ 
+QE
+ 
+Quantitative easing
+ 
+UKR
+ 
+Ukraine
+ 
+UVK
+ 
+Kosovo
+ 
+WEO
+ 
+World
+ 
+Economic
+ 
+Outlook
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+66
+ 
+ 
+REFERENCES
+ 
+Abbring, J., G. Berg and J. Ours, 2005, "The Effect of Unemployment Insurance Sanctions on the Transition 
+Rate from Unemployment to Employment," 
+Economic Journal
+, Vol. 115(505), pp 602
+-
+630.
+ 
+Acosta
+-
+
+h: A Broad Cross
+-
+Country 
+
+ 
+ 
+Acosta
+-
+
+-
+Run Growth by 
+
+Working Paper 13/162 (Washington: 
+International Monetary Fund). 
+ 
+ 
+
+
+Empirical Economics,
+ 
+Vol. 41, pp. 703
+-
+7
+23.
+ 
+ 
+
+
+de France, Document de Travail 282.
+ 
+ 
+Andrle
+, M., 
+P
+. 
+Blagrave
+, 
+P
+. 
+Espaillat
+, 
+K
+. 
+Honjo 
+, 
+B
+. 
+Hunt
+, 
+M
+. 
+Kortelainen
+, 
+R
+. 
+Lalonde
+, 
+D
+. 
+Laxton
+, 
+E
+. 
+Mavroeidi
+, 
+D
+. 
+Muir
+, 
+S
+. 
+Mursula
+, and Snudden , 
+S
+., 2015, 
+ 
+
+The Flexible System of Global Models 
+
+ 
+FSGM
+
+  
+IMF Workin
+g Paper 14
+/1
+7
+ 
+(Washington: International Monetary Fund).
+ 
+ 
+
+
+conomics Department Working Paper 643, (Paris: Organization for 
+Economic Co
+-
+operation and Development).
+ 
+ 
+
+Journal of Monetary Economics
+, Vol. 23, 
+             
+pp. 177
+-
+200
+.
+ 
+ 
+Ball, L., Furceri, D., 
+
+Working Paper No. 13/151 (Washington: International Monetary Fund).
+ 
+ 
+Barro, R., and X. Sala
+-
+i
+-
+
+The Review of 
+Economic Studies
+, Vol. 59, Issue 4 (October), pp. 645
+-
+661. 
+ 
+ 
+CESEE REI SPRING 201
+5
+ 
+67
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+
+Journal of Econometrics
+, Vol. 87, pp. 115
+
+1
+43.
+ 
+ 
+Blundell, R., A. Duncan and C. Meghir, 
+1998, "Estimating labor supply responses using tax reforms," 
+Econometrica 66, pp. 827
+-
+8
+61.
+ 
+ 
+Bom, P.R.D., J. E. Ligthart, 2009. "How Productive is Public Capital? A Meta
+-
+Regression Analysis," Working 
+Paper No. 0912, International Center for Public Policy, A
+ndrew Young School of Policy Studies, 
+Georgia State University.
+ 
+ 
+
+
+uals 
+11/02, April (Washington: International Monetary Fund).
+ 
+ 
+
+
+Pap
+er Series 30, University of Manchester.
+ 
+ 
+
+OECD Journal: Economic Studies, Vol. 2013/1,
+ 
+(Paris: Organization for Economic Co
+-
+operation 
+and Development).
+ 
+ 
+
+-
+
+European Journal of Political Economy,
+ 
+Vol. 35, pp. 88
+-
+101.
+ 
+ 
+
+
+Working Paper 15/118 (Washington: International Monetary Fund).
+ 
+ 
+De Mooij, R. and S. Ederveen, 2008, "corporate tax elasticities: A reader's guide to empirical findings," 
+Oxford Review of Economic Policy 24(4), pp. 680
+-
+6
+97.
+ 
+ 
+Dharmapala, D., 2014, "what do we know about base erosion and profit shifting? A review of empirical 
+literature," 
+Fiscal Studies
+ 
+35, pp. 421
+-
+48.
+ 
+ 
+
+com
+
+Oxford Economic Papers, Vol. 
+61, pp. 538
+-
+565.
+ 
+ 
+Eissa, N. and J. Liebman, 1996, "Labor supply response to the earned income tax credit," 
+Quarterly Journal 
+of Economics
+ 
+111, pp. 605
+-
+6
+37.
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+68
+ 
+ 
+ 
+
+
+National Tax Journal,
+ 
+Vol. 65(3), pp. 563
+-
+5
+94. 
+ 
+ 
+
+
+OECD Economics Department, Working Paper 434, (Paris: Organization for Economic Co
+-
+operation and Development).
+ 
+ 
+Gupta, S., B. Clements, E. Baldacci, and C. Mulas
+-
+
+and growth in low
+-
+income cou
+
+Journal of International Money and Finance,
+ 
+Vol. 24(3), 
+    
+pp.
+ 
+441
+
+463.
+ 
+ 
+Hall, R. and D. Jorgenson, 1967, "Tax policy and investment behavior," 
+American Economic Review
+ 
+57, 
+   
+pp. 391
+-
+414.
+ 
+ 
+Heinz
+,
+ 
+F
+. and Y. 
+ 
+Sun
+
+ 
+Sovereign CDS Spreads in 
+Europe: The Role of Global Risk Aversion, 
+Economic Fundamentals, Liquidity, and Spillovers
+
+IMF Workin
+g Paper 14
+/1
+7
+ 
+(Washington: 
+International Monetary Fund).
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+October.
+ 
+ 
+International Monetary Fund, 2014
+b
+
+ 
+ 
+Intern
+ational Monetary Fund, 2014
+c
+
+Budget Institutions in G20 Countries
+
+An Update
+
+April
+.
+ 
+ 
+International  Monetary Fund, 2015
+a
+
+-
+
+ 
+ 
+International  Monetary Fund, 2015
+b
+
+Mind the Credit
+ 
+Gap,
+
+Central, Eastern, and Southeastern Europe 
+Regional Economic Issues, May
+.
+ 
+International  Monetary Fund, 2015
+c
+
+Making Public Investment More Efficient,
+
+Policy Paper, June 2015
+.
+ 
+ 
+
+ 
+
+Economics Department Working Paper 620 (Paris: Organization for Economic Co
+-
+operation and 
+Development).
+ 
+ 
+CESEE REI SPRING 201
+5
+ 
+69
+ 
+INTERNATIONAL MONETA
+RY FUND
+ 
+
+Department Working Paper 375
+ 
+(Paris: Organization for Economic Co
+-
+operation and 
+Development).
+ 
+ 
+
+Journal of Political Economy, 
+Vol. 98(5).
+ 
+ 
+Kneller, R., M. Bleaney, and N. Gemmell, 
+
+Journal of Public Economics,
+ 
+Vol. 74(2), pp. 171
+
+190.
+ 
+ 
+
+Budgeting 2008/3, (Paris: Organiza
+tion for Economic Co
+-
+operation and Development).
+ 
+ 
+
+Journal of Public Economics
+, Vol. 89(5), 
+pp. 1027
+-
+10
+43. 
+ 
+ 
+Mendoza, E., G. Milesi
+-
+
+ 
+policy in altering long
+-
+run 
+
+Journal of Public Economics, 
+Vol. 66(1), 
+           
+pp. 99
+-
+126.
+ 
+ 
+
+
+A
+merican Economic Review
+, Vol. 92(2), pp. 373
+-
+379.
+ 
+ 
+Mulas
+-
+
+-
+term Trade
+-
+off between Economic 
+
+Revista de Economía Publica
+, Vol. 172(1), pp. 61
+
+92.
+ 
+ 
+
+
+IMF Working Paper 13/129, (Washington: International Monetary Fund).
+ 
+ 
+
+
+Discussion Paper 2001/72, World Institute for Development Economics.
+ 
+ 
+Organization for Economic Co
+-
+operation and Development (OECD), 2006, 
+Employment Outlook
+ 
+ 
+
+Journal of Public 
+Ec
+onomics, 
+Vol. 52, p
+p.
+ 
+251
+-
+271.
+ 
+ 
+Pissarides, C., 1998, "T
+he impact of employment tax cuts on unemployment and wages; the role of 
+unemployment benefits and tax structure," 
+European Economic Review
+ 
+42, pp. 155
+-
+1
+83.
+ 
+ 
+
+
+Journal of Political 
+Economy
+, University of Chicago Press, vol. 106(5), p
+p.
+ 
+997
+-
+1032, October.
+ 
+ 
+CESEE REI FALL 2015
+ 
+INTERNATIONAL MONETA
+RY FUND
+   
+70
+ 
+ 
+ 
+
+Perspektiven der 
+Wirtschaftspolitik
+, 8(S
+1), 6
+-
+52. 
+ 
+ 
+
+
+International Monetary Fund). 
+ 
+ 
+Tanzi, V., & Tsibou
+
+(Washington: International Monetary Fund).
+ 
+ 
+
+the Role of Fiscal P
+
+International Monetary Fund).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regional Economic IssuesNovember 2015Regional Economic Issues 
+INTERNATIONAL MONETARY FUND
+15 NOVCentral, Eastern, and Southeastern Europe
+ Reconciling Fiscal Consolidation and Growth 

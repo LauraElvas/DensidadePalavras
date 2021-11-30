@@ -1,0 +1,1310 @@
+World Economic and Financial Surveys
+Regional Economic OutlookINTERNATIONAL MONETARY FUND
+Europe
+ Domestic Expansion Running into 
+ External Turbulence
+18NOV
+Cataloging-in-Publication Data
+Names: International Monetary Fund.
+Title: Regional economic outlook. Europe: domestic expansion running into external turbulence.
+Other titles: Europe: domestic expansion running into external turbulence. | Domestic expansion 
+
+
+-graphical references.
+
+
+Please send orders to:International Monetary Fund
+
+
+
+
+
+publications@imf.org
+www.bookstore.imf.org
+www.elibrary.imf.org
+©2018 International Monetary Fund
+iiiContents
+Executive Summary
+ vi1. Domestic Expansion Running into External Turbulence
+ 1
+
+
+
+
+2. Macroprudential Policies and House Prices in Europe: An Overview of 
+    
+Recent Experiences
+ 9
+
+
+
+
+
+ References
+ 21Boxes
+
+ Figures
+
+
+
+
+
+
+
+
+
+
+
+
+
+ivREGIONAL ECONOMIC OUTLOOK: EUROPE
+
+ 
+
+
+ Tables
+
+
+vNordic economiesEuro areaEastern EuropeCentral EuropeSoutheastern European EU member statesSoutheastern European non-EU member statesOther European advanced economiesTurkeyEurope: Country GroupsNote: The boundaries, colors, denominations, and any other information shown on the maps do not imply, on the part of the International Monetary Fund, any judgment on the legal status of any territory or any endorsement or acceptance of such boundaries. In this report, statistical data on Crimea and the city of Sevastopol are included as part of the data for Russia. EU = European Union.RUSFINSWENORISLGRCMLTSMRALBMKDUVKUKRBLRFRACYPITABGRBIHHRVSVNMNECHEESPPRTHUNLVAUKBELAUTLTUSVKISRMDADNKNLDLUXPOLTURDEUIRLESTCZEROUSRBFall 2018 Regional Economic Outlook: Europe
+viEconomic activity continued to expand in the ˜rst half of 2018, albeit at a slower-than-expected pace, 
+mainly in advanced Europe. Domestic demand, supported by stronger employment and wages, remains 
+the main engine of growth. However, the external environment has become less supportive and is 
+expected to soften further in 2019 owing to slowing global demand, trade tensions, and higher energy 
+prices. Tighter ˜nancial conditions in vulnerable emerging market economies and maturing business 
+cycles are also weighing on activity. Accordingly, growth is projected to moderate from 2.8 percent in 
+2017 to 2.3 percent in 2018 and 1.9 percent in 2019. ˚at said, it is expected to remain above potential 
+in most countries in the region. 
+Risks to the outlook have increased. In the short term, escalating trade tensions and a sharp tightening 
+in global ˜nancial conditions could undermine investment and weigh on growth. In the medium 
+term, risks stem from delayed ˜scal adjustment and structural reforms, demographic challenges, rising 
+inequality, and declining trust in mainstream policies. Also, a ﬁno-dealﬂ Brexit would lead to high trade 
+and non-trade barriers between the United Kingdom and the rest of the European Union with negative 
+consequences for growth.
+Policymakers should seize the opportunity o˛ered by continued above-potential growth to implement 
+structural reforms and rebuild room for ˜scal policy. Countries with signi˜cant vulnerabilities should 
+seek to reduce high levels of public debt and rebuild ˜scal bu˛ers to ensure they have policy space to 
+cope with future shocks. In contrast, countries with ample ˜scal space and stronger-than-warranted 
+external positions should raise public investment to lift the potential of their economies and promote 
+external rebalancing. 
+Monetary policy priorities di˛er across countries. In emerging Europe, where in˝ation pressure is 
+generally building, central banks should gradually normalize monetary policy in a well-communicated 
+manner to ensure a smooth adjustment. In advanced European economies, where underlying in˝ation 
+pressures are generally subdued, monetary policy should remain supportive to ensure durable increases 
+in in˝ation toward targets. Structural and ˜nancial sector reform priorities remain unchanged from 
+those discussed in previous 
+Regional Economic Outlook
+ reports for Europe.
+Well-targeted macroprudential policies can be useful in addressing speci˜c ˜nancial stability risks. As 
+discussed in Chapter 2, such policies have mainly aimed at building ˜nancial resilience, containing 
+house price increases and credit growth. ˚e analysis suggests that borrower-side measures, supported 
+by lender-side measures, helped reduce the share of riskier mortgages, thereby contributing to improved 
+˜nancial resilience. Evidence is more mixed when it comes to the ability of macroprudential policies 
+to contain house price and overall credit growth in the context of monetary policy that remains 
+accommodative.
+Executive Summary
+International Monetary Fund
+ | November 2018
+Activity
+ continued to expand in the ˜rst half of 2018, but at a slower-than-expected pace, mainly 
+in advanced Europe. ˚e external environment 
+has become less supportive, with slowing global 
+demand, escalating trade disputes, and higher fuel prices. Tighter ˜nancial conditions in vulnerable 
+emerging market economies and maturing 
+business cycles act as additional headwinds. With 
+weakening forward-looking indicators, growth 
+is now projected to slow from 2.8˛percent in 
+2017 to 2.3˛percent in 2018 and 1.9˛percent 
+in 2019, down from respective projections of 
+2.6˛percent and 2.2˛percent in the May 2018 
+Regional Economic Outlook: Europe
+. Near-term 
+risks to the outlook have shifted to the downside. 
+As growth is expected to continue to exceed 
+potential, policymakers should continue to focus on structural reforms and rebuilding policy bu˝ers 
+to prepare for the next downturn.
+The Pace of Economic 
+Expansion Has Slowed in Many European Economies
+Europe has seen strong growth over the past 
+couple of years, as many downside risks have 
+not materialized. On the back of supportive 
+macroeconomic policies, economic activity 
+continued to expand in the ˜rst half of 2018, driven by domestic demand. However, there are 
+signs of softening in Romania, Turkey, and the 
+United Kingdom. Also, in the euro area, GDP 
+growth cooled further to 0.2 percent in the third 
+quarter (quarter-on-quarter, annual rate), from 
+0.4 percent in each of the ˜rst two quarters. ˚e 
+˚is chapter was prepared by a sta˝ team composed of Vizhdan 
+Boranova, Kamil Dybczak, and Sylwia Nowak, with input from 
+Raju Huidrom and Nemanja Jovanovic. ˚e team was led by Emil 
+Stavrev under the general guidance of Jörg Decressin. Laura Papi 
+provided useful advice and comments. Nomelie Veluz provided 
+administrative support. ˚e chapter re˙ects data and developments as 
+of October 15, 2018.
+deceleration was mainly due to weaker external 
+demand (especially for goods), special factors (inclement weather, car production), and base 
+e˝ects in the ˜rst quarter of 2018. In most 
+Central, Eastern, and Southeastern European 
+(CESEE) countries, the expansion remained 
+robust thanks to a higher absorption of EU funds 
+and strong private consumption growth on the 
+back of increasingly tight labor markets. Nordic 
+and Baltic economies, the Czech Republic, and 
+Switzerland also continued to perform well. With 
+most con˜dence indicators down to pre-2017 
+levels (Figure˛1.1), forward-looking indicators 
+suggest moderation of growth. Only a few 
+indicators hint at stronger growth in the second 
+half of 2018.Euro area: new orders PMI(deviations from 50, right side)Advanced Europe: economic sentimentsEmerging Europe: economic sentimentsŒ6Œ4Œ2024Œ3Œ2Œ10123456786810121416Jan. 2014Jul. 15Jan. 17Sep. 18Sources: Haver Analytics; IMF, World Economic Outlook; and IMF staff calculations.Note: PMI = purchasing managers™ index.Figure 1.1. Private Sector Consumer Con˜dence and New Orders(Deviation from long-term mean; weights are based on purchasing power parity GDP)1. Domestic Expansion Running into External Turbulence
+2REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+Several Headwinds Are at Play˚e external environment has become less 
+supportive. European exporters enjoyed 
+exceptionally strong export growth in the fourth 
+quarter of 2017. Global imports of European 
+goods and services grew by 7.5˛percent in 2017, 
+up from 3˛percent a year earlier. However, foreign 
+demand for European exports moderated in 
+2018 and is expected to remain soft in 2019 
+(Figure˛1.2). In the 
+euro area
+, the slowdown of 
+exports is driven by intermediate and capital 
+goods, which account for two-thirds of goods 
+exports from the 
+euro area
+ to the rest of the world. 
+Also, some of the slowdown in the third quarter 
+re˙ects lower car production, notably in Germany, 
+as carmakers adapt to comply with new pollution 
+tests. Trade tensions are another factor. ˚us far, 
+the direct impact of already-implemented US 
+tari˝s on steel and aluminum has been limited, given low exports of these items from Europe to 
+the United States,
+ but there are concerns that they 
+could weigh appreciably on growth ahead (see 
+risks below).
+Higher energy prices have dampened real incomes 
+in most of Europe. Commodity prices have 
+increased 7˛percent since the spring of 2018, as 
+oil prices climbed to $79 a barrel in September, 
+the highest level since 2014. ˚is increase in fuel 
+prices has lifted headline in˙ation by an average 
+of about ½˛percentage point across Europe. For 
+Norway
+ and Russia
+, the terms-of-trade windfall gains are estimated at about 1.5˛percent of GDP 
+each year (Figure˛1.3). In the rest of Europe, 
+higher fuel prices have dampened real disposable 
+incomes by up to 0.7˛percentage point of GDP, a 
+worsening of about a third of a percentage point 
+of GDP compared with the April 2018 
+World 
+Economic Outlook
+ estimates. In the 
+newer EU 
+member states, the impact of higher energy prices has been o˝set by the increased absorption of EU 
+funds and strong wage growth. ˚e increase in 
+fuel prices is also expected to further strengthen 
+current account surpluses for oil exporters.
+Additional headwinds come from maturing 
+business cycles. Output gaps are estimated to be 
+mostly closed or positive. Production capacity 
+World trade volumeEuropean foreign demand1Sources: IMF, World Economic Outlook; and IMF staff calculations.1Measured by volume of global imports of European goods and services.012345678201213141516171819Figure 1.2. Global Trade and Foreign Demand(Year-over-year percent change)August 2018commodity pricesFebruary 2018commodity pricesSEE non-EUEastern Europe excl. RussiaEuro areaCentral EuropeOther advanced economiesSEE EUNordics excl. NorwayTurkeyRussiaNorwayŒ1.0Œ0.50.00.51.01.52.0Source: IMF staff estimates.Note: SEE EU = Southeastern European EU member states; SEE non-EU = Southeastern European non-EU members states.1The windfall is an estimate of the change in disposable income arising from commodity price changes compared to the previous year. See Figure 1.9 in October 2018 World Economic Outlook (WEO) and Gruss (2014).Figure 1.3. Terms-of-Trade Windfall Gains and Losses, 2018Œ191(Average annual gains and losses, percent of GDP)31. D
+OMESTIC EXPANSION RUNNING INTO EXTERNAL T
+URBULENCEInternational Monetary Fund
+ | November 2018
+constraints and labor shortages are becoming 
+more binding, mostly in 
+emerging Europe
+, but also in selected advanced European economies 
+(Figure˛1.4). Accordingly, in several 
+CESEE countries, these tight labor market conditions 
+have translated into continued fast wage growth, 
+exceeding 10˛percent annually in the ˜rst half 
+of 2018. Wage growth has also moved upward 
+in the euro area
+, but much more slowly than in 
+the CESEE countries, consistent with a ˙atter wage Phillips curve as discussed in the May 2018 
+Regional Economic Outlook: Europe
+. ˚e current 
+manufacturing expansion is one of the longest in the past two decades (Figure˛1.5). Bank credit to 
+the private sector is growing at moderate rates, 
+but there are signs of asset price overvaluations in 
+selected markets, especially in housing markets 
+(for example, the Czech Republic
+ and some of the Nordics;
+ see Chapter˛2). Policy rates have been adjusted upward in some 
+economies to o˝set the potential in˙ationary 
+impact of the exchange rate depreciation (
+Turkey
+, Russia
+) and high wage growth (
+Czech Republic, 
+Romania
+). Yet in most countries core in˙ation 
+has remained low for now, with the notable 
+exception of 
+Turkey
+.Financial conditions have tightened somewhat, 
+especially in vulnerable countries. Financial 
+conditions remain accommodative in 
+advanced 
+Europe
+ and tightened only moderately in most of emerging Europe 
+due to higher interest rates 
+in the United States 
+and the appreciation of the 
+US dollar. However, in 
+Turkey,
+ concerns over 
+economic policy credibility and geopolitical 
+tensions have, alongside a worsening of 
+sentiment toward emerging markets, led to a 
+sharp lira depreciation by about 40˛percent since 
+the beginning of the year
+. In 
+Italy
+, sovereign 
+bond yields jumped to a four-year high due to 
+diˆculties in forming a government and policy 
+uncertainties. So far, spillovers to other markets 
+have been fairly contained, but there is appreciable 
+uncertainty, and contagion from future stress 
+could be notable, especially for economies with weaker macroeconomic fundamentals and limited 
+policy bu˝ers.Advanced EU: capacity utilization (deviation from mean)Emerging EU: capacity utilization (deviation from mean)Advanced EU: labor shortages (right scale)Emerging EU: labor shortages (right scale)Œ12Œ8Œ4048010203040502007:Q109:Q111:Q113:Q115:Q117:Q118:Q3Sources: European Commission, Quarterly Business and Consumer Survey; Haver Analytics; IMF, World Economic Outlook; and IMF staff calculations.1Percent balance equals percent of respondents reporting an increase minus the percent of respondents reporting a decrease. Capacity utilization is measured as the capacity at which the company is operating at the time of the survey.Figure 1.4. Factors Limiting Production(Labor shortages, percent balance; capacity utilization, percent of full capacity; seasonally adjusted)1Sep. 2016ŒongoingOct. 2005ŒSep. 2007June 1999ŒFeb. 2001Jan. 2010ŒMay 2011Dec. 2003ŒOct. 20040510152025Sources: Haver Analytics; and IMF staff calculations.Note: PMI = purchasing managers™ index. Figure 1.5. Euro Area Industrial ActivityŠThe Top Five Longest Expansion Periods since 1997(Cumulative number of months the PMI stayed above its long-term average)4REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+Outlook: Slower but above 
+Potential Growth with 
+Increased Downside RisksReal GDP growth in Europe is expected to 
+moderate from 2.8˛percent in 2017 to 2.3˛percent 
+in 2018 and 1.9˛percent in 2019 (Figure˛1.6, 
+panel 1; Table˛1.1), but to remain above potential 
+in most countries in the region. Domestic demand 
+will continue to be the main engine of growth, 
+supported by rising employment and wages. 
+Growth has been revised downward in about 
+half of the countries compared with projections 
+in the May 2018 
+Regional Economic Outlook: 
+Europe
+. ˚e downward revisions re˙ect mainly 
+weaker external demand and higher energy prices 
+(Figure˛1.6, panel 2). In 
+advanced Europe,
+ growth 
+is revised down by 0.3˛percentage point in 2018 
+and 0.1˛percentage points in 2019, compared 
+with the previous forecast. ˚e downward revision 
+to Germany™s
+ growth in 2018 is particularly large 
+at 0.6˛percentage point, re˙ecting disappointing 
+exports and historical revisions. In 
+emerging European countries excluding Turkey,
+ growth 
+projections are unchanged in 2018 and are 
+revised up by 0.2˛percentage point in both 2019 
+and 2020. Macedonia,
+ Romania,
+ and Turkey
+ saw large downgrades of about 1˛percentage point 
+each in 2018. In 
+Turkey
+, growth is expected to 
+weaken further from 3.5˛percent in 2018 to only 
+0.4˛percent in 2019 before recovering in 2020, 
+as the weaker lira, higher borrowing costs, and 
+elevated uncertainties weigh on investment and 
+demand. Headline in˙ation is expected to increase across 
+European countries on the back of higher 
+energy prices and positive output gaps. In 
+advanced Europe, 
+in˙ation has been revised up by 
+0.1˛percentage point in both 2018 and 2019 to 
+1.8˛percent. In 
+emerging Europe
+, the revisions have 
+been much larger, at 0.8˛percentage point in 2018 
+and 2˛percentage points in 2019. ˚e new forecast 
+primarily re˙ects the worsened in˙ation outlook 
+for Turkey
+, due to sizable pass-through from the 
+lira depreciation, higher energy prices, high wage 
+growth, and unanchored in˙ation expectations. 
+In 2019, the IMF sta˝ also expects a pickup in 
+in˙ation in Russia
+, due to the recently passed 
+ConsumptionInvestmentNet exportsReal GDP growthŒ2Œ10123456Figure 1.6. Real GDP Growth: Contributions and Forecast RevisionsSources: IMF, World Economic Outlook; and staff calculations.1. Contributions to Growth
+(Growth in percent; the rest in percentage points)Œ1.5Œ1.2Œ0.9Œ0.6Œ0.30.00.30.62. Revisions to Projections
+(Percentage points)
+20171819Advanced EuropeEmerging Europe17181920171819Advanced EuropeEmerging Europe17181951. D
+OMESTIC EXPANSION RUNNING INTO EXTERNAL T
+URBULENCEInternational Monetary Fund
+ | November 2018
+increase in the main value-added-tax rate and 
+additional debt-˜nanced infrastructure spending.
+˚e balance of risks is tilted to the downside 
+both in the short term and beyond. Escalating 
+trade tensions and the potential shift away from 
+a multilateral, rules-based trading system could 
+disrupt supply chains, with a signi˜cant impact 
+on growth, notably if con˜dence is a˝ected, as 
+illustrated by market jitters over potential US 
+tari˝s on car imports. As discussed in Scenario 
+Box˛1 in the October 2018 
+World Economic 
+Outlook,
+ escalating trade tensions could impact global economic activity through a˛combination 
+of higher trade costs, lower business con˜dence, 
+weaker private sector investment, and tighter 
+˜nancial conditions. Given Europe™s trade 
+openness and deep integration into global value chains (Figure˛1.7), an intensi˜cation of 
+trade tensions could have a signi˜cant impact, 
+especially if accompanied by tighter ˜nancial 
+conditions.1 A sharp tightening in global ˜nancial conditions would expose existing vulnerabilities, 1IMF sta˝ estimates suggest that an increase in trade policy 
+uncertainty could appreciably reduce investment in the euro area, 
+with a higher impact on countries more deeply integrated into global 
+value chains (Ebeke and Siminitz, forthcoming).
+dent con˜dence, and weigh on investment and 
+growth. Separately, the possibility of a ﬁno-dealﬂ 
+Brexit raises the risk of a disruptive exit and of 
+high trade and nontrade barriers between the 
+United Kingdom
+ and the rest of the European 
+Union (IMF 2018). In the medium-term, risks 
+stem from the possibility of shifts in policy 
+agendas and the implementation of politically popular but unsustainable macroeconomic 
+policies, delays of structural reforms, demographic 
+challenges, rising inequality, and declining trust in 
+mainstream policies. 
+Policy Priorities
+˚e policy stance should be tailored to the 
+maturing cyclical positions. ˚e procyclical ˜scal 
+stance, prevailing in many European countries, 
+should be scaled back. Policymakers should seize 
+the opportunity of above-potential growth and low 
+unemployment to advance growth-friendly policies 
+to reduce high levels of public debt and rebuild 
+˜scal bu˝ers to facilitate coping with future 
+shocks. Countries should prioritize measures that 
+reduce ˜scal de˜cits toward their medium-term 
+targets and lower debt. ˚e urgency is greater in 
+Outside the regionWithin the region051015202530Figure 1.7. Global Value ChainsSources: Eora Multi-Region Input-Output database; and IMF staff calculations. 1. Value-Added Exports of Goods and Services, 2013
+(Percent of GDP)
+USAOtherAmericasOtherAsiaChinaMiddle East,Central Asia, Africa2. Value-Added Exports of Goods and Services Outside of Europe, 2013
+(Percent of total)
+EuropeAsiaAmericas6REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+countries with signi˜cant vulnerabilities, such as Italy
+ and Turkey
+. In contrast, countries with ample 
+˜scal space and stronger-than-warranted external 
+positions (Germany, Netherlands
+) should use available space to raise potential output through 
+more public investment and promote external 
+rebalancing.
+Monetary policy priorities di˝er across countries. 
+As core in˙ation has picked up and headline 
+in˙ation has reached or is approaching targets 
+in emerging Europe
+, central banks should gradually normalize monetary policy in a 
+well-communicated manner to ensure a smooth 
+adjustment. In countries where underlying 
+in˙ation pressures remain subdued (mostly 
+advanced Europe
+) monetary policy should remain 
+supportive to ensure durable increases in in˙ation 
+toward targets. In the
+ euro area
+, as asset purchases 
+come to an end, forward guidance on interest rates 
+becomes more important in order to keep policy 
+rates at their current, extraordinarily low levels at 
+least through next summer.
+Regarding ˜nancial sector policies, targeted 
+macroprudential measures can be particularly 
+useful in addressing speci˜c ˜nancial stability 
+risks. As discussed in Chapter˛2, borrower-based 
+measures can be e˝ective in containing the 
+share of high-risk loans. Also, further progress is 
+needed in cleaning bank balance sheets, including continued reduction in nonperforming loans. 
+In the 
+euro area
+, the increased debt in corporate 
+balance sheets warrants close monitoring, especially among lower-rated companies.
+As capacity constraints are becoming more 
+binding on the back of weaker productivity 
+growth, countries are urged even more than 
+before to implement policies to boost labor force 
+participation and foster higher potential growth. 
+Structural reform priorities remain unchanged 
+(May 2018 
+Regional Economic Outlook: Europe
+). In 
+advanced Europe
+, countries should introduce 
+further reforms of labor and product markets to 
+boost competitiveness and improve productivity at 
+the national level. In 
+emerging Europe
+, enhancing institutions (November 2017 
+Regional Economic 
+Outlook: Europe
+), improving the investment 
+environment and boosting labor participation 
+by women and the elderly remain top policy 
+priorities. In 
+Russia
+, further steps should be 
+taken to continue to improve the investment 
+climate, boost infrastructure investment and 
+human capital, and improve the eˆciency of 
+goods markets.
+To help increase the 
+euro area™s
+ resilience to 
+future shocks, architectural reforms should 
+be implemented to further reduce risks and 
+improve risk sharing. Completing the banking 
+union, with common rules and backstops, and 
+advancing the capital markets union would 
+support private cross-border risk diversi˜cation. 
+Equally important is the pressing need for ˜scal 
+institutional reforms. A˛central ˜scal capacity 
+that supports macroeconomic stabilization, and 
+that embeds strong safeguards against permanent 
+transfers and moral hazard, should be developed 
+in conjunction with a revamping of ˜scal rules to 
+make them simpler and easier to enforce. While 
+all likely Brexit outcomes will entail costs, an 
+agreement that minimizes the introduction of new 
+tari˝ and nontari˝ barriers would best protect 
+growth and income in the 
+United Kingdom 
+and the EU. Separately, the 
+European Union
+ and its partners should work together constructively to 
+reduce trade barriers and, whenever possible, to 
+resolve disagreements through the World Trade 
+Organization.
+71. D
+OMESTIC EXPANSION RUNNING INTO EXTERNAL T
+URBULENCEInternational Monetary Fund
+ | November 2018
+ReferencesEbeke, Christian, and Jesse Siminitz. Forthcoming. ﬁTrade 
+Uncertainty and Investment in the Euro Area.ﬂ IMF Working 
+Paper, International Monetary Fund, Washington, DC.
+Gruss, Bertrand. 2014. ﬁAfter the Boom: Commodity Prices 
+and Economic Growth in Latin America and the Caribbean.ﬂ 
+IMF Working Paper 14/154, International Monetary Fund, 
+Washington, DC.
+International Monetary Fund (IMF). 2018. ﬁLong-Term 
+Impact of Brexit on the EU.ﬂ IMF Country Report 18/224, 
+Washington, DC.
+8REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+Annex Table 1.1. GDP Growth
+(Year-over-year percent change)
+October 2018 WEOApril 2018 WEODifference12017201820192020201820192020201820192020Europe2.82.31.91.92.62.22.0˜0.3˜0.30.0 Advanced European Economies
+2.42.01.91.72.32.01.7˜0.3˜0.10.0  Euro Area
+2.42.01.91.72.42.01.7˜0.4˜0.10.0   Austria3.02.82.21.62.62.01.50.20.20.0   Belgium1.71.51.51.51.91.71.5˜0.4˜0.10.0   Cyprus3.94.04.23.33.63.02.60.41.30.7   Estonia4.93.73.23.03.93.23.0˜0.20.0˜0.1   Finland
+2.82.61.81.62.62.01.50.1˜0.20.1   France
+2.31.61.61.62.12.01.8˜0.5˜0.4˜0.2   Germany
+2.51.91.91.62.52.01.5˜0.6˜0.20.1   Greece1.42.02.42.22.01.81.80.00.50.4   Ireland7.24.74.03.54.54.03.50.20.0˜0.1   Italy1.51.21.00.91.51.10.9˜0.4˜0.10.0   Latvia
+4.53.73.33.14.03.53.3˜0.3˜0.2˜0.2   Lithuania3.93.52.92.73.23.02.80.4˜0.10.0   Luxembourg2.34.03.53.34.33.73.3˜0.3˜0.20.0   Malta6.75.74.64.05.74.64.00.00.00.0   Netherlands2.92.82.62.33.22.42.1˜0.40.20.2   Portugal2.72.31.81.52.41.81.5˜0.10.00.0   Slovak Republic
+3.43.94.13.84.04.23.8˜0.1˜0.10.0   Slovenia5.04.53.42.84.03.22.70.50.20.1   Spain3.02.72.21.92.82.21.9˜0.10.00.0  Nordic Economies
+2.12.22.11.92.32.12.0˜0.10.00.0   Denmark2.32.01.91.82.01.91.80.00.0˜0.1   Iceland4.03.72.92.83.23.02.80.5˜0.10.0   Norway1.92.12.11.92.12.11.90.00.00.0   Sweden2.12.42.22.02.62.22.1˜0.20.00.0  
+Other European Advanced Economies
+2.01.91.81.82.01.91.8˜0.10.00.0   Czech Republic
+4.33.13.02.53.53.02.5˜0.50.00.0   Israel3.33.63.53.33.33.53.00.3˜0.10.3   San Marino
+1.91.41.00.81.31.31.30.1˜0.3˜0.5   Switzerland1.73.01.81.72.32.01.90.7˜0.2˜0.2   United Kingdom
+1.71.41.51.51.61.51.5˜0.30.00.0 Emerging European Economies 3.82.92.02.43.12.72.5˜0.2˜0.7˜0.1  Central Europe
+4.54.33.52.94.03.42.90.30.00.0   Hungary
+4.04.03.32.63.83.02.60.20.30.0   Poland4.64.43.53.04.13.53.00.30.00.0  Eastern Europe
+1.72.01.91.91.91.71.70.10.30.2   Belarus2.44.03.12.52.82.42.01.10.60.5   Moldova4.53.83.83.83.53.83.80.20.00.0   Russia1.51.71.81.81.71.51.50.00.30.3   Ukraine2.53.52.73.03.23.33.50.3˜0.5˜0.4  
+Southeastern European EU Member States5.73.73.33.04.53.33.0˜0.80.00.1   Bulgaria3.63.63.12.83.83.12.8˜0.20.00.0   Croatia
+2.82.82.62.42.82.62.40.00.00.0   Romania6.94.03.43.35.13.53.1˜1.1˜0.10.2  
+Southeastern European Non-EU Member States2.43.53.43.73.43.53.80.10.00.0   Albania3.84.03.73.93.73.83.90.3˜0.10.0   Bosnia and Herzegovina
+3.03.23.53.73.23.53.70.00.00.0   Kosovo
+3.74.04.04.04.04.04.00.00.00.0   Macedonia, FYR
+0.01.62.62.82.83.03.2˜1.2˜0.4˜0.4   Montenegro4.33.72.53.03.12.43.00.60.10.0   Serbia1.94.03.54.03.53.54.00.50.00.0   Turkey
+7.43.50.42.64.44.03.6˜0.9˜3.6˜1.0Memorandum   World
+3.73.73.73.73.93.93.8˜0.2˜0.3˜0.1   Advanced economies
+2.32.42.11.72.52.21.7˜0.1˜0.10.0   
+Emerging market and developing economies4.74.74.74.94.95.15.1˜0.3˜0.4˜0.1   European Union
+2.72.22.01.82.52.11.8˜0.3˜0.10.0   United States
+2.22.92.51.82.92.71.90.0˜0.10.0   China6.96.66.26.26.66.46.30.0˜0.20.0   Japan
+1.71.10.90.31.20.90.3˜0.10.00.0Sources: IMF, 
+World Economic Outlook 
+(WEO); and IMF staff calculations.
+ 1Numbers in this column may differ from the difference between October and April projections due to rounding. 
+International Monetary Fund
+ | November 2018
+˜is chapter documents the increasing use of 
+macroprudential policies (MaPPs) in Europe in 
+recent years to build ˚nancial resilience, contain 
+general and sectoral credit growth, and limit 
+house price increases. Considering these objectives 
+and drawing from case studies, the chapter ˚nds 
+evidence that borrower-side measures, supported 
+by lender-side measures, helped limit the share 
+of riskier mortgages, thereby building resilience. 
+Evidence is more mixed as to the ability of MaPPs 
+to contain house price and overall credit growth 
+against the backdrop of a still-accommodative 
+monetary policy and other factors.
+Macroprudential Measures in European Countries˜e recent reacceleration in house prices has 
+prompted the adoption of MaPPs in several 
+European countries. ˜ough credit and house 
+price concerns are not yet generalized, house prices 
+have increased substantially in several European 
+countries over the past few years (Figure˛2.1).
+1,2 In most of these countries, higher house prices 
+have been accompanied by rising household debt 
+(Figure˛2.2) and rapid household credit growth 
+(Figure˛2.3). 
+To contain the buildup of systemic risks, 
+especially in the residential housing market, 
+many European countries have strengthened their 
+˜is chapter was prepared by an IMF sta˝ team composed of 
+Cheikh Anta Gueye, Marco Arena, Tingyun Chen, Seung Mo Choi, 
+Nan Geng, Tonny Lybek, and Evan Papageorgiou. ˜e team was 
+led by ˜omas Dorsey and Cheikh Anta Gueye under the overall 
+guidance of Jörg Decressin and Enrica Detragiache. Laura Papi pro
+-vided useful advice and comments. Hannah Jung and Nomelie Veluz 
+provided administrative support.
+1Euro Area PoliciesŠIMF Sta˝ Report for the 2018 Article IV 
+Consultation with Member Countries.
+2˜ere is evidence that growing household incomes and wealth, 
+rising population, lower interest rates, and structural factors behind 
+the uptrends in house prices. See Girouard and others (2006), 
+Égert and Mihaljek (2007), Kholodilin and Ulbricht (2015), and 
+Geng (2018).
+MaPPs (Figure˛2.4). While MaPPs have been 
+implemented across Europe, countries with larger 
+postcrisis increases in house prices and household 
+debt tended to adopt more MaPPs (Figures 
+2.5, 2.6). ˜e main objectives of the recently introduced 
+MaPPs, as stated by country authorities, were 
+improving ˚nancial stability, building ˚nancial 
+resilience, and containing general and sectoral 
+credit growth. Within these broader objectives, 
+policies were generally focused on protecting 
+borrowers, strengthening banking systems, and 
+slowing down house price increases (Figure˛2.7). 
+˜e latter was an objective in most economies, 
+but particularly in the 
+Czech Republic, Estonia, 
+Norway
+, and Sweden
+.In some countries (
+Estonia, Norway, Switzerland
+), the relaxation of lending standards was a major 
+concern. Constraining the rise in the share of loans 
+denominated in foreign currency was a prominent 
+goal in Hungary
+. ˜e various capital bu˝ers 
+adopted beginning in 2013, in line with the EU Capital Requirements Directive (CRD IV), were 
+aimed at containing not only housing sector imbalances, but also credit cycle swings.
+Re˙ecting these objectives, various 
+macroprudential measures, with di˝erent design 
+and calibration, were implemented across 
+countries (Figure˛2.8): 
+Ł Loan-to-value (LTV) caps. In response to 
+the fast growth of mortgage lending, several 
+countries introduced LTV caps ranging from 
+35˛to 100˛percent, but mostly between 60 and 
+95˛percent. Caps are often di˝erentiated, with 
+less binding ceilings on primary residences 
+(Cyprus
+), for ˚rst-time buyers (
+Finland
+, Ireland
+), or for mortgages with collateral, 
+guarantees, or insurance (Estonia
+, Latvia, Poland, Romania
+). Mortgages in foreign 
+currencies (
+Hungary, Poland, Romania
+) or for nonprimary residences in the capital city 
+2. Macroprudential Policies and House Prices in 
+Europe: An Overview of Recent Experiences
+10REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+(Norway
+) are subject to more stringent caps. 
+Since their initial adoption, LTV caps have 
+been tightened in several countries (
+Czech 
+Republic, Netherlands,
+ Norway, Poland, the 
+Slovak Republic
+).Ł Debt-to-income (DTI)/loan-to-income 
+(LTI) and debt service-to-income (DSTI) 
+caps. To contain potential vulnerabilities in 
+households™ balance sheets, many countries 
+have introduced either DTI/LTI or DSTI 
+caps (the Slovak Republic
+ adopted both LTI 
+and DSTI caps). DSTI caps vary by borrower 
+income level (
+Czech Republic
+, Hungary
+, Poland
+, Portugal
+, the Slovak Republic
+, Slovenia
+), currency of denomination (
+Cyprus
+ and Hungary
+), LTV level (
+Lithuania
+), or interest ˚xing period/debt service frequency 
+(Hungary
+ and Slovak Republic
+). Romania™s
+ DSTI caps are determined by scenario analysis 
+that considers currency, interest rate, and 
+income risks. In the 
+Czech
+ Republic
+, Ireland
+, Norway
+, the Slovak Republic
+, the DTI/LTI 
+caps were introduced as a complement to LTV 
+caps. In the 
+United
+ Kingdom, only LTI caps 
+have been implemented.
+Ł Capital Requirements. So far, half of the 
+EU countries have adopted the full Basel 
+III capital conservation bu˝er (CB) of 
+2.5˛percent of risk-weighted assets, while 
+others are phasing it in gradually. All countries 
+have introduced the countercyclical capital 
+bu˝er (CCB), but only the Czech
+ Republic, 
+France, Iceland, Norway
+, the Slovak Republic, 
+Sweden, Switzerland
+, and the United
+ Kingdom have nonzero bu˝ers. A total of 13˛countries 
+have adopted the systemic risk bu˝er (SRB).
+3 Some countries have also imposed sectoral 
+risk-weight ˙oors on commercial real 
+estate (Croatia
+, Finland
+, Ireland
+, Norway
+, Romania
+, Sweden
+) and residential mortgages 
+(Belgium
+, Croatia
+, Norway
+, Slovenia
+, Sweden
+). Among this group, 
+Norway
+ and 3In July 2017, Hungary introduced a systemic risk bu˝er for 
+banks with large portfolios of nonperforming commercial real estate 
+loans. At the end of 2017, only two banks were a˝ected, and cur
+-rently only one bank is subject to this charge. ˜e initiative had been 
+announced to give banks time to reduce their exposure.
+2017:Q4 or latest availablePostcrisis trough2017 or latest available1995 or earliest available22010Sources: Country authorities; Haver Analytics; Organisation for Economic Co-operation and Development; and IMF staff calculations.Note: Data labels in the ˜gure use International Organization for Standardization (ISO) country codes.Sources: Organisation for Economic Co-operation and Development; and IMF staff calculations.1Due to data availability, CYP and MLT are excluded for EA average, and BGR, HRV, and ROU are excluded for CEE.2Earliest available dates: IRL: 2001; LUX: 1999; ESP: 1999.Figure 2.2. Household Debt(Percent of household net disposable income)Figure 2.1. Real House Price Index(Index, 2010 = 100)DNKNLDNORISLCHESWELUXIRLGBRFINPRTESPBELEA1GRCFRADEUAUTITAESTSVKCZEPOLCEEs1SVNHUNLVALTU501001502002503000350016020406080100120140ISLESTSWEAUTMLTCHELVALUXNORDEULTUHUNCZEGBRDNKCEEsSVKIRLBELPRTEABGRFRANLDFINPOLROUSVNHRVESPITACYPGRC112. M
+ACROPRU
+DENTIAL POLICIES AND HOUSE PRICES IN EUROPE: A
+N OVERVIEW OF RECENT EXPERIENCESInternational Monetary Fund
+ | November 2018
+Sweden
+ have applied the most measure, 
+and their required aggregate capital bu˝ers 
+are among the highest in Europe. 
+Poland
+ has imposed a risk weight of 150˛percent 
+on foreign-exchange-denominated 
+household mortgages.
+Latest 5-year average growthPostcrisis troughAllCEEWestern EuropeSources: Eurostat; and Haver Analytics.Sources: European Systemic Risk Board database; and IMF staff calculations.Sources: European Systemic Risk Board database; Eurostat; Haver Analytics; and IMF staff calculations.Sources: European Systemic Risk Board database; Organisation for Economic Co-operation and Development; and IMF staff calculations.Figure 2.3. Household Credit Growth(Year-over-year percent change)Figure 2.4. Adoption of Macroprudential Measures by Region(Share of countries adopting the measures)Figure 2.6. Number of Measures and Change in House Prices1SVKBELNORMLTCZELUXPOLLTUSWEESTNLDFRADEUROUAUTFINGBRSVNBGRITADNKPRTESPCYPIRLLVAGRCHUNŒ28Œ24Œ20Œ16Œ12Œ8Œ404812Œ32160.00.20.40.60.81.0LTVDSTILTI/DTILoan MaturityLoanAmortizationLoss-given-defaultLoan-to-DepositCCoBCCyBSRBPillar IILeverage RatioRisk WeightsStress TestLiquidity RatioFigure 2.5. Number of Measures and Change in Household Credit102468101214Œ60120Œ40Œ20020406080100AUTBELBGRCYPCZEDNKESTFINFRADEUGRCHUNITALVALTULUXMLTNLDNORPOLPRTROUSVKSVNESPSWEGBRHousehold credit growth, 2010Œ17 Number of MaPP adoptions, 2010ŒFeb. 2018AUTBELBGRHRVCYPCZEDNKESTFINFRADEUGRCHUNIRLITALVALTULUXMLTNLDNORPOLPRTROUSVKSVNESPSWEGBR02468101214Œ30Œ20Œ1001020304050Œ4060Real house prices growth, 2010Œ17Number of MaPP adoptions, 2010ŒFeb. 2018Note: Data labels in the ˜gure use International Organization for Standardization (ISO) country codes.1Comparability of number of policies implemented across countries might not be possible in all cases since some countries implement MaPP as packages, for example, Denmark. 12REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+What We Learned from 
+Country Experiences˜oroughly assessing the e˝ectiveness of MaPPs 
+is challenging. A simple before-after comparison 
+suggests that the introduction of borrower-based 
+MaPPs, supported by lender-based measures, 
+in˙uenced the dimensions directly targeted by the 
+measures, while their impact on house prices and 
+overall credit growth was mixed. ˜at said, a more 
+conclusive evaluation of the e˝ects of these policies 
+has to await the completion of a full economic and ˚nancial cycle. In addition, country experiences 
+indicate that circumvention needs to be addressed.
+In this section, we draw on eight case studies 
+to assess the MaPPs™ e˝ectiveness by analyzing 
+the evolution of the speci˚c target variables 
+these measures were meant to a˝ect, as well 
+as the dynamics of house prices and credit. 
+Analysis of the relative e˝ectiveness of di˝erent 
+macroprudential instruments/measures is beyond 
+the scope of this chapter.
+CCoBCCyBSRBPillar IILiquiditycoverage ratioLoan-to-depositlimitsLeverage ratioLTV limitsDSTI limitsDTI/LTI limitsRisk weightsMaturity andamortisationrestrictionsCurrency risksFinancial system resilience0204060Sources: European Systemic Risk Board database; and IMF staff calculations.Figure 2.7. Policy Objectives(Number of measures)HarmonizationInterconnectiveness/contagion risksExposure concentrationBank leverageHousehold leverageAsset price developmentsMaturity mismatch and market liquiditySectoral credit growthGeneral credit growthDTI/LTILTVDSTIAmortization requirementMaturity requirementConservationSystemic riskCountercyclical capitalNLDNOR, SVKSWEBGR, HRV, CZE, EST, NORDNK, SWEAUT, HUN,NLD, ROUHUNPOLCHENOR, SWECZE, ISL, SVKGBRCHENORBGR, HRV, CZE, EST,LVA, LUX, SVK, SWECYP, FIN,LTUPRTISLŒ11357911131517191. Use of LTV and DTI
+(Number of countries)200304050607080910LTU, ROUPOLEST, SVKPRTGBRIRLNORCZE, SVKCYPLVAMLTSWELTU, NOR, ROUNLDPOL, SVKIRL, CZE, HUN, EST, DNKFIN, SVNISLPRTLTU, ROUCYPPOLEST,HUN,SVKSVNCZE, PRT111213141516171801234562. Use of Loan Amortization and Maturity Requirement
+(Number of countries)20091011121314151617180246810121416183. Use of Capital Buffers
+1(Number of countries)201112131415161718Sources: European Systemic Risk Board database; and IMF staff calculations.Note: Data labels in the ˜gure use International Organization for Standardization (ISO) country codes.1Countries with full implementation of capital conservation buffer of 2.5 percent is shown in the ˜gure. The rest have adopted the measure which is gradually phasing in. All countries have adopted countercyclical buffers, but only countries that appear here have adopted non-zero buffers. Finland adopted SRB in June 2017, but it will not be activated until July 2019. Figure 2.8. Adoption of Key Macroprudential Measures(As of July 2018)132. M
+ACROPRU
+DENTIAL POLICIES AND HOUSE PRICES IN EUROPE: A
+N OVERVIEW OF RECENT EXPERIENCESInternational Monetary Fund
+ | November 2018
+201120122013201420152016201720092011201320152017:H12014201520162017:H1201420152016201220132014201520162017201020112012201320142015201620142015201620172014201520162017Figure 2.9. Share of High LTV Loans in Selected CountriesLTV cap of 85% introducedLTV cap of 85% introducedCash down payment requirementof 10% introducedRisk weight for residentialloans increased for LTVexceeding 80%05101520253035404570Œ80%80Œ90%LTV cap of 90%recommended, turnedinto a regulationLTV cap of 95% introducedLTVs between 80 and 90% cannotexceed 15% of newmortgage loansNew LTV capscame into force1LTV cap of 75% for ˜rst-timehome buyers, 70% for othersintroduced80Œ95%>95%>90%1. Czech Republic(Percent of new mortgage loans)510152025303540455002. Denmark(Percent of new mortgage loans)010203040506070>70%60Œ75%>75%3. Hungary(Percent of new mortgage loans)51015202530354004. Israel(Percent of new mortgage loans)0510152025>85%LTV exceeding 80%cannot exceed 40%of new loansLTV exceeding 90% cannotexceed 25% of new loans80Œ89%89Œ90%>90%5. Norway(Percent of new mortgage loans)5101520253006. Slovak Republic(Percent of new mortgage loans)051015203025>85%76Œ85%75Œ80%>80%7. Sweden(Percent of new mortgage loans)5101520253008. Switzerland(Percent of new mortgage loans)Sources: Bank of Israel; Central Bank of Hungary; Czech National Bank; Danmarks Nationalbank; Finansinspektionen; National Bank of Slovakia; the Norwegian FSA; Swiss National Bank; and IMF staff calculations.1Effective March 2010, the following maximum LTV (loan-to-value) ratios came into force: 75 percent for retail mortgages in domestic currency, 60 percent for euros and 45 percent for other currencies. The ratios were 5 percentage points higher on loans for residential leasing. The LTV caps on retail mortgage loans have since been adjusted to, respectively 80 percent, 50 percent, and 35 percent. Regarding ˜nancial leases, 5 percentage points higher LTV limits can be applied.After limits on LTV ratios were imposed, the share of mortgage loans with LTVs exceeding these limits has decreased in the Czech Republic, Israel, Norway, Slovak Republic, Sweden, and Switzerland.14REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+Impact on Riskier MortgagesMacroprudential measures had some e˝ects on 
+reducing high-LTV mortgage loans to households 
+(Figure˛2.9):
+4Ł Czech Republic.
+ Macroprudential measures 
+included lender-based measures (CB at 
+2.5˛percent, CCB at 1˛percent, and SRB 
+ranging within 1 to 3˛percent) in place since 
+2014, as well as a tightening of the maximum 
+recommended LTV ratio in the second 
+quarter of 2017. ˜eir implementation was 
+followed by a clear decline in the share of new 
+mortgages with LTVs above 80˛percent and an 
+increase in those with an LTV between 70 and 
+80˛percent. ˜is outcome, however, should 
+be assessed carefully as it may have been 
+partly o˝set by a more favorable valuation 
+of collateral. Meanwhile, debt-servicing 
+and loan-to-income ratios did not show a 
+meaningful improvement over the period.
+Ł Denmark.
+ Restrictions on the borrowing 
+capacity of households relative to their 
+disposable income and their interest rate 
+sensitivity have been in e˝ect since 2014. A 
+consumer protection clause was introduced 
+in 2015 mandating at least a 5˛percent 
+down payment for residential real estate 
+purchases, translating into a 95˛percent 
+maximum LTV. After these measures, the 
+share of new borrowers with LTV above 
+95˛percent declined markedly, while the 
+share of borrowers with LTV between 80 
+and 90˛percent declined slightly. ˜ese 
+measures were supplemented by guidelines 
+on good business practices for housing credit 
+(2017), which helped increase the resilience 
+of borrowers, for instance by promoting a 
+higher share of ˚xed-rate mortgages, and by 
+limiting excessive leverage by households with 
+lower incomes.
+Ł Hungary. 
+Since the global ˚nancial crisis, the 
+authorities have been implementing a variety 
+of borrower-based MaPPs. In March 2010, 
+4˜e de˚nitions of LTV, DTI, and DSTI vary widely within the 
+European Union.
+75/60/45˛percent maximum LTV ratios were 
+adopted for mortgage loans denominated in, 
+respectively, local currency, euros, and other 
+currencies. In early November 2014, the 
+central bank and the banks™ association agreed 
+on a fast and orderly conversion of foreign 
+exchange mortgage loans to local currency, 
+in order to reduce the exposure of household 
+balance sheet to exchange rate risk. Beginning 
+in 2015, the maximum LTV ratios were, 
+respectively, 80, 50,˛and 35˛percent and were 
+complemented with payment-to-income ratios (PTIs, akin to DSTIs). For borrowers with a 
+net monthly income below Ft 400,000 (about 
+•1,250), the PTI ratios are 50/25/10˛percent. 
+For borrowers with a higher income, the ratios 
+are 60/30/15˛percent. E˝ective October 2018, 
+and to be further tightened beginning in July 
+2019, the PTI ratios have been modi˚ed 
+to encourage longer interest rate ˚xing 
+periods.˛In April 2017, the mortgage funding 
+adequacy ratio was introduced to ensure stable 
+long-term funding for long-term mortgage 
+lending. ˜e above measuresŠtogether with 
+the central bank certi˚ed consumer-friendly 
+housing loans introduced in 2017Šhave 
+likely helped the quality and sustainability of housing loans. ˜e share of new housing 
+loans with an LTV ratio over 70˛percent more 
+than halved, to about 30˛percent in the ˚rst 
+half of 2017, compared with 2009. Also, the 
+authorities™ assessment is that ﬁthe regulations 
+contribute to preventing excessive household 
+indebtedness and to mitigating banks™ future 
+lossesﬂ (MNB 2017, page 11).
+Ł Norway
+. In response to high house 
+prices and growing household debt, the 
+authorities implemented higher capital and liquidity requirements (CB, CCB, SRB, 
+domestically systemic important institutions 
+[D-SIISs]), leverage ratios in 2013Œ17, and 
+borrower-based measures targeted to the 
+mortgage market (LTV limit, DTI limit, 
+amortization requirements). Following the 
+implementation of the LTV cap, the share of 
+new loans with an LTV ratio above 85˛percent 
+has declined. ˜e DTI measure that went 
+152. M
+ACROPRU
+DENTIAL POLICIES AND HOUSE PRICES IN EUROPE: A
+N OVERVIEW OF RECENT EXPERIENCESInternational Monetary Fund
+ | November 2018
+into e˝ect at beginning of 2017 also led to a decline of about 7˛percentage points in the 
+share of new mortgages with a DTI cap of 
+more than 500˛percent in 2016. ˜is share 
+was 2˛percent in 2017.
+Ł Israel
+. Measures included LTV caps adopted 
+in November 2012 (75˛percent for ˚rst-time 
+buyers and 50˛percent for mortgages for 
+investment properties) and an increase in 
+risk weights adopted in March 2013 (to 
+50˛percent for those with an LTV ratio of 
+45Œ60˛percent, and to 75˛percent for those 
+with an LTV ratio above 60˛percent). ˜e 
+measures appear to have been e˝ective, as the 
+proportion of new mortgages with an LTV of 
+more than 75˛percent declined from 6˛percent 
+in October 2012 to 0.5˛percent by February 
+2014, and the proportion of mortgages with 
+an LTV between 60 and 75˛percent also 
+declined modestly. A signi˚cant drop in the 
+latter in 2016 likely related to new regulatory 
+requirements fully implemented in 2015 
+and to ˚scal measures that aim to discourage 
+investor demand.
+Ł ˜e Slovak Republic
+. Several MaPPs have 
+been introduced to contain increasing 
+household indebtedness, high concentration of residential mortgages in bank portfolios, 
+and rapidly growing house prices. LTV 
+measures implemented in 2014 and the 
+recent decision to set the CCB to 0.5˛percent 
+have helped to improve lending standards 
+and credit quality. Speci˚cally, the share of 
+new loans with an LTV ratio of more than 
+90˛percent fell to below 20˛percent by the 
+second quarter of 2015 and continued to 
+decline to 6.3˛percent by the third quarter of 
+2016. ˜e proportion of new mortgages with 
+an LTV ratio of 80 to 90˛percent initially 
+increased but has since come down noticeably.
+Ł Sweden
+. To counteract unhealthy lending 
+practices and strengthen consumer protection, 
+the authorities introduced a mortgage cap 
+in 2010, mandating that new mortgage 
+loans not exceed 85˛percent of the value 
+of the home. ˜e share of high-LTV 
+mortgages declined after these measures. In 
+addition, a study by the authorities using 
+a di˝erence-in-di˝erences approach found 
+that households limited by the mortgage cap 
+borrowed approximately 13˛percent less and 
+purchased homes that were approximately 
+10˛percent less expensive than they would 
+have otherwise (Finansinspektionen 2017). 
+˜e mortgage cap has had the greatest e˝ect 
+outside the metropolitan regions.
+Ł Switzerland
+. Facing strong and prolonged 
+growth in house prices, risk weights were 
+raised for the part of a residential mortgage 
+in excess of an 80˛percent LTV ratio at the 
+beginning of 2013. ˜e proportion of new 
+mortgages with an LTV ratio higher than 
+80˛percent declined by about 5˛percentage 
+points in 2013. In addition, 
+Switzerland
+ was the ˚rst country in Europe to activate the 
+CCB in 2013, targeting mortgage-backed 
+positions secured by residential property. 
+˜e bu˝er was set at 1˛percent initially 
+and raised to 2˛percent in 2014. Following 
+these measures, capital-constrained or 
+mortgage-intensive banks raised their 
+mortgage rates, and as a result, new mortgage 
+loans were shifted to better-capitalized and 
+less-mortgage-intensive institutions.
+Impact on House Prices and Credit GrowthOur assessment, however, provides a more 
+mixed picture of the impact of macroprudential 
+measures on house prices and overall credit growth 
+(Figure˛2.10). In some countries (for example 
+Denmark
+), house price growth on a national 
+level was not accompanied by rapid growth 
+in bank credit. ˜us, measures that targeted 
+mortgage credit were not likely to a˝ect house 
+price dynamics in these countries. In addition, 
+circumvention may have played a role in some 
+cases (see next section). In 
+Switzerland
+, following several macroprudential 
+measures, real estate price growth and the pace 
+of mortgage lending have gradually eased. In 
+16REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+Real house pricesReal household creditReal house pricesReal housing loansReal house pricesReal housing loansReal house pricesReal housing loansReal house pricesReal housing loansprovided by banksFigure 2.10. MaPPs, Household Credit Growth, and House Prices in Select CountriesSupervisory Diamondand LTV ceiling proposalsSeven Best Practices proposalSeven Best Practices in effect95 percent LTV ceiling in effectLTV and LTI restriction proposalLTV and PTI &conversion ofFX mortgages.PTI to be tightenedin Oct 2018Mortgagefunding adequacyratio (MFAR) introduced,to be tightenedin Oct. 2018Reduced VAT rate on salesof certain dwellings during2016Œ19A more generous housingsupport scheme (CSOK)introduced, re˜ned in 2016Limits of LTVIncrease of capital risk weights,Additional provisionsFloating interest caps; DSI restriction;Risk weightsLoan period limitAdditional capitalrequirementTransactiontax raised forinvestorsHigher capital provisionAdditional provisionsLimit variable rate portion of a loanApartmentsAll housingOct. 2015Announcementof amortizationJune2016MeasurebecomeseffectiveDec.2016Growthmoderation16.72.415.95.615.25.212.76.9Annualized percentprice change over theperiod for the seriesJune 2017StricteramortizationannouncementŒ13.2Œ8.2Self-regulation tightened,right-weights increasedCCB increased to 2 percentSelf-regulation furthertightened, LCR introducedCCB increased to 1 percent Initial setting of:90% LTV limits, maximum maturity DSTI requirements, CCB rate set to 0%CCB increasedto 0.5%Additional LTV limits of 80%,New DSTI limits introducedCCB increased to 1.25%Sources: OMX Valueguard; and IMF staff calculations.Sources: Haver Analytics; IMF Global Housing Watch; and IMF staff calculations.Sources: Statistics Denmark; and IMF staff calculations.Sources: Hungarian Central Bank; Hungarian Ministry for National Economy; and IMF staff calculations.Source: Bank of Israel.Sources: Haver Analytics; and National Bank of Slovakia.2. Hungary: House Prices and Housing Loans (Year-over-year percent change)
+3. Israel: House Prices and Housing Loans (Year-over-year percent change)
+4. Slovak Republic: House Prices and Housing Loans (Year-over-year percent change)
+5. Sweden: Amortization Measure Effect on Property Prices (SA, index level, in logarithm)
+6. Switzerland: House Prices and Housing Loans (Year-over-year percent change)
+1. Denmark: House Prices and Household Credit (Year-over-year percent change)
+Among other factors, measures in 2014Œ15 may have contributed in moderating credit growth.Growth rate of house prices has decelerated since late 2016, re˜ecting changes in the regulatory requirements since 2015 and some ˚scal measures ...... while the impact of measures in the Slovak Republic on credit growth seems to have been limited.Sweden™s amortization requirement measures seem to have dampened house prices at least initially, but other factors such as prospects for increased housing supply may have also played a role.MaPPs have had a lasting moderating effect on the level of household debt, but only a transitory impact on the level of house prices in Switzerland.House price growth in Hungary appears to have stabilized, following the measures.Dec. 2005Dec. 07Dec. 09Dec. 11Dec. 13Dec. 15Dec. 172012:Q113:Q114:Q115:Q116:Q117:Q118:Q1Œ20Œ15Œ10Œ5051015202530Œ30Œ25Œ20Œ15Œ10Œ5051015202010:Q111:Q112:Q113:Q114:Q115:Q116:Q117:Q12010:Q111:Q112:Q113:Q114:Q115:Q116:Q117:Q118:Q1Œ505101520Œ10Œ505101520Dec.2013June14Dec.14June15Dec.15June16Dec.16June17Dec.172008:Q110:Q112:Q114:Q116:Q118:Q15.05.25.45.65.8Œ4Œ202468172. M
+ACROPRU
+DENTIAL POLICIES AND HOUSE PRICES IN EUROPE: A
+N OVERVIEW OF RECENT EXPERIENCESInternational Monetary Fund
+ | November 2018
+contrast, house prices in the Czech
+ Republic
+, Hungary
+, and the Slovak Republic
+ continued to grow rapidly after macroprudential measures 
+were introduced, though the measures may have 
+helped to contain faster increases. In 
+Israel
+, credit 
+to households continued to rise gradually relative 
+to GDP, even as MaPP succeeded in reducing 
+the share of risky loans. House pricesŠwhich 
+were not a MaPP target in this caseŠcontinued 
+to rise, partly re˙ecting low interest rates and 
+housing supply impediments. A deceleration in house prices observed since late 2016 re˙ects 
+a combination of proposed ˚scal measures to 
+discourage investor demand, a rise in mortgage 
+interest rates linked to capital surcharges on 
+mortgage lending, and market uncertainty 
+associated with the Buyer™s Price program. In 
+Norway
+, the impact on house prices appears to have been only transitory. ˜is is also in line 
+with the recent experience of 
+Sweden
+, where 
+amortization requirements and LTV requirements 
+curbed credit growth, but had less of an impact on 
+house prices. Amortization requirement measures 
+seem to have dampened house prices at least 
+initially, but other factors, such as prospects for 
+increased housing supply, may have also played 
+some role.
+5While a simple before-after analysis shows that 
+in a number of cases house prices and credit 
+growth trends did not appear to change after 
+the implementation of MaPP measures, a 
+deeper assessment using counterfactual analysis 
+indicates that macroprudential measures may 
+have contributed to contain household credit 
+and house price growth in 
+Norway
+ and Sweden
+ (Box˛2.1), although counterfactual paths are 
+imprecisely estimated.
+Further Considerations for Effectiveness: Circumvention and Interaction with Other Policies˜ere is evidence that macroprudential measures 
+were partly circumvented by nonbank ˚nancing 
+5Næss-Schmidt and others (2017).
+and other avenues in some countries.
+ For instance 
+Dimova, Kongsamut, and Vandenbussche (2016) 
+show that some measures imposed on banks in 
+Bulgaria
+ and Romania
+ to contain credit growth 
+before the global ˚nancial crisis were partly 
+circumvented through loan booking with nonbank 
+˚nancial institutions.More recently, in 
+Switzerland
+, mortgage loans by 
+pension funds and insurance companies, albeit small, are growing faster than bank mortgage 
+loans, warranting careful monitoring. In the 
+Czech
+ Republic
+, consumer credit may have substituted for 
+mortgages. Fortunately, jurisdictions are seeking 
+to broaden the application of MaPPs to avoid 
+circumvention. Recently, 
+Iceland
+ introduced a 
+binding LTV for new mortgage loans applicable to 
+all institutions providing mortgages (July 2017). 
+˜e Slovak Republic
+ also introduced binding 
+limits on the DSTI ratio (80˛percent) and on 
+the maturity (eight years) for new consumer 
+loans, which apply to all providers, whether 
+domestic or foreign.
+Cross-border loans have also been an avenue 
+for circumvention.
+6 For instance, 
+Estonia
+ implemented several macroprudential measures 
+in the mid-2000s during the ˚nancial upswing, which are believed to have been less e˝ective due 
+to cross-border circumvention (Kang and others 
+2017; and Sutt, Korju, and Siibak 2011). ˜is led 
+to the creation of networks among the authorities 
+in the region to, among other objectives, counter 
+circumvention (for example the Nordic-Baltic 
+Macroprudential Forum [Farelius and Billborn 
+2016]). Currently, within the countries that 
+belong to the European Systemic Risk Board 
+(ESRB) there is a framework to ensure that 
+the macroprudential instruments envisioned 
+under the European CRR/CRD IV directive 
+are reciprocated, and indeed reciprocation 
+6Kang and others (2017) ˚nd evidence of cross-border circum
+-vention in European countries. Also, Cerutti, Claessens, and Laeven 
+(2015), Akinci and Olmstead-Rumsey (2015), Reinhardt and 
+Sowerbutts (2015), and Buch and Goldberg (2017) broadly ˚nd that 
+macroprudential tightening is associated with lower domestic credit 
+but often with higher cross-border borrowing. Choi, Kodres, and 
+Lu (2018) document unintended consequences of macroprudential 
+measures in a cross-country setup.
+18REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+has occurred in several instances.
+7,8 However, 
+reciprocity of other instruments, including LTV 
+and DTI limits, remains voluntary.
+Supplementing MaPPs with other policies could 
+also help their e˝ectiveness. MaPPs have a stronger 
+e˝ect when reinforced by monetary policy 
+(Gambacorta and Murcia 2017), but monetary 
+policy needs to target price stability. ˜erefore, 
+it may not be always available to support MaPPs 
+and, at times, may even operate in the opposite 
+direction. Nonetheless, several policy instruments 
+in addition to MaPPs a˝ect the housing market 
+and have been used in the countries under study. 
+For instance, in 
+Hungary
+, covered bond funding 
+was restricted to low-LTV loans after the crisis to 
+improve the stability of banks™ funding sources 
+(IMF 2011). Similarly, the reduction in the scope 
+of mortgage interest tax deductibility planned in 
+Denmark
+, Finland
+, Netherlands
+, and Sweden
+ will help contain imbalances in the housing market.
+9 Taxes on real estate ownership or transactions 
+can be also used to pursue policy goals like those of MaPPs. For instance, in 
+Israel
+, a proposed tax 
+on owners of more than two apartments likely 
+resulted in a decline in housing transactions 
+in 2017 (Baudot-Trajtenberg, Tzur-Ilan, and 
+Frayberg 2018).
+Conclusions and Policy LessonsWith monetary policy remaining accommodative 
+in most countries and house prices on the rise, many European countries have stepped 
+up the implementation of MaPPs. Among the 
+7˜e ESRB goes beyond CRR/CRD IV to recommend the recip
+-rocation of bu˝er rates higher than 2.5˛percent (ESRB 2018).
+8In terms of implementation, 14 member states reciprocated the 
+Estonian risk bu˝er in 2016. Nine member states reciprocated the 
+Belgian national ˙exibility measure in 2016 (5˛percentage point 
+risk weight add-on applied to Belgian mortgage loan exposures of 
+credit institutions using the internal ratings based [IRB] approach). 
+Also, in late 2017, the Finnish national ˙exibility measure (a 
+credit-institution-speci˚c average risk weight ˙oor of 15˛percent 
+for IRB banks, at the portfolio level, of residential mortgage loans 
+secured by housing units in Finland) was recommended by the ESRB 
+for reciprocation. See ESRB (2018).
+9See IMF (2018a) for Denmark, IMF (2018b) for the Nether
+-lands, and IMF (2017a) for Sweden, for discussions on mortgage 
+interest deductibility.
+most-used measures are borrower-side measures 
+(LTVs, DTIs/LTIs, stepped-up amortization 
+requirements) as well as bank capital requirements 
+(countercyclical capital bu˝ers, systemic risk 
+bu˝ers, systematically ˚nancial institution bu˝ers, ˙oors on risk weights). While some countries 
+have introduced a comprehensive set of measures, 
+potential leakages and circumvention seem to pose 
+challenges, as even borrower-based measures are 
+not always applied to all types of loans.˜ere is evidence that borrower-side measures, 
+supported by lender-based measures, help limit the 
+share of riskier mortgages, which makes economies 
+more resilient. Speci˚cally, in most countries 
+following the introduction of MaPPs, the growth 
+of high-LTV mortgages slowed down, suggesting 
+that the measures may have been helpful. But 
+whether MaPPs can contain the formation of 
+house price and credit bubbles as monetary 
+policy remains accommodative is more diˆcult 
+to establish. In some countries, household credit 
+and house price growth slowed down following 
+the introduction of borrower-based measures, but 
+in other cases they did not. Implementation of 
+MaPPs is recent, and most countries have not gone 
+through a full economic and ˚nancial cycle, so a 
+comprehensive evaluation of the e˝ects of these 
+policies is still premature. Another open question 
+is to what extent countries should rely on MaPPs 
+rather than on complementary policy instruments 
+(that is, tax policy, mortgage interest deductibility, 
+zoning, construction, and planning restriction), 
+which can also have strong e˝ects on the housing 
+and credit markets. ˜e answer, presumably, 
+should be a function of the speci˚c forces that are 
+driving excessive lending and house price increases.
+192. M
+ACROPRU
+DENTIAL POLICIES AND HOUSE PRICES IN EUROPE: A
+N OVERVIEW OF RECENT EXPERIENCESInternational Monetary Fund
+ | November 2018
+To assess the e˝ectiveness of macroprudential policy (MaPP) measures, counterfactual analysis is used to 
+gauge the impact of MaPPs speci˚cally targeted at the housing market on containing household credit in 
+Norway
+ and Sweden
+. Following Price (2014), we estimated the e˝ectiveness of these measures by projecting 
+counterfactual growth rates of household credit and house prices using data from the ˚rst quarter of 2003 for 
+Norway
+ and from the ˚rst quarter of 1981 in the case of 
+Sweden
+. ˜e estimation proceeded in two steps. First, 
+a vector autoregression model was estimated consisting of housing-speci˚c variables (household credit growth, 
+house price growth, housing starts/completions, house sales) and macroeconomic variables (household income 
+growth, output gap, net immigration rate, population growth, mortgage interest rate) using data prior to 
+the implementation of the measures. Second, based on model predictions, the dynamics of housing-speci˚c 
+variables were projected conditional on the actual behavior of macroeconomic variables in the periods after the 
+measures became e˝ective.
+Source: IMF staff estimates.
+Note: MaPP = macroprudential policy. 
+1. Household Credit Growth (Year-over-year percent change)NorwaySwedenŒ50510152025Œ50510152025201112131415161720111213141516172. House Price Growth (Year-over-year percent change)1. Household Credit Growth (Year-over-year percent change)Œ50510152025Œ50510152025201112131415161720111213141516172. House Price Growth (Year-over-year percent change)Actual dataActual dataActual dataActual dataCounterfactual scenarioCounterfactual scenarioCounterfactual scenarioCounterfactual scenario95 percent con˜dence interval95 percentcon˜denceinterval95 percent con˜dence interval95 percent con˜dence intervalFigure 2.1.1. The Impact of MaPPs on Household Credit Growth in Norway and SwedenŠCounterfactual Analyses Box 2.1. The Impact of Macroprudential Policies in Norway and SwedenŠ Counterfactual Analysis20REGIONAL ECONOMIC OUTLOOK: EURO
+PEInternational Monetary Fund
+ | November 2018
+˜e analysis suggests that household credit growth would have been higher without the measures, but 
+statistical signi˚cance is borderline. Actual credit growth paths are found to remain below counterfactuals in 
+both cases, with the di˝erence becoming statistically signi˚cant at the 95˛percent con˚dence level in 
+Norway
+ starting several quarters after the introduction of MaPPs. In 
+Sweden
+, actual credit growth is close toŠbut still 
+withinŠthe lower bound of the con˚dence interval. Not surprisingly, MaPPs appear to a˝ect house prices and 
+household credit with delays, so over time the mitigating impact may become larger. Turning to house prices, 
+counterfactuals are above actual values in 
+Sweden
+, but not signi˚cantly so. In 
+Norway
+, the di˝erence is positive 
+only in 2017, and the estimated con˚dence interval is very large. While these results are suggestive of some 
+e˝ect on household credit, they should be interpreted with care, bearing in mind the relatively short time 
+since the implementation of some measures and the well-known empirical challenge in isolating˛the˛impact of 
+policy changes from that of other intervening factors
+Box 2.1 (continued)212. M
+ACROPRU
+DENTIAL POLICIES AND HOUSE PRICES IN EUROPE: A
+N OVERVIEW OF RECENT EXPERIENCESInternational Monetary Fund
+ | November 2018
+ReferencesAkinci, Ozge, and Jane Olmstead-Rumsey. 2015. ﬁHow E˝ective 
+Are Macroprudential Policies? An Empirical Investigation.ﬂ 
+International Finance Discussion Paper 1136, Board of 
+Governors of the Federal Reserve System, Washington, DC.
+Baudot-Trajtenberg, Nadine, Nitan Tzur-Ilan, and Roi Frayberg. 
+2018. ﬁAssessing the Impact of Macroprudential Tools: ˜e 
+Case of Israel.ﬂ BIS Papers No 94, Bank for International 
+Settlements. Basel.
+Buch, Claudia M., and Linda S. Goldberg. 2017. ﬁCross-Border 
+Prudential Policy Spillovers: How Much? How Important? 
+Evidence from the International Banking Research Network.ﬂ 
+International Journal of Central Banking
+ 13 (S1): 505Œ58.Cerutti, Eugenio, Stijn Claessens, and Luc Laeven. 2015. 
+ﬁ˜e Use and E˝ectiveness of Macroprudential Policies: 
+New Evidence.ﬂ IMF Working Paper 15/61, International 
+Monetary Fund, Washington, DC.
+Choi, Seung Mo, Laura Kodres, and Jing Lu. 2018. ﬁFriend or 
+Foe? Cross-Border Linkages, Contagious Banking Crises, and 
+‚Coordinated™ Macroprudential Policies.ﬂ IMF Working Paper 
+18/9, International Monetary Fund, Washington, DC.
+Claessens, Stijn, Swati R. Ghosh, and Roxana Mihet. 2013. 
+ﬁMacro-Prudential Policies to Mitigate Financial System 
+Vulnerabilities.ﬂ 
+Journal of International Money and 
+Finance
+ 39: 153Œ85.Dimova, Dilyana, Piyabha Kongsamut, and Jérôme 
+Vandenbussche. 2016. ﬁMacroprudential Policies in 
+Southeastern Europe.ﬂ IMF Working Paper 16/29, 
+International Monetary Fund, Washington, DC.
+Égert, Balázs, and Dubravko Mihaljek. 2007. ﬁDeterminants of 
+House Prices in Central and Eastern Europe.ﬂ BIS Working 
+Paper 236, Bank for International Settlements, Basel.
+European Systemic Risk Board (ESRB). 2018. ﬁA Review of 
+Macroprudential Policy in the EU in 2017.ﬂ Frankfurt.
+Farelius, David, and Jill Billborn. 2016. ﬁMacroprudential 
+Policy in the Nordic-Baltic Area.ﬂ 
+Sveriges Riksbank Economic 
+Review
+ 1: 133Œ46.Finansinspektionen. 2017. ﬁAmortisation Requirement Reduced 
+Household Debt.ﬂ 
+FI Analysis
+ (April): 10.
+Gambacorta, Leonardo, and Andrés Murcia. 2017. ﬁ˜e Impact 
+of Macroprudential Policies and ˜eir Interaction with 
+Monetary Policy: An Empirical Analysis Using Credit Registry 
+Data.ﬂ BIS Working Paper 636, Bank for International 
+Settlements. Basel.
+Geng, Nan. 2018. ﬁFundamental Drivers of House Prices 
+in Advanced Economies.ﬂ IMF Working Paper 18/164, 
+International Monetary Fund, Washington, DC.
+Girouard, Nathalie, Mike Kennedy, Paul van den Noord, and 
+Christophe André. 2006. ﬁRecent House Price Developments: 
+˜e Role of Fundamentals.ﬂ OECD Economics Department 
+Working Paper 475, Organisation for Economic Co-operation 
+and Development, Paris.
+International Monetary Fund (IMF). 2011. ﬁMacroprudential 
+Policy: An Organizing Framework.ﬂ IMF Policy Paper, 
+Washington, DC.
+ŠŠŠ. 2013. ﬁKey Aspects of Macroprudential Policy.ﬂ IMF 
+Policy Paper, Washington, DC.
+ŠŠŠ.2014. ﬁSta˝ Guidance Note on Macroprudential 
+PolicyŠDetailed Guidance on Instruments.ﬂ 
+Washington, DC.
+ŠŠŠ. 2017a. Sweden: 2017 Article IV Consultation
+. IMF Country Report No. 17/350.Washington, DC
+ŠŠŠ. 2017b. ﬁIncreasing Resilience to Large and Volatile 
+Capital Flows: ˜e Role of Macroprudential Policies.ﬂ IMF 
+Policy Paper, Washington, DC.
+ŠŠŠ. 2018a. Denmark: 2018 Article IV Consultation
+. IMF Country Report 18/177, Washington, DC.
+ŠŠŠ. 2018b. 
+Kingdom of the Netherlands: 2018 Article IV 
+Consultation. IMF Country Report 18/130, Washington, DC.
+Kang, Heedon, Francis Vitek, Rina Bhattacharya, Phakawa 
+Jeasakul, Sònia Muñoz, Naixi Wang, Rasool Zandvakil. 2017. 
+ﬁMacroprudential Policy Spillovers: A Quantitative Analysis.ﬂ 
+IMF Working Paper 17/170, International Monetary Fund, 
+Washington, DC.
+Kholodilin, Konstantin A., and Dirk Ulbricht. 2015. ﬁUrban 
+House Prices: A Tale of 48 Cities.ﬂ 
+Economics: ˜e Open-Access, 
+Open-Assessment E-Journal
+ 9 (28): 1Œ43.Magyar Nemzeti Bank (Hungarian Central Bank, MNB). 2017. 
+ﬁMacroprudential Report.ﬂ Budapest.
+Næss-Schmidt, Sigurd, Jonas Bjarke Jensen, Christian Heebøll, 
+and Palle Søre. 2017. 
+˜e Role of
+ Macroprudential Policy in 
+Sweden
+. Copenhagen: Copenhagen Economics.
+Price, Gael. 2014. ﬁHow Has the LVR Restriction A˝ected the 
+Housing Market: A Counterfactual Analysis.ﬂ Reserve Bank of 
+New Zealand Analytical Notes AN2014/03, Wellington.
+Reinhardt, Dennis, and Rhiannon Sowerbutts. 2015. ﬁRegulatory 
+Arbitrage in Action: Evidence from Banking Flows and 
+Macroprudential Policy.ﬂ Bank of England Working Paper 
+546, London.Sutt, Andres, Helen Korju, Kadri Siibak. 2011. ﬁ˜e Role of 
+Macro-Prudential Policies in the Boom and Adjustment Phase 
+of the Credit Cycle in Estonia.ﬂ Policy Research Working 
+Paper WPS 5835, World Bank, Washington, DC.
