@@ -136,6 +136,10 @@ def densityPlot(dataList, dataType, limitsList, metric, maxCB, step, show = True
         else:
             numRows = math.floor(len(sqDataListDot) / 5)
 
+        # If the number of plots is less than 5 then use one row
+        if (numRows == 0):
+            numRows = 1
+
         # Plot cosine similarity density data if exits
         if (sqDataList):
             # Create global fig

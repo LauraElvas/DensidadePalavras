@@ -55,9 +55,7 @@ def validateFunction(choice, type):
 
         choice = int(choice[0])
         validationCondition = (choice > 0) and (choice <= maxPlots)
-        
-        if (not validationCondition):
-            return True, choice
+        return validationCondition, choice
 
     return False, -1
 
@@ -149,7 +147,7 @@ while (run):
 
         else:
             # Load data
-            dataListComplete, limitsDict = loadData(beg, end, checkP, metric, dimension)
+            dataListComplete, limitsDict =  DataCreatorCorp2.loadData(numPlots, metric, dimension, saveFolder)
 
             # Plot data
             if (dimension == 2):
@@ -174,7 +172,7 @@ while (run):
 
         else:
             # Load data
-            dataListComplete, limitsDict = DataCreatorCorp2.loadData(numPlots, metric, dimension)
+            dataListComplete, limitsDict = DataCreatorCorp2.loadData(numPlots, metric, dimension, saveFolder)
 
             # Plot data
             if (dimension == 2):

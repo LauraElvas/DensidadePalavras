@@ -77,10 +77,7 @@ def validateFunction(choice, type):
             choice = int(choice[0])
             validationCondition = (str(choice) + "_plots") in os.listdir(os.path.join("Saved Data", "Corpus 2"))
 
-            if (not validationCondition):
-                return False, -1
-
-            return True, choice
+            return validationCondition, choice
 
     # Verifies input for the word
     if (type == "word"):
@@ -291,17 +288,17 @@ while (run):
             dataList2D, dataList3D, limitsList2D, limitsList3D = SquareSpacePlotCorp2.loadSquareData(words, halfEdge, metric, dimension, saveFolder)
 
             # Plot data
-            SquareSpacePlotCorp2.plotSquare2D(words, halfEdge, dataList2D, limitsList2D, False, True, saveFolder, labels)
-            SquareSpacePlotCorp2.plotSquare3D(words, halfEdge, dataList3D, limitsList3D, False, True, saveFolder, labels)
+            SquareSpacePlotCorp2.plotSquare2D(words, halfEdge, dataList2D, limitsList2D, True, False, None, labels)
+            SquareSpacePlotCorp2.plotSquare3D(words, halfEdge, dataList3D, limitsList3D, True, False, None, labels)
 
         else:
             dataList, limitsList = SquareSpacePlotCorp2.loadSquareData(words, halfEdge, metric, dimension, saveFolder)
 
             # Plot data
             if (dimension == 2):
-                SquareSpacePlotCorp2.plotSquare2D(words, halfEdge, dataList, limitsList, False, True, saveFolder, labels)
+                SquareSpacePlotCorp2.plotSquare2D(words, halfEdge, dataList, limitsList, True, False, None, labels)
             elif (dimension == 3):
-                SquareSpacePlotCorp2.plotSquare3D(words, halfEdge, dataList, limitsList, False, True, saveFolder, labels)
+                SquareSpacePlotCorp2.plotSquare3D(words, halfEdge, dataList, limitsList, True, False, None, labels)
 
         close = True
 

@@ -329,14 +329,14 @@ def plotGlobal2D(numPlots, dataListComplete, limitsDict, show = True, save = Fal
             ax.set_ylim(limitsDict["limMinYDot"] - offset, limitsDict["limMaxYDot"] + offset)
 
         # Title
-        ax.set_title(f"Plot: {count + 1} (Number of words: {len(dataComplete.index)})", fontsize = 30)
+        ax.set_title(f"Plot: {repIndex + 1} (Number of words: {len(dataComplete.index)})", fontsize = 30)
 
         # Save plot
         if (save):
             if (not dot):
-                plt.savefig(os.path.join("Saved Data", saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot2D_" + str(repIndex + 1) + ".png"))
+                plt.savefig(os.path.join(saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot2D_" + str(repIndex + 1) + ".png"))
             else:
-                plt.savefig(os.path.join("Saved Data", saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot2D_Dot_" + str(repIndex + 1) + ".png"))
+                plt.savefig(os.path.join(saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot2D_Dot_" + str(repIndex + 1) + ".png"))
 
         if (show):
             plt.show()
@@ -392,14 +392,14 @@ def plotGlobal3D(numPlots, dataListComplete, limitsDict, show = True, save = Fal
             ax.set_zlim(limitsDict["limMinZDot"] - offset, limitsDict["limMaxZDot"] + offset)
 
         # Title
-        ax.set_title(f"Plot: {count + 1} (Number of words: {len(dataComplete.index)})", fontsize = 30)
+        ax.set_title(f"Plot: {repIndex + 1} (Number of words: {len(dataComplete.index)})", fontsize = 30)
 
         # Save plot
         if (save):
             if (not dot):
-                plt.savefig(os.path.join("Saved Data", saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot3D_" + str(repIndex + 1) + ".png"))
+                plt.savefig(os.path.join(saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot3D_" + str(repIndex + 1) + ".png"))
             else:
-                plt.savefig(os.path.join("Saved Data", saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot3D_Dot_" + str(repIndex + 1) + ".png"))
+                plt.savefig(os.path.join(saveFolder, "Plot_" + str(repIndex + 1), "AllWordsPlot3D_Dot_" + str(repIndex + 1) + ".png"))
 
         if (show):
             plt.show()

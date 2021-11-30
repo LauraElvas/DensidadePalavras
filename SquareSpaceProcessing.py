@@ -135,6 +135,10 @@ while (run):
             dimension = input(f"Input is not valid. Must be 2, 3 or word \"both\". Try again: ")
             validationCondition3, dimension = validateFunction(dimension, "dimension")
 
+        menu = False
+
+    # 1 - Create data for square plots with a given size for a given interval and a given word
+    if (option == "1"):
         print()
         halfEdge = input("Distance between word and edge of the square (bulk actions not available for this parameter): ")
 
@@ -144,11 +148,6 @@ while (run):
             halfEdge = input("Input value not valid. Must be a number above 0: ")
             validationCondition4, halfEdge = validateFunction(halfEdge, "halfEdge")
 
-        print()
-        menu = False
-
-    # 1 - Create data for square plots with a given size for a given interval and a given word
-    if (option == "1"):
         print()
         interval = input(f"Input an interval in the form ####-####-# (beginning year-end year-checkpoints, an interval of the type ####-####-# followed by a comma and another interval, ex. 2000-2008-4,2010-2020-2, will perform the action in bulk over the multiple intervals): ")
 
@@ -264,30 +263,39 @@ while (run):
 
     # 2 - Load and visualise previously created data
     if (option == "2"):
-        print()
-        interval = input(f"Input an interval in the form ####-####-# (beginning year-end year-checkpoints): ")
+        validationCondition7 = False
+        while (not validationCondition7):
+            print()
+            halfEdge = input("Distance between word and edge of the square (bulk actions not available for this parameter): ")
 
-        # Validate answer - interval (extra steps - no bulk action available)
-        interval = interval.split(",")
-        if (len(interval) > 1):
-            validationCondition5 = False
-        else:
-            validationCondition5, interval = validateFunction(interval, "interval")
+            # Validate answer - halfEdge
+            validationCondition4, halfEdge = validateFunction(halfEdge, "halfEdge")
+            while(not validationCondition4):
+                halfEdge = input("Input value not valid. Must be a number above 0: ")
+                validationCondition4, halfEdge = validateFunction(halfEdge, "halfEdge")
 
-        while (not validationCondition5):
-            interval = input(f"Input is not valid or there isn't any data created with the chosen years. Must be of the form ####-####-#. Try again: ")
+            print()
+            interval = input(f"Input an interval in the form ####-####-# (beginning year-end year-checkpoints): ")
+
+            # Validate answer - interval (extra steps - no bulk action available)
             interval = interval.split(",")
             if (len(interval) > 1):
                 validationCondition5 = False
             else:
                 validationCondition5, interval = validateFunction(interval, "interval")
 
-        print()
-        words = input("Word at the center of the squared plots: ")
+            while (not validationCondition5):
+                interval = input(f"Input is not valid or there isn't any data created with the chosen years. Must be of the form ####-####-#. Try again: ")
+                interval = interval.split(",")
+                if (len(interval) > 1):
+                    validationCondition5 = False
+                else:
+                    validationCondition5, interval = validateFunction(interval, "interval")
 
-        # Validate answer - word (extra steps - no bulk action available)
-        validationCondition7 = False
-        while (not validationCondition7):
+            print()
+            words = input("Word at the center of the squared plots: ")
+
+            # Validate answer - word (extra steps - no bulk action available)
             words = words.split(",")
             if (len(words) > 1):
                 validationCondition6 = False
@@ -303,7 +311,7 @@ while (run):
                     validationCondition6, _ = validateFunction(words, "word")
 
             # Checking if words are present in the models
-            print("Checking if word is present in the models...")
+            print("Checking if data already exists...")
 
             foldersList = os.listdir(os.path.join("Saved Data", interval[0]))
             dataFolder = ""
@@ -315,9 +323,7 @@ while (run):
                     dataFolder = os.path.join("Saved Data", interval[0])
 
             if (not dataFolder):
-                print("No data for chosen word")
-                print()
-                words = input("Choose other word: ")
+                print("No data for the chosen parameters")
             else:
                 validationCondition7 = True
 

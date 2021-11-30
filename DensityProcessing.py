@@ -132,11 +132,11 @@ while (run):
 
             # Validate answer - words 
             words = words.split(",")
-            validationCondition4 = validateFunction(words, "words")
+            validationCondition4, _ = validateFunction(words, "word")
             while (not validationCondition4):
                 words = input("Input word or words not valid. Must be a word or list of words separated by commas: ")
                 words = words.split(",")
-                validationCondition4 = validateFunction(words, "words")
+                validationCondition4, _ = validateFunction(words, "word")
 
             print()
 
@@ -244,7 +244,7 @@ while (run):
             if (len(words) > 1):
                 validationCondition4 = False
             else:
-                validationCondition4 = validateFunction(words, "words")
+                validationCondition4, _ = validateFunction(words, "word")
 
             while (not validationCondition4):
                 words = input("Input word not valid. Must be one single word: ")
@@ -252,7 +252,7 @@ while (run):
                 if (len(words) > 1):
                     validationCondition4 = False
                 else:
-                    validationCondition4 = validateFunction(words, "words")
+                    validationCondition4, _ = validateFunction(words, "word")
 
             print()
 
@@ -265,10 +265,10 @@ while (run):
             for folder in foldersList:
                 for subfolder in os.listdir(os.path.join("Saved Data", folder)):
                     wrd = subfolder.split("_")[0]
-                    if (words == wrd):
-                        dataFolder.append([word, folder, subfolder])
+                    if (words[0] == wrd):
+                        dataFolder.append([words[0], folder, subfolder])
 
-            if (dataFolder == []):
+            if (not dataFolder):
                 print("No data for chosen words")
             else:
                 dataExist = True

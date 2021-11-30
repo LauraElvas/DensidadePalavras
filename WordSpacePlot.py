@@ -1,4 +1,4 @@
-# Script used to clean the corpora. Adapted from the code written by Miguel Bernardo in his master degree thesis "Construction of Geometries Based on Automatic Text Interpretation". Auxiliary script, used in SquareSpacePlot.py
+# Script used to plot the words. Adapted from the code written by Miguel Bernardo in his master degree thesis "Construction of Geometries Based on Automatic Text Interpretation". Auxiliary script, used in DataCreator.py
 
 from __future__ import absolute_import, division, print_function
 import numpy as np

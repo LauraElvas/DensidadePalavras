@@ -228,11 +228,15 @@ def plotSquare2D(center, halfEdge, dataList, limitsList, show = True, save = Fal
     else:
         numRows = math.floor(len(sqDataListDot) / 5)
 
+    # If the number of plots is less than 5 then use one row
+    if (numRows == 0):
+        numRows = 1
+
     # Plot cosine similarity data if exits
     if (sqDataList):
         # Create global fig
         fig = plt.figure(figsize=(50,50))
-        fig.suptitle(f"Metric: Cosine Product, Square Side: {squareSide}", fontsize=30)
+        fig.suptitle(f"Metric: Cosine Similarity, Square Side: {squareSide}", fontsize=30)
 
         for count, data in enumerate(sqDataList):
             # Plot subplots
@@ -370,6 +374,10 @@ def plotSquare3D(center, halfEdge, dataList, limitsList, show = True, save = Fal
     else:
         numRows = math.floor(len(sqDataListDot) / 5)
 
+    # If the number of plots is less than 5 then use one row
+    if (numRows == 0):
+        numRows = 1
+
     # Plot cosine similarity data if exits
     if (sqDataList):
         # Create global fig
@@ -419,7 +427,7 @@ def plotSquare3D(center, halfEdge, dataList, limitsList, show = True, save = Fal
     if (sqDataListDot):
         # Create global fig
         fig = plt.figure(figsize=(50,50))
-        fig.suptitle(f"Metric: Dot Product, Square Side: {squareSide}", fontsize=30)
+        fig.suptitle(f"Metric: Dot Product, Cube Side: {squareSide}", fontsize=30)
 
         for count, data in enumerate(sqDataListDot):
             # Plot subplots
