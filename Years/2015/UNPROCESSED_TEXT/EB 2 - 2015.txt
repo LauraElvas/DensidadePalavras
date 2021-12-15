@@ -1,0 +1,3825 @@
+© European Central Bank, 2015Postal address 60640 Frankfurt am Main Germany Telephone +49 69 1344 0 Website www.ecb.europa.eu This Bulletin was produced under the responsibility 
+of the Executive Board of the ECB. Translations are 
+prepared and published by the national central banks.
+All rights reserved. Reproduction for educational and 
+ non-commercial purposes is permitted provided that 
+the source is acknowledged. 
+The cut-off date for the statistics included in this issue 
+was 4 March 2015. 
+ISSN 2363-3417 (epub)ISSN 2363-3417 (online)
+EU catalogue number QB-BP-15-002-EN-E (epub)EU catalogue number QB-BP-15-002-EN-N (online)3ECBEconomic BulletinIssue 2 / 2015CONTENTSECONOMIC AND MONETARY DEVELOPMENTSOverview 51 External environment
+ 82 Financial developments 123 Economic activity 174 Prices and costs 225 Money and credit 276 Fiscal developments 33BOXESBox 1
+35Box 2
+
+ from 12 November 2014 to 27 January 2015 38Box 3
+42Box 4
+
+45Box 5
+48Box 6
+51Box 7
+
+55ARTICLES5972STATISTICS S15ECBEconomic BulletinIssue 2 / 2015ECONOMIC AND MONETARY DEVELOPMENTSOVERVIEWWith a view to pursuing the ECB™s price stability mandate, the Governing Council has taken a number of monetary policy measures to provide a sufficient degree of monetary policy 
+accommodation.
+ 
+
+
+The asset purchase programme has already produced a substantial easing of broad financial 
+conditions. In December 2014 and most of January 2015 financial market developments were to a 
+ US government bond yields continued. Yields on lower-rated euro area sovereign bonds also fell, 
+
+but were more volatile amid uncertainty about Greece™s continued access to financial assistance. 
+
+
+Favourable developments in financial markets have led to lower bank funding costs, which have gradually been passed on to the cost of external finance for the private sector.  
+ 
+
+
+6ECBEconomic Bulletin
+Issue 2 / 2015Recent data also indicate a firming of money and credit dynamics
+
+policy measures are contributing to an easing of bank lending conditions and, more generally, to 
+The substantial additional easing of the ECB™s monetary policy stance supports and 
+reinforces the emergence of more favourable developments in euro area economic activity
+. 
+since July 2014. An environment of improving business and consumer sentiment will support 
+
+
+The economic recovery is expected to strengthen and broaden gradually
+
+
+
+At the same time, several obstacles to a stronger pick-up in activity persist
+
+ 
+The March 2015 ECB staff macroeconomic projections for the euro area,
+1 which incorporate the estimated impact of both standard and non-standard monetary policy measures taken 
+by the Governing Council, foresee annual real GDP increasing by
+ 1.5% in 2015, 1.9% 
+in 2016 and 2.1% in 2017
+
+7ECBEconomic BulletinIssue 2 / 2015On the basis of current information, inflation is expected to remain very low or negative over the coming monthsInflation rates are expected to gradually rise later this year
+. First, as past declines in energy 
+The March 2015 ECB staff macroeconomic projections for the euro area foresee annual 
+HICP inflation at 0.0% in 2015, 1.5% in 2016 and 1.8% in 2017The March 2015 ECB staff macroeconomic projections are conditional on the full 
+implementation of the ECB™s monetary policy measures.
+
+The current focus of monetary policy is on implementation of the measures decided by the 
+Governing Council in January 2015. Based on its regular economic and monetary analyses, and 
+
+8ECBEconomic Bulletin
+Issue 2 / 20151 E
+XTERNAL ENVIRONMENTGlobal growth is recovering gradually, albeit unevenly, across economies. On the one hand, the 
+significant fall in oil prices is expected to boost global activity, supported by a robust outlook 
+
+for growth in the United States. On the other hand, the deteriorating situation in some emerging 
+
+market economies is weighing on the outlook for global growth. Global inflation has moderated in 
+
+recent months. Annual rates of inflation are likely to remain low in the near term in view of the past 
+
+decline in oil prices and to rise only gradually thereafter as the global recovery continues. Risks to 
+
+global activity remain on the downside.The global economy is continuing along a path to gradual recovery. 
+
+Lower oil prices are expected to boost global demand.
+
+Chart 1 Global composite output PMI(diffusion index)
+3540
+455055603540
+455055602008200920102011201220132014emerging market economiesadvanced economies excluding the euro areaglobal excluding the euro areaglobal excluding the euro area Œ long-term averageSource: Markit.
+
+
+
+
+
+
+
+United Kingdom.Chart 2 Oil prices Œ actual and futures(in USD per barrel)4060
+80100
+12040
+60
+80
+100
+120Jan.MaySep.Jan.MaySep.Jan.MaySep.201320142015as of 4 March 2015March 2015 ECB staff macroeconomic projections
+December 2014 Eurosystem macroeconomic projections
+actual
+
+is for February 2015.9ECBEconomic BulletinIssue 2 / 2015
+countries.Robust growth in the United States is also supporting the global outlook. Activity remained 
+a sustained upturn in domestic demand is expected, supported by continued accommodative 
+
+prices are expected to support private consumption. Improved confidence, stronger demand and 
+
+low interest rates are likely to spur business investment, offsetting lower capital expenditure in 
+
+The growth momentum in most other advanced economies outside the euro area has also 
+
+firmed up. 
+
+
+Near-term prospects have improved in some emerging market economies, particularly in oil-
+importing countries. 
+
+
+
+ 10ECBEconomic Bulletin
+Issue 2 / 2015Elsewhere, the outlook is for weaker activity. In Latin America, medium-term prospects appear 
+turmoil in financial markets is expected to 
+
+financing costs, potentially exacerbating funding 
+
+term, lower energy prices will potentially 
+
+Global trade lost some momentum towards the end of
+ 2014 and is expected to recover only 
+
+gradually. order index recovered in December
+ 2014 and stabilised in January
+ 2015, suggesting more resilience economy, greatly expanding global trading opportunities.Overall, the global recovery is expected to pick up gradually.
+
+1 Euro area foreign demand is expected by less favourable prospects in some emerging market economies. 
+
+
+Chart 3 Real GDP growth in emerging 
+market economies024
+6810
+12024
+681012BrazilRussiaIndiaChinaEMEsaverage 2000-08average 2011-14Source: IMF World Economic Outlook database.
+
+11ECBEconomic BulletinIssue 2 / 2015Risks to the outlook for global activity remain 
+tilted to the downside. A faster normalisation of monetary policies 
+
+to financial stability. Geopolitical risks also 
+
+ Global inflation has fallen in recent months, driven mostly by declining energy prices. 
+Annual Global inflation is expected to remain low in the short term and to rise only gradually thereafter. Ongoing weakness in commodity prices is expected to contribute to low global 
+coming years, as do futures prices for non-oil commodities. Chart 4 Inflation in the OECD area
+percentage points)-2-10123456-2-101
+2345620072008200920102011201220132014energyfood
+excluding food and energytotal
+
+12ECBEconomic Bulletin
+Issue 2 / 20152 FINANCIAL DEVELOPMENTS 
+In December 2014 and most of January 2015 financial developments were driven largely by market 
+expectations about the expanded asset purchase programme (APP) which was announced after 
+
+the meeting of the ECB Governing Council on 22 January 2015. Before the APP announcement, 
+
+euro area bond yields declined across instruments, maturities and issuers and reached new 
+
+historic lows in many cases. Yields on AAA-rated long-term euro area government bonds declined 
+
+while equivalent US bond yields increased, so that the spread between the two widened further. 
+
+Yields on lower-rated euro area government bonds also declined but they displayed greater 
+
+volatility, linked to the uncertainty surrounding Greece™s continued access to financial assistance. 
+
+Following the announcement of the APP and in February and March, euro area government bond 
+
+yields continued to decline. Furthermore, stock prices in the euro area increased significantly. 
+
+The euro weakened substantially.The EONIA decreased between early December 2014 and early March 2015 amid higher 
+levels of excess liquidity
+
+operations in greater detail. The announcement of the APP Œ and the expectations preceding it Œ resulted in EONIA forward rates declining significantly. February 2018. A broadly similar development 
+EURIBOR. Yields on AAA-rated euro area government bonds also declined owing to expectations 
+relating to the APP announcement 
+
+
+result, yields on 10- and 30-year AAA-rated 
+government bonds declined between early 
+
+as AAA-rated two-year government bonds, also 
+declined, moving into negative territory in some 
+
+countries. Chart 5 EONIA forward rates(percentages per annum)-0.500.000.50
+1.00
+1.502.002.50-0.500.00
+0.50
+1.001.502.00
+2.5020142019202420292034203920444 March 20154 December 201413ECBEconomic BulletinIssue 2 / 2015Yields on lower-rated euro area government bonds (except Greek bonds) also declined, 
+but displayed greater volatility.
+increased uncertainty surrounding Greece™s continued access to finance exerted some upward 
+
+Uncertainty in the euro area government bond market increased somewhat, as indicated 
+by a slight rise in option-implied volatilityimplementation. The decoupling of euro area and US government bond yields continued. 
+US and euro area AAA-rated bond yields increased between early December 2014 and early 
+Chart 6 Ten-year government bond yields(percentages per annum)0.0 0.5 
+1.0 
+1.5 
+2.0 2.5 3.0 
+3.5 0.0 0.5 1.0 1.5 2.0 
+2.5 
+3.0 3.5 201220132014euro area (AAA-rated) United States 
+
+
+
+Chart 7 Ten-year government bond yields 
+in selected euro area countries(percentages per annum)20131412
+108
+6
+4
+2
+02014BelgiumGermanyIreland
+GreeceSpainFranceItaly
+Portugal1412
+10
+8
+6
+4
+2
+014ECBEconomic Bulletin
+Issue 2 / 2015Spreads on investment-grade corporate bonds 
+continued to decline. 
+  
+portfolio-rebalancing effects and, in connection 
+
+
+probability of default on corporate bonds. 
+
+Spreads for financial issuers declined more 
+
+reflecting market sentiment on progress made 
+
+
+on money and credit). Spreads on asset-backed 
+securities remained broadly stable.Stock prices in the euro area increased significantlyof expected future corporate earnings). In late 
+extend Greece™s financial assistance programme 
+
+expectations regarding future corporate earnings 
+
+market uncertainty, as measured by implied 
+
+Stock price increases were stronger in the 
+ non-financial sector than in the financial 
+
+sector. Chart 8 Option-adjusted spreads of 
+euro-denominated corporate bonds 
+
+in the euro area(basis points)230non-financial issuersfinancial issuers210190170150
+1301109070502013201423021019017015013011090
+7050Chart 9 Stock price indices(1 January 2013 = 100)90100
+110
+120
+130
+140150160
+17018019090100
+110
+120
+130
+140150160
+170180190euro area United States 
+Japan 20132014
+
+
+
+
+
+15ECBEconomic BulletinIssue 2 / 2015The effective exchange rate of the euro 
+weakened further over the past few months. 
+2015 meeting, reflecting market expectations 
+
+of impending monetary policy decisions. 
+level recorded one year earlier. Box 3 reviews 
+
+
+ Chart 10 Sectoral stock price indices(1 January 2013 = 100)90100110
+120
+130140150
+16090
+100
+110
+120
+130140150
+16020132014euro area financial sector euro area non-financial sector US financial sector US non-financial sector Note: Based on Datastream market indices.Chart 11 Exchange rate of the euro against 
+selected currencies(1 December 2008 = 100)607080
+90100110120
+130607080
+90
+100110120
+13020082009201020112012201320142015US dollarpound sterlingJapanese yenChinese renminbiSwiss francEER-38
+
+
+
+Chart 12 Changes in the exchange rate 
+of˜the euro against selected currencies(percentages)Croatian kunaRomanian leuDanish kroneHungarian forintKorean wonSwedish kronaCzech korunaPolish zlotySwiss francJapanese yenpound sterlingUS dollarChinese renminbiEER-38-20-15-10-505since 4 March 2014since 4 December 2014
+
+
+
+16ECBEconomic Bulletin
+Issue 2 / 2015Russian rouble.17ECBEconomic BulletinIssue 2 / 20153 EC
+ONOMIC ACTIVITYThe euro area economic recovery has shown a gradual firming since mid-2014
+ and labour markets have improved. Moreover, a number of factors have recently further supported euro area activity. 
+Lower oil prices are bolstering real disposable income, thus supporting private consumption. The 
+recent depreciation of the euro exchange rate has facilitated exports. The recently announced 
+
+expanded asset purchase programme (APP) should further contribute to easing financing 
+
+conditions and enhancing access to credit. Looking forward, economic activity is, therefore, 
+
+expected to continue to strengthen during the course of
+ 2015 and beyond, driven by both domestic 
+
+and external demand, although unemployment is expected to remain high. Against this background, 
+
+the March
+ 2015 ECB staff macroeconomic projections for the euro area foresee a stronger growth 
+outlook compared with the December 2014 Eurosystem staff macroeconomic projections.Domestic demand strengthened in the second half of 2014.Chart 13 Euro area real GDP(index Q1 2008=100)8085
+90
+95100
+10580
+85
+90
+95
+100
+105199920012003200520072009201120132015Chart 14 Euro area real GDP growth and its 
+composition
+point contributions)-6-5
+-4
+-3
+-2-101
+23-6-5
+-4
+-3
+-2-101
+232008200920102011201220132014net exportsdomestic demandchanges in inventoriesreal GDP
+
+
+
+
+
+18ECBEconomic Bulletin
+Issue 2 / 2015The basis for the ongoing economic recovery 
+has strengthened visibly over recent months. 
+supply-driven, contributes to a substantial 
+
+increase in real disposable income. Second, 
+
+leading to ongoing improvements in financial 
+
+reversing and exerting a more positive 
+
+of 2012.These positive developments are also reflected in the March
+ 2015 ECB staff macroeconomic projections for the euro area.1
+
+Consumption growth gained momentum in the latter part of
+ 2014. wage and non-wage income, less need for fiscal consolidation as well as falling energy prices. 
+Looking forward, growth in private consumption expenditure is expected to remain a key 
+driver of the pick-up in activity. 
+
+
+
+
+Chart 15 Euro area real GDP (including 
+projections)
+-3.5-3.0
+-2.5
+-2.0
+-1.5-1.0-0.50.0
+0.5
+1.0
+1.5-3.5
+-3.0
+-2.5
+-2.0
+-1.5-1.0-0.50.0
+0.5
+1.0
+1.52008200920102011201220132014201520162017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New procedure for constructing Eurosystem and ECB staff projection ranges19ECBEconomic BulletinIssue 2 / 2015developments in private consumption, improved 
+markedly in January and February
+ 2015, Investment spending remained subdued in the 
+second half of 2014. Gross fixed capital formation 
+
+quarterly terms, reflecting a growing production 
+
+of capital goods, a marginal increase in capacity 
+
+utilisation and a pick-up in confidence levels in 
+
+below-average, confidence indicators suggest 
+
+Business investment growth is expected to gain momentum in 2015gradual unwinding uncertainty stemming from 
+in profit mark-ups. 
+As for construction investment, a moderate recovery is expected from
+ 2015 onwards, 
+supported by very low mortgage rates in most 
+
+countries, easing financing conditions, stronger 
+
+
+will support residential investment over time. Chart 16 Euro area private consumption and 
+consumer confidence
+-3.0-2.5
+-2.0
+-1.5
+-1.0
+-0.50.0
+0.5
+1.0
+1.5
+2.0-3.0
+-2.5
+-2.0
+-1.5
+-1.0
+-0.50.0
+0.5
+1.0
+1.5
+2.020072008200920102011201220132014real private consumption consumer confidenceChart 17 Euro area investment-to-GDP ratio(percentages)1819
+20
+21
+22
+23241819
+202122232419992001200320052007200920112013201520ECBEconomic Bulletin
+Issue 2 / 2015Net exports are expected to make a modest positive contribution to GDP growth, as exports are being supported by global demand and a weakening of the exchange rate of the euro. Euro 
+America were subdued. Euro area exports are expected to continue to grow in 2015
+ and beyond, 
+Some factors continue to hinder a stronger pick-up in overall activity. Procedure. 
+
+Risks to the outlook for activity are on the downside, but have diminished following recent 
+monetary policy decisions and the fall in oil prices. 
+activity.The euro area labour market situation is gradually improving. 
+market-related) and more recent signs of a 
+
+stabilisation in industry and construction. 
+
+ 
+
+extent, driven by improvements in countries 
+Chart 18 Euro area employment, 
+PMI employment expectations and 
+
+unemployment
+78
+91011
+1213-1.0-0.8-0.6-0.4-0.20.00.20.4
+0.6200520072009201120132015employment (left-hand scale)PMI employment expectations (left-hand scale)
+unemployment rate (right-hand scale)
+21ECBEconomic BulletinIssue 2 / 2015
+
+improvements in labour market conditions. Unemployment continues to gradually recede from elevated levels. 
+
+Looking ahead, euro area labour markets are expected to improve further over the short and 
+medium term
+
+
+22ECBEconomic Bulletin
+Issue 2 / 2015Global and domestic factors have accounted for the protracted fall in HICP inflation since 
+late 2011, with the recent sharp fall in oil prices having been the main driver behind inflation turning 
+negative in recent months. On the basis of prevailing oil futures prices annual HICP inflation is 
+
+expected to remain at negative or very low levels over the coming months. The March
+ 2015 ECB 
+staff macroeconomic projections for the euro area expect inflation to average at
+ 0.0% in 2015, but 
+to rise significantly to
+ 1.5% in
+ 2016 and further to
+ 1.8% in
+ 2017. HICP inflation excluding energy 
+and food is expected to rise from
+ 0.8% in 2015 to 1.3% in 2016 and 1.7% in 2017. The recent monetary policy measures are expected to contribute to the increase in inflation over the projection 
+
+horizon and to underpin the anchoring of inflation expectations. The risks to the outlook for price 
+
+developments over the medium term will be closely monitored, with a particular focus on the pass-
+
+through of the monetary policy measures and geopolitical developments, as well as exchange rate 
+
+and energy price developments. Inflation outcomes in recent months have been significantly lower than envisaged in the 
+December 2014 Eurosystem staff macroeconomic projections for the euro area.
+ According to 
+4˜PRICES AND COSTSChart 20 Developments in HICP inflation 
+since October 2011-1.0-0.50.0
+0.5
+1.0
+1.5
+2.0
+2.53.5-1.0-0.50.0
+0.5
+1.0
+1.5
+2.0
+2.53.53.03.0Oct.Feb.JuneOct.Feb.JuneOct.Feb.JuneOct.Feb.20112012201320142015servicesnon-energy industrial goods
+foodenergyoverall indexoverall index Œ base period (October 2011) 
+
+
+
+
+
+inflation in October 2011.Chart 19 Euro area HICP inflation and HICP 
+inflation excluding food and energy-1012345-10
+12345HICP inflation HICP inflation excluding food and energyMarch 2015 ECB staff macroeconomic projectionsfor inflationMarch 2015 ECB staff macroeconomic projections 
+for inflation excluding food and energy1999200120032005200720092011201320152017
+
+
+
+
+
+
+
+
+
+23ECBEconomic BulletinIssue 2 / 2015HICP inflation excluding energy and food has continued on a broadly stable path.
+
+
+1The direct effects of the decline in oil prices have dominated recent inflation developments
+  Food prices have also continued to come under downward pressure.The lagged impact of the appreciation of the euro until May 2014 and the decline in international commodity prices is still weighing on prices for non-energy industrial goods. 
+
+
+
+
+e-commerce. Pipeline pressures for non-energy industrial 
+goods items remain subdued. Producer price 
+
+lead non-energy industrial goods price inflation 
+
+at a low level in January 2015. In addition, 
+
+retail sector continued to fall in January
+ 2015 
+ intermediate goods, as well as prices in euro 
+
+subdued levels.1 For a more detailed discussion on indirect effects, see the box entitled ﬁIndirect effects of oil price developments on euro area inflationﬂ, 
+Monthly Bulletin, ECB, December 2014. Chart 21 Pipeline pressures at the later 
+stages of the price chain for non-energy 
+
+industrial goods-1.0-0.50.00.5
+1.01.52.0404550
+55
+60657020042006200820102012
+2014Purchasing Managers™ Index Œ non-food retail input costs (three-month moving average; left-hand scale)Producer Price Index Œ non-food consumer goods (right-hand scale)HICP non-energy industrial goods (right-hand scale)24ECBEconomic Bulletin
+Issue 2 / 2015Muted labour cost developments have contained services price pressures.
+ As labour costs tend 
+The possibility of second-round effects from lower oil prices needs to be monitored.
+
+
+difficult to cut wages in absolute terms.
+Survey-based measures of long-term inflation expectations suggest that inflation will 
+gradually return to levels close to 2%Chart 23 Services price inflation in theeuro area0.00.5
+1.01.52.02.53.00.0
+0.5
+1.01.52.02.53.02008200920102011201220132014other countriesstressed and previously stressed countriesservices inflationChart 22 Compensation per employee 
+by sector in the euro area-0.50.00.5
+1.01.52.0
+2.53.03.5
+4.0-0.50.00.51.0
+1.5
+2.02.53.0
+3.54.02008200920102011201220132014non-market servicesmarket services
+construction
+industry (excluding construction)total
+
+activities by general government and private non-profit institutions 
+
+
+
+
+
+25ECBEconomic BulletinIssue 2 / 2015Market-based measures of inflation expectations have fallen further than survey-based 
+measures.
+
+ negative inflation risk premia.Looking ahead, HICP inflation is projected to average 0.0% in 2015, but to rise significantly in 2016 and further in 2017.  output gap rapidly narrows. Chart 24 Survey-based measures of inflation 
+expectations-101234-10123420112013201520172019202120232025realised HICP inflationConsensus Economics forecastSPF forecast (Q1 2015)
+
+
+
+
+
+
+Chart 25 Five-year, five-year forward 
+inflation swap rates1.01.5
+2.0
+2.53.03.5
+4.04.51.01.5
+2.0
+2.53.03.5
+4.04.5201320142015United KingdomUnited Stateseuro areaJan.JulyJan.Jan.July
+
+
+
+26ECBEconomic Bulletin
+Issue 2 / 2015Improving labour markets and the decline in 
+slack in the economy imply greater domestic 
+
+price pressures over the projection horizon.
+ 
+
+
+
+
+pick-up in productivity implies a flat profile for 
+
+of wage restraint. Following a decline in
+ 2015, picks up significantly and economic activity 
+
+Non-standard monetary policy measures are expected to contribute to the increase in inflation 
+over the projection horizon via both domestic and external price pressures. 
+The Governing Council of the ECB announced that it will closely monitor the risks to the 
+outlook for price developments over the medium term. rate and energy price developments.Chart 26 Euro area HICP inflation 
+(including projections)-1.00.00.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5-1.0-0.5-0.50.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.52008200920102011201220132014201520162017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New procedure for constructing Eurosystem and ECB staff projection 
+ranges27ECBEconomic BulletinIssue 2 / 2015Annual growth in broad money (M3) recovered further, but remains at subdued levels. Meanwhile, 
+annual loan growth picked up, confirming a turnaround in loan dynamics at the beginning of 2014 Œ 
+
+credit supply constraints are abating gradually and the demand for loans is improving. Overall, recent 
+
+developments suggest that the ECB™s monetary policy measures are helping to restore the proper 
+
+functioning of the monetary policy transmission mechanism and easing bank lending conditions.In an environment of very low interest rates, money and loan dynamics improved further. 
+Recent data indicate a pick-up in underlying growth in M3, but it still remains at subdued 
+levels. Money-holders focus on overnight deposits. 
+5 M
+ONEY AND CREDITChart 27 M3 and underlying M3-4-20
+2
+468
+10
+12
+14-4
+-20
+2
+4
+6
+810
+1214200320052007200920112013range of measures for ﬁunderlyingﬂ money growthM3 annual rate of growth of quarterly seriesM3 annualised three-month rate of growth of monthly series
+
+
+
+measure based on a dynamic factor model for a large set of 
+
+
+
+
+
+Chart 28 M3 and its components
+
+-8-6
+-4-202
+4
+6
+810
+12-8
+-6
+-4
+-2024
+6
+8
+10
+122008200920102011201220132014M1other short-term depositsmarketable instrumentsM328ECBEconomic Bulletin
+Issue 2 / 2015
+External transactions continue to support broad money growth. 
+
+
+expectations of lower future returns on euro area assets, particularly among international investors. 
+Banks expanded their balance sheets in the fourth quarter of 2014 Œ for the first time 
+since mid-2012 (see Chart 30). From end-2011 to April 2014 deleveraging by banks implied a 
+
+Chart 29 Counterparts of M3effects)
+-800-600
+-400
+-2000200
+4006008001,0001,2001,4001,600-800-600
+-400
+-2000
+2004006008001,000
+1,2001,4001,6002008200920102011201220132014    credit to the private sector (1)credit to the general government (2)net external assets (3)longer-term financial liabilities (excluding capital and reserves) (4)other counterparts (including capital and reserves) (5)M3 
+Longer-term financial liabilities (excluding capital and reserves)
+
+MFI sector.Chart 30 Main assets of euro area MFIs
+seasonal effects)
+-1,00001,000
+2,000
+3,000
+4,0005,0006,000-1,00001,000
+2,000
+3,0004,0005,000
+6,00020072008200920102011201220132014credit to the private sectorcredit to the general governmentexternal assetsother claims of MFIsclaims on the Eurosystemtotal
+
+refers to MFI main assets, i.e. some asset categories are not 
+
+included.29ECBEconomic BulletinIssue 2 / 2015
+It comes in response to a period of strong 
+and 2012, total assets of monetary financial 
+
+ 60 percentage points of GDP.Adjustment processes remained a feature of 
+the banking sector during the fourth quarter 
+
+of 2014.  
+Banks™ funding costs continued to improve in the fourth quarter of 2014. 
+survey (see survey at: 
+
+Recent data confirm a turnaround in loan dynamics during the first quarter of 2015. Chart 31 Banks™ composite cost of debt 
+financing(composite cost of deposit and non-secured market debt 01
+2
+3
+4
+5
+6
+70
+1
+2
+3
+4
+5
+6
+72008200920102011201220132014GermanySpainFranceItalyeuro area
+calculations. 
+Notes: Average of deposit rates on new business and cost 
+
+
+
+outstanding amounts.30ECBEconomic Bulletin
+Issue 2 / 2015assessment of gradually receding credit supply 
+tensions and point to rising demand for loans. 
+
+banks contributed to an easing of credit 
+
+Lower bank funding costs are gradually being passed on to bank lending rates. 
+
+Chart 33 MFI loans to households in 
+selected euro area countries-100102030-1001020302008200920102011201220132014NetherlandsSpaineuro areacountry dispersionItaly
+France
+Germany
+
+
+
+
+and securitisation as of January 2009.Chart 34 Factors contributing to a 
+tightening of credit standards for loans 
+
+to˜NFCs and net demand(average net percentages per category)-50-250
+25
+50
+75
+100
+125-50
+-25025
+50
+75100
+125cost of funds and balance sheet constraintscompetition
+risk perceptioncredit standardsnet demand2008200920142011201220132014
+
+
+
+
+
+Chart 32 MFI loans to NFCs in selected euro 
+area countries-20-10010
+203040-20
+-100102030402008200920102011201220132014FranceNetherlandseuro areacountry dispersionSpainItalyGermany
+
+
+
+
+
+securitisation as of January 2009.31ECBEconomic BulletinIssue 2 / 2015aimed at a more accommodative monetary 
+
+and non-financial corporations in all euro area 
+
+countries declined by around 40 basis points 
+
+The overall growth in external financing of 
+non-financial corporations in the euro area 
+strengthened somewhat by the end of 2014. 
+
+Securities issuance data for December
+ 2014 
+ nominal cost of 
+ non-bank 
+
+Chart 35 Composite indicator of the cost 
+of borrowing for NFCs0.00.2
+0.4
+0.6
+0.81.01.2
+1.4
+1.61.8-2-1012
+3
+4
+5672008200920102011201220132014cross-country standard deviation (right-hand scale)FranceSpainNetherlandsItalyeuro areaGermany
+
+
+
+
+
+country standard deviation is calculated over a fixed sample of 
+
+12 euro area countries.Chart 36 Composite indicator of the cost 
+of borrowing for households for house 
+
+purchase0.00.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.70.80.9
+1.001
+2
+3
+4
+5
+6
+72008200920102011201220132014cross-country standard deviation (right-hand scale)FranceSpainNetherlandsItalyeuro areaGermany
+
+
+
+
+
+country standard deviation is calculated over a fixed sample of 
+
+12 euro area countries.Chart 37 Changes in terms and conditions 
+on loans or credit lines to enterprisesterms and conditions)-50-250
+25
+50
+75100125150175
+200225250-50
+-250255075100125150
+175200225
+2502008200920102011201220132014margins on average loansmargins on riskier loanscollateral requirementsother terms and conditions
+
+
+
+32ECBEconomic Bulletin
+Issue 2 / 2015programme (see Section 2).Divergences in lending rates across countries have started to narrow. 33ECBEconomic BulletinIssue 2 / 20156 FISCAL DEVELOPMENTSFiscal consolidation is expected to continue. Additional structural adjustment will, however, 
+be needed to set the debt ratio firmly on a downward path. Moreover, to strengthen confidence 
+in the European fiscal framework, it is important that the Stability and Growth Pact is fully and 
+
+consistently implemented. In particular, there is a risk of the debt rule being side-lined.The aggregate fiscal deficit for the euro area is expected to continue to decline.
+ 
+The aggregate general government debt ratio is projected to have peaked in 2014. According to 
+  The fiscal stance is expected to be broadly neutral. Following a number of years of substantial 
+ 
+Table 1 Fiscal developments in the euro area(percentages of GDP)201220132014201520162017a. Total revenue 45.846.546.646.546.246.0b. Total expenditure49.449.349.248.748.147.5of which:c. Interest expenditure3.02.82.72.52.42.3d. Primary expenditure (b - c)46.446.646.546.245.745.2Budget balance (a - b)-3.6-2.9-2.6-2.3-1.9-1.5Primary budget balance (a - d)-0.6-0.10.10.30.50.7-3.4-2.2-1.9-1.8-1.8-1.7Structural balance-3.1-2.2-1.9-1.8-1.7-1.7Gross debt88.790.691.791.489.887.9Memo item: real GDP -0.7-0.40.91.51.92.1
+
+
+
+35ECBEconomic BulletinIssue 2 / 2015Box 1ASSESSING US INFLATION DEVELOPMENTS USING THE PHILLIPS CURVEThe recent decline in inflation has been a broadly based phenomenon across major 
+advanced economies, despite differences in the cyclical positions.  Annual inflation in the United States, measured by the personal consumption expenditure 
+(PCE) deflator, averaged 1.9% over the past decade, broadly in line with the Federal Open 
+
+Market Committee™s (FOMC) longer-run inflation target. The traditional Phillips curve suggests 
+an inverse relationship between inflation 
+and the degree of slack, or spare 
+
+capacity, in the economy.
+ In order to 
+
+
+measures of inflation expectations or 
+
+ so-called adaptive expectations or inflation 
+
+persistence) are also often included. 
+prices, to capture open-economy aspects and 
+
+1Since judging the extent of underlying 
+
+slack in an economy is subject to a 
+significant degree of uncertainty, it is 
+
+common to employ a variety of indicators.
+2  
+
+NBER Working Paper Series, No 19390, 2013.
+  Monthly BulletinChart A US inflation developments-2-10
+123
+45-2-10
+1
+234
+5200420062008201020122014PCEPCE excluding food and energySources: Bureau of Labor Statistics and Bureau of Economic 
+Analysis. 
+
+
+inflation target.BOXES36ECBEconomic Bulletin
+Issue 2 / 2015inflation rate of unemployment (NAI
+RU) 
+
+structural and actual labour force participation 
+
+rates.3
+participation rate and unemployment gap 
+
+Phillips curves are commonly used to analyse and explain inflation developments in the 
+
+United States.  
+ 4four alternative measures of labour market slack, lagged inflation and import prices are able to 
+
+
+
+
+ During 
+5
+
+
+
+
+
+Brookings Papers on Economic Activity
+, Spring 2011.
+
+ﬁthe decline in the unemployment rate [–] somewhat overstates the improvement in overall labor market conditionsﬂ
+, see Yellen, J., Chart B Measures of labour market slack(percentages)-6-5
+-4-3-2-10
+12-6-5-4-3
+-2-1012200420062008201020122014unemployment gap + participation gapunemployment gapshort-term unemployment gapmedium-term unemployment gap
+
+
+
+
+
+37ECBEconomic BulletinIssue 2 / 2015Looking forward, US inflationary pressures are likely to increase only gradually, as the 
+upward pressure from the ongoing recovery in economic activity is expected to be partially 
+
+counterbalanced in the near term by oil price and exchange rate developments. 
+Amid 
+
+Chart C Out-of-sample forecasts for PCE 
+inflation-101
+234
+56-101
+234
+5620052007200920112013actual dataforecast range
+
+
+
+
+
+
+
+
+
+and participation gap as slack measures.Chart D Long-term measures of inflation 
+expectations1.0 1.5 
+2.0 
+2.5 
+3.0 
+3.5 4.0 1.0 1.5 
+2.0 
+2.5 
+3.0 
+3.5 
+4.0 200420062008201020122014five-year forward five years ahead break-eveninflation rate SPF ten-year PCE  SPF ten-year CPI University of Michigan five-ten years 
+of Professional Forecasters and Bloomberg.
+
+
+
+
+
+
+not related to a specific price index. Market-based inflation 
+
+
+
+average of daily data up to 25 February 2015.38ECBEconomic Bulletin
+Issue 2 / 2015Box˜2LIQUIDITY CONDITIONS AND MONETARY POLICY OPERATIONS IN THE PERIOD 
+ FROM 12 NOVEMBER 2014 TO 27 JANUARY 2015This box describes the ECB™s monetary policy operations during the reserve maintenance 
+periods ending on
+ 9 December 2014 and 27 January 2015,1
+2, 3Liquidity needs
+In the period under review, the aggregate daily liquidity needs of the banking system, 
+defined as the sum of autonomous factors and reserve requirements, increased by •26
+ billion 
+The increase in autonomous factors resulted from the combined effects of several 
+components. 
+
+
+
+Where liquidity-providing factors are concerned, net assets denominated in euro decreased by, on average, •7
+ billion to •526 billion.interest rate. 
+
+Monthly Bulletin
+mb201412en.pdf).
+
+fixed spread of 10 basis points.39ECBEconomic BulletinIssue 2 / 2015The volatility of autonomous factors increased considerably during the period under 
+review, 
+The average absolute error of weekly forecasts of autonomous factors increased 
+considerably in the period under review,
+
+
+money market rates and volatile excess liquidity.Liquidity provision
+The average amount of liquidity provided through open market operations increased 
+by •61
+ billion, to •759 billion, in the period under review,
+ 
+
+ Liquidity provided through the tender operations increased to average •546.5 billion, 
+compared with •502.7 billion in the previous period.
+ In addition, the liquidity provided through outright portfolios increased by, on average, 
+•17.4 billion on the back of the implementation of the CBPP3 and the ABSPP.Looking slightly beyond the period under review, the maturity of the first three-year 
+LTRO on 29 January 2015 did not trigger any significant drop in excess liquidity,
+autonomous factors.Excess liquidity
+Excess liquidity rose by •35.1 billion to average •153 billion over the period under review, 
+with significant differences between the two maintenance periods.40ECBEconomic Bulletin
+Issue 2 / 2015Excess liquidity fluctuated significantly,4 From a low of 
+meetings.EUROSYSTEM Œ liquidity situation12. November 2014 to 27. January 2015
+13. August to 11. NovemberTwelfth maintenance periodEleventh maintenance periodLiabilities Œ liquidity needs (averages, EUR billions)Autonomous liquidity factors1,597.1(+35.7)1,561.41603.6(+17.9)1,585.7(+8.5)Banknotes in circulation996.2(+23.9)972.31,005.5(+25.7)979.8(+6.2)Government deposits68.3(-5.5)73.866.3(-5.3)71.6(-4.5)532.6(+17.3)515.3531.7(-2.5)534.3(+6.7)Monetary policy instruments217.8(+21.4)196.3236.3(+50.8)185.4(-2.8)Minimum reserve requirements106.3(+0.9)105.4106.2(-0.2)106.5(+0.7)Deposit facility41.9(+14.7)27.150.2(+23.0)27.3(-3.7)Liquidity-absorbing fine-tuning operations0.0(+0.0)0.00.0(+0.0)0.0(+0.0)Assets - liquidity supply (averages, EUR billions)Autonomous liquidity factors1,098.0(+10.5)1,087.51,098.6(+1.7)1,096.9(+1.4)Net foreign assets572.0(+17.4)554.6576.4(+12.2)564.3(+2.3)Net assets denominated in euro526.0(-7.0)532.9522.2(-10.4)532.6(-0.8)Monetary policy instruments
+Open market operations758.6(+61.2)697.4791.3(+89.8)701.5(+0.4)Tender operations provided546.5(+43.8)502.7573.4(+73.9)499.5(-8.2)MROs113.3(+11.0)102.3119.0(+15.7)103.3(+8.1)Special-term refinancing operations0.0(+0.0)0.00.0(+0.0)0.0(+0.0)43.4(+17.6)25.849.0(+15.5)33.5(+7.3)236.4(-93.7)330.1211.5(-68.5)280.0(-23.6)Targeted LTROs153.4(+108.9)44.5193.9(+111.3)82.6(+0.0)212.1(+17.4)194.7217.9(+15.9)202.0(+8.6)29.0(-2.9)31.928.8(-0.7)29.5(-1.4)12.8(-0.8)13.612.8(-0.1)12.9(-0.4)25.0(+23.9)1.130.5(+15.2)15.3(+12.5)Securities Markets Programme144.1(-4.0)148.1144.1(+0.1)144.0(-2.3)1.2(+1.2)0.01.7(+1.5)0.2(+0.2)Marginal lending facility0.4(+0.2)0.20.5(+0.3)0.2(-0.0)Other liquidity-based information (averages, EUR billions)Aggregate liquidity needs605.7(+26.1)579.6611.6(+16.1)595.4(+7.7)Autonomous factors499.4(+25.3)474.1505.3(+16.3)489.0(+7.0)Excess liquidity153.0(+35.1)117.8179.8(+73.7)106.0(-7.2) 1)111.7(+36.5)75.288.9(+66.1)22.8(-0.7)Interest rate developments (percentages)MROs0.05(-0.03)0.080.05(+0.00)0.05(+0.00)Marginal lending facility0.30(-0.03)0.330.30(+0.00)0.30(+0.00)Deposit facility-0.20(-0.03)-0.17-0.20(+0.00)-0.20(+0.00)EONIA average-0.031(-0.033)0.002-0.047(-0.044)-0.003(+0.000)
+
+
+41ECBEconomic BulletinIssue 2 / 2015Given the higher level of excess liquidity, daily current account holdings increased 
+considerably, reserves5
+Interest rate developments
+The EONIA averaged -0.3 basis point and -4.7 basis points in the eleventh and twelfth maintenance period respectively.
+
+
+42ECBEconomic Bulletin
+Issue 2 / 2015Box˜3 
+RECENT MOVEMENTS IN THE EFFECTIVE EXCHANGE RATE OF THE EUROThe nominal effective exchange rate 
+(NEER) constitutes a useful aggregate 
+measure of the exchange rate fluctuations 
+that affect economies through their trade 
+links, as it combines the various bilateral 
+rates vis-à-vis individual trading partners 
+
+into a single indicator.
+respect to a narrow and a broad set of trading 
+
+1The NEER of the euro has experienced 
+large swings since the outbreak of the 
+
+global financial crisis. From a longer-term 
+euro area sovereign debt crisis. As confidence 
+From its post-crisis peak in early May
+ 2014 to its low on 23 January 2015 the broad-based NEER weakened by around 10%, although it has stabilised in recent 
+
+weeks with the return of capital inflows following the ECB™s announcement of its 
+
+expanded asset purchase programme after the
+ 22 January 2015 Governing Council 
+
+meeting 
+Occasional Paper Series
+,  Chart A Nominal effective exchange rate 
+of the euro (NEER-19 and NEER-38)(index: Q1 1999 = 100)130120
+1101009080130120110
+100
+90
+8019992001200320052007200920112013NEER-19NEER-38average for NEER-19average for NEER-38
+
+43ECBEconomic BulletinIssue 2 / 2015Looking at developments in bilateral exchange rates from May 2014 to late February 2015, half the fall in the NEER-38 was accounted for jointly by the US dollar and the Chinese 
+renminbi
+Chart B Evolution of selected euro exchange 
+rates and weights in the NEER-38 
+-10-50
+5
+10
+15
+20
+25-20
+-10010
+20
+30
+40501 US dollar2 Chinese renminbi
+3 Swiss franc4 pound sterling5 Japanese yen6 Russian rouble
+7 CEE
+8 EME
+9 Commodity10 NEER-3812345678910change (left-hand scale)weight in NEER-38 (right-hand scale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chart C Contribution by currency 
+to the change in the NEER-38(percentage points)-3-2
+-1012-3
+-2
+-1012123456789101 Chinese renminbi2 US dollar
+3 pound sterling
+4 Swiss franc
+5 Japanese yen  6 Russian rouble
+  7 CEE
+  8 EME  9 Commodity10 Otherscontribution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44ECBEconomic Bulletin
+Issue 2 / 2015The weakening of the broad-based NEER was mitigated by the euro™s strengthening by 
+around 40% vis-à-vis the Russian rouble, which came under marked pressure in the 
+context of the tensions in Ukraine.
+
+
+
+against currencies of central and eastern European EU countries. 45ECBEconomic BulletinIssue 2 / 2015Box˜4FACTORS BEHIND RECENT HOUSEHOLD SAVING PATTERNS IN THE EURO AREAThe saving-to-income ratio is an important indicator of households™ behaviour that has 
+an impact on the dynamics of real private consumption and, more generally, the pace of 
+
+economic growth. 
+
+
+
+The euro area household saving ratio has stabilised at relatively low levels in recent years, 
+in comparison with the historical average.
+Analysing households™ saving behaviour in the euro area from a historical perspective, 
+a number of specific periods can be distinguished, each characterised by a different degree 
+
+of influence of key driving factors.In the first phase of the recession and its aftermath, i.e. in the period from 2008 to 2010, 
+the household saving ratio surged temporarily, driven primarily by faltering consumer 
+
+confidence, before declining again. Chart A Euro area household saving ratio 
+and consumer confidence(percentages of disposable income, percentage balances)20002002200420062008201020122014saving ratio (left-hand scale)consumer confidence (right-hand scale, inverted)16.015.5
+15.0
+14.5
+14.013.513.0
+12.5
+12.0˜40˜35˜30˜25˜20˜15˜10˜505
+10Chart B Euro area household saving 
+ratio, real disposable income and private 
+
+consumption
+saving ratio (left-hand scale)real disposable income (right˜hand scale)real private consumption (right-hand scale)16.015.515.014.5
+14.0
+13.5
+13.0
+12.5
+12.043210˜1˜2˜3-42000200220042006200820102012201446ECBEconomic Bulletin
+Issue 2 / 2015Since 2011 the saving ratio has remained broadly stable at relatively low levels, reflecting 
+compensatory effects of various factors that influence households™ decisions. 
+
+
+ Viewed across countries, saving patterns have been very heterogeneous in recent years. 1
+Chart C Household saving ratios in the large 
+euro area countries
+of gross disposable income)6810
+121416
+186
+810
+121416
+18euro areaGermanyFranceItalySpainrest of the euro area20002002200420062008201020122014
+
+
+
+
+
+accounts data are not available for all euro area countries.Chart D Household real disposable income 
+growth in the large euro area countries-6-4
+-20264-6-4
+-20264200220042006200820102012euro areaGermanyFranceItalySpainrest of the euro area2014
+
+
+
+
+
+accounts data are not available for all euro area countries.47ECBEconomic BulletinIssue 2 / 2015
+
+Looking ahead, the relatively sharp drop in oil prices observed since the summer 
+of 2014 should support a temporary rebound of the saving ratio.
+
+
+The expected hump-shaped response of the saving ratio may be linked to the uncertainty 
+surrounding energy-related increases in real disposable income.
+ Even if sustained, increases 
+
+in real income owing to decreases in energy prices are generally surrounded by more uncertainty 
+
+.48ECBEconomic Bulletin
+Issue 2 / 2015Box 5 
+THE 2015 MACROECONOMIC IMBALANCE PROCEDUREThe macroeconomic imbalance procedure (MIP), introduced in November 2011, is a 
+cornerstone of the EU™s strengthened governance framework, which aims to prevent the 
+
+emergence of harmful macroeconomic imbalances and to correct them when they are excessive. 
+
+The MIP covers all EU Member States, with the exception of those subject to a macroeconomic 
+
+adjustment programme. Following a first screening on the basis of a set of indicators, the Commission 
+
+conducts in-depth reviews for a selected group of countries to assess the severity of the imbalances 
+
+signalled by the indicators. If it concludes that imbalances are indeed present, the Member State 
+
+concerned receives policy recommendations from the EU Council based on the recommendation of 
+
+the Commission (preventive arm). By contrast, if imbalances are found to be excessive the excessive 
+
+imbalance procedure should be initiated on a recommendation from the Commission.1 Under 
+this corrective arm, the country concerned has to submit a corrective action plan outlining policy 
+
+measures to address the excessive imbalances, which must be endorsed by the Council. In case of 
+
+repeated failure to present an adequate plan or in case of non-compliance with an approved plan, the 
+
+Council may impose financial sanctions on the euro area country in question.Outcome of the 2015 in-depth review
+The outcome of the 2015 in-depth review shows that the European Commission has 
+identified five countries with excessive imbalances: Bulgaria, France, Croatia, Italy and 
+
+Portugal. The Commission decided to step up the procedure for Germany (from level 2 to 3), 
+
+France (from level 4 to 5) and significantly for Bulgaria (from level 2 to 5), and to de-escalate 
+
+the procedure for Slovenia (from level 5 to 4). Italy and Croatia have been in the same category 
+
+since 2014. This year, Romania (level 2) and Portugal (level 5) have entered the procedure, 
+
+following the end of their macroeconomic adjustment programmes. It is the first year that the 
+
+Commission has formally introduced the classification of imbalances in six levels, although 
+
+these were already implicitly used in the 2014 exercise (see Table A).1 Recital 22 of EU Regulation No 1176/2011 on the prevention and correction of macroeconomic imbalances.Table A Macroeconomic imbalance procedure categories123456201420152014201520142015201420152014201520142015DKDKBEBEHUHUIEIEHRHRLULUBGNLDEESESITFRMTMTDESEFRSISIITATATNLROPTLTLTSEUKBGLVLVUKFIEEEEFIPOPOCZCZSKSKSource: European Commission.Legend: 1 = No imbalances; 2 = Imbalances which require monitoring and policy action; 3 = Imbalances which require monitoring and 
+
+decisive policy action; 4 = Imbalances which require specific monitoring and decisive policy action; 5 = Excessive imbalances which 
+
+require specific monitoring and decisive policy action; 6 = Excessive imbalances which require decisive policy action and the activation 
+
+of the excessive imbalance procedure. Colour code: Red for countries with an escalation of the procedure, green for countries with a 
+
+stepping-down and blue for the countries which entered the procedure in 2015.49ECBEconomic BulletinIssue 2 / 2015Despite having identified excessive imbalances in five countries, the Commission is currently not proposing to activate the excessive imbalance procedure (EIP)
+Reflections on the 2015 in-depth review conclusions
+The outcome of the 2015 in-depth review shows that the imbalances are becoming 
+increasingly severe in a number of countries
+
+
+
+ Insufficient implementation of country-specific reform recommendations
+The Commission gives an important weight to policy commitments in assessing the degree of severity of imbalances.Table B European Commission assessment of the implementation of the 2014 country-specific 
+recommendationsReform recommendationsBEBGHRCZDKDEEEESFRIEITLVLTLUHUMTNLATPTPLROSISKFISEUK12345678fully addressedsubstantial progress
+some progresslimited progressno progress
+
+
+
+
+
+
+
+
+
+
+
+
+
+50ECBEconomic Bulletin
+Issue 2 / 2015Focusing on the euro area countries, the Commission concludes that none of them has fully 
+addressed any of the 2014 recommendations
+
+It is important to make full and effective use of the instruments of the MIP, including its 
+corrective arm, in order to reduce the potential risks to the smooth functioning of EMU.51ECBEconomic BulletinIssue 2 / 2015Box˜6EFFECTS OF E-COMMERCE ON INFLATIONIt has been argued that the growth in e-commerce contributes to lower prices and thereby 
+also to lower inflation.
+The potential impact of e-commerce on prices and inflation
+The term ﬁe-commerceﬂ typically refers to the purchase or sale of goods or services carried 
+out by means of an electronic network, such as the internet.
+There are two key ways in which the growth in e-commerce may bring down prices. 
+in lowering prices as a result of increased 
+
+competition among suppliers, as customers 
+
+latter effect may reduce profit margins. It is 
+
+The potential effect of the growth in e-commerce on inflation would only be 
+
+sustained until the spread of e-commerce 
+has stabilised throughout the markets, 
+
+which could take a prolonged period of 
+time. Online-based transactions are a new 
+
+expected to lessen once a new equilibrium is 
+
+1The use of e-commerce in the euro areaOver the past ten years, the share of 
+electronic sales to consumers and businesses 
+
+in total turnover has increased in most euro 
+Information Economics and Policy
+,  Chart A Electronic sales by enterprises 
+as a percentage of total turnover05101520
+25300510152025
+30201420035217 FI18 LU
+19 IE1 GR
+2 IT
+3 LT
+4 CY5 LV6 MT7 SI
+8 NL  9 DE
+10 SK
+11 AT
+12 BE13 ES
+14 FR15 PT16 EE12345678910111213141516171819Notes: All enterprises excluding financial sector companies 
+
+
+
+
+
+
+
+
+
+latest observation refers to 2012 for BE and 2013 for SI. Data for 
+
+LU are available for 2012 only.52ECBEconomic Bulletin
+Issue 2 / 2015area countries, but it still varies significantly across them 
+2
+
+The lower presence of e-commerce in some countries may be partly explained by a 
+considerably larger share of small and medium-sized firms, which generally tend to sell less 
+
+online than larger companies.
+The share of individuals using the internet to obtain information on goods and services or 
+
+make purchases online has increased considerably over the past ten years  
+
+in 2010.Chart B Percentage of individuals looking 
+for information about goods and services 
+
+online01020
+30
+40
+506070
+8090010
+20
+30
+40
+50
+607080
+901 IT2 GR
+3 LV4 PT5 SK
+6 CY7 SI
+8 MT9 LT10 ES
+11 IE
+12 AT13 FR
+14 BE15 EE16 DE17 LU
+18 FI
+19 NL2014200312345678910111213141516171819
+
+
+
+and to 2006 for FR.Chart C Percentage of individuals ordering 
+goods and services online90807060
+504030
+20010908070
+605040
+30
+20010201420041 IT
+2 GR
+3 LT4 PT5 CY
+6 LV7 SI
+8 ES9 MT10 SK
+11 EE
+12 IE13 AT14 BE15 FR
+16 FI17 DE
+18 NL
+19 LU12345678910111213141516171819
+
+53ECBEconomic BulletinIssue 2 / 2015Evidence of the impact of e-commerce on inflationThere are a number of caveats when examining the impact of e-commerce on consumer 
+price inflation.
+
+
+
+
+3When a statistical institute incorporates more online traded goods and services in the 
+HICP, it has an impact on HICP inflation to the extent that the prices of such products and 
+
+services change at different rates to the prices of offline-traded goods and services.
+ If prices Available evidence on the existence of a measurement error in the consumer price indices 
+due to the incomplete incorporation of online sales is scarce and inconclusive.
+ Lünnemann 
+and Wintr (2006)
+4
+
+5Evidence of actual effects of e-commerce on consumer price changes is also scarce but 
+points to a small effect on inflation.
+67
+
+
+Structural Issues Report,
+Working Paper Series, 
+
+NBER Working Papers,
+ No 20819, August 2014.
+Journal of Policy Modeling, pp. 885-889.
+European Commission Economic Papers, No 529 September 2014.54ECBEconomic Bulletin
+Issue 2 / 2015developments.8
+55ECBEconomic BulletinIssue 2 / 2015Box˜7FOLLOW-UP TO THE REVIEW OF DRAFT BUDGETARY PLANS FOR˜2015This box summarises the follow-up to the review of draft budgetary plans for
+ 2015, focusing on the seven countries whose 2015 draft budgets were identified by the European 
+Commission in November
+ 2014 as being at risk of non-compliance with the Stability and 
+Growth Pact (SGP).
+1Pact™s preventive arm and France, Spain and Portugal under its corrective arm.
+ 
+
+reforms and public investment.
+2With the exception of Belgium, none of the countries that were considered to be at risk 
+of non-compliance with the SGP has implemented sufficient measures to allow the 
+
+consolidation gap identified by the Eurogroup last December to be closed. Looking at 
+
+
+3
+
+Eurogroup and is a reflection of reduced interest payments. By contrast, Belgium™s
+ structural 
+ 
+
+
+Monthly Bulletin
+Economic Bulletin
+ 56ECBEconomic Bulletin
+Issue 2 / 2015On 27 February the Commission released the results of its assessment regarding the implementation of the SGP in Belgium, France and Italy.
+ In reports prepared under 
+
+
+
+an aggravating factor. In the case of France, the Commission had to assess whether effective action had been 
+taken in response to the Council™s recommendation that the excessive deficit be corrected 
+
+by 2015. 
+4
+5
+
+
+
+
+France and Slovenia in similar situations.
+
+57ECBEconomic BulletinIssue 2 / 2015The EU™s governance framework has been strengthened by the entry into force, in 2011 and 
+2013, of new regulations known as the ﬁsix-packﬂ and the ﬁtwo-packﬂ respectively.
+
+
+
+It is important that the tools in the strengthened governance framework are effectively applied in a manner which is consistent over time and across countries. excessive imbalances being detected.
+6
+Economic Bulletin
+59ECBEconomic BulletinIssue 2 / 2015ARTICLESPROGRESS WITH STRUCTURAL REFORMS ACROSS 
+THE EURO AREA AND THEIR POSSIBLE IMPACTS 
+Structural reforms have the potential to substantially boost productivity and employment and to 
+reinvigorate growth in the euro area, while also improving the ability of countries to rapidly adjust 
+
+to shocks, reallocate resources and restructure their economies. This article illustrates the effects 
+
+of structural reforms on key macroeconomic variables, describes the recent progress of product 
+
+and labour market reforms, and suggests that further structural reforms could be a powerful tool 
+
+to restore growth and competitiveness in the euro area. There are signs that reforms undertaken 
+
+since the start of the crisis have already had a positive impact; wages and prices appear to be 
+
+more flexible and have helped the adjustment process, while export performance also seems to have 
+
+improved in countries which have adopted reforms. Even though some euro area countries have 
+
+made significant progress, indicators show that there is still ample room for further reforms across 
+
+the euro area. This is necessary to support long-term sustainable growth, to increase the adjustment 
+
+capacities of the euro area countries and to support the smooth functioning of the Monetary Union. 
+1 MACROECONOMIC IMPACTS OF STRUCTURAL REFORMSStructural reforms can lead to higher sustainable employment, investment and growth as 
+
+well as provide the flexibility needed for a smooth-functioning Monetary Union.
+ Reforms 
+
+
+1 1.1 TRANSMISSION CHANNELS OF STRUCTURAL REFORMSLabour and product market reforms have different theoretical effects on wages, prices, 
+
+and employment.
+
+
+labour and potential productivity increases.
+2
+
+
+Working Paper
+ SeriesWorking Paper SeriesInternational Finance
+Working Paper Series60ECBEconomic Bulletin
+Issue 2 / 2015effects.34 Product market and labour market reforms are likely to raise investment. 
+
+
+5
+
+
+
+American Economic Review
+
+
+Working Paper Series
+
+The Scandinavian Journal of 
+Economics
+Journal of the European Economic Association
+Issue 4, June 2005, pp. 791-825.Box 1MACROECONOMIC EFFECTS OF STRUCTURAL REFORMS: AN EAGLE-BASED ASSESSMENTA quantitative assessment of the macroeconomic effects of structural reforms is an integral 
+part of the overall policy analysis.
+1 model is used to analyse 
+
+
+
+
+Economic Modelling61ECBEconomic BulletinIssue 2 / 2015
+
+Structural reforms can be implemented in a variety of ways, which may have diverse macroeconomic impacts.
+sector reform scenarios are considered:
+2 (1) unilateral policy implementation in one large 
+benchmarkeuro area-wide reformscombined with labour market reforms
+
+International FinanceSimulated impact of structural measures on reforming euro area country under alternative 
+scenarios, selected macroeconomic variablesbenchmarkeuro area-wide reformscombined with labour market reformsGDPPrivate consumption-10123
+4
+5-10
+123
+4
+512345678910-3-2
+-10
+12-3-2
+-10
+1212345678910InvestmentHours worked02
+468100
+2
+468
+1012345678910-10
+1
+2
+34-101
+2
+341234567891062ECBEconomic Bulletin
+Issue 2 / 2015Simulated impact of structural measures on reforming euro area country under alternative 
+scenarios, selected macroeconomic variables (cont™d)benchmarkeuro area-wide reformscombined with labour market reformsReal wageReal interest rate01
+2
+345123456789100
+1
+2
+345-0.10.00.1
+0.2
+0.3-0.10.0
+0.1
+0.2
+0.312345678910Consumption inflationReal exchange rate-0.3-0.2
+-0.10.00.10.2-0.3
+-0.2
+-0.10.00.10.2123456789100.0
+0.5
+1.0
+1.52.02.50.0
+0.5
+1.0
+1.52.02.512345678910Terms of tradeExports-0.6
+-0.4
+-0.20.00.20.4-0.6
+-0.4
+-0.20.00.20.412345678910-0.8-0.40.0
+0.4
+0.81.21.6-0.8
+-0.40.0
+0.4
+0.81.21.612345678910ImportsTrade balance-to-GDP ratio-0.8
+-0.40.0
+0.4
+0.81.21.6-0.8
+-0.40.0
+0.4
+0.81.21.612345678910-0.4-0.20.0
+0.2
+0.4-0.4
+-0.20.0
+0.2
+0.412345678910
+
+inflation, real interest rate and trade balance-to-GDP ratio). 63ECBEconomic BulletinIssue 2 / 2015The unilateral implementation of service sector reform may lead to transitional economic 
+costs for some components of GDP, such as consumption, while investment rises in 
+
+the short run.benchmark case, service sector reform leads to a delayed pick-up 
+  Coordinated policy implementation, through positive cross-border spillover effects and 
+stronger adjustment in the nominal exchange rate of the euro, means that the benefits 
+of the reforms are felt more quickly. Euro area-wide reforms support domestic output 
+
+on inflation and results in a more favourable domestic real interest rate evolution. As a 
+
+ 
+The implementation of service sector reform jointly with labour market reform allows 
+faster and more balanced economic expansion.
+combined with 
+labour market reformand tradable sectors to increase labour demand. As a result, employment rises, contributing 
+
+employment and foreign trade flows. 
+64ECBEconomic Bulletin
+Issue 2 / 20151.2 I
+MPLEMENTATION DESIGN ASPECTS OF STRUCTURAL REFORMS 
+If reforms are properly targeted and implemented, the short-term benefits can significantly outweigh any potential short-term costs, while longer-term impacts are positive. 
+Labour market 
+
+increase investment and employment and production expands beyond initial levels. Similarly, 
+
+competitiveness and increasing investment and, ultimately, employment.
+6 Also, expectations of 
+any transitional costs. Coordinated labour and product market reforms usually have greater macroeconomic 
+effects than stand-alone reforms (see Box 1).relative to implementing individual reforms. 
+
+ simulated impacts of possible reforms in all 
+long run mainly via reducing mark-ups and 
+
+increasing labour market productivity. For 
+
+ frontier cases in labour and product market 
+ 
+
+European Economy - Economic PapersJobs and Growth: Supporting the European RecoveryChart 1 Simulated euro area GDP effect 
+of a euro area-wide structural reform 
+
+package02
+4
+6
+810
+120
+2
+4
+6810
+12product market reformslabour market reforms
+product and labour market reformsYear 1Year 2Year 5Long runSource: Anderson et al.65ECBEconomic BulletinIssue 2 / 2015The sequencing of reforms is important.7 Some 8The initial degree of market regulation seems to influence the effectiveness of reforms.
+ 9There is no consensus on the impact of the state of the business cycle on reform success. 
+Several 
+
+10 The strength of confidence channels, which support the positive effects of structural reforms, 
+
+crucially depends on the credibility of the reforms.
+Structural reforms can also be undertaken when monetary policy is constrained by the zero 
+lower bound (ZLB).
+
+1112 It is important 
+
+
+Quarterly Journal of Economics
+The Transition in Eastern Europe
+Press, 1994.
+Working Paper Series10 See, for example, Tompson, W., 
+The Political Economy of Reform: Lessons from Pensions, Product Market and Labour Markets in Ten 
+OECD Countries11
+Journal of Monetary Economics12
+
+Journal of Monetary EconomicsEuropean Economy - Economic Papers66ECBEconomic Bulletin
+Issue 2 / 20152 ST
+RUCTURAL REFORMS IN THE EURO AREA DURING THE CRISISEuro area countries adopted a wide spectrum of structural measures in response to the 
+economic crisis and the financial market turmoil. 
+Reform efforts were mainly concentrated in 
+countries under stress (see Box 2) facing strong macroeconomic imbalances and vulnerabilities. 
+
+Box 2IMPACTS OF STRUCTURAL REFORMS IN STRESSED EURO AREA COUNTRIESSince the financial crisis, stressed euro area countries have implemented a number of 
+structural reforms with initial results suggesting substantial gains in terms of output. 
+key macroeconomic variables in a selected group of stressed euro area countries.1A number of structural reforms were implemented in Greece. 
+23Integrated Monetary and Fiscal (GIMF) model, suggests similarly significant effects on output, 
+
+A wide range of structural reforms support recovery in Ireland. 
+Economic and Evaluation Service (IGEES),
+4could be added. 
+In Italy, further reforms are crucial to enhancing the output potential. 
+Several studies5 on 
+
+
+of output can be attributed to structural reforms. 
+
+
+IGEES Working Paper, July 2014.
+67ECBEconomic BulletinIssue 2 / 2015A number of countries have introduced labour market reforms to increase labour market 
+flexibility and boost employment. 
+
+contracts, facilitating alternative employment dispute resolutions and introducing a faster dedicated 
+
+
+to economy-wide collective agreements. Pension market reforms to build more sustainable pension systems and to increase labour 
+supply have also been implemented. 
+1313
+Monthly Bulletin
+Occasional Paper Seriesreforms led to an increase in employment and participation.In Portugal, the 2009-13 reforms have already raised the levels of productivity and potential 
+
+GDP. 
+
+67 In Spain, the main benefits seem to have derived from the 2012 labour market reform. A 
+89Significant gains for stressed euro area countries have also been made in the area of product market reforms. 
+
+Spain, Italy and Greece, respectively.10 
+Better Policies Series
+Better Policies Series
+
+
+Economic Bulletin September 2013. 10
+European EconomyEuropean Economy - Economic Papers
+
+68ECBEconomic Bulletin
+Issue 2 / 2015Progress with product market reforms has also been notable. The pace of reform implementation has slowed down recently, despite emerging evidence 
+highlighting the beneficial effects of significant reforms implemented since 2008. 
+market regulation (PM
+R) and employment protection legislation (EPL) indicators calculated by 
+
+
+increases, export performance, and possibly increased responsiveness of inflation to economic 
+
+Ample space for potential reforms in the euro area remains, although there is substantial 
+heterogeneity across countries. 
+Chart 2 Product market regulation-0.8-0.40.0
+0.4
+0.8
+1.2
+1.6
+2.0-0.8
+-0.40.0
+0.4
+0.8
+1.2
+1.6
+2.0GRSIFRLUIEESBEEASKPTDEFIEEITATNLlevel 2013distance to frontierchange over the period 2008-13
+
+
+
+
+
+
+
+
+
+
+
+Chart 3 Employment protection legislation-1.0-0.50.0
+0.5
+1.01.52.0
+2.53.0-1.0-0.50.0
+0.5
+1.01.52.0
+2.53.0DEBENLFRITLUPTSIEAATGRESSKFIIEEElevel 2013distance to frontierchange over the period 2008-13
+
+
+
+periods, severance payments, use of temporary contracts). 
+
+
+
+
+
+
+
+69ECBEconomic BulletinIssue 2 / 2015Box 3EARLY EVIDENCE OF STRUCTURAL REFORMS AT WORK IN THE EURO AREA 
+Euro area countries which have implemented structural reforms appear to have improved 
+their export performance.123
+
+
+Policy Research Working Paper Series
+Monthly BulletinChart A Structural reforms and export 
+performance-0.06-0.04
+-0.020.00
+0.02
+0.040.06-0.06-0.04
+-0.020.00
+0.020.040.06ATCZDKEEFIFRDEHUIEITNLPTSKSIUKy = -0.2278x - 0.016 R² = 0.38x-axis: change in reform indicator (EPL+PMR, in logs),            negative values = more flexibility, 2008-13y-axis: average year-on-year change in export performance            (in logs), 2008-13BESEESGR-0.3-0.2-0.10.00.10.2Chart B Time-varying estimates of the 
+Phillips curve slope1)0.000.05
+0.100.150.20
+0.25
+0.300.00
+0.05
+0.100.150.20
+0.25
+0.3016-30%30-70%
+70-84%
+medianconstant coefficient200420062008201020122014
+
+
+
+
+
+
+
+
+
+
+
+
+
+70ECBEconomic Bulletin
+Issue 2 / 20153 FU
+RTHER REFORM NEEDS IN THE EURO AREAStructural reforms should be a matter of priority for euro area countries. 
+Reforms which directly address bottlenecks and barriers to entry to increase the ease of doing 
+business are of key importance. environment remains unfriendly and could be substantially improved. Indeed, several euro area 
+
+Structural reforms might also have affected inflation dynamics in the euro area. 
+
+market reforms are starting to make wages more flexible in some euro area countries.4,5
+
+
+Occasional Paper Series
+Chart 4 World Bank™s ease of doing business index: distance to frontier-404
+8
+121620-200204060801008131617192123242632333540465259626590FIDEEEIEATLVPTLTNLEAESFRSKBESIITLUCYGRMT2014 (left-hand scale)change over the period 2010-14 (right-hand scale)Source: World Bank.
+
+
+
+
+
+71ECBEconomic BulletinIssue 2 / 2015Further reforms are necessary in labour markets. wages to better reflect local labour market conditions and productivity developments, allow greater 
+More reform in product markets would increase the potential for growth in the euro area 
+and help speed up the reallocation of resources and employment to more productive sectors. 
+
+
+
+14 4 CONCLUSIONStructural reforms have the potential to reinvigorate growth in the euro area in both the short 
+
+and longer run. 
+ More reforms are needed at the country level to reinforce and stimulate the Monetary 
+Union™s growth potential.economies.14
+
+European Economy - Economic Papers Working Paper Series
+,  72ECBEconomic Bulletin
+Issue 2 / 2015WHO HOLDS WHAT? NEW INFORMATION  ON SECURITIES HOLDINGSThe financial crisis of
+ 2008-09 highlighted the need for granular information on holdings of 
+individual securities. This article introduces new statistics Œ securities holdings statistics Œ which 
+
+have been collected by the European System of Central Banks since the beginning of
+ 2014 and 
+significantly help to close the information gap on securities holdings both within the euro area and 
+
+between the euro area and the rest of the world. In particular, since the data are collected on a 
+
+security-by-security basis, they provide a vast range of new breakdowns. This article describes the 
+
+scope, content and coverage of the new statistics. In addition, it illustrates the value added of these 
+new data on the basis of a few specific examples and outlines the future potential uses of the data.1 INTRODUCTIONWhen Lehman Brothers collapsed in September
+ 2008, policy-makers, including central banks, 
+had very limited information about who was exposed to the securities at stake. In particular, 
+it difficult to identify exposures of market participants or sectors to a particular issuer or to capture 
+
+1 This and similar experiences, where a lack of detailed data hindered swift policy action, 
+
+pointed to the need for highly granular information on securities holdings
+23
+The rest of this article is organised as follows.
+of examples. Finally, Section 4 concludes.2 T
+HE MAIN FEATURES OF SECURITIES HOLDINGS STATISTICSSHS data have been collected quarterly since the fourth quarter of
+ 2013 and cover the two 
+main types of security: debt securities and equity securities
+
+
+security, i.e. security by security. 
+
+
+Financial Times
+IFC Bulletin
+73ECBEconomic BulletinIssue 2 / 20152.1 D
+ATA COLLECTIONThe collection of data on securities holdings on a security-by-security basis has gained 
+considerable ground in recent years given its advantages.4by-security data collection, reporting agents were required to aggregate data according to 
+
+In security-by-security data collection, the aggregation step is eliminated on the side of the 
+reporting agents. considerably easier.2.2 SCOPE 
+The SHS project contains two data modules (the SHS Sector and the SHS Group), which differ on account of the granularity of the information on the holder™s side  Furthermore, the SHS Sector module encompasses two main distinct sets of data
+:  or monetary financial institutions (MFIs)5
+
+
+
+74ECBEconomic Bulletin
+Issue 2 / 2015of German securities deposited in Luxembourg. In addition, most non-euro area EU countries 
+The magnitudes of the collected holdings are rather substantial, particularly of those in the 
+SHS Sector module.
+6 7The SHS Group module includes significantly smaller amounts.  of around 
+ 
+
+
+
+
+Chart 1 Overview of the two SHS modules(EUR trillion, market values)SHS moduleType of dataMagnitude 1)SHS Sector moduleHoldings by country and sectorof the investorSHS Group moduleHoldings by individual banking group(additional level of detail available for some groups, e.g. individual entities)Euro area investorsNon-euro area investorsReported by euro area custodiansNon-euro area EU investorsReported by some non-euro areaEU countriesCurrent reporting:25 largest banking groupswith head office in the euro area (includes holdings of subsidiaries and branches outside the euro area)Total = 23.4 (of which holdings of non-euro area securities2) = 5.1)Total = 8.5 (holdings of non-euro area securities2) are not collected)Total = 1.2 (of which holdings of non-euro area securities2) = 1.1)Total = 3.2 (of which holdings of non-euro area securities2) = 0.8)
+2) Non-euro area securities refer to securities issued by non-euro area residents.75ECBEconomic BulletinIssue 2 / 2015It is worth noting that, in many cases, SHS data help to fill long-standing statistical gaps2.3˜CONTENT 
+The collection of holdings data on a highly granular, security-by-security level provides the 
+possibility to link SHS data with other databases,
+
+8, 
+As a result, SHS data enriched by CSDB information contain a high number of attributes,
+ 
+
+entralised Securities DTable 1 Selected attributes from the SHS dataset enriched by CSDB informationSHS data collectionCSDB reference dataHolder data Who is the holder?Holding value 
+How much is it worth?Security data 
+What is held?Issuer data 
+Who is the issuer? 1)Market valueSecurity identifier (ISIN)Nominal valueInstrument typeIssuer sectorNotional flows 3)PriceIssuer countryAccrued incomeMaturity dateMarket capitalisation 2)Outstanding amountEligibility for Eurosystem operations
+
+
+
+
+
+
+
+
+
+
+76ECBEconomic Bulletin
+Issue 2 / 20152.4˜COVERAGE 
+SHS data are regularly checked against comparable data sources in order to ensure sufficient quality and coverage. 
+
+insurance corporation and pension fund statistics, investment fund statistics and securities issues 
+possible conceptual and measurement differences. Box 1 describes in detail the various aspects that can be the source of differences between 
+SHS data and other available statistics on securities holdings.
+Box 1 
+DIFFERENCES BETWEEN SHS DATA AND OTHER SECURITIES STATISTICSA number of features of SHS data have to be taken into account when reconciling the main 
+aggregates derived from these data with other available (aggregate) statistics on securities 
+
+holdings.More importantly, one of the main aspects that influence the coverage and quality of SHS 
+
+data is the collection method,
+
+
+
+1 are not covered. Moreover, a custodian The custodian method is typically used if the investor is located outside the respective 
+jurisdiction or if the costs to collect the data directly from the investors are too high  
+77ECBEconomic BulletinIssue 2 / 2015The SHS Sector module covers around
+ 83% of the total outstanding amount of securities 
+issued by euro area residents 
+(see Table 2).   A more detailed comparison can be carried out with the EAA data on holdings by each sector 
+in the euro area SHS coverage of holdings by non-euro area investors reported by euro area custodians  is also relatively high,
+
+ 9
+place.
+
+Another conceptual difference is caused by the treatment of derogations.
+
+Other differences may exist, including valuation and measurement differences, depending 
+on the selected benchmark data.Table 2 SHS Sector holdings of securities issued by euro area residents at the end 
+of the second quarter of 2014(EUR trillion, market values)Debt securitiesSharesTotalHeld by euro area investors10.67.718.3Held by non-euro area investors5.62.98.578ECBEconomic Bulletin
+Issue 2 / 20153 S
+OME EXAMPLES OF HOW SECURITIES HOLDINGS STATISTICS DATA CAN BE USEDGiven the richness of SHS data, it is not feasible to present a comprehensive overview of their possible uses. 
+
+3.1˜ CASE STUDY˜1: ANALYSES OF INVESTMENT 
+
+PATTERNS BY EURO AREA SECTOR 
+SHS data can be used to investigate the 
+
+differences in investment patterns by euro 
+
+area sector by analysing, for example, 
+
+the residual maturity profile of sectors™ 
+
+holdings of debt securities  financial corporations and general government). 
+of securities issuances as a part of investment 
+
+long-term debt). 
+Table 3 Securities holdings by euro area sectors at the end of the second quarter of 2014(EUR billion, market values)SHS SectorEAASHS coverage (in percentages)Euro area financial sectors18,31621,70084Monetary financial institutions6,1526,914897,4888,70586Insurance corporations and pension funds4,6766,08177Euro area non-financial sectors5,0366,40879Non-financial corporations1,4341,95573General government746982762,8563,47182Total23,35228,10883Chart 2 Maturity profile of holdings of debt 
+securities by euro area sectorof 2014)0510
+152025
+30
+350510
+15
+202530
+35<02468101214161820monetary financial institutionsinsurance corporations and pension fundsother financial institutionsgeneral governmentnon-financial corporations
+households and NPISHx-axis: residual maturity in years
+
+
+
+
+
+79ECBEconomic BulletinIssue 2 / 2015Knowing the exact maturity profile of securities holdings can
+ prove useful when, inter alia, 
+analysing the balance sheet channel of the monetary transmission mechanism, monitoring 
+vulnerabilities related to the liquidity positions on the side of the issuers and measuring 
+
+mismatches in the maturity of assets and liabilities
+
+
+3.2˜CASE STUDY˜2: INTERCONNECTEDNESS OF THE MAIN EURO AREA SECTORS 
+One of the benefits of SHS data is that they provide information on securities holdings by 
+main euro area sector, with the same sector on the issuer side.
+
+
+Direct exposures owing to securities issued by one euro area sector being held by another 
+sector differ significantly, according to the type of security. 
+Chart 3 Interconnectedness of euro area sectors at the end of the second quarter of 2014(EUR trillion)a) Debt securitiesb) Listed sharesc) Investment fund sharesICPFs (2.4)general government (5.0)households (0.6)NFCs 
+(1.0)OFIs (4.1)MFIs (7.9)ICPFs
+(0.2)general government (0.2)households (0.7)NFCs 
+(3.3)OFIs (1.2)MFIs (0.6)ICPFs (1.5)general government (0.2)households (1.3)NFCs (0.3)OFIs (5.3)MFIs (0.6 )
+
+
+
+
+
+
+
+
+
+
+80ECBEconomic Bulletin
+Issue 2 / 2015
+3.3˜ CASE STUDY˜3: CROSS-BORDER SECURITIES HOLDINGS BY EURO AREA AND NON-EURO AREA 
+INVESTORS 
+Besides the detailed information on intra-euro area holdings, SHS data contain useful 
+
+information on securities holdings between the euro area and the rest of the world.
+   integration worldwide.1010
+
+ Irving Fisher Committee on 
+Central-Bank Statistics: Proceedings of the Seventh IFC Conference, Basel, September 2014.Chart 4 Share of debt securities in total securities holdings by each country/region 
+at the˜end of the second quarter of 2014(percentages)no holdings0 - 2020 - 40
+40 - 6060 - 8080 - 100
+euro areaa) holdings of euro area securities by non-euro area investorsb) holdings of non-euro area securities by euro area investors
+
+
+
+
+
+81ECBEconomic BulletinIssue 2 / 2015Chart 4 shows the difference between holdings of euro area securities by non-euro area 
+investors (see Chart 4, panel a) and holdings of non-euro area securities by euro area investors 
+(see Chart 4, panel b).Second, the chart highlights that non-euro area investors from most countries, particularly the 
+Asian ones, invest substantially more in euro area debt securities than in euro area sharesmore investment in debt securities as opposed to equities). A similar pattern is not found for euro area 
+
+3.4˜CASE STUDY˜4: HOLDINGS OF DEBT SECURITIES ISSUED BY EURO AREA GOVERNMENTS 
+The granularity of SHS data may be used to analyse data on holdings of selected classes of 
+
+security, such as those issued by a specific sector. debt securities issued by euro area governments serves a number of purposes, including financial 
+
+Chart 5 shows the differences in the profile of investors in government debt due in two years, 
+issued by two groups of euro area countries: Chart 5 Preferences of investor sectors regarding holdings of euro area government debt 
+securities due in two years, by residual maturityup to three monthsover three months and up to one year
+over one and up to two yearsa) issuer countries: AT, BE, DE, FI, FR, LU, NLb) issuer countries: ES, GR, IE, IT, PT050100150
+200
+250300350general governmentnon-financialcorporationshouseholds and NPISH1) non-euro areainvestors2) monetary financialinstitutions3) other financialinstitutions insurancecorporations andpension funds  050100150200general governmentnon-financialcorporations households and NPISH1)non-euro areainvestors2) monetary financialinstitutions3) other financial
+institutions insurancecorporations andpension funds  
+82ECBEconomic Bulletin
+Issue 2 / 2015SHS Sector data also indicate that a disproportionally large share of government debt issued 
+by the countries that experienced market tensions is held by the domestic MFI sector.
+11   banking sectors.3.5˜ CASE STUDY˜5: THE EFFECT OF INTEREST 
+
+RATE CHANGES ON THE MARKET VALUE 
+ OF GOVERNMENT DEBT HOLDINGSThe aim of this case study is to calculate 
+
+the (accounting) effect of interest rate 
+
+changes on the market value of the portfolio 
+
+of actual bond holdings.
+
+policy standpoint, particularly as an element 
+
+2014),12To calculate the effect, information on 
+
+the modified duration of each security is 
+
+needed.13focuses on a portfolio of government debt securities issued by selected euro area countries 
+
+11
+
+12
+Journal of Economic PerspectivesECB workshop on non-standard monetary policy measures, Frankfurt am Main, October 2014.13
+
+Chart 6 Percentage change in market value of 
+selected euro area government debt securities 
+after a 100-basis point decline in the reference 
+interest rate, by euro area holder sector(percentages, second quarter of 2014)general governmentnon-financial corporationshouseholds and NPISHmonetary financial institutions other financial institutionsinsurance corporations and pension funds 01
+2
+3
+4
+5
+6
+7
+8
+910IrelandNetherlandsAustriaSpain
+
+
+
+
+
+different euro area institutional sectors.83ECBEconomic BulletinIssue 2 / 2015The calculations imply that, for holdings by euro area financial investors, the weighted 
+modified duration of securities issued by Spain and Ireland (both affected by the sovereign 
+
+debt crisis) is lower than for securities issued by Austria and the Netherlands.
+ More precisely, 
+1414
+Box˜2 
+USE OF SHS FOR THE ENHANCEMENT OF THE INTEGRATED EURO AREA FINANCIAL 
+ AND NON-FINANCIAL ACCOUNTS BY INSTITUTIONAL SECTOR 
+The integrated euro area financial and non-financial accounts (EAA), published quarterly 
+
+by the ECB since June
+ 20071, provide a comprehensive overview of the economic and 
+financial transactions by all institutional sectors in the euro area.
+
+In the financial accounts, ﬁwho-to-whomﬂ data refer to financial transactions and/or 
+positions for which both the creditor and debtor sectors can be simultaneously identified 
+
+and presented in a fully consistent manner, i.e. without double-counting or gaps.
+
+ A who-to-whom presentation of the financial accounts for a financial instrumentDebtor sectorHouseholdsNon-financial 
+corporationsFinancial corporationsGovernmentRest of the worldCreditor sectorHouseholdsNon-financial corporationsFinancial corporationsGovernmentRest of the world84ECBEconomic Bulletin
+Issue 2 / 20154 CONCLUSIONS 
+This article has introduced the new quarterly security-by-security data on securities holdings.
+ 
+The granularity and comprehensiveness of the data mean they can be used for a wide range 
+of purposes, Selected aggregates derived from the SHS data will also be made available for public use 
+15Although the new SHS data are already a significant improvement on the information available 
+on securities holdings, further enhancements are envisaged.
+consideration. 15
+
+
+The compilation of the financial accounts on a who-to-whom basis requires primary 
+
+sources containing information on the institutional sector of the counterpartylimited tradability makes it easier to obtain counterparty information from primary data sources. An extension of the who-to-whom coverage to all marketable instruments, namely debt 
+securities, quoted shares and investment fund shares, will now be possible thanks to the 
+
+detailed information contained in the SHS.2
+
+
+first publication of the EAA with extended who-to-whom coverage will 
+take place in early 2016.
+
+IFC Bulletin
+ECBEconomic BulletinIssue 2 / 2015S 1STATISTICSCONTENTS1 External environment S22 Financial developments S33 Economic activity S74 Prices and costs S11
+5 Money and credit S146 Fiscal developments S19FURTHER IN
+FORMATION
+
+
+
+
+
+
+
+
+
+CONVENTIONS USED IN THE TA
+BLES. data are not yet available... nil or negligible
+(p) provisionalECBEconomic BulletinIssue 2 / 2015S 21 EXTERNAL
+ ENVIRONMENTS 2ECBEconomic Bulletin
+Issue 2 / 20151.1 Main trading partners, GDP and CPI   GDP 1)   CPI   (period-on-period percentage changes)   (annual percentage changes)G20UnitedUnitedJapanChinaMemo item:   OECD countries
+UnitedUnitedJapanChinaMemo item:
+StatesKingdom
+euro areaStatesKingdom
+euro area 2)Totalexcluding food
+(HICP)(HICP)and energy12
+345
+67
+89101112
+1320123.02.30.71.77.8
+-0.72.3
+1.82.12.80.02.7
+2.520133.22.21.71.67.7
+-0.51.6
+1.61.52.60.42.6
+1.42014. 2.42.60.07.4
+. 1.71.81.61.52.72.0
+0.42014 Q1 0.7-0.50.61.31.5
+0.31.6
+1.61.41.81.52.3
+0.7         Q2 0.81.10.8-1.72.0
+0.12.1
+1.92.11.73.62.2
+0.6         Q3 0.91.20.7-0.61.9
+0.21.8
+1.91.81.53.32.0
+0.4         Q4 . 0.50.50.61.5
+0.31.4
+1.81.20.92.51.5
+0.22014 Sep. - - - - - - 1.7
+1.81.71.33.21.6
+0.3         Oct. - - - - - - 1.7
+1.81.71.32.91.6
+0.4         Nov. - - - - - - 1.5
+1.81.30.92.41.4
+0.3         Dec. - - - - - - 1.1
+1.80.80.52.41.5
+-0.22015 Jan. - - - - - - 0.5
+1.7-0.10.32.40.8
+-0.6         Feb.  3) - - - - - - . 
+. . . . . -0.3
+1.2 Main trading partners, Purchasing Managers™ Index and world trade   Purchasing Managers™ Surveys (diffusion indices; s.a.)   Merchandise         imports 4)   Composite Purchasing Managers™ Index   Global Purchasing Managers™ Index 5)Global 5)UnitedUnitedJapanChinaMemo item:ManufacturingServicesNew exportGlobalAdvancedEmerging
+StatesKingdom
+euro areaorderseconomiesmarket
+economies12345
+678910
+1112201252.654.452.049.950.9
+47.250.251.9
+48.53.9
+2.44.8201353.454.856.852.651.5
+49.752.352.7
+50.73.6
+-0.15.7201454.357.357.950.951.1
+52.753.454.1
+51.5. . . 
+2014 Q1 53.755.358.153.049.9
+53.153.853.7
+51.00.0
+0.3-0.2
+         Q2 54.358.358.648.550.7
+53.453.254.7
+51.1-0.3
+0.9-0.9
+         Q3 55.759.858.551.352.2
+52.854.156.2
+52.02.5
+0.83.4         Q4 53.455.656.350.951.4
+51.552.853.6
+50.8. . . 
+2014 Sep. 55.559.057.452.852.3
+52.053.856.0
+52.32.5
+0.83.4         Oct. 53.857.255.849.551.7
+52.153.454.0
+51.03.3
+1.14.5         Nov. 53.756.157.651.251.1
+51.152.654.0
+50.22.5
+1.53.1         Dec. 52.653.555.351.951.4
+51.452.352.7
+51.2. . . 
+2015 Jan. 53.154.456.751.751.0
+52.653.153.1
+51.0. . . 
+         Feb. 54.056.856.750.051.8
+53.353.654.1
+50.7. . . 
+Sources: Eurostat (Table 1.1, col. 3,6,10,13); BIS (Table 1.1, col. 2,4,9,11,12); OECD (Table 1.1, col. 1,5,7,8); Markit (Table 1.2, col. 1-9); CPB Netherlands Bureau for Economic Policy Analysis and ECB calculations (Table 1.2, col. 10-12)
+1)Quarterly data seasonally adjusted; annual data unadjusted. Euro area data refer to the Euro 19.
+
+2)Data refer to the changing composition of the euro area.
+
+3)Estimate based on provisional national data, which usually cover around 95% of the euro area, as well as on early information
+ on energy prices.
+4)Global and advanced economies exclude the euro area. Annual and quarterly data are period-on-period percentages; monthly data
+ are 3-month-on-3-month percentages.All data are seasonally adjusted.5)Excluding the euro area.
+ECBEconomic BulletinIssue 2 / 2015S 32 FINANCIAL DEVELOPMENTSS 3ECBEconomic BulletinIssue 2 / 20152.1 Money market interest rates(percentages per annum; period averages)   Euro area 1) United StatesJapanOvernight1-month3-month6-month12-month3-month3-monthdepositsdepositsdepositsdepositsdepositsdepositsdeposits(EONIA)(EURIBOR)(EURIBOR)(EURIBOR)(EURIBOR)(LIBOR)(LIBOR)1234567
+20120.230.330.570.831.110.430.1920130.090.130.220.340.540.270.1520140.090.130.210.310.480.230.132014 Q1 0.180.230.300.400.560.240.14         Q2 0.190.220.300.390.570.230.13         Q3 0.020.070.160.270.440.230.13         Q4 -0.020.010.080.180.330.240.112014 Sep. 0.010.020.100.200.360.230.12         Oct. 0.000.010.080.180.340.230.11         Nov. -0.010.010.080.180.330.230.11         Dec. -0.030.020.080.180.330.240.112015 Jan. -0.050.010.060.150.300.250.10         Feb. -0.040.000.050.130.260.260.102.2 Yield curves(End of period; rates in percentages per annum; spreads in percentage points)            Spot rates   Spreads   Instantaneous forward rates   Euro area 1),2) Euro area 1),2)United StatesUnited Kingdom
+   Euro area 1),2)3 months1 year2 years5 years10 years10 years10 years
+10 years1 year2 years5 years10 years
+- 1 year- 1 year
+- 1 year123456789101112
+20120.06-0.04-0.010.581.72
+1.761.611.48-0.090.171.843.50
+20130.080.090.251.072.24
+2.152.912.660.180.672.533.88
+2014-0.02-0.09-0.120.070.65
+0.741.951.45-0.15-0.110.581.77
+2014 Q1 0.160.110.170.761.82
+1.712.602.290.110.401.943.50
+         Q2 0.05-0.010.020.471.44
+1.452.432.16-0.040.161.463.09
+         Q3 -0.03-0.09-0.100.241.06
+1.152.391.88-0.14-0.021.032.53
+         Q4 -0.02-0.09-0.120.070.65
+0.741.951.45-0.15-0.110.581.77
+2014 Sep. -0.03-0.09-0.100.241.06
+1.152.391.88-0.14-0.021.032.53
+         Oct. -0.02-0.08-0.080.220.96
+1.052.241.82-0.12-0.010.932.33
+         Nov. -0.02-0.06-0.070.170.80
+0.862.061.54-0.10-0.020.742.01
+         Dec. -0.02-0.09-0.120.070.65
+0.741.951.45-0.15-0.110.581.77
+2015 Jan. -0.15-0.18-0.14-0.020.39
+0.581.501.04-0.13-0.100.341.15
+         Feb. -0.21-0.25-0.20-0.080.37
+0.621.801.45-0.16-0.170.311.19
+2.3 Stock market indices(index levels in points; period averages)   Dow Jones EURO STOXX indicesUnitedJapan
+      States   Benchmark   Main industry indicesBroad50BasicConsumerConsumerOil andFinancialsIndustrialsTechnologyUtilitiesTelecomsHealth careStandardNikkei
+indexmaterialsservicesgoodsgas
+& Poor™s225
+50012345678
+91011
+121314
+2012239.72,411.9503.7151.9385.7307.2122.1330.2219.2235.9268.5523.31,379.49,102.6
+2013281.92,794.0586.3195.0468.2312.8151.5402.7274.1230.6253.4629.41,643.813,577.9
+2014318.73,145.3644.3216.6510.6335.5180.0452.9310.8279.2306.7668.11,931.415,460.4
+2014 Q1 315.93,090.8639.0218.7500.1323.4182.2461.0306.3262.3293.9640.71,834.914,958.9
+         Q2 326.53,214.0657.3219.5524.2360.3184.5471.9305.3284.9311.9656.51,900.414,655.0
+         Q3 319.43,173.1645.9213.8509.8351.1178.9446.0315.3288.7304.0686.11,975.915,553.1
+         Q4 313.03,102.5634.9214.7508.5307.0174.5433.4316.0280.4316.7688.02,009.316,660.1
+2014 Sep. 324.03,233.4650.4215.3508.7350.0184.5447.9324.5292.6306.1725.01,993.215,948.5
+         Oct. 304.23,029.6612.5202.4481.0315.8173.4416.4301.8276.6294.6695.01,937.315,394.1
+         Nov. 315.73,126.1643.8217.8514.8316.4174.3439.7317.6280.2322.7680.42,044.617,179.0
+         Dec. 320.13,159.8651.0225.2532.6288.5176.0446.1330.1284.7335.3687.62,054.317,541.7
+2015 Jan. 327.43,207.3671.1237.8564.9285.0173.3464.2339.0278.3343.8724.22,028.217,274.4
+         Feb. 353.23,453.8731.3254.2624.8314.0185.5498.7361.1286.9376.8768.62,082.218,053.2
+Source: ECB.1)Data refer to the changing composition of the euro area, see the General Notes.
+
+2)ECB calculations based on underlying data provided by EuroMTS and ratings provided by Fitch Ratings.
+ECBEconomic BulletinIssue 2 / 2015S 4S 4ECBEconomic Bulletin
+Issue 2 / 20152.4 MFI interest rates on loans to and deposits from households (new business) 1), 2)(Percentages per annum; period average, unless otherwise indicated)            DepositsRevolvingExtended   Loans for consumptionLoans
+   Loans for house purchaseloanscredit
+to soleOver-Redee-   With
+andcard
+   By initial periodAPRC
+ 3)proprietors   By initial periodAPRC 3)Compositenightmable   an agreed
+overdraftscredit
+   of rate fixationand   of rate fixationcost-of-at   maturity of:
+unincor-borrowingnoticeFloatingOver
+poratedFloatingOver 1Over 5Over
+indicatorof up toUp toOver
+rate and1 year
+partnershipsrate andand up toand up to10 years
+3 months2 years2 years
+up toup to5 years10 years
+1 year1 year1234
+5678910111213141516
+2014 Feb. 0.281.101.611.937.6617.045.856.787.213.302.792.953.093.273.293.05
+         Mar. 0.281.071.561.867.6617.055.816.677.083.322.782.903.033.233.233.01
+         Apr. 0.271.061.541.837.6117.225.586.606.983.212.722.913.003.243.222.99
+         May 0.271.051.401.727.5517.235.626.737.093.332.712.872.963.143.162.93
+         June 0.271.041.321.747.5817.195.456.616.943.202.662.852.893.093.132.87
+         July 0.241.011.301.757.4317.045.556.546.913.092.632.752.812.993.052.79
+         Aug. 0.240.931.211.667.4317.005.556.526.873.092.562.742.732.872.982.75
+         Sep. 0.230.921.191.707.3217.055.376.496.842.922.502.692.632.832.892.68
+         Oct. 0.220.911.101.657.1516.945.426.436.842.922.432.632.562.792.822.61
+         Nov. 0.210.891.021.667.1217.105.596.486.832.962.432.532.522.732.792.55
+         Dec. 0.220.860.961.597.0617.005.076.146.452.732.432.522.532.692.772.50
+2015 Jan. (p)0.210.841.011.957.1217.035.266.306.632.772.302.532.432.422.702.39
+2.5 MFI interest rates on loans to and deposits from non-financial corporations (new business) 1), 4)(Percentages per annum; period average, unless otherwise indicated)   DepositsRevolving   Other loans by size and initial period of rate fixationCompositeloans and         cost-of-Over-   With an agreed
+overdrafts   up to EUR 0.25 million   over EUR 0.25 and up to 1 million   over EUR 1 million
+borrowingnight   maturity of:
+indicatorFloating rateOverOverFloating rateOverOverFloating rateOverOver
+Up toOver
+and up to3 months1 yearand up to3 months1 yearand up to3 months1 year
+2 years2 years
+3 monthsand up to
+3 monthsand up to
+3 monthsand up to
+1 year1 year1 year123
+4567
+8910
+11121314
+2014 Feb. 0.330.661.753.994.524.593.892.823.593.232.082.782.942.96
+         Mar. 0.350.681.583.954.584.493.902.783.443.172.172.742.962.99
+         Apr. 0.340.721.603.994.574.483.802.813.523.152.202.552.882.98
+         May 0.340.641.383.924.504.513.862.813.453.092.062.402.802.91
+         June 0.310.591.523.884.294.373.782.683.263.051.942.742.682.79
+         July 0.280.591.493.764.324.313.632.653.292.931.902.422.692.76
+         Aug. 0.280.491.633.714.184.283.552.563.202.831.742.432.562.68
+         Sep. 0.260.511.533.693.984.043.532.463.022.751.802.382.412.65
+         Oct. 0.250.501.433.613.983.943.542.442.922.691.742.262.492.58
+         Nov. 0.250.441.203.543.763.873.422.382.842.611.732.182.252.49
+         Dec. 0.240.431.283.443.673.743.272.352.782.461.742.182.092.43
+2015 Jan. (p)0.230.441.283.403.723.792.952.312.812.041.652.032.132.41
+2.6 Debt securities issued by euro area residents, by sector of the issuer and initial maturity(EUR billions; transactions during the month and end-of-period outstanding amounts; nominal values)Short-term   Outstanding amounts   Gross issues 5)            TotalMFIs   Non-MFI corporations   General governmentTotalMFIs   Non-MFI corporations   General government
+(including   
+(including   
+Euro-   FinancialNon-financialCentralOther
+Euro-   FinancialNon-financialCentralOther
+system)corporationscorporationsgovernmentgeneral
+system)corporationscorporationsgovernmentgeneral
+other thanFVCs
+ 6)governmentother thanFVCs
+ 6)governmentMFIsMFIs12
+34
+567891011
+121314
+20121,412573142.
+755586570249037.
+5210321
+20131,233468117.
+675285350731430.
+449921
+20141,244475123.
+585375040121133.
+399325
+2014 July 1,365511157.
+755784440218155.
+4010521
+         Aug. 1,361522144.
+745744632516131.
+279116
+         Sep. 1,336504136.
+705774933115327.
+319525
+         Oct. 1,306496133.
+735634133013928.
+3710225
+         Nov. 1,290490129.
+695574529212730.
+288720
+         Dec. 1,244475123.
+585375032016824.
+286634
+Long-term201215,1784,8243,140.8415,7476262569945.
+168412
+201315,1154,4163,093.9206,0596272237139.
+1689
+9201415,1494,0343,202.9966,2746432186543.
+168510
+2014 July 15,1614,1863,127.9666,2416412075237.
+198613
+         Aug. 15,1104,1573,109.9696,229644763011.
+328
+5         Sep. 15,1574,1643,126.9806,2356522185943.
+139013
+         Oct. 15,1244,0773,162.9806,2556502094540.
+15101
+8         Nov. 15,1574,0593,163.9856,3026491975944.
+1473
+6         Dec. 15,1494,0343,202.9966,2746431294137.
+112910
+Source: ECB.1)Data refer to the changing composition of the euro area.
+
+2)Including non-profit institutions serving households.
+
+3)Annual percentage rate of charge (APRC).
+
+4)In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-fi
+nancial corporations sector to the financialcorporations sector.5)For the purpose of comparison, annual data refer to the average monthly figure over the year.
+
+6)Financial vehicle corporations (FVCs).
+ECBEconomic BulletinIssue 2 / 2015S 5S 5ECBEconomic BulletinIssue 2 / 20152.7 Growth rates and outstanding amounts of debt securities and listed shares(EUR billions; percentage changes)Oustanding amount   Debt securities   Listed shares      TotalMFIs   Non-MFI corporations
+   General governmentTotalMFIsFinancialNon-financial
+(including   
+corporationscorporations
+Eurosystem)   Financial corporationsNon-financialCentralOther
+other thanother thancorporationsgovernmentgeneral
+MFIsMFIsFVCs
+ 1)government1234567891
+01
+1201216,590.35,397.43,281.7
+.915.56,305.1690.54,593.9404.6
+617.93,571.5
+201316,347.44,883.33,210.5
+.986.76,587.1679.85,634.8569.0
+751.04,314.8
+201416,393.74,509.53,324.9
+.1,054.66,811.5693.25,945.1590.9
+787.64,566.6
+2014 July 16,525.74,696.93,283.6
+.1,041.36,818.6685.35,864.6626.8
+775.74,462.1
+         Aug. 16,470.64,679.33,253.2
+.1,043.96,803.3691.05,914.5637.3
+788.94,488.3
+         Sep. 16,492.24,667.43,262.7
+.1,050.16,811.6700.45,928.8650.7
+788.44,489.7
+         Oct. 16,429.94,572.33,295.9
+.1,052.66,818.5690.75,761.0611.5
+763.14,386.4
+         Nov. 16,447.34,548.43,292.4
+.1,054.06,858.5693.96,038.0628.3
+796.64,613.1
+         Dec. 16,393.74,509.53,324.9
+.1,054.66,811.5693.25,945.1590.9
+787.64,566.6
+Growth rate20121.3-1.8-0.1
+.14.5
+2.56.10.94.92.00.42013-1.3-8.9-2.5
+.8.14.5-1.10.97.20.20.32014-0.5-8.62.2
+.5.53.11.21.67.61.60.82014 July 0.0-7.10.5
+.7.93.91.51.46.92.10.5         Aug. -0.3-7.1-0.2
+.7.43.61.41.46.92.10.6         Sep. -0.3-6.9-0.2
+.5.83.33.11.56.91.90.7         Oct. -0.6-8.21.0
+.5.13.31.71.66.91.60.9         Nov. -0.9-8.50.9
+.4.62.91.41.67.11.70.8         Dec. -0.5-8.62.2
+.5.53.11.21.67.61.60.82.8 Effective exchange rates 2)(period averages; index: 1999 Q1=100)   EER-19   EER-38NominalRealRealRealRealRealNominalRealCPIPPIGDPULCM 3)ULCTCPIdeflator12345678
+201297.995.893.189.699.192.0107.293.22013101.799.296.692.6102.594.6112.296.52014102.398.996.5. . . 114.8
+97.02014 Q1 103.9101.098.095.1103.597.8116.799.3         Q2 103.9100.598.094.7102.997.8116.298.2         Q3 101.798.295.992.2100.295.4113.896.0         Q4 99.696.194.1...112.694.42014 Sep. 100.597.094.8- - - 112.5
+94.8         Oct. 99.696.194.1- - - 112.0
+94.2         Nov. 99.696.194.2- - - 112.3
+94.3         Dec. 99.796.094.2- - - 113.4
+94.92015 Jan. 95.992.291.1- - - 109.3
+91.1         Feb. 94.090.289.4- - - 107.4
+89.3Percentage change versus previous month2015 Feb. -2.0-2.1-1.8- - - -1.8
+-2.0Percentage change versus previous year2015 Feb. -9.2-10.4-8.5- - - -7.8
+-9.9Source: ECB.1)Financial vehicle corporations (FVCs).
+
+2)For a definition of the trading partner groups and other information see the General Notes to the Statistics Bulletin.
+
+3)ULCM-deflated series are available only for the EER-19 trading partner group.
+ECBEconomic BulletinIssue 2 / 2015S 6S 6ECBEconomic Bulletin
+Issue 2 / 20152.9 Bilateral exchange rates(period averages; units of national currency per euro)ChineseCroatianCzechDanishHungarianJapanesePolishPoundRomanianSwedishSwissUS
+renminbikunakorunakroneforintyenzlotysterlingleukronafrancDollar
+123456789101112
+20128.1057.52225.1497.444289.249102.4924.1850.8114.45938.7041.2051.285
+20138.1657.57925.9807.458296.873129.6634.1970.8494.41908.6521.2311.328
+20148.1867.63427.5367.455308.706140.3064.1840.8064.44379.0991.2151.329
+2014 Q1 8.3587.65027.4427.462307.932140.7984.1840.8284.50238.8571.2241.370
+         Q2 8.5447.59927.4467.463305.914140.0014.1670.8154.42569.0521.2191.371
+         Q3 8.1737.62327.6197.452312.242137.7494.1750.7944.41469.2051.2121.326
+         Q4 7.6827.66527.6307.442308.527142.7544.2110.7894.43369.2721.2051.250
+2014 Sep. 7.9217.62427.5997.445313.197138.3904.1900.7914.40959.1931.2081.290
+         Oct. 7.7637.65727.5887.445307.846136.8454.2070.7894.41539.1801.2081.267
+         Nov. 7.6417.67027.6677.442306.888145.0294.2120.7914.42889.2381.2031.247
+         Dec. 7.6337.66827.6407.440310.833147.0594.2150.7884.45839.4041.2031.233
+2015 Jan. 7.2277.68827.8957.441316.500137.4704.2780.7674.48749.4171.0941.162
+         Feb. 7.0967.71127.6087.450306.884134.6864.1760.7414.43349.4901.0621.135
+Percentage change versus previous month2015 Feb. -1.80.3-1.00.1-3.0-2.0-2.4-3.4-1.20.8-2.9-2.3
+Percentage change versus previous year2015 Feb. -14.60.70.6-0.2-1.1-3.30.0-10.3-1.37.0-13.1-16.9
+2.10 Euro area balance of payments, financial account(EUR billions, unless otherwise indicated; outstanding amounts at end of period; transactions during period)Outstanding amounts (international investment position)               Total 1)    Direct   PortfolioNet   Other investmentReserveMemo:
+      investment   investmentfinancial   assetsGross
+derivativesexternalAssetsLiabilitiesNetAssetsLiabilitiesAssetsLiabilities
+AssetsLiabilities
+debt1234567891
+01
+11
+22013 Q4 17,765.819,107.1-1,341.37,229.45,550.25,659.09,051.8-64.84,400.04,503.5542.111,313.1
+2014 Q1 18,191.919,456.3-1,264.47,344.95,502.65,747.59,304.4-49.44,578.44,649.4570.611,535.4
+         Q2 18,708.619,747.6-1,039.07,465.35,522.16,037.49,609.6-43.54,666.54,615.9583.111,638.9
+         Q3 19,457.820,391.7-933.97,643.05,603.76,407.69,967.0-77.14,887.34,820.9597.011,959.0
+Outstanding amounts as a percentage of GDP2014 Q3 194.0203.3-9.376.255.963.999.4-0.848.748.16.0119.2
+Transactions2014 Q1 327.3266.760.612.3-8.772.7125.35.5234.2150.12.5
+-         Q2 212.5132.879.7-14.9-13.8157.1200.216.153.7-53.70.4
+-         Q3 182.0113.368.656.128.4114.638.116.1-3.546.8-1.3
+-         Q4 9.2-129.7138.9-2.8-23.896.9-37.55.6-93.4-68.42.9
+-2014 July 89.070.518.516.77.320.46.23.249.357.0-0.7
+-         Aug. 33.034.0-0.911.313.827.424.43.5-10.4-4.21.2
+-         Sep. 59.98.951.028.17.466.77.59.5-42.4-6.0-1.9
+-         Oct. -0.2-36.336.010.09.116.3-31.10.7-28.2-14.31.0
+-         Nov. 147.968.479.517.0-11.545.934.53.480.845.40.8
+-         Dec. -138.5-161.823.3-29.8-21.434.7-40.91.6-146.0-99.51.1
+-12-month cumulated transactions2014 Dec. 730.9383.1347.850.8-17.8441.3326.243.4190.974.84.5
+-12-month cumulated transactions as a percentage of GDP2014 Dec. 7.33.83.50.5-0.24.43.30.41.90.70.0
+-Source: ECB.1)Net financial derivatives are included in total assets.
+ECBEconomic BulletinIssue 2 / 2015S 73 E
+CONOMIC ACTIVITYS 7ECBEconomic BulletinIssue 2 / 20153.1 GDP and expenditure components 1)(quarterly data seasonally adjusted; annual data unadjusted)Current prices (EUR billions)   GDPTotal   Domestic demand   External balanceTotalPrivateGovernment
+   Gross fixed capital formationChanges inTotalExportsImports
+consumptionconsumption
+inventoriesTotalTotal
+Intellectualconstructionmachineryproperty products
+12
+345
+6789101112
+20119,799.59,661.05,512.02,052.02,029.81,066.0604.5
+350.167.1138.54,098.13,959.6
+20129,857.79,596.55,542.32,065.31,988.11,039.8581.4
+357.40.7261.24,279.94,018.7
+20139,939.49,598.55,566.72,096.01,948.61,009.2569.3
+359.7-12.8340.84,355.34,014.5
+2013 Q4 2,502.82,411.31,398.3525.7492.9
+254.5145.6
+90.4-5.691.41,102.21,010.8
+2014 Q1 2,518.12,424.41,403.1529.2494.9
+255.8144.5
+91.2-2.993.71,102.91,009.2
+         Q2 2,523.92,427.81,409.5530.6491.7
+251.2145.3
+91.8-4.196.11,116.31,020.2
+         Q3 2,530.82,433.31,417.0535.4491.8
+251.0145.3
+92.2-10.897.51,131.11,033.6
+as a percentage of GDP2011100.098.6
+56.220.920.7
+10.96.2
+3.60.71.4- - 
+2012100.097.4
+56.221.020.2
+10.65.9
+3.60.02.7- - 
+2013100.096.6
+56.021.119.6
+10.25.7
+3.6-0.13.5- - 
+Chain-linked volumes (prices for the previous year)quarter-on-quarter percentage changes2014 Q1 0.30.1
+0.20.10.3
+0.5-0.2
+0.6- - 0.40.0
+         Q2 0.10.0
+0.30.3-0.6
+-1.70.6
+0.2- - 1.41.3
+         Q3 0.20.2
+0.50.3-0.3
+-0.6-0.3
+0.2- - 1.31.4
+         Q4 0.3. . . . . . 
+. - - . . 
+contributions to quarter-on-quarter percentage changes in GDP; percentage points2014 Q1 0.30.1
+0.10.00.1
+0.00.0
+0.00.00.2- - 
+         Q2 0.10.0
+0.20.1-0.1
+-0.20.0
+0.0-0.10.1- - 
+         Q3 0.20.1
+0.30.1-0.1
+-0.10.0
+0.0-0.10.0- - 
+         Q4 0.3. . . . . . . . . - - 
+3.2 Value added by economic activity 1)(quarterly data seasonally adjusted; annual data unadjusted)Current prices (EUR billions)   Gross value added (basic prices)Taxes lesssubsidiesTotalAgriculture,ManufacturingConst-Trade,InformationFinanceRealProfessional,Public admi-Arts, enter-
+onforestry andenergy andructiontransport,andandestatebusiness andnistration,tainment
+productsfishingutilities
+accommodationcommu-insurance
+supporteducation,and other
+and foodnication
+serviceshealth andservices
+servicessocial work1234
+5678
+910111220118,809.7147.81,719.5486.71,672.6407.8435.31,009.4
+919.91,699.2311.4989.8
+20128,863.7152.21,726.7474.01,681.4410.7439.71,014.9
+928.51,718.2317.3994.0
+20138,930.7155.71,736.3465.01,689.0401.9439.11,032.1
+941.81,748.5321.31,008.6
+2013 Q4 2,248.438.6438.1117.2424.8100.6110.3259.9
+237.7440.1
+81.0254.3
+2014 Q1 2,262.538.5438.2118.3427.0100.6113.0262.0
+238.9444.3
+81.4255.8
+         Q2 2,264.737.9439.7116.3427.6100.3114.1263.3
+240.0444.0
+81.4259.1
+         Q3 2,271.736.7440.2116.1430.0100.0113.8264.0
+241.9446.8
+82.2258.8
+as a percentage of value added2011100.01.719.55.5
+19.04.64.911.5
+10.419.33.5- 2012100.01.719.55.4
+19.04.65.011.4
+10.519.43.6- 2013100.01.719.55.2
+18.94.54.911.5
+10.519.63.6- Chain-linked volumes (prices for the previous year)quarter-on-quarter percentage changes2013 Q4 0.31.60.50.2
+0.30.0-0.10.3
+-0.10.3-0.30.2
+2014 Q1 0.42.0-0.10.7
+0.7-0.80.80.2
+0.50.40.40.0
+         Q2 0.0-0.60.2-1.7
+0.1-0.3-0.70.2
+0.20.1-0.41.0
+         Q3 0.20.70.1-0.6
+0.50.20.10.3
+0.40.10.5-0.4
+contributions to quarter-on-quarter percentage changes in value added; percentage points2013 Q4 0.30.00.10.0
+0.10.00.00.0
+0.00.10.0- 2014 Q1 0.40.00.00.0
+0.10.00.00.0
+0.10.10.0-          Q2 0.00.00.0-0.1
+0.00.00.00.0
+0.00.00.0-          Q3 0.20.00.00.0
+0.10.00.00.0
+0.00.00.0- Sources: Eurostat and ECB calculations.1)Data refer to the Euro 19, with the exception of columns 6 to 8 of table 3.1, where they refer to the Euro 18.
+ECBEconomic BulletinIssue 2 / 2015S 8S 8ECBEconomic Bulletin
+Issue 2 / 20153.3 Short-term business statisticsannual percentage changes   Industrial production 1) Const-ECB indicator
+   Retail salesNew      ructionon industrial
+passenger   Total (excluding   Main Industrial Groupingsproduc-new orders
+ 1)TotalFood,Non-foodFuel
+car regist-construction)tion 1)beverages,rationsManu-Inter-CapitalConsumerEnergy
+tobaccofacturingmediategoodsgoods
+goods% of totalin 2010100.086.033.629.222.514.7100.0
+100.0100.039.351.59.1100.0
+1234
+567
+89101112
+132012-2.5-2.7-4.5-1.1-2.5-0.4-5.0
+-3.8-1.6-1.3-1.5-5.0-11.0
+2013-0.7-0.7-1.0-0.6-0.4-0.8-2.8
+-0.1-0.8-1.0-0.6-1.0-4.4
+20140.61.61.11.5
+2.5-5.42.2
+3.21.30.32.40.3
+3.72014 Q1 1.23.13.14.0
+2.5-9.36.7
+4.30.9-0.52.30.8
+5.1         Q2 0.91.71.40.9
+3.5-5.23.8
+3.91.41.12.0-0.4
+3.9         Q3 0.51.10.41.4
+1.8-3.5-0.3
+2.20.8-0.32.0-0.6
+4.1         Q4 -0.10.5-0.60.0
+2.3-3.1-0.7
+2.52.10.73.31.4
+1.62014 Aug. -0.60.00.1-2.2
+2.4-3.01.5
+0.91.5-0.53.6-0.3
+4.1         Sep. 0.10.7-0.61.5
+0.9-3.2-2.4
+1.20.40.70.30.4
+2.5         Oct. 0.61.1-0.71.4
+3.1-2.30.3
+3.91.50.12.51.0
+4.4         Nov. -0.80.1-1.0-1.2
+3.0-5.50.5
+1.51.5-0.33.20.2
+0.4         Dec. -0.20.2-0.2-0.3
+0.6-1.7-3.5
+2.33.12.03.92.8
+0.02015 Jan. . . . . . . . . 3.72.25.06.111.0
+month-on-month percentage changes (s.a.)2014 Aug. -1.2-1.4-1.1-3.3
+0.21.10.6
+-2.10.70.21.00.9-0.1
+         Sep. 0.50.5-0.32.2-0.90.3-1.3
+1.3-0.90.4-1.7-0.2-1.3
+         Oct. 0.30.50.20.0
+1.5-1.11.0
+0.90.6-0.20.90.5
+3.0         Nov. 0.10.20.1-0.3
+0.7-0.8-0.5
+-1.20.60.21.20.4-2.5
+         Dec. 0.00.01.10.2-1.60.9-0.8
+2.50.40.20.21.9
+5.42015 Jan. . . . . . . . . 1.11.01.23.2
+2.63.4 Employment 1)(quarterly data seasonally adjusted; annual data unadjusted)Persons employed    By employment status   By economic activityTotalEmployeesSelf-Agriculture,Manu-Const-Trade, trans-InformationFinanceRealProfessional,Public admini-Arts, enter-
+employedforestryfacturing,ructionport, accommo-and commu-andestatebusiness andstration, edu-tainment and
+and fishingenergy and
+dation andnicationinsurance
+supportcation, healthother services
+utilitiesfood servicesservicesand social work
+123
+456
+78910
+111213as a percentage of total persons employed2011100.085.015.0
+3.515.46.7
+24.92.72.71.0
+12.523.76.92012100.085.015.0
+3.415.46.4
+24.92.72.71.0
+12.723.87.02013100.085.015.0
+3.415.36.2
+24.92.72.71.0
+12.824.07.0annual percentage changes20110.10.2-0.1-2.20.0-3.6
+0.51.2-0.70.6
+2.50.00.02012-0.5-0.5-0.3-1.4-0.7-4.5
+-0.50.8-0.4-0.1
+0.5-0.10.62013-0.8-0.7-1.1-1.4-1.3-4.4
+-0.70.1-1.1-1.1
+0.3-0.2-0.12013 Q4 -0.4-0.3-0.8
+0.4-1.0-3.1
+-0.2-0.1-0.9-0.4
+0.70.1-1.12014 Q1 0.00.2-0.6
+0.8-0.7-2.6
+0.20.3-0.90.7
+1.00.50.1         Q2 0.40.7-1.1-0.50.2-2.3
+0.80.6-1.20.3
+1.90.50.4         Q3 0.60.9-1.0-0.70.3-1.7
+1.21.1-1.10.0
+1.80.41.0Hours workedas a percentage of total hours worked2011100.080.119.9
+4.415.87.6
+25.92.72.71.0
+12.321.36.22012100.080.020.0
+4.415.77.2
+25.82.82.81.0
+12.421.66.32013100.080.119.9
+4.415.76.9
+25.82.82.81.0
+12.521.76.3annual percentage changes20110.30.4-0.3-2.20.8-3.6
+0.41.3-0.20.4
+2.60.30.12012-1.6-1.6-1.3-2.5-2.0-6.4
+-1.90.4-0.8-1.1
+-0.3-0.5-0.32013-1.2-1.2-1.2-0.8-1.3-5.1
+-1.20.1-1.5-2.2
+-0.4-0.5-0.62013 Q4 -0.3-0.3-0.4
+1.6-0.2-3.1
+-0.40.7-0.8-1.7
+0.3-0.1-1.12014 Q1 0.60.70.2
+2.00.9-1.3
+0.60.6-0.40.5
+0.91.00.4         Q2 0.30.6-1.3
+0.00.2-2.5
+0.50.7-1.6-0.3
+1.30.6-0.2         Q3 0.50.9-1.0
+0.10.6-2.1
+1.11.1-1.3-0.7
+1.40.30.4Hours worked per person employedannual percentage changes20110.10.2-0.3-0.10.80.0
+-0.10.10.5-0.3
+0.10.30.02012-1.1-1.1-1.0-1.1-1.3-2.0
+-1.4-0.4-0.5-1.1
+-0.8-0.3-0.92013-0.4-0.5-0.1
+0.70.1-0.8
+-0.60.0-0.3-1.1
+-0.6-0.3-0.52013 Q4 0.10.00.4
+1.30.80.0
+-0.10.80.1-1.4
+-0.4-0.20.02014 Q1 0.60.60.8
+1.11.61.4
+0.40.30.5-0.3
+-0.10.50.3         Q2 -0.2-0.1-0.2
+0.50.1-0.3
+-0.20.1-0.3-0.6
+-0.50.1-0.6         Q3 -0.10.00.0
+0.80.3-0.4
+-0.10.0-0.2-0.7
+-0.4-0.1-0.5Sources: Eurostat, ECB calculations, ECB experimental statistics (Table 3.3, col. 8) and European Automobile Manufacturers Association (Table 3.3, col. 13).1)Data refer to the Euro 19. Data for employment are based on the ESA 2010.
+ECBEconomic BulletinIssue 2 / 2015S 9S 9ECBEconomic BulletinIssue 2 / 20153.5 Labour force, unemployment and job vacancies(seasonally adjusted, unless otherwise indicated)LabourUnder-
+   UnemploymentJobforce,employ-
+         vacancymillions 1)ment,   TotalLong-term   By age   By genderrate 2)% ofunemployment   
+         labourMillions% of% of labour   Adult
+   Youth   Male   Femaleforce 1)labourforce
+ 1)forceMillions% of lab-Millions% of lab-Millions% of lab-Millions% of lab-% of total
+our forceour forceour forceour forceposts
+% of totalin 2013100.081.318.753.646.41234
+567891011121314
+2012159.6893.918.17711.4
+5.314.61710.13.56023.69.75211.28.42511.51.6
+2013159.6684.319.20612.0
+5.915.61210.73.59324.310.29211.98.91412.11.5
+2014. . 18.57211.6
+. 15.15710.43.41523.79.87111.48.70111.8. 
+2014 Q1 159.2244.418.84411.8
+6.315.34510.53.49824.110.09111.78.75311.91.7
+         Q2 159.5384.418.59411.6
+6.015.17910.43.41423.79.90411.58.69011.81.6
+         Q3 159.9734.218.50911.5
+5.815.11810.33.39023.69.78211.38.72711.81.6
+         Q4 . . 18.34211.4
+. 14.98610.23.35623.39.70811.28.63411.6. 
+2014 Aug. - - 18.46811.5
+- 15.08210.33.38523.69.74111.38.72711.8- 
+         Sep. - - 18.45511.5
+- 15.07810.33.37723.49.77011.38.68411.7- 
+         Oct. - - 18.41911.5
+- 15.04910.33.37023.49.76711.38.65211.7- 
+         Nov. - - 18.40811.4
+- 15.02510.33.38323.49.73311.28.67511.7- 
+         Dec. - - 18.19911.3
+- 14.88310.23.31623.19.62311.18.57611.6- 
+2015 Jan. - - 18.05911.2
+- 14.77810.13.28122.99.56711.18.49211.4- 
+3.6 Opinion surveys(seasonally adjusted)   European Commission Business and Consumer Surveys   Purchasing Managers™ Surveys   (percentage balances, unless otherwise indicated)   (diffusion indices)      Economic   Manufacturing industryConsumerConstructionRetail   Service industriesPurchasingManufact-BusinessComposite
+sentimentconfidenceconfidencetrade
+Managers™uringactivityoutput
+indicatorIndustrialCapacityindicatorindicatorconfid-ServicesCapacityIndex (PMI)outputfor
+(long-termconfidenceutilisation
+enceconfidenceutilisationfor manu-
+servicesaverageindicator(%)
+indicatorindicator(%)facturing
+= 100)123456
+789101112
+1999-13100.2-6.180.7-12.7
+-13.9-8.8
+6.5- 51.052.452.952.7
+201290.5-11.778.5-22.1
+-27.7-15.1-6.886.646.246.347.647.2
+201393.6-9.378.3-18.6
+-29.4-12.4-6.186.949.650.649.349.7
+2014101.3-4.279.9-10.0
+-28.0-3.9
+3.887.451.853.352.552.7
+2014 Q1 101.5-3.579.8-11.2
+-28.6-3.0
+3.487.253.455.952.153.1
+         Q2 102.2-3.679.7-7.7
+-30.3-2.2
+3.987.352.454.553.153.4
+         Q3 100.8-4.880.0-9.9
+-27.8-4.6
+3.387.650.951.653.252.8
+         Q4 100.7-4.880.3-11.2
+-25.2-5.8
+4.887.750.451.251.751.5
+2014 Sep. 99.9-5.5
+- -11.4-27.4-7.2
+3.2- 50.351.052.452.0
+         Oct. 100.7-5.080.0-11.1
+-24.4-6.3
+4.487.850.651.552.352.1
+         Nov. 100.7-4.3
+- -11.6-26.1-5.9
+4.4- 50.151.251.151.1
+         Dec. 100.6-5.2
+- -10.9-25.2-5.2
+5.6- 50.650.951.651.4
+2015 Jan. 101.4-4.880.7-8.5
+-26.5-3.6
+4.887.551.052.152.752.6
+         Feb. 102.1-4.7
+- -6.7
+-26.5-2.1
+4.5- 51.052.153.753.3
+Sources: Eurostat, ECB calculations, European Commission (Directorate-General for Economic and Financial Affairs) (Table 3.6, col. 1-8), Markit (Table 3.6, col. 9-12).1)Not seasonally adjusted. Data refer to the Euro 19.
+2)The job vacancy rate is equal to the number of job vacancies divided by the sum of the number of occupied posts and the numbe
+r of job vacancies, expressed as a percentage.ECBEconomic BulletinIssue 2 / 2015S 10S 10ECBEconomic Bulletin
+Issue 2 / 20153.7 Summary accounts for households and non-financial corporations(current prices, unless otherwise indicated; not seasonally adjusted)   Households   Non-financial corporationsSavingDebtReal grossFinancialNon-financialNetHousingProfitSavingDebtFinancialNon-financialFinancing
+ratioratiodisposableinvestmentinvestmentworthwealthshare
+ 3)ratioratio
+ 4)investmentinvestment
+(gross) 1)income(gross) 2)(net)(gross)                                                             Percentage of gross      Percentage of netPercentage
+      disposable income   Annual percentage changes   value addedof GDP   Annual percentage changes
+   (adjusted)         12
+34567
+8910
+111213
+201113.097.8-0.1
+1.91.71.81.133.43.5
+.3.29.92.0
+201212.997.4-1.6
+1.8-3.70.3-2.231.21.5133.5
+1.0-4.80.8
+201313.196.1-0.5
+1.3-3.90.0-2.330.62.3130.2
+1.5-3.10.7
+2013 Q4 13.196.1
+1.01.3-4.40.4-2.330.62.3130.2
+1.5-0.10.7
+2014 Q1 13.195.5
+0.51.43.31.9-1.031.02.4129.4
+1.72.10.8
+         Q2 13.095.5
+0.41.50.02.9-0.131.02.2130.3
+2.0-0.51.0
+         Q3 13.194.9
+1.61.50.32.70.331.32.3129.6
+1.7-0.90.9
+3.8 Euro area balance of payments, current and capital accounts(EUR billions; seasonally adjusted unless otherwise indicated; transactions)   Current account   Capital                  account 5)   Total   Goods   Services   Primary income   Secondary income
+CreditDebitNetCreditDebitCreditDebitCreditDebitCreditDebitCreditDebit
+12345678910111213
+2014 Q1 817.6758.659.0476.7424.1168.9144.3150.4132.321.657.99.33.4
+         Q2 829.0771.157.8484.8426.7170.7150.9152.1132.621.461.07.53.4
+         Q3 829.0762.966.1488.5424.0170.7154.0147.3132.322.552.66.52.4
+         Q4 828.2771.057.3494.2427.5176.2158.5134.8125.023.160.011.44.9
+2014 July 274.1256.617.5161.8142.257.752.247.443.27.219.02.60.9
+         Aug. 265.9248.117.8154.5134.955.950.547.944.77.517.92.30.8
+         Sep. 289.1258.330.8172.2146.957.151.352.044.47.815.61.70.8
+         Oct. 277.7258.119.6164.0145.758.752.847.241.97.817.72.81.1
+         Nov. 272.8253.019.9161.0140.859.351.444.739.77.821.13.41.2
+         Dec. 277.7259.917.8169.2141.058.254.342.943.37.521.25.22.6
+12-month cumulated transactions2014 Dec. 3,303.83,063.6240.21,944.11,702.3686.4607.8584.7522.188.6231.534.714.1
+12-month cumulated transactions as a percentage of GDP2014 Dec. 32.930.52.419.417.06.86.15.85.20.92.30.30.1
+3.9 Euro area external trade in goods 6) , values and volumes by product group 7)(seasonally adjusted, unless otherwise indicated)Values (EUR billions; annual percentage changes for columns 1 and 2)            Total (n.s.a.)   Exports (f.o.b.)   Imports (c.i.f.)                     TotalMemo item:   Total   Memo items:ExportsImports
+IntermediateCapitalConsump-Manufac-
+IntermediateCapitalConsump-Manufac-Oil
+goodsgoodstionturing
+goodsgoodstionturing
+goodsgoods123
+45
+678
+910
+111213
+2014 Q1 1.30.2479.8235.195.5136.9389.9437.7272.460.896.4277.979.3
+         Q2 0.80.3480.4234.396.3137.6395.2437.4270.460.698.6281.077.3
+         Q3 3.00.4484.3235.596.5138.6396.7437.3268.560.9100.1285.674.4
+         Q4 4.3-0.5494.8
+. . . 406.0429.8
+. . . 287.6. 
+2014 July 2.91.0160.7
+78.232.146.5131.4147.6
+91.320.533.4
+96.325.6
+         Aug. -3.1-4.3158.4
+77.630.644.9129.6142.8
+87.419.533.0
+91.824.4
+         Sep. 8.64.2165.2
+79.633.847.1135.7146.9
+89.820.933.7
+97.424.4
+         Oct. 4.1-0.2165.0
+79.433.747.7134.5144.9
+87.820.633.8
+96.323.9
+         Nov. 0.9-2.2165.8
+77.933.448.1136.1144.2
+86.320.233.5
+95.222.4
+         Dec. 8.11.0164.0
+. . . 135.4140.7
+. . . 96.2. 
+Volume indices (2000 = 100; annual percentage changes for columns 1 and 2)2014 Q1 1.62.6114.8113.3114.6117.0114.2100.7101.198.199.6101.894.7
+         Q2 0.82.4114.8113.2114.3117.5115.6101.7101.898.4102.4103.593.2
+         Q3 1.22.0114.4112.6114.1116.2114.5101.2101.198.7101.9103.691.1
+         Q4 . . . . . . . . . . . . . 
+2014 July 1.22.3114.3112.5114.3117.3114.2102.9102.6103.3102.5106.291.2
+         Aug. -4.5-2.7112.4111.2108.5113.6112.399.3
+99.194.1100.6
+99.890.1
+         Sep. 6.56.0116.7114.0119.5117.6117.0101.5101.798.6102.5104.992.0
+         Oct. 2.30.8116.5113.7118.9119.4115.6100.4100.696.1101.3102.595.4
+         Nov. -0.6-1.1117.2111.8117.1120.9116.5101.3100.896.899.7101.896.5
+         Dec. . . . . . . . . . . . . . 
+Sources: ECB and Eurostat.1)  Based on four-quarter cumulated sums of both saving and gross disposable income (adjusted for the change in the net equity of households in pension fund reserves).2)  Financial assets (net of financial liabilities) and non-financial assets. Non-financial assets consist mainly of housing wealth (residential structures and land).     They also include non-financial assets of unincorporated enterprises classified within the household sector.
+3)  The profit share uses net entrepreneurial income, which is broadly equivalent to current profits in business accounting. 
+4)  Based on the outstanding amount of loans, debt securities, trade credits and pension scheme liabilities.
+5)  The capital account is not seasonally adjusted.
+6)  Differences between ECB™s b.o.p. goods (Table 3.8) and Eurostat™s trade in goods (Table 3.9) are mainly due to different definitions.7)  Product groups as classified in the Broad Economic Categories.ECBEconomic BulletinIssue 2 / 2015S 11S 11ECBEconomic BulletinIssue 2 / 20154.1 Harmonised Index of Consumer Prices 1)(annual percentage changes, unless otherwise indicated)             Total   Total (s.a.; percentage change vis-à-vis previous period)   Memo item:      Administered pricesIndex:   Total
+GoodsServicesTotalProcessedUnprocessedNon-energyEnergyServices
+2005foodfoodindustrial(n.s.a.)
+Total HICPAdministered
+= 100Total excludinggoodsexcludingprices
+food and energyadministeredprices% of totalin 201100.0100.069.756.543.5100.012.27.526.310.643.587.112.912
+34567
+891011
+12132012   115.62.5
+1.53.01.8--
+----
+2.33.82013   117.21.4
+1.11.31.4--
+----
+1.22.12014   117.70.4
+0.8-0.21.2--
+----
+0.21.9 2014 Q1   117.20.7
+0.80.31.20.20.40.0
+0.00.00.3
+0.52.0         Q2   118.20.6
+0.80.01.30.00.1-1.0-0.1-0.30.3
+0.32.2         Q3   117.70.4
+0.8-0.31.20.20.10.2
+0.1-0.40.4
+0.21.6         Q4   117.80.2
+0.7-0.61.2-0.20.00.5-0.1-3.00.2-0.1
+1.7 2014 Sep.   118.10.3
+0.8-0.31.10.00.10.5
+0.00.10.0
+0.11.5         Oct.   118.00.4
+0.7-0.21.2-0.10.00.1-0.1-0.90.0
+0.21.7         Nov.   117.80.3
+0.7-0.41.2-0.1-0.10.1
+0.0-1.40.1
+0.11.7         Dec.   117.7-0.2
+0.7-1.21.2-0.30.1-0.4
+0.0-3.30.0-0.4
+1.62015 Jan.   115.8-0.6
+0.6-1.81.0-0.40.00.0
+0.0-3.2-0.1-0.9
+1.2         Feb.  2) 116.5-0.3
+0.6. 1.1. . . . 1.6. . . 
+          Goods   Services            Food (including alcoholic   Industrial goods   HousingTransportCommuni-RecreationMiscella-
+   beverages and tobacco)      cationandneous
+personalTotalProcessedUnpro-TotalNon-energyEnergy
+Rentsfoodcessed
+industrialfoodgoods% of totalin 20119.712.27.536.926.310.610.76.47.33.114.87.514151617
+181920212223
+24252012   3.13.13.03.0
+1.27.61.81.52.9-3.2
+2.22.02013   2.72.23.50.6
+0.60.61.71.52.4-4.2
+2.20.72014   0.51.2-0.8-0.5
+0.1-1.91.71.41.7-2.8
+1.51.3 2014 Q1   1.41.80.7-0.3
+0.3-1.91.81.41.6-2.7
+1.31.2         Q2   0.21.5-1.8-0.1
+0.0-0.41.81.41.8-2.8
+1.61.3         Q3   -0.11.0-2.0-0.4
+0.1-1.81.71.31.7-3.1
+1.51.3         Q4   0.30.7-0.3-1.1
+-0.1-3.61.61.41.6-2.6
+1.41.4 2014 Sep.   0.31.0-0.9-0.6
+0.2-2.31.61.41.5-3.3
+1.51.3         Oct.   0.50.80.0-0.6
+-0.1-2.01.61.41.5-2.6
+1.51.4         Nov.   0.50.60.2-0.8
+-0.1-2.61.61.41.4-2.5
+1.31.4         Dec.   0.00.5-1.0-1.8
+0.0-6.31.51.41.9-2.6
+1.41.42015 Jan.   -0.10.4-0.8-2.8
+-0.1-9.31.41.41.4-2.1
+1.21.0         Feb.  2) 0.50.50.5. -0.2-7.9. . . . . . 
+4.2 Industry, construction and property prices(annual percentage changes, unless otherwise indicated)       Industrial producer prices excluding constructionConst-ResidentialExperimental
+      ruction 3)propertyindicator of
+Total   Total
+   Industry excluding construction and energyEnergyprices 3),4)commercial(index:   property2010 = 100)Manu-TotalIntermediateCapital   Consumer goods
+prices 3),4)facturinggoodsgoods
+TotalFood,Non-
+beveragesfood
+and tobacco% of totalin 2010100.0100.078.072.1
+29.320.022.713.88.927.9
+12
+34
+567
+8910
+1112132012   108.72.82.01.4
+0.71.02.53.60.96.6
+1.7-1.70.42013   108.5-0.2-0.10.4
+-0.60.61.72.70.3-1.6
+0.6-2.0-1.32014   107.0-1.4-0.8-0.2
+-1.10.40.4-0.80.4-4.4
+. . . 
+ 2014 Q1   107.7-1.5-1.0-0.4
+-1.80.30.9-0.40.3-4.1
+0.2-0.6.          Q2   107.2-1.0-0.3-0.1
+-1.20.30.9-0.30.5-3.1
+0.20.1.          Q3   106.9-1.4-0.50.0
+-0.60.50.2-1.00.4-4.5
+0.40.5.          Q4   106.1-1.8-1.5-0.2
+-0.70.6-0.3-1.60.4-5.8
+. . . 
+ 2014 Aug.   106.7-1.4-0.6-0.1
+-0.60.40.3-1.00.4-5.0
+- - - 
+         Sep.   106.9-1.4-0.70.0
+-0.50.6-0.1-1.40.3-4.6
+- - - 
+         Oct.   106.6-1.3-0.8-0.1
+-0.40.6-0.3-1.50.4-4.1
+- - - 
+         Nov.   106.3-1.5-1.2-0.1
+-0.50.6-0.3-1.50.3-4.9
+- - - 
+         Dec.   105.3-2.6-2.4-0.4
+-1.00.6-0.4-1.70.3-8.3
+- - - 
+2015 Jan.   104.3-3.4-3.4-0.7
+-1.60.7-0.9-1.80.1-10.2
+- - - 
+Sources: Eurostat, ECB calculations, and ECB calculations based on IPD data and national sources (Table 4.2, col. 13).1)Data refer to the changing composition of the euro area.
+
+2)Estimate based on provisional national data, which usually cover around 95% of the euro area, as well as on early information
+ on energy prices.
+3)Data refer to the Euro 19.
+
+4)Experimental data based on non-harmonised sources (see http://www.ecb.europa.eu/stats/intro/html/experiment.en.html for furth
+er details).554 PRI
+CES AND COSTSECBEconomic BulletinIssue 2 / 2015S 12S 12ECBEconomic Bulletin
+Issue 2 / 20154.3 Commodity prices and GDP deflators(annual percentage changes, unless otherwise indicated)   GDP deflators 1) Oil prices   Non-energy commodity prices  (EUR)
+(EUR per      TotalTotal
+   Domestic demandExports 2)Imports 2)barrel)   Import-weighted 3)   Use-weighted 3)(s.a.;index:TotalPrivateGovern-Gross
+TotalFoodNon-foodTotalFoodNon-food
+2010consump-mentfixed
+= 100)tionconsump-capital
+tionformation
+% of total100.035.065.0100.045.055.0
+12345
+6789101112131415
+2012102.41.31.61.90.81.41.92.586.6-4.90.7-7.6-1.26.5-6.9
+2013103.81.30.91.11.30.4-0.3-1.381.7-7.6-12.0-5.3-6.9-8.2-5.8
+2014. . . . . . . . 74.5-6.4-0.7-9.1-3.01.3-6.6
+2014 Q1 104.41.00.80.70.70.2-1.0-1.678.6-12.3-7.2-14.7-10.2-5.2-14.1
+         Q2 104.50.80.70.80.50.3-0.8-1.079.9-5.8-0.4-8.6-3.41.1-7.4
+         Q3 104.70.80.70.60.90.4-0.6-0.978.0-4.3-1.1-5.8-1.00.4-2.1
+         Q4 . . . . . . . . 61.5-2.46.7-6.63.29.6-2.0
+2014 Sep. - - - - - - - - 76.4-4.30.0-6.4-0.51.4-2.0
+         Oct. - - - - - - - - 69.5-2.34.4-5.51.44.8-1.4
+         Nov. - - - - - - - - 64.1-2.66.6-6.93.49.8-1.9
+         Dec. - - - - - - - - 51.3-2.29.0-7.55.014.2-2.6
+2015 Jan. - - - - - - - - 42.81.714.3-4.37.817.20.0
+         Feb. - - - - - - - - 52.0. . -2.1. . 2.2
+4.4 Price-related opinion surveys(seasonally adjusted)   European Commission Business and Consumer Surveys   Purchasing Managers™ Surveys   (percentage balances)   (diffusion indices)            Selling price expectationsConsumer   Input prices
+   Prices charged   (for next three months)price trends      over pastManufac-Retail tradeServicesConst-
+12 monthsManufac-ServicesManufac-Services
+turingructionturingturing123456789
+1999-134.8- - -1.8
+34.057.756.7- 49.9
+20122.78.11.9-12.4
+38.652.755.149.947.92013-0.42.0-1.7-17.1
+29.848.553.849.447.82014-0.8-0.90.8-17.7
+14.349.653.549.748.22014 Q1 0.51.90.2-18.0
+22.849.853.850.248.7         Q2 -0.9-0.50.1-20.0
+14.948.753.950.048.7         Q3 -0.7-1.30.2-17.0
+11.751.253.749.848.4         Q4 -2.1-3.82.6-15.6
+7.948.752.649.047.12014 Sep. -1.9-4.2-0.6-16.9
+7.149.252.848.948.4         Oct. 0.4-5.61.6-16.8
+8.549.053.149.046.4         Nov. -1.5-3.03.3-14.9
+8.949.052.748.847.1         Dec. -5.1-2.92.8-15.2
+6.448.152.049.147.72015 Jan. -5.9-3.1-0.8-17.0
+-0.142.050.948.146.5         Feb. -5.50.51.6-18.0
+-3.444.752.448.647.6Sources: European Commission (Directorate-General for Economic and Financial Affairs) and Thomson Reuters (Table 4.3, col. 9).1)Data refer to the Euro 19.
+2)Deflators for exports and imports refer to goods and services and include cross-border trade within the euro area.
+
+3)Import-weighted: weighted according to 2004-06 average import structure; use-weighted: weighted according to 2004-06 average 
+domestic demand structure.ECBEconomic BulletinIssue 2 / 2015S 13S 13ECBEconomic BulletinIssue 2 / 20154.5 Unit labour costs, compensation per labour input and labour productivity 1)(annual percentage changes, unless otherwise indicated; quarterly data seasonally adjusted; annual data unadjusted)Unit labour costs TotalTotal
+   By economic activity(index:2010Agriculture,Manufactu-Construc-Trade,InformationFinanceRealProfessional,Public admi-Arts, enter-
+=100)forestryring, energytiontransport,and commu-andestatebusiness andnistration,tainment
+and fishingand utilities
+accommoda-nicationinsurance
+supporteducation,and other
+tion andserviceshealth andservices
+food servicessocial work12
+345
+6789
+1011122011100.60.6
+0.4-0.12.2
+0.0-1.40.30.9
+3.10.61.12012102.51.9
+3.42.12.7
+2.60.2-0.42.0
+3.50.52.42013103.91.4-2.4
+2.10.4
+1.51.92.5-2.5
+1.11.62.32013 Q4 104.21.2-4.0
+0.3-0.1
+0.81.83.3-2.6
+0.62.72.02014 Q1 104.50.8-3.8
+1.0-0.5
+0.33.80.50.3
+1.20.90.8         Q2 104.81.0-3.2
+1.70.1
+0.43.60.60.2
+2.20.81.6         Q3 105.21.1-2.7
+1.50.7
+0.63.70.50.5
+2.40.91.4Compensation per employee 2011102.12.1
+3.52.93.1
+1.72.42.22.0
+2.91.31.42012103.81.7
+1.72.22.5
+1.71.91.01.9
+2.40.92.32013105.61.7
+1.22.71.5
+1.51.12.4-0.5
+0.91.81.72013 Q4 106.42.0-0.1
+2.52.0
+1.31.12.8-1.2
+0.82.82.52014 Q1 106.91.8-0.1
+2.73.3
+1.82.71.10.6
+1.61.51.5         Q2 107.01.4
+0.72.11.9
+1.21.82.00.9
+1.31.31.2         Q3 107.41.3
+1.71.91.1
+1.01.81.71.6
+1.71.30.7Labour productivity per person employed2011101.51.5
+3.03.00.8
+1.73.81.91.2
+-0.20.70.32012101.3-0.2-1.6
+0.2-0.2
+-0.91.71.4-0.1
+-1.10.4-0.22013101.60.3
+3.70.61.1
+-0.1-0.8-0.12.0
+-0.10.2-0.62013 Q4 102.10.8
+4.12.12.1
+0.6-0.6-0.51.4
+0.20.10.42014 Q1 102.31.0
+3.91.73.8
+1.4-1.10.50.2
+0.40.50.7         Q2 102.10.4
+4.10.41.8
+0.8-1.71.40.7
+-0.80.4-0.4         Q3 102.00.2
+4.50.40.4
+0.4-1.91.11.0
+-0.70.4-0.7Compensation per hour worked 2011101.81.8
+2.51.93.3
+1.62.21.62.3
+2.71.11.42012104.72.8
+3.63.74.8
+3.42.41.52.1
+3.11.23.32013107.02.2
+1.42.52.6
+2.11.12.80.8
+1.82.12.12013 Q4 107.72.0-0.5
+1.62.0
+1.60.62.80.7
+1.23.02.42014 Q1 108.01.2-0.6
+1.01.9
+1.52.20.70.9
+1.71.01.0         Q2 108.41.5
+1.61.92.2
+1.41.92.42.1
+1.41.11.5         Q3 108.71.3
+2.21.51.3
+1.11.51.91.6
+1.51.31.0Hourly labour productivity2011101.41.4
+3.12.20.8
+1.83.81.41.4
+-0.30.40.32012102.30.9-0.6
+1.51.8
+0.52.21.91.0
+-0.30.70.72013103.00.7
+3.00.61.9
+0.5-0.80.23.1
+0.50.5-0.12013 Q4 103.30.7
+2.81.32.1
+0.7-1.4-0.62.8
+0.60.30.42014 Q1 103.40.4
+2.70.12.4
+1.1-1.40.00.5
+0.50.00.4         Q2 103.60.6
+3.50.42.1
+1.0-1.71.71.3
+-0.30.30.2         Q3 103.40.3
+3.60.10.8
+0.5-2.01.41.7
+-0.30.5-0.24.6 Labour cost indices(annual percentage changes, unless otherwise indicated)      TotalTotal   By component   For selected economic activitiesMemo item:(index:Indicator of2008 = 100)Wages andEmployers™ socialBusiness economyMainly non-business
+negotiatedsalariescontributionseconomywages 2)% of totalin 2008100.0100.075.224.832.458.612345
+672012108.92.02.02.02.41.22.22013110.31.31.50.81.21.61.82014. . . . . 
+. 1.82014 Q1 103.70.71.1-0.60.70.51.9         Q2 115.71.41.41.31.61.11.8         Q3 108.61.31.41.21.21.51.7         Q4 . . . . . 
+. 1.7Sources: Eurostat and ECB calculations.1)Data refer to the Euro 19.
+
+2)Experimental data based on non-harmonised sources (see http://www.ecb.europa.eu/stats/intro/html/experiment.en.html for furth
+er details).ECBEconomic BulletinIssue 2 / 2015S 14S 14ECBEconomic Bulletin
+Issue 2 / 20155.1 Monetary aggregates 1)(EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)Outstanding amounts   M3   M2   M3-M2            M1   M2-M1   CurrencyOvernight
+Deposits withDeposits
+ReposMoneyDebt
+indeposits
+an agreedredeemable
+market fundsecurities
+circulationmaturity ofat notice
+shareswith
+up to 2 yearsof up to
+a maturity of3 monthsup to 2 years1234567891
+01
+11
+22012863.44,244.05,107.51,803.32,081.53,884.88,992.3125.0483.1180.6788.79,780.9
+2013908.84,482.65,391.41,691.22,123.23,814.49,205.8120.0417.786.5624.39,830.0
+2014967.34,948.55,915.91,602.02,129.73,731.79,647.6122.2430.4130.0682.610,330.2
+2014 Q1 924.84,563.35,488.01,667.72,125.33,793.19,281.1117.1403.284.8605.19,886.2
+         Q2 931.54,627.35,558.91,671.12,131.23,802.39,361.2129.7396.975.8602.49,963.6
+         Q3 948.24,745.25,693.41,647.52,136.63,784.19,477.5122.4419.168.8610.410,087.8
+         Q4 967.34,948.55,915.91,602.02,129.73,731.79,647.6122.2430.4130.0682.610,330.2
+2014 Aug. 943.34,713.35,656.61,658.22,134.23,792.39,448.9128.5404.174.1606.710,055.6
+         Sep. 948.24,745.25,693.41,647.52,136.63,784.19,477.5122.4419.168.8610.410,087.8
+         Oct. 949.54,794.05,743.51,625.72,132.53,758.29,501.7130.3432.467.0629.710,131.4
+         Nov. 956.54,858.05,814.51,619.32,138.43,757.79,572.2128.2434.671.6634.410,206.7
+         Dec. 967.34,948.55,915.91,602.02,129.73,731.79,647.6122.2430.4130.0682.610,330.2
+2015 Jan. (p)984.85,057.56,042.31,579.22,121.73,700.99,743.3120.5438.6136.1695.110,438.4
+Transactions201220.0289.5309.5-36.0114.978.9388.5-16.9-20.2-18.5-55.7332.8
+201345.3245.8291.1-111.143.9-67.2223.9-12.0-48.8-62.8-123.6100.3
+201458.0370.0427.9-96.03.7-92.4335.60.87.226.234.2369.7
+2014 Q1 15.473.488.8-26.21.7-24.564.3-3.0-6.9-1.3-11.253.1
+         Q2 6.761.768.5
+2.35.88.176.612.4-6.0-5.80.577.1
+         Q3 16.7109.1125.7-27.15.1-22.0103.8-8.18.9
+2.83.5107.3
+         Q4 19.1125.8144.9-45.0-9.0-54.090.9-0.511.330.541.3132.2
+2014 Aug. 7.042.048.9-12.02.4-9.639.3-0.2-4.8
+4.0-1.038.3
+         Sep. 4.925.430.3-12.42.3-10.120.2-6.61.5
+4.3-0.819.4
+         Oct. 1.348.349.6-21.3-4.5-25.823.87.913.4-2.019.343.0
+         Nov. 7.064.271.3-6.25.9-0.470.9-2.12.3
+4.44.675.5
+         Dec. 10.813.324.1-17.4-10.3-27.8-3.7-6.4-4.428.117.413.7
+2015 Jan. (p)16.483.8100.1-33.7-7.4-41.159.0-2.46.610.014.273.2
+Growth rates20122.47.36.4-1.95.92.14.5-11.6-3.9-9.9-6.63.5
+20135.25.85.7-6.22.1-1.72.5-9.5-10.4-37.8-16.21.0
+20146.48.27.9-5.70.2-2.43.60.61.637.55.53.8
+2014 Q1 6.55.55.6-6.51.1-2.42.2-9.9-10.3-27.6-13.51.0
+         Q2 5.65.45.4-4.60.5-1.82.45.1-8.2-25.8-8.81.6
+         Q3 6.06.26.2-3.90.3-1.53.09.7-2.0-25.4-4.42.5
+         Q4 6.48.27.9-5.70.2-2.43.60.61.637.55.53.8
+2014 Aug. 5.85.95.8-4.20.4-1.72.75.8-5.3-25.7-6.72.0
+         Sep. 6.06.26.2-3.90.3-1.53.09.7-2.0-25.4-4.42.5
+         Oct. 5.66.36.2-4.90.2-2.12.79.91.0-21.8-1.12.5
+         Nov. 5.97.16.9-4.50.4-1.83.36.82.6-16.10.23.1
+         Dec. 6.48.27.9-5.70.2-2.43.60.61.637.55.53.8
+2015 Jan. (p)7.79.29.0-6.8-0.1-3.14.0-3.90.144.34.64.1
+Source: ECB.1)Data refer to the changing composition of the euro area.
+5 MONEY
+ AND CREDITECBEconomic BulletinIssue 2 / 2015S 15S 15ECBEconomic BulletinIssue 2 / 20155.2 Deposits in M3 1)(EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)Outstanding amounts          Non-financial corporations 2)    Households 3) FinancialInsuranceOther
+corporationscorporationsgeneral
+TotalOvernightWith anRedeemableReposTotalOvernightWith anRedeemableRepos
+other thanand pensiongover-
+agreedat notice
+agreedat notice
+MFIs andfundsnment
+ 4)maturity ofof up to
+maturity ofof up to
+ICPFs 2)up to 2 years3 months
+up to 2 years3 months
+12345
+678910
+111213
+20121,618.71,112.8406.988.110.85,308.62,360.4977.31,960.310.5811.2209.1306.3
+20131,710.61,198.6400.894.716.55,414.02,542.6875.71,991.24.5801.0192.8298.6
+20141,817.61,332.9368.796.519.55,558.72,754.8810.91,990.12.8881.3217.9326.9
+2014 Q1 1,732.11,223.8398.295.215.05,442.62,583.8864.51,988.65.7779.8205.7313.3
+         Q2 1,751.91,244.6394.797.315.35,481.42,623.1859.81,994.04.5801.1210.3314.6
+         Q3 1,789.51,283.8391.199.215.45,531.92,686.9845.11,995.14.9794.8208.4327.1
+         Q4 1,817.61,332.9368.796.519.55,558.72,754.8810.91,990.12.8881.3217.9326.9
+2014 Aug. 1,778.91,270.2394.898.515.45,513.42,664.4850.01,994.24.9800.9216.7324.2
+         Sep. 1,789.51,283.8391.199.215.45,531.92,686.9845.11,995.14.9794.8208.4327.1
+         Oct. 1,790.51,297.4379.3100.313.55,531.92,700.0836.41,990.84.7827.4211.0321.7
+         Nov. 1,816.11,320.0382.1100.913.15,552.52,730.6827.21,990.14.8839.4211.3324.5
+         Dec. 1,817.61,332.9368.796.519.55,558.72,754.8810.91,990.12.8881.3217.9326.9
+2015 Jan. (p)1,854.31,379.5366.896.611.45,567.62,787.7795.41,980.14.4884.3227.5345.2
+Transactions201272.299.4-33.210.0-4.0222.899.435.6100.2-12.516.515.025.0
+201397.990.4-6.07.75.8108.7183.7-100.131.1-6.0-17.4-14.2-8.5
+201468.690.3-25.51.22.5142.3210.5-65.4-1.2-1.744.55.517.6
+2014 Q1 17.221.6-3.30.4-1.525.539.1-11.8-2.91.1-22.212.313.1
+         Q2 14.818.7-4.30.30.241.440.4-4.97.1-1.220.54.60.9
+         Q3 29.633.6-5.71.9-0.247.361.9-16.01.00.4-8.3-2.312.6
+         Q4 7.016.4-12.1-1.44.027.969.1-32.8-6.4-2.054.4-9.0-9.0
+2014 Aug. 12.712.9-2.10.31.617.521.7-5.71.6-0.1-5.01.15.9
+         Sep. 6.410.8-4.80.7-0.316.621.5-5.70.90.0-8.9-8.53.1
+         Oct. 0.913.4-11.61.0-1.9-0.113.1-8.6-4.3-0.232.42.6-5.5
+         Nov. 25.822.92.80.5-0.420.930.7-9.2-0.70.112.40.32.4
+         Dec. -19.7-19.9-3.3-2.86.37.125.3-14.9-1.4-1.99.6-11.9-6.0
+2015 Jan. (p)24.136.3-3.90.0-8.3-3.625.0-20.9-9.31.6-6.68.817.6
+Growth rates20124.79.8-7.513.2-25.24.44.43.85.4-54.22.17.89.1
+20136.18.1-1.58.854.62.07.8-10.31.6-57.0-2.2-6.9-2.8
+20144.07.5-6.31.214.52.68.3-7.5-0.1-37.25.43.05.9
+2014 Q1 5.78.0-1.35.624.01.67.2-10.00.6-31.0-5.7-4.32.3
+         Q2 6.28.3-0.64.940.52.07.3-8.10.3-30.3-4.41.7-0.3
+         Q3 6.08.6-2.13.447.42.27.3-7.00.1-20.8-0.92.33.3
+         Q4 4.07.5-6.31.214.52.68.3-7.5-0.1-37.25.43.05.9
+2014 Aug. 6.08.4-1.43.433.22.07.0-7.40.2-23.3-3.25.52.6
+         Sep. 6.08.6-2.13.447.42.27.3-7.00.1-20.8-0.92.33.3
+         Oct. 4.98.5-5.52.812.02.16.9-6.80.1-18.50.43.42.2
+         Nov. 5.28.8-5.33.317.42.47.5-7.10.2-14.73.54.01.1
+         Dec. 4.07.5-6.31.214.52.68.3-7.5-0.1-37.25.43.05.9
+2015 Jan. (p)4.79.8-8.01.5-34.72.58.6-9.2-0.2-8.76.10.29.2
+Source: ECB.1)Data refer to the changing composition of the euro area.
+
+2)In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-fi
+nancial corporations sector to the financialcorporations sector. These entities are included in MFI balance sheet statistics with financial corporations other than MFIs and insurance corporations and pension funds (ICPFs).3)Including non-profit institutions serving households.
+
+4)Refers to the general government sector excluding central government.
+ECBEconomic BulletinIssue 2 / 2015S 16S 16ECBEconomic Bulletin
+Issue 2 / 20155.3 Credit to euro area residents 1)(EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)Outstanding amounts   Credit to general government   Credit to other euro area residentsTotalLoansDebtTotal
+   LoansDebtEquity and
+securities   securitiesnon-money
+   TotalTo non-To house-To financialTo insurance
+market fundfinancialholds
+ 4)corporationscorporations
+investmentAdjusted forcorpo-
+other thanand pension
+fund sharesloan salesrations
+ 3)MFIs andfunds
+and securiti-ICPFs 3)sation 2)1234567891011
+1220123,410.81,169.32,241.513,069.510,860.0
+- 4,544.65,242.3984.389.01,435.9773.6
+20133,407.51,096.32,311.212,709.410,546.4
+- 4,354.15,221.4872.698.31,363.9799.1
+20143,602.21,129.92,472.312,582.110,515.6
+- 4,284.25,200.0903.3128.11,291.3775.2
+2014 Q1 3,454.01,113.02,341.012,661.610,531.2
+- 4,337.65,232.2860.6100.71,329.9800.5
+         Q2 3,447.91,101.72,346.212,588.110,464.7
+- 4,306.35,191.0868.599.01,317.3806.1
+         Q3 3,508.91,102.32,406.712,561.610,444.7
+- 4,288.15,194.6858.7103.31,307.0809.8
+         Q4 3,602.21,129.92,472.312,582.110,515.6
+- 4,284.25,200.0903.3128.11,291.3775.2
+2014 Aug. 3,500.51,105.42,395.012,560.710,435.0
+- 4,290.65,191.5855.197.81,314.4811.3
+         Sep. 3,508.91,102.32,406.712,561.610,444.7
+- 4,288.15,194.6858.7103.31,307.0809.8
+         Oct. 3,523.41,097.32,426.212,543.810,431.5
+- 4,277.45,197.3853.9102.91,301.0811.3
+         Nov. 3,538.31,108.82,429.412,533.410,431.0
+- 4,271.45,194.8857.5107.41,291.8810.5
+         Dec. 3,602.21,129.92,472.312,582.110,515.6
+- 4,284.25,200.0903.3128.11,291.3775.2
+2015 Jan. (p)3,648.61,149.82,498.812,654.810,584.7
+- 4,299.65,222.6923.7138.91,294.2775.9
+Transactions2012185.0-4.0189.0-100.6-69.1-13.4-107.626.0
+14.5-2.0-69.938.5
+2013-24.4-73.649.2-304.5-247.4-221.2-132.8-3.5-120.79.6-71.714.6
+201466.316.150.2-87.1-51.417.7-59.4-14.7
+11.211.6-71.235.5
+2014 Q1 13.015.2-2.2-40.3-16.2-13.4-25.97.1
+0.12.5-26.8
+2.7         Q2 -27.6-10.3-17.3-50.1-47.4
+9.2-18.7-35.4
+8.5-1.7-12.4
+9.7         Q3 41.1-1.442.5-19.0-10.6-10.9-18.68.2
+-4.44.2-14.1
+5.7         Q4 39.712.627.122.322.832.93.85.4
+7.06.6-17.917.4
+2014 Aug. 20.5-1.421.9-10.5-3.0-2.4-3.53.2
+1.6-4.3-7.3-0.2
+         Sep. 5.5-3.59.0-5.07.4
+7.8-3.73.8
+1.95.5-10.0-2.5
+         Oct. 18.7-6.325.0-6.1-3.7-1.5-2.54.2
+-5.0-0.4-7.0
+4.6         Nov. 4.611.2-6.6-13.82.610.0-4.0-1.3
+3.44.5-10.7-5.7
+         Dec. 16.47.78.742.123.924.510.32.5
+8.62.5-0.218.4
+2015 Jan. (p)33.013.819.316.222.924.4-4.24.3
+12.310.53.5-10.2
+Growth rates20125.8-0.39.5-0.8-0.6-0.1-2.30.5
+1.5-2.2-4.6
+5.22013-0.7-6.32.2-2.3-2.3-2.0-2.9-0.1-12.210.8-5.0
+1.920141.91.52.1-0.7-0.5
+0.2-1.4-0.3
+1.111.8-5.2
+4.42014 Q1 -0.9-3.10.2-2.5-2.2-2.0-3.1-0.1-10.89.0-6.7
+1.0         Q2 -2.5-1.5-3.0-2.2-1.8-1.1-2.3-0.6
+-5.94.8-7.5
+0.5         Q3 -0.5-0.7-0.4-1.9-1.2-0.6-2.0-0.5
+-2.68.5-8.6
+1.7         Q4 1.91.52.1-0.7-0.5
+0.2-1.4-0.3
+1.111.8-5.2
+4.42014 Aug. -1.2-0.7-1.4-1.9-1.5-0.9-2.2-0.5
+-3.80.3-7.9
+2.6         Sep. -0.5-0.7-0.4-1.9-1.2-0.6-2.0-0.5
+-2.68.5-8.6
+1.7         Oct. -0.2-1.40.4-1.6-1.1-0.5-1.9-0.4
+-2.45.8-7.9
+2.5         Nov. 0.80.60.9-1.4-0.9-0.2-1.7-0.4
+-1.08.0-7.2
+2.5         Dec. 1.91.52.1-0.7-0.5
+0.2-1.4-0.3
+1.111.8-5.2
+4.42015 Jan. (p)2.11.62.4-0.5-0.1
+0.5-1.2-0.2
+3.019.4-5.0
+3.2Source: ECB.1)Data refer to the changing composition of the euro area.
+2)Adjusted for the derecognition of loans on the MFI balance sheet on account of their sale or securitisation.
+3)In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-fi
+nancial corporations sector to the financialcorporations sector. These entities are included in MFI balance sheet statistics with financial corporations other than MFIs and insurance corporations and pension funds (ICPFs).4)Including non-profit institutions serving households.
+ECBEconomic BulletinIssue 2 / 2015S 17S 17ECBEconomic BulletinIssue 2 / 20155.4 MFI loans to euro area non-financial corporations and households 1)(EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)Outstanding amounts   Non-financial corporations 2)    Households 3)   TotalUp to 1 yearOver 1Over 5 years
+   TotalLoans forLoans forOther loans
+and up toconsumptionhouse purchase
+Adjusted for5 yearsAdjusted forloan salesloan salesand securiti-and securiti-sation 4)sation 4)1234567891
+020124,544.6- 1,127.9795.62,621.05,242.3
+- 602.03,823.6816.7
+20134,354.1- 1,065.6740.82,547.85,221.4
+- 573.53,851.5796.4
+20144,284.2- 1,082.7725.82,475.75,200.0
+- 562.23,860.2777.6
+2014 Q1 4,337.6- 1,056.9732.82,548.05,232.2
+- 572.33,864.2795.7
+         Q2 4,306.3- 1,058.1734.12,514.15,191.0
+- 570.33,832.2788.5
+         Q3 4,288.1- 1,056.5726.12,505.45,194.6
+- 567.13,843.7783.8
+         Q4 4,284.2- 1,082.7725.82,475.75,200.0
+- 562.23,860.2777.6
+2014 Aug. 4,290.6- 1,049.4730.12,511.05,191.5
+- 566.83,840.7784.0
+         Sep. 4,288.1- 1,056.5726.12,505.45,194.6
+- 567.13,843.7783.8
+         Oct. 4,277.4- 1,053.1723.92,500.55,197.3
+- 568.83,847.9780.6
+         Nov. 4,271.4- 1,040.1734.12,497.15,194.8
+- 566.83,848.2779.8
+         Dec. 4,284.2- 1,082.7725.82,475.75,200.0
+- 562.23,860.2777.6
+2015 Jan. (p)4,299.6- 1,086.8736.52,476.25,222.6
+- 566.23,876.4780.0
+Transactions2012-107.6-60.36.2-51.4-62.326.0
+34.7-17.748.8-5.12013-132.8-127.5
+-44.5-44.5-43.7-3.5
+14.3-18.127.6-13.12014-59.4-46.5-13.10.9-47.3-14.7
+41.0-5.4-3.1-6.32014 Q1 -25.9-24.8-6.6-6.3-13.07.1
+8.50.07.4-0.3         Q2 -18.7-7.63.36.0-28.1-35.4
+9.3-2.0-33.1-0.3         Q3 -18.6-20.1-3.1-7.0-8.58.2
+9.61.213.1-6.1         Q4 3.86.0-6.78.22.35.4
+13.7-4.69.50.42014 Aug. -3.5-3.1-2.0-1.1-0.33.2
+3.3-1.21.62.8         Sep. -3.7-4.06.2-3.9-6.03.8
+4.31.75.2-3.0         Oct. -2.5-1.8-1.8-0.90.24.2
+5.61.93.9-1.6         Nov. -4.0-2.7-12.610.7-2.1-1.3
+4.7-1.50.00.2         Dec. 10.310.57.6-1.64.22.5
+3.4-4.95.61.92015 Jan. (p)-4.2-3.6-4.44.7-4.54.3
+5.1-0.14.00.4Growth rates2012-2.3-1.30.5-6.0-2.30.5
+0.7-2.81.3-0.62013-2.9-2.8-4.0-5.6-1.7-0.1
+0.3-3.00.7-1.62014-1.4-1.1-1.20.1-1.9-0.3
+0.8-0.9-0.1-0.82014 Q1 -3.1-3.1-5.0-5.0-1.6-0.1
+0.4-1.90.5-1.5         Q2 -2.3-2.1-2.7-3.3-1.9-0.6
+0.5-1.4-0.4-1.0         Q3 -2.0-1.8-1.4-3.4-1.9-0.5
+0.5-1.1-0.2-1.7         Q4 -1.4-1.1-1.20.1-1.9-0.3
+0.8-0.9-0.1-0.82014 Aug. -2.2-2.0-2.2-3.6-1.7-0.5
+0.5-1.6-0.1-1.3         Sep. -2.0-1.8-1.4-3.4-1.9-0.5
+0.5-1.1-0.2-1.7         Oct. -1.9-1.6-1.0-3.4-1.7-0.4
+0.60.1-0.2-1.7         Nov. -1.7-1.4-1.5-1.8-1.7-0.4
+0.70.1-0.3-1.3         Dec. -1.4-1.1-1.20.1-1.9-0.3
+0.8-0.9-0.1-0.82015 Jan. (p)-1.2-0.9-1.01.1-2.0-0.2
+0.9-0.90.0-0.6Source: ECB.1)Data refer to the changing composition of the euro area.
+2)In accordance with the ESA 2010, in December 2014 holding companies of non-financial groups were reclassified from the non-fi
+nancial corporations sector to the financialcorporations sector. These entities are included in MFI balance sheet statistics with financial corporations other than MFIs and insurance corporations and pension funds (ICPFs).3)Including non-profit institutions serving households.
+4)Adjusted for the derecognition of loans on the MFI balance sheet on account of their sale or securitisation.
+ECBEconomic BulletinIssue 2 / 2015S 18S 18ECBEconomic Bulletin
+Issue 2 / 20155.5 Counterparts to M3 other than credit to euro area residents 1)(EUR billions and annual growth rates; seasonally adjusted; outstanding amounts and growth rates at end of period; transactions during period)Outstanding amounts   MFI liabilities   MFI assetsCentral   Longer-term financial liabilities vis-à-vis other euro area residents
+Net external   Othergovernmentassets   holdings 2)TotalDepositsDeposits
+DebtCapital
+   Totalwith an agreedredeemablesecurities withand reserves
+maturity ofat notice ofa maturity of
+ReposReverse repos
+over 2 yearsover 3 monthsover 2 years
+with centralto central
+counter-counter-
+parties 3)parties 3)1234567891
+02012305.47,570.12,395.9106.02,680.82,387.41,029.8146.4260.8201.2
+2013260.27,305.02,373.3
+91.52,506.32,333.91,153.9124.5183.8122.1
+2014263.47,182.12,252.4
+92.02,375.12,462.71,406.7184.7184.5139.8
+2014 Q1 260.97,343.12,355.5
+91.12,472.52,423.91,256.1118.5177.0116.7
+         Q2 270.37,295.12,301.8
+90.12,455.12,448.21,357.6135.3171.3119.0
+         Q3 249.77,332.22,278.6
+92.42,457.02,504.11,419.5179.8163.6121.7
+         Q4 263.47,182.12,252.4
+92.02,375.12,462.71,406.7184.7184.5139.8
+2014 Aug. 266.27,317.92,289.8
+91.92,448.42,487.81,416.5162.1172.0116.9
+         Sep. 249.77,332.22,278.6
+92.42,457.02,504.11,419.5179.8163.6121.7
+         Oct. 254.37,270.22,264.8
+91.82,420.22,493.41,418.0170.6183.1121.1
+         Nov. 256.47,262.52,258.4
+91.02,404.72,508.51,466.6187.3184.4130.8
+         Dec. 263.47,182.12,252.4
+92.02,375.12,462.71,406.7184.7184.5139.8
+2015 Jan. (p)305.07,290.32,237.9
+92.72,403.02,556.81,507.8222.4202.9131.3
+Transactions2012-4.9-115.3-156.3-10.2-106.4157.6
+99.428.89.441.52013-46.0-88.8-18.6-14.3-137.6
+81.6359.2-64.7
+32.243.92014-3.3-169.4-120.5
+1.8-154.2103.5230.7-12.9
+0.717.72014 Q1 0.11.4-11.7
+-0.4-33.146.688.0-6.1-6.7-5.4         Q2 9.4-65.1-54.7
+-1.0-15.86.583.415.7-5.82.3         Q3 -20.9-3.1-28.3
+2.3-28.551.527.833.4-7.72.6         Q4 8.0-102.6-25.8
+1.0-76.7-1.031.5-55.9
+20.918.12014 Aug. -6.11.5-4.51.1-5.510.4-0.924.72.2-4.1         Sep. -16.9-2.1-13.7
+0.6-12.423.4-6.86.8-8.44.7         Oct. 2.3-32.4-12.4
+-0.6-29.610.213.9-13.5
+19.5-0.5         Nov. 2.1-19.6
+-6.4-0.8-13.61.347.819.41.39.6         Dec. 3.6-50.7
+-7.02.4-33.5-12.5-30.1-61.8
+0.19.02015 Jan. (p)39.4-26.5-19.5
+-0.3-12.55.85.831.118.4-8.5Growth rates2012-1.5-1.5-6.1-8.8-3.87.0- - 2.5
+26.12013-15.1-1.2-0.8-13.5
+-5.13.5- - 10.3
+23.52014-1.3-2.3-5.12.0-6.14.3- - 0.4
+14.52014 Q1 -12.1-1.0-1.7-9.6-4.63.9- - -12.9
+-0.9         Q2 -9.0-1.6-3.9-6.8-3.22.6- - -23.8
+-4.5         Q3 -11.5-1.1-4.7-1.2-2.74.2- - -17.5
+-3.2         Q4 -1.3-2.3-5.12.0-6.14.3- - 0.4
+14.52014 Aug. -6.0-1.1-4.2-2.9-2.33.2- - -11.4
+-0.9         Sep. -11.5-1.1-4.7-1.2-2.74.2- - -17.5
+-3.2         Oct. -4.6-1.7-5.4-0.9-4.44.7- - -3.1
+2.1         Nov. -1.7-1.9-5.5-1.1-4.84.8- - -4.4
+-6.6         Dec. -1.3-2.3-5.12.0-6.14.3- - 0.4
+14.52015 Jan. (p)23.4-2.6-5.72.4-5.93.8- - 22.1
+26.4Source: ECB.1)Data refer to the changing composition of the euro area.
+2)Comprises central government holdings of deposits with the MFI sector and of securities issued by the MFI sector.
+3)Not adjusted for seasonal effects.
+ECBEconomic BulletinIssue 2 / 2015S 196 FISCAL DEVELOPMENTSS 19ECBEconomic BulletinIssue 2 / 20156.1 Deficit/surplus, revenue and expenditure  1)2)(as a percentage of GDP; flows during one-year period)Deficit (-)/   Revenue   Expendituresurplus (+)      Total   Current revenueCapitalTotal
+   Current expenditureCapitalrevenueexpenditureDirectIndirectNet social
+CompensationIntermediateInterestSocial
+taxestaxescontributions
+of employeesconsumption
+payments 3)12345
+6789
+101112
+13142010-5.844.344.011.412.6
+15.10.250.144.910.7
+5.42.723.45.2
+2011-3.844.844.511.712.8
+15.10.248.644.310.4
+5.33.023.14.3
+2012-3.345.745.512.213.0
+15.30.249.144.610.3
+5.33.023.44.5
+2013-2.546.446.112.513.1
+15.50.348.944.910.4
+5.32.823.84.1
+2014 Q2 -2.646.646.112.513.0
+15.50.549.245.410.3
+5.32.723.03.8
+         Q3 -2.546.646.112.513.1
+15.50.449.145.310.3
+5.32.723.13.7
+6.2 Government debt-to-GDP ratio 1)(as a percentage of GDP; outstanding amounts at end of period)               Total   Financial instrument
+   Holder   Original maturity   Residual maturity
+   CurrencyCurrencyLoansDebt   Resident creditorsNon-residentUp toOverUp toOver 1OverEuro orOther
+andsecuritiescreditors1 year1 year1 yearand up to5 yearsparticipatingcurrencies
+depositsMFIs5 yearscurrencies123
+456
+789101112
+1314
+201083.62.415.565.640.523.943.112.770.920.728.634.3
+82.31.3
+201185.52.415.567.542.424.143.112.273.220.329.635.5
+83.71.8
+201288.72.517.468.845.126.043.611.577.319.531.437.8
+86.62.2
+201390.72.516.971.345.726.045.010.480.319.332.039.4
+88.72.0
+2014 Q2 92.72.616.673.5. . . . . . . . . . 
+         Q3 92.12.616.573.0. . . . . . . . . . 
+6.3 Annual change in the government debt-to-GDP ratio and underlying factors 1)(as a percentage of GDP; flows during one-year period)Change inPrimary
+   Deficit-debt adjustment 5) Interest-Memo item:
+debt-to-deficit (+)/
+growthBorrowing
+GDP ratio 4)surplus (-)Total   Transactions in main financial assetsRevaluationOther
+differentialreguirement
+effectsTotalCurrencyLoansDebtEquity andand other
+andsecuritiesinvestmentchanges in
+depositsfund sharesvolume
+1234
+56
+78910
+111220105.33.41.31.70.00.50.9
+0.2-0.1-0.3
+0.67.520111.91.10.0-0.30.2-0.2-0.2
+-0.10.20.1
+0.83.920123.30.60.11.20.30.4-0.1
+0.5-1.30.3
+2.55.120132.00.1-0.2-0.5-0.4-0.4-0.1
+0.4-0.10.4
+2.12.82014 Q2 1.0-0.1-0.3-0.10.00.0-0.2
+0.10.1-0.2
+1.32.5         Q3 1.0-0.2-0.1-0.10.00.0-0.2
+0.2-0.20.2
+1.22.7Sources: ECB for annual data; Eurostat for quarterly data.1)Quarterly ratios (as a percentage of GDP) calculated using a four-quarter cumulated sum for flow data and GDP, and at the end
+-of-quarter value for outstanding amounts.
+2)EU budget transactions are included and consolidated in annual data.
+
+3)Current transfers to non-profit institutions serving households are included in annual data.
+4)Calculated as the difference between the government debt-to-GDP ratios in the last and an earlier period, i.e. the previous y
+ear for annual data and the same quarter a year earlier  for quarterly data.
+
+5)Quarterly data include intergovernmental lending within the context of the financial crisis.
+ECBEconomic BulletinIssue 2 / 2015S 20S 20ECBEconomic Bulletin
+Issue 2 / 20156.4 Government debt securities 1)(debt service as a percentage of GDP; average residual maturity in years; average nominal yields in percentages per annum)   Debt service  due within 1 year 2) Average   Average nominal yields 4)      residual      Total   Principal
+ 5)    Interestmaturity 3)   Outstanding amounts   TransactionsMaturitiesMaturitiesTotalFloatingZero   Fixed rate
+IssuanceRedemption
+of up to 3of up to 3ratecoupon
+monthsmonthsMaturitiesof up to 1year12
+34
+5678910
+111213201316.514.4
+5.02.1
+0.56.33.51.71.33.7
+2.81.31.8201416.214.1
+5.22.1
+0.56.43.11.40.43.5
+2.80.81.62014 Q2 16.914.7
+5.52.1
+0.56.43.31.60.63.6
+2.81.11.6         Q3 17.615.5
+5.82.1
+0.56.43.21.50.53.5
+2.80.91.62014 Aug. 17.915.8
+6.12.1
+0.56.33.21.50.53.6
+2.81.01.7         Sep. 17.615.5
+5.82.1
+0.56.33.21.50.53.5
+2.80.91.6         Oct. 17.315.2
+5.72.1
+0.56.43.11.50.43.5
+2.80.91.7         Nov. 16.314.2
+5.02.1
+0.56.43.11.50.43.5
+2.80.81.7         Dec. 16.214.1
+5.22.1
+0.56.43.11.40.43.5
+2.80.81.62015 Jan. 15.713.7
+5.12.0
+0.56.53.01.40.43.5
+2.80.81.76.5 Fiscal developments in euro area countries 6)(as a percentage of GDP; flows during one-year period and outstanding amounts at end of period)Government deficit (-)/surplus (+)BelgiumGermanyEstoniaIreland
+GreeceSpainFranceItalyCyprus
+123456789
+2010-4.0-4.10.2-32.4
+-11.1-9.4-6.8-4.2-4.82011-3.9-0.91.0-12.6
+-10.1-9.4-5.1-3.5-5.82012-4.10.1-0.3-8.0
+-8.6-10.3-4.9-3.0-5.82013-2.90.1-0.5-5.7
+-12.2-6.8-4.1-2.8-4.92014 Q2 -3.20.5-0.3-5.3
+-2.9-6.3-4.2-3.0-4.1         Q3 -3.00.7-0.2-4.7
+-2.2-5.8-4.4-3.1-2.3Government debt201099.680.36.587.4
+146.060.181.5115.356.52011102.177.66.0111.1
+171.369.285.0116.466.02012104.079.09.7121.7
+156.984.489.2122.279.52013104.576.910.1123.3
+174.992.192.2127.9102.22014 Q2 108.875.310.5117.0
+177.596.495.2133.8109.8         Q3 108.274.810.5114.8
+176.096.895.3131.8104.7Government deficit (-)/surplus (+)LatviaLithuaniaLuxembourgMaltaNetherlandsAustriaPortugalSloveniaSlovakiaFinland
+101112131415161718192010-8.2-6.9-0.6-3.3-5.0-4.5-11.2-5.7-7.5-2.62011-3.4-9.00.3-2.6-4.3-2.6-7.4-6.2-4.1-1.02012-0.8-3.20.1-3.7-4.0-2.3-5.5-3.7-4.2-2.12013-0.9-2.60.6-2.7-2.3-1.5-4.9-14.6-2.6-2.42014 Q2 0.1-1.10.5-3.3-3.0-1.5-4.8-12.7-2.8-2.7         Q3 0.0-0.60.7-2.5-2.7-1.5-4.3-13.0-3.1-2.7Government debt201046.836.319.667.659.082.4
+96.237.941.147.1201142.737.318.569.861.382.1111.1
+46.243.548.5201240.939.921.467.966.581.7124.8
+53.452.153.0201338.239.023.669.868.681.2128.0
+70.454.656.02014 Q2 41.038.723.274.669.682.3129.5
+78.355.658.9         Q3 40.438.322.971.969.080.7131.4
+78.155.458.1Sources: ECB for government debt securities; Eurostat for government deficit/surplus and government debt.1)Data on government debt securities are recorded at face value and not consolidated within the general government sector.
+2)Flows of principal and interest during the debt service period.
+3)Residual maturity at the end of the period.
+4)Outstanding amounts at the end of the period; transactions as 12-month average.
+5)Principal amounts do not cover short-term securities issued and redeemed within the next 12 months.
+6)Quarterly ratios (as a percentage of GDP) calculated using a four-quarter cumulated sum for flow data and GDP, and at the end
+-of-quarter value for outstanding amounts.
